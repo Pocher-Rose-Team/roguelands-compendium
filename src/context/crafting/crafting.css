@@ -1,0 +1,20 @@
+.emblem-recipe {
+    display: flex;
+    justify-content: center;
+}
+.crafting-arrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+}
+.crafting-arrow img {
+    width: 32px;
+}
+
+.crafting-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 20px;
+}

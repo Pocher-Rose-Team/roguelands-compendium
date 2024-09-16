@@ -1,4 +1,4 @@
-import RogueButton from "../components/rogue-button";
+import RogueButton from "../shared/components/rogue-button";
 import "./compendium-menu.css";
 import { Link } from "react-router-dom";
 

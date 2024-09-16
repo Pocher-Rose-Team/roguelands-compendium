@@ -13,7 +13,9 @@ export default function RootLayout() {
     <div>
       <ThemeProvider theme={theme}>
         <CompendiumMenu />
-        <Outlet />
+        <div className="content-wrapper">
+          <Outlet />
+        </div>
       </ThemeProvider>
     </div>
   );
