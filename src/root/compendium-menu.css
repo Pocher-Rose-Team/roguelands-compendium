@@ -1,0 +1,20 @@
+.compendium-menu {
+    position: relative;
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-wrapper {
+    display: flex;
+    gap: 20px;
+}
+
+.logo {
+    position: absolute;
+    width: 32px;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
