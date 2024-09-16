@@ -1,0 +1,6694 @@
+[
+    {
+        "name": "4thagearmor",
+        "representation": "4thagearmor",
+        "path": "public/image/items/armor/4thagearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "akuarmor",
+        "representation": "akuarmor",
+        "path": "public/image/items/armor/akuarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "apocalypseArmor",
+        "representation": "apocalypseArmor",
+        "path": "public/image/items/armor/apocalypseArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "axelarksarmor",
+        "representation": "axelarksarmor",
+        "path": "public/image/items/armor/axelarksarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "azazelsarmor",
+        "representation": "azazelsarmor",
+        "path": "public/image/items/armor/azazelsarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "baalfogssuit",
+        "representation": "baalfogssuit",
+        "path": "public/image/items/armor/baalfogssuit.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bolgonarmor",
+        "representation": "bolgonarmor",
+        "path": "public/image/items/armor/bolgonarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "broccoliArmor",
+        "representation": "broccoliArmor",
+        "path": "public/image/items/armor/broccoliArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bruiserarmor",
+        "representation": "bruiserarmor",
+        "path": "public/image/items/armor/bruiserarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "brutearmor",
+        "representation": "brutearmor",
+        "path": "public/image/items/armor/brutearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "catastrophiaArmor",
+        "representation": "catastrophiaArmor",
+        "path": "public/image/items/armor/catastrophiaArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "championarmor",
+        "representation": "championarmor",
+        "path": "public/image/items/armor/championarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "chaosarmor",
+        "representation": "chaosarmor",
+        "path": "public/image/items/armor/chaosarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "darkknightarmor",
+        "representation": "darkknightarmor",
+        "path": "public/image/items/armor/darkknightarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "deathgodarmor",
+        "representation": "deathgodarmor",
+        "path": "public/image/items/armor/deathgodarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "destructivearmor",
+        "representation": "destructivearmor",
+        "path": "public/image/items/armor/destructivearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "deusarmor",
+        "representation": "deusarmor",
+        "path": "public/image/items/armor/deusarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dredgerArmor",
+        "representation": "dredgerArmor",
+        "path": "public/image/items/armor/dredgerArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "drifterarmor",
+        "representation": "drifterarmor",
+        "path": "public/image/items/armor/drifterarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "duneclotharmor",
+        "representation": "duneclotharmor",
+        "path": "public/image/items/armor/duneclotharmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "duneriderarmor",
+        "representation": "duneriderarmor",
+        "path": "public/image/items/armor/duneriderarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "elitearmor",
+        "representation": "elitearmor",
+        "path": "public/image/items/armor/elitearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "exodusArmor",
+        "representation": "exodusArmor",
+        "path": "public/image/items/armor/exodusArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "fellbugArmor",
+        "representation": "fellbugArmor",
+        "path": "public/image/items/armor/fellbugArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "firegodarmor",
+        "representation": "firegodarmor",
+        "path": "public/image/items/armor/firegodarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "forcearmor",
+        "representation": "forcearmor",
+        "path": "public/image/items/armor/forcearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ghostarmor",
+        "representation": "ghostarmor",
+        "path": "public/image/items/armor/ghostarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "glaedriaArmor",
+        "representation": "glaedriaArmor",
+        "path": "public/image/items/armor/glaedriaArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "helloworldarmor",
+        "representation": "helloworldarmor",
+        "path": "public/image/items/armor/helloworldarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "heroicarmor",
+        "representation": "heroicarmor",
+        "path": "public/image/items/armor/heroicarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "infernoarmor",
+        "representation": "infernoarmor",
+        "path": "public/image/items/armor/infernoarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ironcladArmor",
+        "representation": "ironcladArmor",
+        "path": "public/image/items/armor/ironcladArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ironforgearmor",
+        "representation": "ironforgearmor",
+        "path": "public/image/items/armor/ironforgearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "isaacarmor",
+        "representation": "isaacarmor",
+        "path": "public/image/items/armor/isaacarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ithacasarmor",
+        "representation": "ithacasarmor",
+        "path": "public/image/items/armor/ithacasarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "krabshellarmor",
+        "representation": "krabshellarmor",
+        "path": "public/image/items/armor/krabshellarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "krakenarmor",
+        "representation": "krakenarmor",
+        "path": "public/image/items/armor/krakenarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "leviathanarmor",
+        "representation": "leviathanarmor",
+        "path": "public/image/items/armor/leviathanarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "maelstormarmor",
+        "representation": "maelstormarmor",
+        "path": "public/image/items/armor/maelstormarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "mightShroomArmor",
+        "representation": "mightShroomArmor",
+        "path": "public/image/items/armor/mightShroomArmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "mykonogrearmor",
+        "representation": "mykonogrearmor",
+        "path": "public/image/items/armor/mykonogrearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "nautilusarmor",
+        "representation": "nautilusarmor",
+        "path": "public/image/items/armor/nautilusarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "oniarmor",
+        "representation": "oniarmor",
+        "path": "public/image/items/armor/oniarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "onslaughtarmor",
+        "representation": "onslaughtarmor",
+        "path": "public/image/items/armor/onslaughtarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "plasmaarmor",
+        "representation": "plasmaarmor",
+        "path": "public/image/items/armor/plasmaarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "pyroclasmarmor",
+        "representation": "pyroclasmarmor",
+        "path": "public/image/items/armor/pyroclasmarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "queensarmor",
+        "representation": "queensarmor",
+        "path": "public/image/items/armor/queensarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "rapturearmor",
+        "representation": "rapturearmor",
+        "path": "public/image/items/armor/rapturearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "reconarmor",
+        "representation": "reconarmor",
+        "path": "public/image/items/armor/reconarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "recruitarmor",
+        "representation": "recruitarmor",
+        "path": "public/image/items/armor/recruitarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ruinarmor",
+        "representation": "ruinarmor",
+        "path": "public/image/items/armor/ruinarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "shatterspellarmor",
+        "representation": "shatterspellarmor",
+        "path": "public/image/items/armor/shatterspellarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "siegearmor",
+        "representation": "siegearmor",
+        "path": "public/image/items/armor/siegearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "titanarmor",
+        "representation": "titanarmor",
+        "path": "public/image/items/armor/titanarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "towermagearmor",
+        "representation": "towermagearmor",
+        "path": "public/image/items/armor/towermagearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ultimaarmor",
+        "representation": "ultimaarmor",
+        "path": "public/image/items/armor/ultimaarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ultromarmor",
+        "representation": "ultromarmor",
+        "path": "public/image/items/armor/ultromarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vigilantearmor",
+        "representation": "vigilantearmor",
+        "path": "public/image/items/armor/vigilantearmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vorpalarmor",
+        "representation": "vorpalarmor",
+        "path": "public/image/items/armor/vorpalarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "voyagerarmor",
+        "representation": "voyagerarmor",
+        "path": "public/image/items/armor/voyagerarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "whitewhorlarmor",
+        "representation": "whitewhorlarmor",
+        "path": "public/image/items/armor/whitewhorlarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "wraitharmor",
+        "representation": "wraitharmor",
+        "path": "public/image/items/armor/wraitharmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "yojimboarmor",
+        "representation": "yojimboarmor",
+        "path": "public/image/items/armor/yojimboarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "yoshimitsuarmor",
+        "representation": "yoshimitsuarmor",
+        "path": "public/image/items/armor/yoshimitsuarmor.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aidbot56",
+        "representation": "aidbot56",
+        "path": "public/image/items/droids/aidbot56.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bat17",
+        "representation": "bat17",
+        "path": "public/image/items/droids/bat17.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bogbot67",
+        "representation": "bogbot67",
+        "path": "public/image/items/droids/bogbot67.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bttrfly8",
+        "representation": "bttrfly8",
+        "path": "public/image/items/droids/bttrfly8.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bulb88",
+        "representation": "bulb88",
+        "path": "public/image/items/droids/bulb88.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "diamnd66",
+        "representation": "diamnd66",
+        "path": "public/image/items/droids/diamnd66.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dragon67",
+        "representation": "dragon67",
+        "path": "public/image/items/droids/dragon67.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "farmhand78",
+        "representation": "farmhand78",
+        "path": "public/image/items/droids/farmhand78.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flwr08",
+        "representation": "flwr08",
+        "path": "public/image/items/droids/flwr08.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gold15",
+        "representation": "gold15",
+        "path": "public/image/items/droids/gold15.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "guardian07",
+        "representation": "guardian07",
+        "path": "public/image/items/droids/guardian07.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "hellbot57",
+        "representation": "hellbot57",
+        "path": "public/image/items/droids/hellbot57.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "helper55",
+        "representation": "helper55",
+        "path": "public/image/items/droids/helper55.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ibot58",
+        "representation": "ibot58",
+        "path": "public/image/items/droids/ibot58.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "megazord36",
+        "representation": "megazord36",
+        "path": "public/image/items/droids/megazord36.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "monolth25",
+        "representation": "monolth25",
+        "path": "public/image/items/droids/monolth25.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "mrgrgrr05",
+        "representation": "mrgrgrr05",
+        "path": "public/image/items/droids/mrgrgrr05.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "obsidian64",
+        "representation": "obsidian64",
+        "path": "public/image/items/droids/obsidian64.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "overseer06",
+        "representation": "overseer06",
+        "path": "public/image/items/droids/overseer06.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "prism88",
+        "representation": "prism88",
+        "path": "public/image/items/droids/prism88.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "rck22",
+        "representation": "rck22",
+        "path": "public/image/items/droids/rck22.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "solar05",
+        "representation": "solar05",
+        "path": "public/image/items/droids/solar05.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "steel65",
+        "representation": "steel65",
+        "path": "public/image/items/droids/steel65.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "whitemag09",
+        "representation": "whitemag09",
+        "path": "public/image/items/droids/whitemag09.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "wyvrn77",
+        "representation": "wyvrn77",
+        "path": "public/image/items/droids/wyvrn77.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetherbulb",
+        "representation": "aetherbulb",
+        "path": "public/image/items/drops/aetherbulb.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "beastheart",
+        "representation": "beastheart",
+        "path": "public/image/items/drops/beastheart.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "chaosleaf",
+        "representation": "chaosleaf",
+        "path": "public/image/items/drops/chaosleaf.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "chitinfragment",
+        "representation": "chitinfragment",
+        "path": "public/image/items/drops/chitinfragment.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "creatureeyeball",
+        "representation": "creatureeyeball",
+        "path": "public/image/items/drops/creatureeyeball.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dungbeetle",
+        "representation": "dungbeetle",
+        "path": "public/image/items/drops/dungbeetle.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ectoplasm",
+        "representation": "ectoplasm",
+        "path": "public/image/items/drops/ectoplasm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "existencegem",
+        "representation": "existencegem",
+        "path": "public/image/items/drops/existencegem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flamethyst",
+        "representation": "flamethyst",
+        "path": "public/image/items/drops/flamethyst.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flutterfly",
+        "representation": "flutterfly",
+        "path": "public/image/items/drops/flutterfly.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "galacticite",
+        "representation": "galacticite",
+        "path": "public/image/items/drops/galacticite.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ghastbug",
+        "representation": "ghastbug",
+        "path": "public/image/items/drops/ghastbug.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "glowfly",
+        "representation": "glowfly",
+        "path": "public/image/items/drops/glowfly.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "glowshroom",
+        "representation": "glowshroom",
+        "path": "public/image/items/drops/glowshroom.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "monsterclaw",
+        "representation": "monsterclaw",
+        "path": "public/image/items/drops/monsterclaw.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "orichalcum",
+        "representation": "orichalcum",
+        "path": "public/image/items/drops/orichalcum.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "planetstone",
+        "representation": "planetstone",
+        "path": "public/image/items/drops/planetstone.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "plasmamoth",
+        "representation": "plasmamoth",
+        "path": "public/image/items/drops/plasmamoth.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "shinyscale",
+        "representation": "shinyscale",
+        "path": "public/image/items/drops/shinyscale.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "spicyseed",
+        "representation": "spicyseed",
+        "path": "public/image/items/drops/spicyseed.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "starfruit",
+        "representation": "starfruit",
+        "path": "public/image/items/drops/starfruit.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "tastyherb",
+        "representation": "tastyherb",
+        "path": "public/image/items/drops/tastyherb.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thunderworm",
+        "representation": "thunderworm",
+        "path": "public/image/items/drops/thunderworm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "zephyr",
+        "representation": "zephyr",
+        "path": "public/image/items/drops/zephyr.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetheremblem",
+        "representation": "aetheremblem",
+        "path": "public/image/items/emblems/aetheremblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "beastemblem",
+        "representation": "beastemblem",
+        "path": "public/image/items/emblems/beastemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "beetleemblem",
+        "representation": "beetleemblem",
+        "path": "public/image/items/emblems/beetleemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "chaosemblem",
+        "representation": "chaosemblem",
+        "path": "public/image/items/emblems/chaosemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "clawemblem",
+        "representation": "clawemblem",
+        "path": "public/image/items/emblems/clawemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ectoplasmemblem",
+        "representation": "ectoplasmemblem",
+        "path": "public/image/items/emblems/ectoplasmemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "existenceemblem",
+        "representation": "existenceemblem",
+        "path": "public/image/items/emblems/existenceemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "eyeballemblem",
+        "representation": "eyeballemblem",
+        "path": "public/image/items/emblems/eyeballemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flameemblem",
+        "representation": "flameemblem",
+        "path": "public/image/items/emblems/flameemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flutterflyemblem",
+        "representation": "flutterflyemblem",
+        "path": "public/image/items/emblems/flutterflyemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "fragmentemblem",
+        "representation": "fragmentemblem",
+        "path": "public/image/items/emblems/fragmentemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "galacticiteemblem",
+        "representation": "galacticiteemblem",
+        "path": "public/image/items/emblems/galacticiteemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ghastemblem",
+        "representation": "ghastemblem",
+        "path": "public/image/items/emblems/ghastemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "glowflyemblem",
+        "representation": "glowflyemblem",
+        "path": "public/image/items/emblems/glowflyemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "herbemblem",
+        "representation": "herbemblem",
+        "path": "public/image/items/emblems/herbemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "orichalcumemblem",
+        "representation": "orichalcumemblem",
+        "path": "public/image/items/emblems/orichalcumemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "planetemblem",
+        "representation": "planetemblem",
+        "path": "public/image/items/emblems/planetemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "plasmaemblem",
+        "representation": "plasmaemblem",
+        "path": "public/image/items/emblems/plasmaemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "seedemblem",
+        "representation": "seedemblem",
+        "path": "public/image/items/emblems/seedemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "shinyemblem",
+        "representation": "shinyemblem",
+        "path": "public/image/items/emblems/shinyemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "shroomemblem",
+        "representation": "shroomemblem",
+        "path": "public/image/items/emblems/shroomemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "staremblem",
+        "representation": "staremblem",
+        "path": "public/image/items/emblems/staremblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thunderwormemblem",
+        "representation": "thunderwormemblem",
+        "path": "public/image/items/emblems/thunderwormemblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "zephyremblem",
+        "representation": "zephyremblem",
+        "path": "public/image/items/emblems/zephyremblem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bonusDEX",
+        "representation": "bonusDEX",
+        "path": "public/image/items/gearmods/bonusDEX.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bonusFTH",
+        "representation": "bonusFTH",
+        "path": "public/image/items/gearmods/bonusFTH.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bonusMAG",
+        "representation": "bonusMAG",
+        "path": "public/image/items/gearmods/bonusMAG.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bonusSTR",
+        "representation": "bonusSTR",
+        "path": "public/image/items/gearmods/bonusSTR.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bonusTEC",
+        "representation": "bonusTEC",
+        "path": "public/image/items/gearmods/bonusTEC.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bonusVIT",
+        "representation": "bonusVIT",
+        "path": "public/image/items/gearmods/bonusVIT.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bugharvest",
+        "representation": "bugharvest",
+        "path": "public/image/items/gearmods/bugharvest.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "creditboost",
+        "representation": "creditboost",
+        "path": "public/image/items/gearmods/creditboost.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "critdmg",
+        "representation": "critdmg",
+        "path": "public/image/items/gearmods/critdmg.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "critrate",
+        "representation": "critrate",
+        "path": "public/image/items/gearmods/critrate.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dashspeed",
+        "representation": "dashspeed",
+        "path": "public/image/items/gearmods/dashspeed.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "expboost",
+        "representation": "expboost",
+        "path": "public/image/items/gearmods/expboost.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "healthregen",
+        "representation": "healthregen",
+        "path": "public/image/items/gearmods/healthregen.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "jumpheight",
+        "representation": "jumpheight",
+        "path": "public/image/items/gearmods/jumpheight.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "manaregen",
+        "representation": "manaregen",
+        "path": "public/image/items/gearmods/manaregen.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "monsterdrops",
+        "representation": "monsterdrops",
+        "path": "public/image/items/gearmods/monsterdrops.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "movespeed",
+        "representation": "movespeed",
+        "path": "public/image/items/gearmods/movespeed.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "oreharvest",
+        "representation": "oreharvest",
+        "path": "public/image/items/gearmods/oreharvest.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "plantharvest",
+        "representation": "plantharvest",
+        "path": "public/image/items/gearmods/plantharvest.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "projectilerange",
+        "representation": "projectilerange",
+        "path": "public/image/items/gearmods/projectilerange.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "resistfrost",
+        "representation": "resistfrost",
+        "path": "public/image/items/gearmods/resistfrost.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "resistheat",
+        "representation": "resistheat",
+        "path": "public/image/items/gearmods/resistheat.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "resistpoison",
+        "representation": "resistpoison",
+        "path": "public/image/items/gearmods/resistpoison.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "staminaregen",
+        "representation": "staminaregen",
+        "path": "public/image/items/gearmods/staminaregen.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thageDEXHelm",
+        "representation": "4thageDEXHelm",
+        "path": "public/image/items/helmets/4thageDEXHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thageMAGHelm",
+        "representation": "4thageMAGHelm",
+        "path": "public/image/items/helmets/4thageMAGHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thageSTRHelm",
+        "representation": "4thageSTRHelm",
+        "path": "public/image/items/helmets/4thageSTRHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetherhelm",
+        "representation": "aetherhelm",
+        "path": "public/image/items/helmets/aetherhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "akuhelm",
+        "representation": "akuhelm",
+        "path": "public/image/items/helmets/akuhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "apocalypehelm",
+        "representation": "apocalypehelm",
+        "path": "public/image/items/helmets/apocalypehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "axelarkshelm",
+        "representation": "axelarkshelm",
+        "path": "public/image/items/helmets/axelarkshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "azazelshelm",
+        "representation": "azazelshelm",
+        "path": "public/image/items/helmets/azazelshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "baalfogseye",
+        "representation": "baalfogseye",
+        "path": "public/image/items/helmets/baalfogseye.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bolgonshelm",
+        "representation": "bolgonshelm",
+        "path": "public/image/items/helmets/bolgonshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "broccolihelm",
+        "representation": "broccolihelm",
+        "path": "public/image/items/helmets/broccolihelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bruiserhelm",
+        "representation": "bruiserhelm",
+        "path": "public/image/items/helmets/bruiserhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bruteHelm",
+        "representation": "bruteHelm",
+        "path": "public/image/items/helmets/bruteHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "captainshat",
+        "representation": "captainshat",
+        "path": "public/image/items/helmets/captainshat.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "catastrophiahelm",
+        "representation": "catastrophiahelm",
+        "path": "public/image/items/helmets/catastrophiahelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "championhelm",
+        "representation": "championhelm",
+        "path": "public/image/items/helmets/championhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "chaoshelmet",
+        "representation": "chaoshelmet",
+        "path": "public/image/items/helmets/chaoshelmet.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "darkknighthelm",
+        "representation": "darkknighthelm",
+        "path": "public/image/items/helmets/darkknighthelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "deathgodhelm",
+        "representation": "deathgodhelm",
+        "path": "public/image/items/helmets/deathgodhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "desctructionhelm",
+        "representation": "desctructionhelm",
+        "path": "public/image/items/helmets/desctructionhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "deushelm",
+        "representation": "deushelm",
+        "path": "public/image/items/helmets/deushelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dredgerhelm",
+        "representation": "dredgerhelm",
+        "path": "public/image/items/helmets/dredgerhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "drifterhelmet",
+        "representation": "drifterhelmet",
+        "path": "public/image/items/helmets/drifterhelmet.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "duneclothhelm",
+        "representation": "duneclothhelm",
+        "path": "public/image/items/helmets/duneclothhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "duneriderHood",
+        "representation": "duneriderHood",
+        "path": "public/image/items/helmets/duneriderHood.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "elitehelm",
+        "representation": "elitehelm",
+        "path": "public/image/items/helmets/elitehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "exodushelm",
+        "representation": "exodushelm",
+        "path": "public/image/items/helmets/exodushelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "fellbughelm",
+        "representation": "fellbughelm",
+        "path": "public/image/items/helmets/fellbughelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "firegodhelm",
+        "representation": "firegodhelm",
+        "path": "public/image/items/helmets/firegodhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "forcehelm",
+        "representation": "forcehelm",
+        "path": "public/image/items/helmets/forcehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ghostHelm",
+        "representation": "ghostHelm",
+        "path": "public/image/items/helmets/ghostHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gleadriahelm",
+        "representation": "gleadriahelm",
+        "path": "public/image/items/helmets/gleadriahelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gromwellshelm",
+        "representation": "gromwellshelm",
+        "path": "public/image/items/helmets/gromwellshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "helloworldhelm",
+        "representation": "helloworldhelm",
+        "path": "public/image/items/helmets/helloworldhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "heroichelm",
+        "representation": "heroichelm",
+        "path": "public/image/items/helmets/heroichelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "infernohelm",
+        "representation": "infernohelm",
+        "path": "public/image/items/helmets/infernohelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ironcladhelm",
+        "representation": "ironcladhelm",
+        "path": "public/image/items/helmets/ironcladhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ironforgehelm",
+        "representation": "ironforgehelm",
+        "path": "public/image/items/helmets/ironforgehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "isaacHelm",
+        "representation": "isaacHelm",
+        "path": "public/image/items/helmets/isaacHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ithicashelm",
+        "representation": "ithicashelm",
+        "path": "public/image/items/helmets/ithicashelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "kawaiilemon",
+        "representation": "kawaiilemon",
+        "path": "public/image/items/helmets/kawaiilemon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "krabshellhelm",
+        "representation": "krabshellhelm",
+        "path": "public/image/items/helmets/krabshellhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "krakenhelm",
+        "representation": "krakenhelm",
+        "path": "public/image/items/helmets/krakenhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "leviathanhelm",
+        "representation": "leviathanhelm",
+        "path": "public/image/items/helmets/leviathanhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "maelstormhelm",
+        "representation": "maelstormhelm",
+        "path": "public/image/items/helmets/maelstormhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "mightshroomhelm",
+        "representation": "mightshroomhelm",
+        "path": "public/image/items/helmets/mightshroomhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "mykonogorehelm",
+        "representation": "mykonogorehelm",
+        "path": "public/image/items/helmets/mykonogorehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "nautilusHelm",
+        "representation": "nautilusHelm",
+        "path": "public/image/items/helmets/nautilusHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "nolicbeats",
+        "representation": "nolicbeats",
+        "path": "public/image/items/helmets/nolicbeats.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "oldchapshat",
+        "representation": "oldchapshat",
+        "path": "public/image/items/helmets/oldchapshat.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "onihelm",
+        "representation": "onihelm",
+        "path": "public/image/items/helmets/onihelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "onslaughthelm",
+        "representation": "onslaughthelm",
+        "path": "public/image/items/helmets/onslaughthelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "overworldhelm",
+        "representation": "overworldhelm",
+        "path": "public/image/items/helmets/overworldhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "percevalshelm",
+        "representation": "percevalshelm",
+        "path": "public/image/items/helmets/percevalshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "plasmahelm",
+        "representation": "plasmahelm",
+        "path": "public/image/items/helmets/plasmahelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "pyroclasmhelm",
+        "representation": "pyroclasmhelm",
+        "path": "public/image/items/helmets/pyroclasmhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "queenshelm",
+        "representation": "queenshelm",
+        "path": "public/image/items/helmets/queenshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "rapturehelm",
+        "representation": "rapturehelm",
+        "path": "public/image/items/helmets/rapturehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "reconhelm",
+        "representation": "reconhelm",
+        "path": "public/image/items/helmets/reconhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "recruitHelmet",
+        "representation": "recruitHelmet",
+        "path": "public/image/items/helmets/recruitHelmet.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ringaboltshelm",
+        "representation": "ringaboltshelm",
+        "path": "public/image/items/helmets/ringaboltshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ruinhelm",
+        "representation": "ruinhelm",
+        "path": "public/image/items/helmets/ruinhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "shatterspellhelm",
+        "representation": "shatterspellhelm",
+        "path": "public/image/items/helmets/shatterspellhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "siegehelm",
+        "representation": "siegehelm",
+        "path": "public/image/items/helmets/siegehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "slimecrafthelm",
+        "representation": "slimecrafthelm",
+        "path": "public/image/items/helmets/slimecrafthelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "titanHelm",
+        "representation": "titanHelm",
+        "path": "public/image/items/helmets/titanHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "towermagehelm",
+        "representation": "towermagehelm",
+        "path": "public/image/items/helmets/towermagehelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ultimahelm",
+        "representation": "ultimahelm",
+        "path": "public/image/items/helmets/ultimahelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ultromHelm",
+        "representation": "ultromHelm",
+        "path": "public/image/items/helmets/ultromHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "urugorakshat",
+        "representation": "urugorakshat",
+        "path": "public/image/items/helmets/urugorakshat.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vigilanteHelm",
+        "representation": "vigilanteHelm",
+        "path": "public/image/items/helmets/vigilanteHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vorpalHood",
+        "representation": "vorpalHood",
+        "path": "public/image/items/helmets/vorpalHood.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "voyagerhelm",
+        "representation": "voyagerhelm",
+        "path": "public/image/items/helmets/voyagerhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "wallaceshelm",
+        "representation": "wallaceshelm",
+        "path": "public/image/items/helmets/wallaceshelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "whitewhorlhelm",
+        "representation": "whitewhorlhelm",
+        "path": "public/image/items/helmets/whitewhorlhelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "wraithHelm",
+        "representation": "wraithHelm",
+        "path": "public/image/items/helmets/wraithHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "yojimbohelm",
+        "representation": "yojimbohelm",
+        "path": "public/image/items/helmets/yojimbohelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "yoshimitsuHelm",
+        "representation": "yoshimitsuHelm",
+        "path": "public/image/items/helmets/yoshimitsuHelm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i44",
+        "representation": "i44",
+        "path": "public/image/items/misc/i44.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i45",
+        "representation": "i45",
+        "path": "public/image/items/misc/i45.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i46",
+        "representation": "i46",
+        "path": "public/image/items/misc/i46.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i47",
+        "representation": "i47",
+        "path": "public/image/items/misc/i47.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i48",
+        "representation": "i48",
+        "path": "public/image/items/misc/i48.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i49",
+        "representation": "i49",
+        "path": "public/image/items/misc/i49.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i50",
+        "representation": "i50",
+        "path": "public/image/items/misc/i50.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i52",
+        "representation": "i52",
+        "path": "public/image/items/misc/i52.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i53",
+        "representation": "i53",
+        "path": "public/image/items/misc/i53.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i54",
+        "representation": "i54",
+        "path": "public/image/items/misc/i54.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i55",
+        "representation": "i55",
+        "path": "public/image/items/misc/i55.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i56",
+        "representation": "i56",
+        "path": "public/image/items/misc/i56.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i57",
+        "representation": "i57",
+        "path": "public/image/items/misc/i57.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i58",
+        "representation": "i58",
+        "path": "public/image/items/misc/i58.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i59",
+        "representation": "i59",
+        "path": "public/image/items/misc/i59.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetherdew",
+        "representation": "aetherdew",
+        "path": "public/image/items/potions/aetherdew.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "elixir",
+        "representation": "elixir",
+        "path": "public/image/items/potions/elixir.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "frostpotion",
+        "representation": "frostpotion",
+        "path": "public/image/items/potions/frostpotion.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "healthpotionlarge",
+        "representation": "healthpotionlarge",
+        "path": "public/image/items/potions/healthpotionlarge.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "healthpotionmedium",
+        "representation": "healthpotionmedium",
+        "path": "public/image/items/potions/healthpotionmedium.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "healthpotionsmall",
+        "representation": "healthpotionsmall",
+        "path": "public/image/items/potions/healthpotionsmall.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "heatpotion",
+        "representation": "heatpotion",
+        "path": "public/image/items/potions/heatpotion.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "manapotionlarge",
+        "representation": "manapotionlarge",
+        "path": "public/image/items/potions/manapotionlarge.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "manapotionmedium",
+        "representation": "manapotionmedium",
+        "path": "public/image/items/potions/manapotionmedium.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "manapotionsmall",
+        "representation": "manapotionsmall",
+        "path": "public/image/items/potions/manapotionsmall.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "nulldmgpotion",
+        "representation": "nulldmgpotion",
+        "path": "public/image/items/potions/nulldmgpotion.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "poisonpotion",
+        "representation": "poisonpotion",
+        "path": "public/image/items/potions/poisonpotion.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "staminapotionlarge",
+        "representation": "staminapotionlarge",
+        "path": "public/image/items/potions/staminapotionlarge.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "staminapotionmedium",
+        "representation": "staminapotionmedium",
+        "path": "public/image/items/potions/staminapotionmedium.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "staminapotionsmall",
+        "representation": "staminapotionsmall",
+        "path": "public/image/items/potions/staminapotionsmall.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetheliteprism",
+        "representation": "aetheliteprism",
+        "path": "public/image/items/prisms/aetheliteprism.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetheliteshard",
+        "representation": "aetheliteshard",
+        "path": "public/image/items/prisms/aetheliteshard.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "darkenedshard",
+        "representation": "darkenedshard",
+        "path": "public/image/items/prisms/darkenedshard.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i90",
+        "representation": "i90",
+        "path": "public/image/items/prisms/i90.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "i91",
+        "representation": "i91",
+        "path": "public/image/items/prisms/i91.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "omegashard",
+        "representation": "omegashard",
+        "path": "public/image/items/prisms/omegashard.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "anelicering",
+        "representation": "anelicering",
+        "path": "public/image/items/rings/anelicering.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "brymring",
+        "representation": "brymring",
+        "path": "public/image/items/rings/brymring.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ezeriusring",
+        "representation": "ezeriusring",
+        "path": "public/image/items/rings/ezeriusring.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "falstadtring",
+        "representation": "falstadtring",
+        "path": "public/image/items/rings/falstadtring.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gallahadring",
+        "representation": "gallahadring",
+        "path": "public/image/items/rings/gallahadring.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gromwellring",
+        "representation": "gromwellring",
+        "path": "public/image/items/rings/gromwellring.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "percevalring",
+        "representation": "percevalring",
+        "path": "public/image/items/rings/percevalring.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "roehnring",
+        "representation": "roehnring",
+        "path": "public/image/items/rings/roehnring.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thageshield",
+        "representation": "4thageshield",
+        "path": "public/image/items/shields/4thageshield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aegis",
+        "representation": "aegis",
+        "path": "public/image/items/shields/aegis.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aethershield",
+        "representation": "aethershield",
+        "path": "public/image/items/shields/aethershield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aethershield_2",
+        "representation": "aethershield_2",
+        "path": "public/image/items/shields/aethershield_2.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "arcsbuckler",
+        "representation": "arcsbuckler",
+        "path": "public/image/items/shields/arcsbuckler.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bloodshield",
+        "representation": "bloodshield",
+        "path": "public/image/items/shields/bloodshield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bloodshield_2",
+        "representation": "bloodshield_2",
+        "path": "public/image/items/shields/bloodshield_2.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "boldshield",
+        "representation": "boldshield",
+        "path": "public/image/items/shields/boldshield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "cadetbuckler",
+        "representation": "cadetbuckler",
+        "path": "public/image/items/shields/cadetbuckler.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "championshield",
+        "representation": "championshield",
+        "path": "public/image/items/shields/championshield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "eagleshield",
+        "representation": "eagleshield",
+        "path": "public/image/items/shields/eagleshield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "forceguard",
+        "representation": "forceguard",
+        "path": "public/image/items/shields/forceguard.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "fungishield",
+        "representation": "fungishield",
+        "path": "public/image/items/shields/fungishield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gallatriasigil",
+        "representation": "gallatriasigil",
+        "path": "public/image/items/shields/gallatriasigil.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "heatershield",
+        "representation": "heatershield",
+        "path": "public/image/items/shields/heatershield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "kingscrest",
+        "representation": "kingscrest",
+        "path": "public/image/items/shields/kingscrest.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "leaderscrest",
+        "representation": "leaderscrest",
+        "path": "public/image/items/shields/leaderscrest.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "oathkeeper",
+        "representation": "oathkeeper",
+        "path": "public/image/items/shields/oathkeeper.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "peacekeeper",
+        "representation": "peacekeeper",
+        "path": "public/image/items/shields/peacekeeper.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "purifier",
+        "representation": "purifier",
+        "path": "public/image/items/shields/purifier.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "scarabshell",
+        "representation": "scarabshell",
+        "path": "public/image/items/shields/scarabshell.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "soulinfusion",
+        "representation": "soulinfusion",
+        "path": "public/image/items/shields/soulinfusion.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "spikedlightning",
+        "representation": "spikedlightning",
+        "path": "public/image/items/shields/spikedlightning.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "sunlight",
+        "representation": "sunlight",
+        "path": "public/image/items/shields/sunlight.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "supernova",
+        "representation": "supernova",
+        "path": "public/image/items/shields/supernova.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "toweraegis",
+        "representation": "toweraegis",
+        "path": "public/image/items/shields/toweraegis.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "twighlightshield",
+        "representation": "twighlightshield",
+        "path": "public/image/items/shields/twighlightshield.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thagecannon",
+        "representation": "4thagecannon",
+        "path": "public/image/items/weapons/4thagecannon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thagegauntlet",
+        "representation": "4thagegauntlet",
+        "path": "public/image/items/weapons/4thagegauntlet.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thagegun",
+        "representation": "4thagegun",
+        "path": "public/image/items/weapons/4thagegun.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thagelance",
+        "representation": "4thagelance",
+        "path": "public/image/items/weapons/4thagelance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thagestaff",
+        "representation": "4thagestaff",
+        "path": "public/image/items/weapons/4thagestaff.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "4thagesword",
+        "representation": "4thagesword",
+        "path": "public/image/items/weapons/4thagesword.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "abraxas",
+        "representation": "abraxas",
+        "path": "public/image/items/weapons/abraxas.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetherblade",
+        "representation": "aetherblade",
+        "path": "public/image/items/weapons/aetherblade.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aethercannon",
+        "representation": "aethercannon",
+        "path": "public/image/items/weapons/aethercannon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aethergunmkIV",
+        "representation": "aethergunmkIV",
+        "path": "public/image/items/weapons/aethergunmkIV.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetherlance",
+        "representation": "aetherlance",
+        "path": "public/image/items/weapons/aetherlance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "aetherstaff",
+        "representation": "aetherstaff",
+        "path": "public/image/items/weapons/aetherstaff.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "airsplitter",
+        "representation": "airsplitter",
+        "path": "public/image/items/weapons/airsplitter.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "annihilation",
+        "representation": "annihilation",
+        "path": "public/image/items/weapons/annihilation.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "arcfire",
+        "representation": "arcfire",
+        "path": "public/image/items/weapons/arcfire.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "arcwind",
+        "representation": "arcwind",
+        "path": "public/image/items/weapons/arcwind.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "armageddon",
+        "representation": "armageddon",
+        "path": "public/image/items/weapons/armageddon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "astra",
+        "representation": "astra",
+        "path": "public/image/items/weapons/astra.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "atmaweapon",
+        "representation": "atmaweapon",
+        "path": "public/image/items/weapons/atmaweapon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "autorifle",
+        "representation": "autorifle",
+        "path": "public/image/items/weapons/autorifle.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "avalanche",
+        "representation": "avalanche",
+        "path": "public/image/items/weapons/avalanche.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "awakenedforce",
+        "representation": "awakenedforce",
+        "path": "public/image/items/weapons/awakenedforce.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "axelarksblaster",
+        "representation": "axelarksblaster",
+        "path": "public/image/items/weapons/axelarksblaster.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "azazelsblade",
+        "representation": "azazelsblade",
+        "path": "public/image/items/weapons/azazelsblade.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "baalfogsavalanche",
+        "representation": "baalfogsavalanche",
+        "path": "public/image/items/weapons/baalfogsavalanche.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "banana",
+        "representation": "banana",
+        "path": "public/image/items/weapons/banana.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bazooka",
+        "representation": "bazooka",
+        "path": "public/image/items/weapons/bazooka.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "betrayer",
+        "representation": "betrayer",
+        "path": "public/image/items/weapons/betrayer.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bolganone",
+        "representation": "bolganone",
+        "path": "public/image/items/weapons/bolganone.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "boltedge",
+        "representation": "boltedge",
+        "path": "public/image/items/weapons/boltedge.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "bubblegumstaff",
+        "representation": "bubblegumstaff",
+        "path": "public/image/items/weapons/bubblegumstaff.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "cainslance",
+        "representation": "cainslance",
+        "path": "public/image/items/weapons/cainslance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "calusdemonblade",
+        "representation": "calusdemonblade",
+        "path": "public/image/items/weapons/calusdemonblade.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "caluspyer",
+        "representation": "caluspyer",
+        "path": "public/image/items/weapons/caluspyer.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "carbine",
+        "representation": "carbine",
+        "path": "public/image/items/weapons/carbine.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "castersword",
+        "representation": "castersword",
+        "path": "public/image/items/weapons/castersword.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "cataclysm",
+        "representation": "cataclysm",
+        "path": "public/image/items/weapons/cataclysm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "cerberus",
+        "representation": "cerberus",
+        "path": "public/image/items/weapons/cerberus.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "chaingun",
+        "representation": "chaingun",
+        "path": "public/image/items/weapons/chaingun.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "cherryblossom",
+        "representation": "cherryblossom",
+        "path": "public/image/items/weapons/cherryblossom.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "claymore",
+        "representation": "claymore",
+        "path": "public/image/items/weapons/claymore.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "coldsnap",
+        "representation": "coldsnap",
+        "path": "public/image/items/weapons/coldsnap.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "colossus",
+        "representation": "colossus",
+        "path": "public/image/items/weapons/colossus.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "commando",
+        "representation": "commando",
+        "path": "public/image/items/weapons/commando.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "darkforce",
+        "representation": "darkforce",
+        "path": "public/image/items/weapons/darkforce.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "darkmessenger",
+        "representation": "darkmessenger",
+        "path": "public/image/items/weapons/darkmessenger.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "darkness",
+        "representation": "darkness",
+        "path": "public/image/items/weapons/darkness.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "deathexalted",
+        "representation": "deathexalted",
+        "path": "public/image/items/weapons/deathexalted.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "deathpenalty",
+        "representation": "deathpenalty",
+        "path": "public/image/items/weapons/deathpenalty.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "decimator",
+        "representation": "decimator",
+        "path": "public/image/items/weapons/decimator.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "destructionwave",
+        "representation": "destructionwave",
+        "path": "public/image/items/weapons/destructionwave.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "devilsbane",
+        "representation": "devilsbane",
+        "path": "public/image/items/weapons/devilsbane.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "doombringer",
+        "representation": "doombringer",
+        "path": "public/image/items/weapons/doombringer.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "doomguard",
+        "representation": "doomguard",
+        "path": "public/image/items/weapons/doomguard.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "doomsayer",
+        "representation": "doomsayer",
+        "path": "public/image/items/weapons/doomsayer.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dragonboltsmast",
+        "representation": "dragonboltsmast",
+        "path": "public/image/items/weapons/dragonboltsmast.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dragoncannon",
+        "representation": "dragoncannon",
+        "path": "public/image/items/weapons/dragoncannon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dragonwhisker",
+        "representation": "dragonwhisker",
+        "path": "public/image/items/weapons/dragonwhisker.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "dragoonlance",
+        "representation": "dragoonlance",
+        "path": "public/image/items/weapons/dragoonlance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "elementalizer",
+        "representation": "elementalizer",
+        "path": "public/image/items/weapons/elementalizer.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "elfire",
+        "representation": "elfire",
+        "path": "public/image/items/weapons/elfire.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "emblemfates",
+        "representation": "emblemfates",
+        "path": "public/image/items/weapons/emblemfates.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "enigma",
+        "representation": "enigma",
+        "path": "public/image/items/weapons/enigma.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "excalibur",
+        "representation": "excalibur",
+        "path": "public/image/items/weapons/excalibur.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "firestorm",
+        "representation": "firestorm",
+        "path": "public/image/items/weapons/firestorm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flakcannon",
+        "representation": "flakcannon",
+        "path": "public/image/items/weapons/flakcannon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flamberge",
+        "representation": "flamberge",
+        "path": "public/image/items/weapons/flamberge.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flamelash",
+        "representation": "flamelash",
+        "path": "public/image/items/weapons/flamelash.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flameswathe",
+        "representation": "flameswathe",
+        "path": "public/image/items/weapons/flameswathe.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "flareblade",
+        "representation": "flareblade",
+        "path": "public/image/items/weapons/flareblade.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "forgeblade",
+        "representation": "forgeblade",
+        "path": "public/image/items/weapons/forgeblade.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "formalhaut",
+        "representation": "formalhaut",
+        "path": "public/image/items/weapons/formalhaut.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "fracturedsoul",
+        "representation": "fracturedsoul",
+        "path": "public/image/items/weapons/fracturedsoul.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "frost",
+        "representation": "frost",
+        "path": "public/image/items/weapons/frost.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gadgetrpg",
+        "representation": "gadgetrpg",
+        "path": "public/image/items/weapons/gadgetrpg.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gadgetsaber",
+        "representation": "gadgetsaber",
+        "path": "public/image/items/weapons/gadgetsaber.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gafgardsmaelstrom",
+        "representation": "gafgardsmaelstrom",
+        "path": "public/image/items/weapons/gafgardsmaelstrom.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gaiasgale",
+        "representation": "gaiasgale",
+        "path": "public/image/items/weapons/gaiasgale.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "galacticflameblaster",
+        "representation": "galacticflameblaster",
+        "path": "public/image/items/weapons/galacticflameblaster.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "galaxylance",
+        "representation": "galaxylance",
+        "path": "public/image/items/weapons/galaxylance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gallatriasspire",
+        "representation": "gallatriasspire",
+        "path": "public/image/items/weapons/gallatriasspire.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "glitterblade",
+        "representation": "glitterblade",
+        "path": "public/image/items/weapons/glitterblade.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "goldeneye",
+        "representation": "goldeneye",
+        "path": "public/image/items/weapons/goldeneye.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "goldensuns",
+        "representation": "goldensuns",
+        "path": "public/image/items/weapons/goldensuns.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gruustalisman",
+        "representation": "gruustalisman",
+        "path": "public/image/items/weapons/gruustalisman.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "gungir",
+        "representation": "gungir",
+        "path": "public/image/items/weapons/gungir.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "handcannon",
+        "representation": "handcannon",
+        "path": "public/image/items/weapons/handcannon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "heartseeker",
+        "representation": "heartseeker",
+        "path": "public/image/items/weapons/heartseeker.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "heavenscloud",
+        "representation": "heavenscloud",
+        "path": "public/image/items/weapons/heavenscloud.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "helswath",
+        "representation": "helswath",
+        "path": "public/image/items/weapons/helswath.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "hivemindrod",
+        "representation": "hivemindrod",
+        "path": "public/image/items/weapons/hivemindrod.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "hypercannon",
+        "representation": "hypercannon",
+        "path": "public/image/items/weapons/hypercannon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "icewall",
+        "representation": "icewall",
+        "path": "public/image/items/weapons/icewall.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "judgement",
+        "representation": "judgement",
+        "path": "public/image/items/weapons/judgement.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "jungleking",
+        "representation": "jungleking",
+        "path": "public/image/items/weapons/jungleking.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "keyofhearts",
+        "representation": "keyofhearts",
+        "path": "public/image/items/weapons/keyofhearts.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "kingslance",
+        "representation": "kingslance",
+        "path": "public/image/items/weapons/kingslance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "lightningrod",
+        "representation": "lightningrod",
+        "path": "public/image/items/weapons/lightningrod.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "longinus",
+        "representation": "longinus",
+        "path": "public/image/items/weapons/longinus.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "lostvoice",
+        "representation": "lostvoice",
+        "path": "public/image/items/weapons/lostvoice.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "maalurktotem",
+        "representation": "maalurktotem",
+        "path": "public/image/items/weapons/maalurktotem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "maestorm",
+        "representation": "maestorm",
+        "path": "public/image/items/weapons/maestorm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "magegauntlet",
+        "representation": "magegauntlet",
+        "path": "public/image/items/weapons/magegauntlet.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "magemasher",
+        "representation": "magemasher",
+        "path": "public/image/items/weapons/magemasher.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "magma",
+        "representation": "magma",
+        "path": "public/image/items/weapons/magma.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "megaweapon",
+        "representation": "megaweapon",
+        "path": "public/image/items/weapons/megaweapon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "mercilessgladiator",
+        "representation": "mercilessgladiator",
+        "path": "public/image/items/weapons/mercilessgladiator.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "missilerpg",
+        "representation": "missilerpg",
+        "path": "public/image/items/weapons/missilerpg.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "molochswrath",
+        "representation": "molochswrath",
+        "path": "public/image/items/weapons/molochswrath.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "monkgauntlet",
+        "representation": "monkgauntlet",
+        "path": "public/image/items/weapons/monkgauntlet.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "mysticarrow",
+        "representation": "mysticarrow",
+        "path": "public/image/items/weapons/mysticarrow.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "nethertorrent",
+        "representation": "nethertorrent",
+        "path": "public/image/items/weapons/nethertorrent.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "nirvana",
+        "representation": "nirvana",
+        "path": "public/image/items/weapons/nirvana.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "oblivion",
+        "representation": "oblivion",
+        "path": "public/image/items/weapons/oblivion.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "percevalswand",
+        "representation": "percevalswand",
+        "path": "public/image/items/weapons/percevalswand.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "piratemusket",
+        "representation": "piratemusket",
+        "path": "public/image/items/weapons/piratemusket.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "plaguesteel",
+        "representation": "plaguesteel",
+        "path": "public/image/items/weapons/plaguesteel.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "plainstick",
+        "representation": "plainstick",
+        "path": "public/image/items/weapons/plainstick.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "poopmaker",
+        "representation": "poopmaker",
+        "path": "public/image/items/weapons/poopmaker.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "pyroclasm",
+        "representation": "pyroclasm",
+        "path": "public/image/items/weapons/pyroclasm.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "quicksilver",
+        "representation": "quicksilver",
+        "path": "public/image/items/weapons/quicksilver.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ragnarok",
+        "representation": "ragnarok",
+        "path": "public/image/items/weapons/ragnarok.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "rampantgolem",
+        "representation": "rampantgolem",
+        "path": "public/image/items/weapons/rampantgolem.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "repeater",
+        "representation": "repeater",
+        "path": "public/image/items/weapons/repeater.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ringaboltsaxe",
+        "representation": "ringaboltsaxe",
+        "path": "public/image/items/weapons/ringaboltsaxe.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "ruin",
+        "representation": "ruin",
+        "path": "public/image/items/weapons/ruin.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "runelance",
+        "representation": "runelance",
+        "path": "public/image/items/weapons/runelance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "sagesstaff",
+        "representation": "sagesstaff",
+        "path": "public/image/items/weapons/sagesstaff.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "schegsbow",
+        "representation": "schegsbow",
+        "path": "public/image/items/weapons/schegsbow.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "seekerofstars",
+        "representation": "seekerofstars",
+        "path": "public/image/items/weapons/seekerofstars.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "seraphim",
+        "representation": "seraphim",
+        "path": "public/image/items/weapons/seraphim.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "sirius",
+        "representation": "sirius",
+        "path": "public/image/items/weapons/sirius.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "sonicsteel",
+        "representation": "sonicsteel",
+        "path": "public/image/items/weapons/sonicsteel.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "soulreaver",
+        "representation": "soulreaver",
+        "path": "public/image/items/weapons/soulreaver.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "spiritlance",
+        "representation": "spiritlance",
+        "path": "public/image/items/weapons/spiritlance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "stardestroyer",
+        "representation": "stardestroyer",
+        "path": "public/image/items/weapons/stardestroyer.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "stormbringer",
+        "representation": "stormbringer",
+        "path": "public/image/items/weapons/stormbringer.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "stormcannon",
+        "representation": "stormcannon",
+        "path": "public/image/items/weapons/stormcannon.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "summonersstaff",
+        "representation": "summonersstaff",
+        "path": "public/image/items/weapons/summonersstaff.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "theblackmage",
+        "representation": "theblackmage",
+        "path": "public/image/items/weapons/theblackmage.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thedominator",
+        "representation": "thedominator",
+        "path": "public/image/items/weapons/thedominator.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thehighwind",
+        "representation": "thehighwind",
+        "path": "public/image/items/weapons/thehighwind.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "themachine",
+        "representation": "themachine",
+        "path": "public/image/items/weapons/themachine.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thewhitemage",
+        "representation": "thewhitemage",
+        "path": "public/image/items/weapons/thewhitemage.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thewyvern",
+        "representation": "thewyvern",
+        "path": "public/image/items/weapons/thewyvern.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thezapper",
+        "representation": "thezapper",
+        "path": "public/image/items/weapons/thezapper.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "thornwall",
+        "representation": "thornwall",
+        "path": "public/image/items/weapons/thornwall.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "tornado",
+        "representation": "tornado",
+        "path": "public/image/items/weapons/tornado.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "trigoddess",
+        "representation": "trigoddess",
+        "path": "public/image/items/weapons/trigoddess.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "tropicthunder",
+        "representation": "tropicthunder",
+        "path": "public/image/items/weapons/tropicthunder.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "twighlightstaff",
+        "representation": "twighlightstaff",
+        "path": "public/image/items/weapons/twighlightstaff.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "typhoonIX",
+        "representation": "typhoonIX",
+        "path": "public/image/items/weapons/typhoonIX.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "urugorakstooth",
+        "representation": "urugorakstooth",
+        "path": "public/image/items/weapons/urugorakstooth.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "valflame",
+        "representation": "valflame",
+        "path": "public/image/items/weapons/valflame.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vengeance",
+        "representation": "vengeance",
+        "path": "public/image/items/weapons/vengeance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vengefulspirit",
+        "representation": "vengefulspirit",
+        "path": "public/image/items/weapons/vengefulspirit.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vikinXXVII",
+        "representation": "vikinXXVII",
+        "path": "public/image/items/weapons/vikinXXVII.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vinewhip",
+        "representation": "vinewhip",
+        "path": "public/image/items/weapons/vinewhip.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "voltsniper",
+        "representation": "voltsniper",
+        "path": "public/image/items/weapons/voltsniper.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "vorpalrpg",
+        "representation": "vorpalrpg",
+        "path": "public/image/items/weapons/vorpalrpg.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "wallaceslance",
+        "representation": "wallaceslance",
+        "path": "public/image/items/weapons/wallaceslance.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "warforgedgun",
+        "representation": "warforgedgun",
+        "path": "public/image/items/weapons/warforgedgun.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "woltsthunder",
+        "representation": "woltsthunder",
+        "path": "public/image/items/weapons/woltsthunder.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "worldreborn",
+        "representation": "worldreborn",
+        "path": "public/image/items/weapons/worldreborn.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "worldsend",
+        "representation": "worldsend",
+        "path": "public/image/items/weapons/worldsend.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "wrathaura",
+        "representation": "wrathaura",
+        "path": "public/image/items/weapons/wrathaura.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "wyvernbone",
+        "representation": "wyvernbone",
+        "path": "public/image/items/weapons/wyvernbone.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "zweihander",
+        "representation": "zweihander",
+        "path": "public/image/items/weapons/zweihander.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    }
+]
