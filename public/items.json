@@ -1,8 +1,8 @@
 [
     {
         "name": "4thagearmor",
-        "representation": "4thagearmor",
-        "path": "public/image/items/armor/4thagearmor.png",
+        "representation": "4thage Armor",
+        "path": "public/img/items/armor/4thagearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -15,8 +15,8 @@
     },
     {
         "name": "akuarmor",
-        "representation": "akuarmor",
-        "path": "public/image/items/armor/akuarmor.png",
+        "representation": "Aku Armor",
+        "path": "public/img/items/armor/akuarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -29,8 +29,8 @@
     },
     {
         "name": "apocalypseArmor",
-        "representation": "apocalypseArmor",
-        "path": "public/image/items/armor/apocalypseArmor.png",
+        "representation": "Apocalypse Armor",
+        "path": "public/img/items/armor/apocalypseArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -43,8 +43,8 @@
     },
     {
         "name": "axelarksarmor",
-        "representation": "axelarksarmor",
-        "path": "public/image/items/armor/axelarksarmor.png",
+        "representation": "Axelarks Armor",
+        "path": "public/img/items/armor/axelarksarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -57,8 +57,8 @@
     },
     {
         "name": "azazelsarmor",
-        "representation": "azazelsarmor",
-        "path": "public/image/items/armor/azazelsarmor.png",
+        "representation": "Azazels Armor",
+        "path": "public/img/items/armor/azazelsarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -71,8 +71,8 @@
     },
     {
         "name": "baalfogssuit",
-        "representation": "baalfogssuit",
-        "path": "public/image/items/armor/baalfogssuit.png",
+        "representation": "Baalfogssuit",
+        "path": "public/img/items/armor/baalfogssuit.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -85,8 +85,8 @@
     },
     {
         "name": "bolgonarmor",
-        "representation": "bolgonarmor",
-        "path": "public/image/items/armor/bolgonarmor.png",
+        "representation": "Bolgon Armor",
+        "path": "public/img/items/armor/bolgonarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -99,8 +99,8 @@
     },
     {
         "name": "broccoliArmor",
-        "representation": "broccoliArmor",
-        "path": "public/image/items/armor/broccoliArmor.png",
+        "representation": "Broccoli Armor",
+        "path": "public/img/items/armor/broccoliArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -113,8 +113,8 @@
     },
     {
         "name": "bruiserarmor",
-        "representation": "bruiserarmor",
-        "path": "public/image/items/armor/bruiserarmor.png",
+        "representation": "Bruiser Armor",
+        "path": "public/img/items/armor/bruiserarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -127,8 +127,8 @@
     },
     {
         "name": "brutearmor",
-        "representation": "brutearmor",
-        "path": "public/image/items/armor/brutearmor.png",
+        "representation": "Brute Armor",
+        "path": "public/img/items/armor/brutearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -141,8 +141,8 @@
     },
     {
         "name": "catastrophiaArmor",
-        "representation": "catastrophiaArmor",
-        "path": "public/image/items/armor/catastrophiaArmor.png",
+        "representation": "Catastrophia Armor",
+        "path": "public/img/items/armor/catastrophiaArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -155,8 +155,8 @@
     },
     {
         "name": "championarmor",
-        "representation": "championarmor",
-        "path": "public/image/items/armor/championarmor.png",
+        "representation": "Champion Armor",
+        "path": "public/img/items/armor/championarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -169,8 +169,8 @@
     },
     {
         "name": "chaosarmor",
-        "representation": "chaosarmor",
-        "path": "public/image/items/armor/chaosarmor.png",
+        "representation": "Chaos Armor",
+        "path": "public/img/items/armor/chaosarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -183,8 +183,8 @@
     },
     {
         "name": "darkknightarmor",
-        "representation": "darkknightarmor",
-        "path": "public/image/items/armor/darkknightarmor.png",
+        "representation": "Darkknight Armor",
+        "path": "public/img/items/armor/darkknightarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -197,8 +197,8 @@
     },
     {
         "name": "deathgodarmor",
-        "representation": "deathgodarmor",
-        "path": "public/image/items/armor/deathgodarmor.png",
+        "representation": "Deathgod Armor",
+        "path": "public/img/items/armor/deathgodarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -211,8 +211,8 @@
     },
     {
         "name": "destructivearmor",
-        "representation": "destructivearmor",
-        "path": "public/image/items/armor/destructivearmor.png",
+        "representation": "Destructive Armor",
+        "path": "public/img/items/armor/destructivearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -225,8 +225,8 @@
     },
     {
         "name": "deusarmor",
-        "representation": "deusarmor",
-        "path": "public/image/items/armor/deusarmor.png",
+        "representation": "Deus Armor",
+        "path": "public/img/items/armor/deusarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -239,8 +239,8 @@
     },
     {
         "name": "dredgerArmor",
-        "representation": "dredgerArmor",
-        "path": "public/image/items/armor/dredgerArmor.png",
+        "representation": "Dredger Armor",
+        "path": "public/img/items/armor/dredgerArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -253,8 +253,8 @@
     },
     {
         "name": "drifterarmor",
-        "representation": "drifterarmor",
-        "path": "public/image/items/armor/drifterarmor.png",
+        "representation": "Drifter Armor",
+        "path": "public/img/items/armor/drifterarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -267,8 +267,8 @@
     },
     {
         "name": "duneclotharmor",
-        "representation": "duneclotharmor",
-        "path": "public/image/items/armor/duneclotharmor.png",
+        "representation": "Dunecloth Armor",
+        "path": "public/img/items/armor/duneclotharmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -281,8 +281,8 @@
     },
     {
         "name": "duneriderarmor",
-        "representation": "duneriderarmor",
-        "path": "public/image/items/armor/duneriderarmor.png",
+        "representation": "Dunerider Armor",
+        "path": "public/img/items/armor/duneriderarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -295,8 +295,8 @@
     },
     {
         "name": "elitearmor",
-        "representation": "elitearmor",
-        "path": "public/image/items/armor/elitearmor.png",
+        "representation": "Elite Armor",
+        "path": "public/img/items/armor/elitearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -309,8 +309,8 @@
     },
     {
         "name": "exodusArmor",
-        "representation": "exodusArmor",
-        "path": "public/image/items/armor/exodusArmor.png",
+        "representation": "Exodus Armor",
+        "path": "public/img/items/armor/exodusArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -323,8 +323,8 @@
     },
     {
         "name": "fellbugArmor",
-        "representation": "fellbugArmor",
-        "path": "public/image/items/armor/fellbugArmor.png",
+        "representation": "Fellbug Armor",
+        "path": "public/img/items/armor/fellbugArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -337,8 +337,8 @@
     },
     {
         "name": "firegodarmor",
-        "representation": "firegodarmor",
-        "path": "public/image/items/armor/firegodarmor.png",
+        "representation": "Firegod Armor",
+        "path": "public/img/items/armor/firegodarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -351,8 +351,8 @@
     },
     {
         "name": "forcearmor",
-        "representation": "forcearmor",
-        "path": "public/image/items/armor/forcearmor.png",
+        "representation": "Force Armor",
+        "path": "public/img/items/armor/forcearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -365,8 +365,8 @@
     },
     {
         "name": "ghostarmor",
-        "representation": "ghostarmor",
-        "path": "public/image/items/armor/ghostarmor.png",
+        "representation": "Ghost Armor",
+        "path": "public/img/items/armor/ghostarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -379,8 +379,8 @@
     },
     {
         "name": "glaedriaArmor",
-        "representation": "glaedriaArmor",
-        "path": "public/image/items/armor/glaedriaArmor.png",
+        "representation": "Glaedria Armor",
+        "path": "public/img/items/armor/glaedriaArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -393,8 +393,8 @@
     },
     {
         "name": "helloworldarmor",
-        "representation": "helloworldarmor",
-        "path": "public/image/items/armor/helloworldarmor.png",
+        "representation": "Helloworld Armor",
+        "path": "public/img/items/armor/helloworldarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -407,8 +407,8 @@
     },
     {
         "name": "heroicarmor",
-        "representation": "heroicarmor",
-        "path": "public/image/items/armor/heroicarmor.png",
+        "representation": "Heroic Armor",
+        "path": "public/img/items/armor/heroicarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -421,8 +421,8 @@
     },
     {
         "name": "infernoarmor",
-        "representation": "infernoarmor",
-        "path": "public/image/items/armor/infernoarmor.png",
+        "representation": "Inferno Armor",
+        "path": "public/img/items/armor/infernoarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -435,8 +435,8 @@
     },
     {
         "name": "ironcladArmor",
-        "representation": "ironcladArmor",
-        "path": "public/image/items/armor/ironcladArmor.png",
+        "representation": "Ironclad Armor",
+        "path": "public/img/items/armor/ironcladArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -449,8 +449,8 @@
     },
     {
         "name": "ironforgearmor",
-        "representation": "ironforgearmor",
-        "path": "public/image/items/armor/ironforgearmor.png",
+        "representation": "Ironforge Armor",
+        "path": "public/img/items/armor/ironforgearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -463,8 +463,8 @@
     },
     {
         "name": "isaacarmor",
-        "representation": "isaacarmor",
-        "path": "public/image/items/armor/isaacarmor.png",
+        "representation": "Isaac Armor",
+        "path": "public/img/items/armor/isaacarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -477,8 +477,8 @@
     },
     {
         "name": "ithacasarmor",
-        "representation": "ithacasarmor",
-        "path": "public/image/items/armor/ithacasarmor.png",
+        "representation": "Ithacas Armor",
+        "path": "public/img/items/armor/ithacasarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -491,8 +491,8 @@
     },
     {
         "name": "krabshellarmor",
-        "representation": "krabshellarmor",
-        "path": "public/image/items/armor/krabshellarmor.png",
+        "representation": "Krabshell Armor",
+        "path": "public/img/items/armor/krabshellarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -505,8 +505,8 @@
     },
     {
         "name": "krakenarmor",
-        "representation": "krakenarmor",
-        "path": "public/image/items/armor/krakenarmor.png",
+        "representation": "Kraken Armor",
+        "path": "public/img/items/armor/krakenarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -519,8 +519,8 @@
     },
     {
         "name": "leviathanarmor",
-        "representation": "leviathanarmor",
-        "path": "public/image/items/armor/leviathanarmor.png",
+        "representation": "Leviathan Armor",
+        "path": "public/img/items/armor/leviathanarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -533,8 +533,8 @@
     },
     {
         "name": "maelstormarmor",
-        "representation": "maelstormarmor",
-        "path": "public/image/items/armor/maelstormarmor.png",
+        "representation": "Maelstorm Armor",
+        "path": "public/img/items/armor/maelstormarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -547,8 +547,8 @@
     },
     {
         "name": "mightShroomArmor",
-        "representation": "mightShroomArmor",
-        "path": "public/image/items/armor/mightShroomArmor.png",
+        "representation": "Mightshroom Armor",
+        "path": "public/img/items/armor/mightShroomArmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -561,8 +561,8 @@
     },
     {
         "name": "mykonogrearmor",
-        "representation": "mykonogrearmor",
-        "path": "public/image/items/armor/mykonogrearmor.png",
+        "representation": "Mykonogre Armor",
+        "path": "public/img/items/armor/mykonogrearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -575,8 +575,8 @@
     },
     {
         "name": "nautilusarmor",
-        "representation": "nautilusarmor",
-        "path": "public/image/items/armor/nautilusarmor.png",
+        "representation": "Nautilus Armor",
+        "path": "public/img/items/armor/nautilusarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -589,8 +589,8 @@
     },
     {
         "name": "oniarmor",
-        "representation": "oniarmor",
-        "path": "public/image/items/armor/oniarmor.png",
+        "representation": "Oni Armor",
+        "path": "public/img/items/armor/oniarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -603,8 +603,8 @@
     },
     {
         "name": "onslaughtarmor",
-        "representation": "onslaughtarmor",
-        "path": "public/image/items/armor/onslaughtarmor.png",
+        "representation": "Onslaught Armor",
+        "path": "public/img/items/armor/onslaughtarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -617,8 +617,8 @@
     },
     {
         "name": "plasmaarmor",
-        "representation": "plasmaarmor",
-        "path": "public/image/items/armor/plasmaarmor.png",
+        "representation": "Plasma Armor",
+        "path": "public/img/items/armor/plasmaarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -631,8 +631,8 @@
     },
     {
         "name": "pyroclasmarmor",
-        "representation": "pyroclasmarmor",
-        "path": "public/image/items/armor/pyroclasmarmor.png",
+        "representation": "Pyroclasm Armor",
+        "path": "public/img/items/armor/pyroclasmarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -645,8 +645,8 @@
     },
     {
         "name": "queensarmor",
-        "representation": "queensarmor",
-        "path": "public/image/items/armor/queensarmor.png",
+        "representation": "Queens Armor",
+        "path": "public/img/items/armor/queensarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -659,8 +659,8 @@
     },
     {
         "name": "rapturearmor",
-        "representation": "rapturearmor",
-        "path": "public/image/items/armor/rapturearmor.png",
+        "representation": "Rapture Armor",
+        "path": "public/img/items/armor/rapturearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -673,8 +673,8 @@
     },
     {
         "name": "reconarmor",
-        "representation": "reconarmor",
-        "path": "public/image/items/armor/reconarmor.png",
+        "representation": "Recon Armor",
+        "path": "public/img/items/armor/reconarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -687,8 +687,8 @@
     },
     {
         "name": "recruitarmor",
-        "representation": "recruitarmor",
-        "path": "public/image/items/armor/recruitarmor.png",
+        "representation": "Recruit Armor",
+        "path": "public/img/items/armor/recruitarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -701,8 +701,8 @@
     },
     {
         "name": "ruinarmor",
-        "representation": "ruinarmor",
-        "path": "public/image/items/armor/ruinarmor.png",
+        "representation": "Ruin Armor",
+        "path": "public/img/items/armor/ruinarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -715,8 +715,8 @@
     },
     {
         "name": "shatterspellarmor",
-        "representation": "shatterspellarmor",
-        "path": "public/image/items/armor/shatterspellarmor.png",
+        "representation": "Shatterspell Armor",
+        "path": "public/img/items/armor/shatterspellarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -729,8 +729,8 @@
     },
     {
         "name": "siegearmor",
-        "representation": "siegearmor",
-        "path": "public/image/items/armor/siegearmor.png",
+        "representation": "Siege Armor",
+        "path": "public/img/items/armor/siegearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -743,8 +743,8 @@
     },
     {
         "name": "titanarmor",
-        "representation": "titanarmor",
-        "path": "public/image/items/armor/titanarmor.png",
+        "representation": "Titan Armor",
+        "path": "public/img/items/armor/titanarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -757,8 +757,8 @@
     },
     {
         "name": "towermagearmor",
-        "representation": "towermagearmor",
-        "path": "public/image/items/armor/towermagearmor.png",
+        "representation": "Towermage Armor",
+        "path": "public/img/items/armor/towermagearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -771,8 +771,8 @@
     },
     {
         "name": "ultimaarmor",
-        "representation": "ultimaarmor",
-        "path": "public/image/items/armor/ultimaarmor.png",
+        "representation": "Ultima Armor",
+        "path": "public/img/items/armor/ultimaarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -785,8 +785,8 @@
     },
     {
         "name": "ultromarmor",
-        "representation": "ultromarmor",
-        "path": "public/image/items/armor/ultromarmor.png",
+        "representation": "Ultrom Armor",
+        "path": "public/img/items/armor/ultromarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -799,8 +799,8 @@
     },
     {
         "name": "vigilantearmor",
-        "representation": "vigilantearmor",
-        "path": "public/image/items/armor/vigilantearmor.png",
+        "representation": "Vigilante Armor",
+        "path": "public/img/items/armor/vigilantearmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -813,8 +813,8 @@
     },
     {
         "name": "vorpalarmor",
-        "representation": "vorpalarmor",
-        "path": "public/image/items/armor/vorpalarmor.png",
+        "representation": "Vorpal Armor",
+        "path": "public/img/items/armor/vorpalarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -827,8 +827,8 @@
     },
     {
         "name": "voyagerarmor",
-        "representation": "voyagerarmor",
-        "path": "public/image/items/armor/voyagerarmor.png",
+        "representation": "Voyager Armor",
+        "path": "public/img/items/armor/voyagerarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -841,8 +841,8 @@
     },
     {
         "name": "whitewhorlarmor",
-        "representation": "whitewhorlarmor",
-        "path": "public/image/items/armor/whitewhorlarmor.png",
+        "representation": "Whitewhorl Armor",
+        "path": "public/img/items/armor/whitewhorlarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -855,8 +855,8 @@
     },
     {
         "name": "wraitharmor",
-        "representation": "wraitharmor",
-        "path": "public/image/items/armor/wraitharmor.png",
+        "representation": "Wraith Armor",
+        "path": "public/img/items/armor/wraitharmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -869,8 +869,8 @@
     },
     {
         "name": "yojimboarmor",
-        "representation": "yojimboarmor",
-        "path": "public/image/items/armor/yojimboarmor.png",
+        "representation": "Yojimbo Armor",
+        "path": "public/img/items/armor/yojimboarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -883,8 +883,8 @@
     },
     {
         "name": "yoshimitsuarmor",
-        "representation": "yoshimitsuarmor",
-        "path": "public/image/items/armor/yoshimitsuarmor.png",
+        "representation": "Yoshimitsu Armor",
+        "path": "public/img/items/armor/yoshimitsuarmor.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -897,8 +897,8 @@
     },
     {
         "name": "aidbot56",
-        "representation": "aidbot56",
-        "path": "public/image/items/droids/aidbot56.png",
+        "representation": "Aidbot56",
+        "path": "public/img/items/droids/aidbot56.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -911,8 +911,8 @@
     },
     {
         "name": "bat17",
-        "representation": "bat17",
-        "path": "public/image/items/droids/bat17.png",
+        "representation": "Bat17",
+        "path": "public/img/items/droids/bat17.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -925,8 +925,8 @@
     },
     {
         "name": "bogbot67",
-        "representation": "bogbot67",
-        "path": "public/image/items/droids/bogbot67.png",
+        "representation": "Bogbot67",
+        "path": "public/img/items/droids/bogbot67.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -939,8 +939,8 @@
     },
     {
         "name": "bttrfly8",
-        "representation": "bttrfly8",
-        "path": "public/image/items/droids/bttrfly8.png",
+        "representation": "Bttrfly8",
+        "path": "public/img/items/droids/bttrfly8.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -953,8 +953,8 @@
     },
     {
         "name": "bulb88",
-        "representation": "bulb88",
-        "path": "public/image/items/droids/bulb88.png",
+        "representation": "Bulb88",
+        "path": "public/img/items/droids/bulb88.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -967,8 +967,8 @@
     },
     {
         "name": "diamnd66",
-        "representation": "diamnd66",
-        "path": "public/image/items/droids/diamnd66.png",
+        "representation": "Diamnd66",
+        "path": "public/img/items/droids/diamnd66.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -981,8 +981,8 @@
     },
     {
         "name": "dragon67",
-        "representation": "dragon67",
-        "path": "public/image/items/droids/dragon67.png",
+        "representation": "Dragon67",
+        "path": "public/img/items/droids/dragon67.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -995,8 +995,8 @@
     },
     {
         "name": "farmhand78",
-        "representation": "farmhand78",
-        "path": "public/image/items/droids/farmhand78.png",
+        "representation": "Farmhand78",
+        "path": "public/img/items/droids/farmhand78.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1009,8 +1009,8 @@
     },
     {
         "name": "flwr08",
-        "representation": "flwr08",
-        "path": "public/image/items/droids/flwr08.png",
+        "representation": "Flwr08",
+        "path": "public/img/items/droids/flwr08.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1023,8 +1023,8 @@
     },
     {
         "name": "gold15",
-        "representation": "gold15",
-        "path": "public/image/items/droids/gold15.png",
+        "representation": "Gold15",
+        "path": "public/img/items/droids/gold15.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1037,8 +1037,8 @@
     },
     {
         "name": "guardian07",
-        "representation": "guardian07",
-        "path": "public/image/items/droids/guardian07.png",
+        "representation": "Guardian07",
+        "path": "public/img/items/droids/guardian07.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1051,8 +1051,8 @@
     },
     {
         "name": "hellbot57",
-        "representation": "hellbot57",
-        "path": "public/image/items/droids/hellbot57.png",
+        "representation": "Hellbot57",
+        "path": "public/img/items/droids/hellbot57.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1065,8 +1065,8 @@
     },
     {
         "name": "helper55",
-        "representation": "helper55",
-        "path": "public/image/items/droids/helper55.png",
+        "representation": "Helper55",
+        "path": "public/img/items/droids/helper55.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1079,8 +1079,8 @@
     },
     {
         "name": "ibot58",
-        "representation": "ibot58",
-        "path": "public/image/items/droids/ibot58.png",
+        "representation": "Ibot58",
+        "path": "public/img/items/droids/ibot58.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1093,8 +1093,8 @@
     },
     {
         "name": "megazord36",
-        "representation": "megazord36",
-        "path": "public/image/items/droids/megazord36.png",
+        "representation": "Megazord36",
+        "path": "public/img/items/droids/megazord36.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1107,8 +1107,8 @@
     },
     {
         "name": "monolth25",
-        "representation": "monolth25",
-        "path": "public/image/items/droids/monolth25.png",
+        "representation": "Monolth25",
+        "path": "public/img/items/droids/monolth25.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1121,8 +1121,8 @@
     },
     {
         "name": "mrgrgrr05",
-        "representation": "mrgrgrr05",
-        "path": "public/image/items/droids/mrgrgrr05.png",
+        "representation": "Mrgrgrr05",
+        "path": "public/img/items/droids/mrgrgrr05.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1135,8 +1135,8 @@
     },
     {
         "name": "obsidian64",
-        "representation": "obsidian64",
-        "path": "public/image/items/droids/obsidian64.png",
+        "representation": "Obsidian64",
+        "path": "public/img/items/droids/obsidian64.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1149,8 +1149,8 @@
     },
     {
         "name": "overseer06",
-        "representation": "overseer06",
-        "path": "public/image/items/droids/overseer06.png",
+        "representation": "Overseer06",
+        "path": "public/img/items/droids/overseer06.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1163,8 +1163,8 @@
     },
     {
         "name": "prism88",
-        "representation": "prism88",
-        "path": "public/image/items/droids/prism88.png",
+        "representation": "Prism88",
+        "path": "public/img/items/droids/prism88.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1177,8 +1177,8 @@
     },
     {
         "name": "rck22",
-        "representation": "rck22",
-        "path": "public/image/items/droids/rck22.png",
+        "representation": "Rck22",
+        "path": "public/img/items/droids/rck22.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1191,8 +1191,8 @@
     },
     {
         "name": "solar05",
-        "representation": "solar05",
-        "path": "public/image/items/droids/solar05.png",
+        "representation": "Solar05",
+        "path": "public/img/items/droids/solar05.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1205,8 +1205,8 @@
     },
     {
         "name": "steel65",
-        "representation": "steel65",
-        "path": "public/image/items/droids/steel65.png",
+        "representation": "Steel65",
+        "path": "public/img/items/droids/steel65.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1219,8 +1219,8 @@
     },
     {
         "name": "whitemag09",
-        "representation": "whitemag09",
-        "path": "public/image/items/droids/whitemag09.png",
+        "representation": "Whitemag09",
+        "path": "public/img/items/droids/whitemag09.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1233,8 +1233,8 @@
     },
     {
         "name": "wyvrn77",
-        "representation": "wyvrn77",
-        "path": "public/image/items/droids/wyvrn77.png",
+        "representation": "Wyvrn77",
+        "path": "public/img/items/droids/wyvrn77.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1247,8 +1247,8 @@
     },
     {
         "name": "aetherbulb",
-        "representation": "aetherbulb",
-        "path": "public/image/items/drops/aetherbulb.png",
+        "representation": "Aetherbulb",
+        "path": "public/img/items/drops/aetherbulb.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1261,8 +1261,8 @@
     },
     {
         "name": "beastheart",
-        "representation": "beastheart",
-        "path": "public/image/items/drops/beastheart.png",
+        "representation": "Beastheart",
+        "path": "public/img/items/drops/beastheart.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1275,8 +1275,8 @@
     },
     {
         "name": "chaosleaf",
-        "representation": "chaosleaf",
-        "path": "public/image/items/drops/chaosleaf.png",
+        "representation": "Chaosleaf",
+        "path": "public/img/items/drops/chaosleaf.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1289,8 +1289,8 @@
     },
     {
         "name": "chitinfragment",
-        "representation": "chitinfragment",
-        "path": "public/image/items/drops/chitinfragment.png",
+        "representation": "Chitinfragment",
+        "path": "public/img/items/drops/chitinfragment.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1303,8 +1303,8 @@
     },
     {
         "name": "creatureeyeball",
-        "representation": "creatureeyeball",
-        "path": "public/image/items/drops/creatureeyeball.png",
+        "representation": "Creatureeyeball",
+        "path": "public/img/items/drops/creatureeyeball.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1317,8 +1317,8 @@
     },
     {
         "name": "dungbeetle",
-        "representation": "dungbeetle",
-        "path": "public/image/items/drops/dungbeetle.png",
+        "representation": "Dungbeetle",
+        "path": "public/img/items/drops/dungbeetle.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1331,8 +1331,8 @@
     },
     {
         "name": "ectoplasm",
-        "representation": "ectoplasm",
-        "path": "public/image/items/drops/ectoplasm.png",
+        "representation": "Ectoplasm",
+        "path": "public/img/items/drops/ectoplasm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1345,8 +1345,8 @@
     },
     {
         "name": "existencegem",
-        "representation": "existencegem",
-        "path": "public/image/items/drops/existencegem.png",
+        "representation": "Existencegem",
+        "path": "public/img/items/drops/existencegem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1359,8 +1359,8 @@
     },
     {
         "name": "flamethyst",
-        "representation": "flamethyst",
-        "path": "public/image/items/drops/flamethyst.png",
+        "representation": "Flamethyst",
+        "path": "public/img/items/drops/flamethyst.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1373,8 +1373,8 @@
     },
     {
         "name": "flutterfly",
-        "representation": "flutterfly",
-        "path": "public/image/items/drops/flutterfly.png",
+        "representation": "Flutterfly",
+        "path": "public/img/items/drops/flutterfly.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1387,8 +1387,8 @@
     },
     {
         "name": "galacticite",
-        "representation": "galacticite",
-        "path": "public/image/items/drops/galacticite.png",
+        "representation": "Galacticite",
+        "path": "public/img/items/drops/galacticite.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1401,8 +1401,8 @@
     },
     {
         "name": "ghastbug",
-        "representation": "ghastbug",
-        "path": "public/image/items/drops/ghastbug.png",
+        "representation": "Ghastbug",
+        "path": "public/img/items/drops/ghastbug.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1415,8 +1415,8 @@
     },
     {
         "name": "glowfly",
-        "representation": "glowfly",
-        "path": "public/image/items/drops/glowfly.png",
+        "representation": "Glowfly",
+        "path": "public/img/items/drops/glowfly.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1429,8 +1429,8 @@
     },
     {
         "name": "glowshroom",
-        "representation": "glowshroom",
-        "path": "public/image/items/drops/glowshroom.png",
+        "representation": "Glowshroom",
+        "path": "public/img/items/drops/glowshroom.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1443,8 +1443,8 @@
     },
     {
         "name": "monsterclaw",
-        "representation": "monsterclaw",
-        "path": "public/image/items/drops/monsterclaw.png",
+        "representation": "Monsterclaw",
+        "path": "public/img/items/drops/monsterclaw.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1457,8 +1457,8 @@
     },
     {
         "name": "orichalcum",
-        "representation": "orichalcum",
-        "path": "public/image/items/drops/orichalcum.png",
+        "representation": "Orichalcum",
+        "path": "public/img/items/drops/orichalcum.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1471,8 +1471,8 @@
     },
     {
         "name": "planetstone",
-        "representation": "planetstone",
-        "path": "public/image/items/drops/planetstone.png",
+        "representation": "Planetstone",
+        "path": "public/img/items/drops/planetstone.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1485,8 +1485,8 @@
     },
     {
         "name": "plasmamoth",
-        "representation": "plasmamoth",
-        "path": "public/image/items/drops/plasmamoth.png",
+        "representation": "Plasmamoth",
+        "path": "public/img/items/drops/plasmamoth.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1499,8 +1499,8 @@
     },
     {
         "name": "shinyscale",
-        "representation": "shinyscale",
-        "path": "public/image/items/drops/shinyscale.png",
+        "representation": "Shinyscale",
+        "path": "public/img/items/drops/shinyscale.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1513,8 +1513,8 @@
     },
     {
         "name": "spicyseed",
-        "representation": "spicyseed",
-        "path": "public/image/items/drops/spicyseed.png",
+        "representation": "Spicyseed",
+        "path": "public/img/items/drops/spicyseed.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1527,8 +1527,8 @@
     },
     {
         "name": "starfruit",
-        "representation": "starfruit",
-        "path": "public/image/items/drops/starfruit.png",
+        "representation": "Starfruit",
+        "path": "public/img/items/drops/starfruit.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1541,8 +1541,8 @@
     },
     {
         "name": "tastyherb",
-        "representation": "tastyherb",
-        "path": "public/image/items/drops/tastyherb.png",
+        "representation": "Tastyherb",
+        "path": "public/img/items/drops/tastyherb.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1555,8 +1555,8 @@
     },
     {
         "name": "thunderworm",
-        "representation": "thunderworm",
-        "path": "public/image/items/drops/thunderworm.png",
+        "representation": "Thunderworm",
+        "path": "public/img/items/drops/thunderworm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1569,8 +1569,8 @@
     },
     {
         "name": "zephyr",
-        "representation": "zephyr",
-        "path": "public/image/items/drops/zephyr.png",
+        "representation": "Zephyr",
+        "path": "public/img/items/drops/zephyr.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1583,8 +1583,8 @@
     },
     {
         "name": "aetheremblem",
-        "representation": "aetheremblem",
-        "path": "public/image/items/emblems/aetheremblem.png",
+        "representation": "Aether Emblem",
+        "path": "public/img/items/emblems/aetheremblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1597,8 +1597,8 @@
     },
     {
         "name": "beastemblem",
-        "representation": "beastemblem",
-        "path": "public/image/items/emblems/beastemblem.png",
+        "representation": "Beast Emblem",
+        "path": "public/img/items/emblems/beastemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1611,8 +1611,8 @@
     },
     {
         "name": "beetleemblem",
-        "representation": "beetleemblem",
-        "path": "public/image/items/emblems/beetleemblem.png",
+        "representation": "Beetle Emblem",
+        "path": "public/img/items/emblems/beetleemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1625,8 +1625,8 @@
     },
     {
         "name": "chaosemblem",
-        "representation": "chaosemblem",
-        "path": "public/image/items/emblems/chaosemblem.png",
+        "representation": "Chaos Emblem",
+        "path": "public/img/items/emblems/chaosemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1639,8 +1639,8 @@
     },
     {
         "name": "clawemblem",
-        "representation": "clawemblem",
-        "path": "public/image/items/emblems/clawemblem.png",
+        "representation": "Claw Emblem",
+        "path": "public/img/items/emblems/clawemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1653,8 +1653,8 @@
     },
     {
         "name": "ectoplasmemblem",
-        "representation": "ectoplasmemblem",
-        "path": "public/image/items/emblems/ectoplasmemblem.png",
+        "representation": "Ectoplasm Emblem",
+        "path": "public/img/items/emblems/ectoplasmemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1667,8 +1667,8 @@
     },
     {
         "name": "existenceemblem",
-        "representation": "existenceemblem",
-        "path": "public/image/items/emblems/existenceemblem.png",
+        "representation": "Existence Emblem",
+        "path": "public/img/items/emblems/existenceemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1681,8 +1681,8 @@
     },
     {
         "name": "eyeballemblem",
-        "representation": "eyeballemblem",
-        "path": "public/image/items/emblems/eyeballemblem.png",
+        "representation": "Eyeball Emblem",
+        "path": "public/img/items/emblems/eyeballemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1695,8 +1695,8 @@
     },
     {
         "name": "flameemblem",
-        "representation": "flameemblem",
-        "path": "public/image/items/emblems/flameemblem.png",
+        "representation": "Flame Emblem",
+        "path": "public/img/items/emblems/flameemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1709,8 +1709,8 @@
     },
     {
         "name": "flutterflyemblem",
-        "representation": "flutterflyemblem",
-        "path": "public/image/items/emblems/flutterflyemblem.png",
+        "representation": "Flutterfly Emblem",
+        "path": "public/img/items/emblems/flutterflyemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1723,8 +1723,8 @@
     },
     {
         "name": "fragmentemblem",
-        "representation": "fragmentemblem",
-        "path": "public/image/items/emblems/fragmentemblem.png",
+        "representation": "Fragment Emblem",
+        "path": "public/img/items/emblems/fragmentemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1737,8 +1737,8 @@
     },
     {
         "name": "galacticiteemblem",
-        "representation": "galacticiteemblem",
-        "path": "public/image/items/emblems/galacticiteemblem.png",
+        "representation": "Galacticite Emblem",
+        "path": "public/img/items/emblems/galacticiteemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1751,8 +1751,8 @@
     },
     {
         "name": "ghastemblem",
-        "representation": "ghastemblem",
-        "path": "public/image/items/emblems/ghastemblem.png",
+        "representation": "Ghast Emblem",
+        "path": "public/img/items/emblems/ghastemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1765,8 +1765,8 @@
     },
     {
         "name": "glowflyemblem",
-        "representation": "glowflyemblem",
-        "path": "public/image/items/emblems/glowflyemblem.png",
+        "representation": "Glowfly Emblem",
+        "path": "public/img/items/emblems/glowflyemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1779,8 +1779,8 @@
     },
     {
         "name": "herbemblem",
-        "representation": "herbemblem",
-        "path": "public/image/items/emblems/herbemblem.png",
+        "representation": "Herb Emblem",
+        "path": "public/img/items/emblems/herbemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1793,8 +1793,8 @@
     },
     {
         "name": "orichalcumemblem",
-        "representation": "orichalcumemblem",
-        "path": "public/image/items/emblems/orichalcumemblem.png",
+        "representation": "Orichalcum Emblem",
+        "path": "public/img/items/emblems/orichalcumemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1807,8 +1807,8 @@
     },
     {
         "name": "planetemblem",
-        "representation": "planetemblem",
-        "path": "public/image/items/emblems/planetemblem.png",
+        "representation": "Planet Emblem",
+        "path": "public/img/items/emblems/planetemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1821,8 +1821,8 @@
     },
     {
         "name": "plasmaemblem",
-        "representation": "plasmaemblem",
-        "path": "public/image/items/emblems/plasmaemblem.png",
+        "representation": "Plasma Emblem",
+        "path": "public/img/items/emblems/plasmaemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1835,8 +1835,8 @@
     },
     {
         "name": "seedemblem",
-        "representation": "seedemblem",
-        "path": "public/image/items/emblems/seedemblem.png",
+        "representation": "Seed Emblem",
+        "path": "public/img/items/emblems/seedemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1849,8 +1849,8 @@
     },
     {
         "name": "shinyemblem",
-        "representation": "shinyemblem",
-        "path": "public/image/items/emblems/shinyemblem.png",
+        "representation": "Shiny Emblem",
+        "path": "public/img/items/emblems/shinyemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1863,8 +1863,8 @@
     },
     {
         "name": "shroomemblem",
-        "representation": "shroomemblem",
-        "path": "public/image/items/emblems/shroomemblem.png",
+        "representation": "Shroom Emblem",
+        "path": "public/img/items/emblems/shroomemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1877,8 +1877,8 @@
     },
     {
         "name": "staremblem",
-        "representation": "staremblem",
-        "path": "public/image/items/emblems/staremblem.png",
+        "representation": "Star Emblem",
+        "path": "public/img/items/emblems/staremblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1891,8 +1891,8 @@
     },
     {
         "name": "thunderwormemblem",
-        "representation": "thunderwormemblem",
-        "path": "public/image/items/emblems/thunderwormemblem.png",
+        "representation": "Thunderworm Emblem",
+        "path": "public/img/items/emblems/thunderwormemblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1905,8 +1905,8 @@
     },
     {
         "name": "zephyremblem",
-        "representation": "zephyremblem",
-        "path": "public/image/items/emblems/zephyremblem.png",
+        "representation": "Zephyr Emblem",
+        "path": "public/img/items/emblems/zephyremblem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1919,8 +1919,8 @@
     },
     {
         "name": "bonusDEX",
-        "representation": "bonusDEX",
-        "path": "public/image/items/gearmods/bonusDEX.png",
+        "representation": "Bonusdex",
+        "path": "public/img/items/gearmods/bonusDEX.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1933,8 +1933,8 @@
     },
     {
         "name": "bonusFTH",
-        "representation": "bonusFTH",
-        "path": "public/image/items/gearmods/bonusFTH.png",
+        "representation": "Bonusfth",
+        "path": "public/img/items/gearmods/bonusFTH.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1947,8 +1947,8 @@
     },
     {
         "name": "bonusMAG",
-        "representation": "bonusMAG",
-        "path": "public/image/items/gearmods/bonusMAG.png",
+        "representation": "Bonusmag",
+        "path": "public/img/items/gearmods/bonusMAG.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1961,8 +1961,8 @@
     },
     {
         "name": "bonusSTR",
-        "representation": "bonusSTR",
-        "path": "public/image/items/gearmods/bonusSTR.png",
+        "representation": "Bonusstr",
+        "path": "public/img/items/gearmods/bonusSTR.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1975,8 +1975,8 @@
     },
     {
         "name": "bonusTEC",
-        "representation": "bonusTEC",
-        "path": "public/image/items/gearmods/bonusTEC.png",
+        "representation": "Bonustec",
+        "path": "public/img/items/gearmods/bonusTEC.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -1989,8 +1989,8 @@
     },
     {
         "name": "bonusVIT",
-        "representation": "bonusVIT",
-        "path": "public/image/items/gearmods/bonusVIT.png",
+        "representation": "Bonusvit",
+        "path": "public/img/items/gearmods/bonusVIT.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2003,8 +2003,8 @@
     },
     {
         "name": "bugharvest",
-        "representation": "bugharvest",
-        "path": "public/image/items/gearmods/bugharvest.png",
+        "representation": "Bugharvest",
+        "path": "public/img/items/gearmods/bugharvest.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2017,8 +2017,8 @@
     },
     {
         "name": "creditboost",
-        "representation": "creditboost",
-        "path": "public/image/items/gearmods/creditboost.png",
+        "representation": "Creditboost",
+        "path": "public/img/items/gearmods/creditboost.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2031,8 +2031,8 @@
     },
     {
         "name": "critdmg",
-        "representation": "critdmg",
-        "path": "public/image/items/gearmods/critdmg.png",
+        "representation": "Critdmg",
+        "path": "public/img/items/gearmods/critdmg.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2045,8 +2045,8 @@
     },
     {
         "name": "critrate",
-        "representation": "critrate",
-        "path": "public/image/items/gearmods/critrate.png",
+        "representation": "Critrate",
+        "path": "public/img/items/gearmods/critrate.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2059,8 +2059,8 @@
     },
     {
         "name": "dashspeed",
-        "representation": "dashspeed",
-        "path": "public/image/items/gearmods/dashspeed.png",
+        "representation": "Dashspeed",
+        "path": "public/img/items/gearmods/dashspeed.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2073,8 +2073,8 @@
     },
     {
         "name": "expboost",
-        "representation": "expboost",
-        "path": "public/image/items/gearmods/expboost.png",
+        "representation": "Expboost",
+        "path": "public/img/items/gearmods/expboost.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2087,8 +2087,8 @@
     },
     {
         "name": "healthregen",
-        "representation": "healthregen",
-        "path": "public/image/items/gearmods/healthregen.png",
+        "representation": "Healthregen",
+        "path": "public/img/items/gearmods/healthregen.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2101,8 +2101,8 @@
     },
     {
         "name": "jumpheight",
-        "representation": "jumpheight",
-        "path": "public/image/items/gearmods/jumpheight.png",
+        "representation": "Jumpheight",
+        "path": "public/img/items/gearmods/jumpheight.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2115,8 +2115,8 @@
     },
     {
         "name": "manaregen",
-        "representation": "manaregen",
-        "path": "public/image/items/gearmods/manaregen.png",
+        "representation": "Manaregen",
+        "path": "public/img/items/gearmods/manaregen.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2129,8 +2129,8 @@
     },
     {
         "name": "monsterdrops",
-        "representation": "monsterdrops",
-        "path": "public/image/items/gearmods/monsterdrops.png",
+        "representation": "Monsterdrops",
+        "path": "public/img/items/gearmods/monsterdrops.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2143,8 +2143,8 @@
     },
     {
         "name": "movespeed",
-        "representation": "movespeed",
-        "path": "public/image/items/gearmods/movespeed.png",
+        "representation": "Movespeed",
+        "path": "public/img/items/gearmods/movespeed.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2157,8 +2157,8 @@
     },
     {
         "name": "oreharvest",
-        "representation": "oreharvest",
-        "path": "public/image/items/gearmods/oreharvest.png",
+        "representation": "Oreharvest",
+        "path": "public/img/items/gearmods/oreharvest.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2171,8 +2171,8 @@
     },
     {
         "name": "plantharvest",
-        "representation": "plantharvest",
-        "path": "public/image/items/gearmods/plantharvest.png",
+        "representation": "Plantharvest",
+        "path": "public/img/items/gearmods/plantharvest.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2185,8 +2185,8 @@
     },
     {
         "name": "projectilerange",
-        "representation": "projectilerange",
-        "path": "public/image/items/gearmods/projectilerange.png",
+        "representation": "Projectilerange",
+        "path": "public/img/items/gearmods/projectilerange.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2199,8 +2199,8 @@
     },
     {
         "name": "resistfrost",
-        "representation": "resistfrost",
-        "path": "public/image/items/gearmods/resistfrost.png",
+        "representation": "Resistfrost",
+        "path": "public/img/items/gearmods/resistfrost.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2213,8 +2213,8 @@
     },
     {
         "name": "resistheat",
-        "representation": "resistheat",
-        "path": "public/image/items/gearmods/resistheat.png",
+        "representation": "Resistheat",
+        "path": "public/img/items/gearmods/resistheat.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2227,8 +2227,8 @@
     },
     {
         "name": "resistpoison",
-        "representation": "resistpoison",
-        "path": "public/image/items/gearmods/resistpoison.png",
+        "representation": "Resistpoison",
+        "path": "public/img/items/gearmods/resistpoison.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2241,8 +2241,8 @@
     },
     {
         "name": "staminaregen",
-        "representation": "staminaregen",
-        "path": "public/image/items/gearmods/staminaregen.png",
+        "representation": "Staminaregen",
+        "path": "public/img/items/gearmods/staminaregen.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2255,8 +2255,8 @@
     },
     {
         "name": "4thageDEXHelm",
-        "representation": "4thageDEXHelm",
-        "path": "public/image/items/helmets/4thageDEXHelm.png",
+        "representation": "4thagedex Helm",
+        "path": "public/img/items/helmets/4thageDEXHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2269,8 +2269,8 @@
     },
     {
         "name": "4thageMAGHelm",
-        "representation": "4thageMAGHelm",
-        "path": "public/image/items/helmets/4thageMAGHelm.png",
+        "representation": "4thagemag Helm",
+        "path": "public/img/items/helmets/4thageMAGHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2283,8 +2283,8 @@
     },
     {
         "name": "4thageSTRHelm",
-        "representation": "4thageSTRHelm",
-        "path": "public/image/items/helmets/4thageSTRHelm.png",
+        "representation": "4thagestr Helm",
+        "path": "public/img/items/helmets/4thageSTRHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2297,8 +2297,8 @@
     },
     {
         "name": "aetherhelm",
-        "representation": "aetherhelm",
-        "path": "public/image/items/helmets/aetherhelm.png",
+        "representation": "Aether Helm",
+        "path": "public/img/items/helmets/aetherhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2311,8 +2311,8 @@
     },
     {
         "name": "akuhelm",
-        "representation": "akuhelm",
-        "path": "public/image/items/helmets/akuhelm.png",
+        "representation": "Aku Helm",
+        "path": "public/img/items/helmets/akuhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2325,8 +2325,8 @@
     },
     {
         "name": "apocalypehelm",
-        "representation": "apocalypehelm",
-        "path": "public/image/items/helmets/apocalypehelm.png",
+        "representation": "Apocalype Helm",
+        "path": "public/img/items/helmets/apocalypehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2339,8 +2339,8 @@
     },
     {
         "name": "axelarkshelm",
-        "representation": "axelarkshelm",
-        "path": "public/image/items/helmets/axelarkshelm.png",
+        "representation": "Axelarks Helm",
+        "path": "public/img/items/helmets/axelarkshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2353,8 +2353,8 @@
     },
     {
         "name": "azazelshelm",
-        "representation": "azazelshelm",
-        "path": "public/image/items/helmets/azazelshelm.png",
+        "representation": "Azazels Helm",
+        "path": "public/img/items/helmets/azazelshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2367,8 +2367,8 @@
     },
     {
         "name": "baalfogseye",
-        "representation": "baalfogseye",
-        "path": "public/image/items/helmets/baalfogseye.png",
+        "representation": "Baalfogseye",
+        "path": "public/img/items/helmets/baalfogseye.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2381,8 +2381,8 @@
     },
     {
         "name": "bolgonshelm",
-        "representation": "bolgonshelm",
-        "path": "public/image/items/helmets/bolgonshelm.png",
+        "representation": "Bolgons Helm",
+        "path": "public/img/items/helmets/bolgonshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2395,8 +2395,8 @@
     },
     {
         "name": "broccolihelm",
-        "representation": "broccolihelm",
-        "path": "public/image/items/helmets/broccolihelm.png",
+        "representation": "Broccoli Helm",
+        "path": "public/img/items/helmets/broccolihelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2409,8 +2409,8 @@
     },
     {
         "name": "bruiserhelm",
-        "representation": "bruiserhelm",
-        "path": "public/image/items/helmets/bruiserhelm.png",
+        "representation": "Bruiser Helm",
+        "path": "public/img/items/helmets/bruiserhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2423,8 +2423,8 @@
     },
     {
         "name": "bruteHelm",
-        "representation": "bruteHelm",
-        "path": "public/image/items/helmets/bruteHelm.png",
+        "representation": "Brute Helm",
+        "path": "public/img/items/helmets/bruteHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2437,8 +2437,8 @@
     },
     {
         "name": "captainshat",
-        "representation": "captainshat",
-        "path": "public/image/items/helmets/captainshat.png",
+        "representation": "Captainshat",
+        "path": "public/img/items/helmets/captainshat.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2451,8 +2451,8 @@
     },
     {
         "name": "catastrophiahelm",
-        "representation": "catastrophiahelm",
-        "path": "public/image/items/helmets/catastrophiahelm.png",
+        "representation": "Catastrophia Helm",
+        "path": "public/img/items/helmets/catastrophiahelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2465,8 +2465,8 @@
     },
     {
         "name": "championhelm",
-        "representation": "championhelm",
-        "path": "public/image/items/helmets/championhelm.png",
+        "representation": "Champion Helm",
+        "path": "public/img/items/helmets/championhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2479,8 +2479,8 @@
     },
     {
         "name": "chaoshelmet",
-        "representation": "chaoshelmet",
-        "path": "public/image/items/helmets/chaoshelmet.png",
+        "representation": "Chaos Helmet",
+        "path": "public/img/items/helmets/chaoshelmet.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2493,8 +2493,8 @@
     },
     {
         "name": "darkknighthelm",
-        "representation": "darkknighthelm",
-        "path": "public/image/items/helmets/darkknighthelm.png",
+        "representation": "Darkknight Helm",
+        "path": "public/img/items/helmets/darkknighthelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2507,8 +2507,8 @@
     },
     {
         "name": "deathgodhelm",
-        "representation": "deathgodhelm",
-        "path": "public/image/items/helmets/deathgodhelm.png",
+        "representation": "Deathgod Helm",
+        "path": "public/img/items/helmets/deathgodhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2521,8 +2521,8 @@
     },
     {
         "name": "desctructionhelm",
-        "representation": "desctructionhelm",
-        "path": "public/image/items/helmets/desctructionhelm.png",
+        "representation": "Desctruction Helm",
+        "path": "public/img/items/helmets/desctructionhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2535,8 +2535,8 @@
     },
     {
         "name": "deushelm",
-        "representation": "deushelm",
-        "path": "public/image/items/helmets/deushelm.png",
+        "representation": "Deus Helm",
+        "path": "public/img/items/helmets/deushelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2549,8 +2549,8 @@
     },
     {
         "name": "dredgerhelm",
-        "representation": "dredgerhelm",
-        "path": "public/image/items/helmets/dredgerhelm.png",
+        "representation": "Dredger Helm",
+        "path": "public/img/items/helmets/dredgerhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2563,8 +2563,8 @@
     },
     {
         "name": "drifterhelmet",
-        "representation": "drifterhelmet",
-        "path": "public/image/items/helmets/drifterhelmet.png",
+        "representation": "Drifter Helmet",
+        "path": "public/img/items/helmets/drifterhelmet.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2577,8 +2577,8 @@
     },
     {
         "name": "duneclothhelm",
-        "representation": "duneclothhelm",
-        "path": "public/image/items/helmets/duneclothhelm.png",
+        "representation": "Dunecloth Helm",
+        "path": "public/img/items/helmets/duneclothhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2591,8 +2591,8 @@
     },
     {
         "name": "duneriderHood",
-        "representation": "duneriderHood",
-        "path": "public/image/items/helmets/duneriderHood.png",
+        "representation": "Duneriderhood",
+        "path": "public/img/items/helmets/duneriderHood.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2605,8 +2605,8 @@
     },
     {
         "name": "elitehelm",
-        "representation": "elitehelm",
-        "path": "public/image/items/helmets/elitehelm.png",
+        "representation": "Elite Helm",
+        "path": "public/img/items/helmets/elitehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2619,8 +2619,8 @@
     },
     {
         "name": "exodushelm",
-        "representation": "exodushelm",
-        "path": "public/image/items/helmets/exodushelm.png",
+        "representation": "Exodus Helm",
+        "path": "public/img/items/helmets/exodushelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2633,8 +2633,8 @@
     },
     {
         "name": "fellbughelm",
-        "representation": "fellbughelm",
-        "path": "public/image/items/helmets/fellbughelm.png",
+        "representation": "Fellbug Helm",
+        "path": "public/img/items/helmets/fellbughelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2647,8 +2647,8 @@
     },
     {
         "name": "firegodhelm",
-        "representation": "firegodhelm",
-        "path": "public/image/items/helmets/firegodhelm.png",
+        "representation": "Firegod Helm",
+        "path": "public/img/items/helmets/firegodhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2661,8 +2661,8 @@
     },
     {
         "name": "forcehelm",
-        "representation": "forcehelm",
-        "path": "public/image/items/helmets/forcehelm.png",
+        "representation": "Force Helm",
+        "path": "public/img/items/helmets/forcehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2675,8 +2675,8 @@
     },
     {
         "name": "ghostHelm",
-        "representation": "ghostHelm",
-        "path": "public/image/items/helmets/ghostHelm.png",
+        "representation": "Ghost Helm",
+        "path": "public/img/items/helmets/ghostHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2689,8 +2689,8 @@
     },
     {
         "name": "gleadriahelm",
-        "representation": "gleadriahelm",
-        "path": "public/image/items/helmets/gleadriahelm.png",
+        "representation": "Gleadria Helm",
+        "path": "public/img/items/helmets/gleadriahelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2703,8 +2703,8 @@
     },
     {
         "name": "gromwellshelm",
-        "representation": "gromwellshelm",
-        "path": "public/image/items/helmets/gromwellshelm.png",
+        "representation": "Gromwells Helm",
+        "path": "public/img/items/helmets/gromwellshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2717,8 +2717,8 @@
     },
     {
         "name": "helloworldhelm",
-        "representation": "helloworldhelm",
-        "path": "public/image/items/helmets/helloworldhelm.png",
+        "representation": "Helloworld Helm",
+        "path": "public/img/items/helmets/helloworldhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2731,8 +2731,8 @@
     },
     {
         "name": "heroichelm",
-        "representation": "heroichelm",
-        "path": "public/image/items/helmets/heroichelm.png",
+        "representation": "Heroic Helm",
+        "path": "public/img/items/helmets/heroichelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2745,8 +2745,8 @@
     },
     {
         "name": "infernohelm",
-        "representation": "infernohelm",
-        "path": "public/image/items/helmets/infernohelm.png",
+        "representation": "Inferno Helm",
+        "path": "public/img/items/helmets/infernohelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2759,8 +2759,8 @@
     },
     {
         "name": "ironcladhelm",
-        "representation": "ironcladhelm",
-        "path": "public/image/items/helmets/ironcladhelm.png",
+        "representation": "Ironclad Helm",
+        "path": "public/img/items/helmets/ironcladhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2773,8 +2773,8 @@
     },
     {
         "name": "ironforgehelm",
-        "representation": "ironforgehelm",
-        "path": "public/image/items/helmets/ironforgehelm.png",
+        "representation": "Ironforge Helm",
+        "path": "public/img/items/helmets/ironforgehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2787,8 +2787,8 @@
     },
     {
         "name": "isaacHelm",
-        "representation": "isaacHelm",
-        "path": "public/image/items/helmets/isaacHelm.png",
+        "representation": "Isaac Helm",
+        "path": "public/img/items/helmets/isaacHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2801,8 +2801,8 @@
     },
     {
         "name": "ithicashelm",
-        "representation": "ithicashelm",
-        "path": "public/image/items/helmets/ithicashelm.png",
+        "representation": "Ithicas Helm",
+        "path": "public/img/items/helmets/ithicashelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2815,8 +2815,8 @@
     },
     {
         "name": "kawaiilemon",
-        "representation": "kawaiilemon",
-        "path": "public/image/items/helmets/kawaiilemon.png",
+        "representation": "Kawaiilemon",
+        "path": "public/img/items/helmets/kawaiilemon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2829,8 +2829,8 @@
     },
     {
         "name": "krabshellhelm",
-        "representation": "krabshellhelm",
-        "path": "public/image/items/helmets/krabshellhelm.png",
+        "representation": "Krabshell Helm",
+        "path": "public/img/items/helmets/krabshellhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2843,8 +2843,8 @@
     },
     {
         "name": "krakenhelm",
-        "representation": "krakenhelm",
-        "path": "public/image/items/helmets/krakenhelm.png",
+        "representation": "Kraken Helm",
+        "path": "public/img/items/helmets/krakenhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2857,8 +2857,8 @@
     },
     {
         "name": "leviathanhelm",
-        "representation": "leviathanhelm",
-        "path": "public/image/items/helmets/leviathanhelm.png",
+        "representation": "Leviathan Helm",
+        "path": "public/img/items/helmets/leviathanhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2871,8 +2871,8 @@
     },
     {
         "name": "maelstormhelm",
-        "representation": "maelstormhelm",
-        "path": "public/image/items/helmets/maelstormhelm.png",
+        "representation": "Maelstorm Helm",
+        "path": "public/img/items/helmets/maelstormhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2885,8 +2885,8 @@
     },
     {
         "name": "mightshroomhelm",
-        "representation": "mightshroomhelm",
-        "path": "public/image/items/helmets/mightshroomhelm.png",
+        "representation": "Mightshroom Helm",
+        "path": "public/img/items/helmets/mightshroomhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2899,8 +2899,8 @@
     },
     {
         "name": "mykonogorehelm",
-        "representation": "mykonogorehelm",
-        "path": "public/image/items/helmets/mykonogorehelm.png",
+        "representation": "Mykonogore Helm",
+        "path": "public/img/items/helmets/mykonogorehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2913,8 +2913,8 @@
     },
     {
         "name": "nautilusHelm",
-        "representation": "nautilusHelm",
-        "path": "public/image/items/helmets/nautilusHelm.png",
+        "representation": "Nautilus Helm",
+        "path": "public/img/items/helmets/nautilusHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2927,8 +2927,8 @@
     },
     {
         "name": "nolicbeats",
-        "representation": "nolicbeats",
-        "path": "public/image/items/helmets/nolicbeats.png",
+        "representation": "Nolicbeats",
+        "path": "public/img/items/helmets/nolicbeats.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2941,8 +2941,8 @@
     },
     {
         "name": "oldchapshat",
-        "representation": "oldchapshat",
-        "path": "public/image/items/helmets/oldchapshat.png",
+        "representation": "Oldchapshat",
+        "path": "public/img/items/helmets/oldchapshat.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2955,8 +2955,8 @@
     },
     {
         "name": "onihelm",
-        "representation": "onihelm",
-        "path": "public/image/items/helmets/onihelm.png",
+        "representation": "Oni Helm",
+        "path": "public/img/items/helmets/onihelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2969,8 +2969,8 @@
     },
     {
         "name": "onslaughthelm",
-        "representation": "onslaughthelm",
-        "path": "public/image/items/helmets/onslaughthelm.png",
+        "representation": "Onslaught Helm",
+        "path": "public/img/items/helmets/onslaughthelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2983,8 +2983,8 @@
     },
     {
         "name": "overworldhelm",
-        "representation": "overworldhelm",
-        "path": "public/image/items/helmets/overworldhelm.png",
+        "representation": "Overworld Helm",
+        "path": "public/img/items/helmets/overworldhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -2997,8 +2997,8 @@
     },
     {
         "name": "percevalshelm",
-        "representation": "percevalshelm",
-        "path": "public/image/items/helmets/percevalshelm.png",
+        "representation": "Percevals Helm",
+        "path": "public/img/items/helmets/percevalshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3011,8 +3011,8 @@
     },
     {
         "name": "plasmahelm",
-        "representation": "plasmahelm",
-        "path": "public/image/items/helmets/plasmahelm.png",
+        "representation": "Plasma Helm",
+        "path": "public/img/items/helmets/plasmahelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3025,8 +3025,8 @@
     },
     {
         "name": "pyroclasmhelm",
-        "representation": "pyroclasmhelm",
-        "path": "public/image/items/helmets/pyroclasmhelm.png",
+        "representation": "Pyroclasm Helm",
+        "path": "public/img/items/helmets/pyroclasmhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3039,8 +3039,8 @@
     },
     {
         "name": "queenshelm",
-        "representation": "queenshelm",
-        "path": "public/image/items/helmets/queenshelm.png",
+        "representation": "Queens Helm",
+        "path": "public/img/items/helmets/queenshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3053,8 +3053,8 @@
     },
     {
         "name": "rapturehelm",
-        "representation": "rapturehelm",
-        "path": "public/image/items/helmets/rapturehelm.png",
+        "representation": "Rapture Helm",
+        "path": "public/img/items/helmets/rapturehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3067,8 +3067,8 @@
     },
     {
         "name": "reconhelm",
-        "representation": "reconhelm",
-        "path": "public/image/items/helmets/reconhelm.png",
+        "representation": "Recon Helm",
+        "path": "public/img/items/helmets/reconhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3081,8 +3081,8 @@
     },
     {
         "name": "recruitHelmet",
-        "representation": "recruitHelmet",
-        "path": "public/image/items/helmets/recruitHelmet.png",
+        "representation": "Recruit Helmet",
+        "path": "public/img/items/helmets/recruitHelmet.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3095,8 +3095,8 @@
     },
     {
         "name": "ringaboltshelm",
-        "representation": "ringaboltshelm",
-        "path": "public/image/items/helmets/ringaboltshelm.png",
+        "representation": "Ringabolts Helm",
+        "path": "public/img/items/helmets/ringaboltshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3109,8 +3109,8 @@
     },
     {
         "name": "ruinhelm",
-        "representation": "ruinhelm",
-        "path": "public/image/items/helmets/ruinhelm.png",
+        "representation": "Ruin Helm",
+        "path": "public/img/items/helmets/ruinhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3123,8 +3123,8 @@
     },
     {
         "name": "shatterspellhelm",
-        "representation": "shatterspellhelm",
-        "path": "public/image/items/helmets/shatterspellhelm.png",
+        "representation": "Shatterspell Helm",
+        "path": "public/img/items/helmets/shatterspellhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3137,8 +3137,8 @@
     },
     {
         "name": "siegehelm",
-        "representation": "siegehelm",
-        "path": "public/image/items/helmets/siegehelm.png",
+        "representation": "Siege Helm",
+        "path": "public/img/items/helmets/siegehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3151,8 +3151,8 @@
     },
     {
         "name": "slimecrafthelm",
-        "representation": "slimecrafthelm",
-        "path": "public/image/items/helmets/slimecrafthelm.png",
+        "representation": "Slimecraft Helm",
+        "path": "public/img/items/helmets/slimecrafthelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3165,8 +3165,8 @@
     },
     {
         "name": "titanHelm",
-        "representation": "titanHelm",
-        "path": "public/image/items/helmets/titanHelm.png",
+        "representation": "Titan Helm",
+        "path": "public/img/items/helmets/titanHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3179,8 +3179,8 @@
     },
     {
         "name": "towermagehelm",
-        "representation": "towermagehelm",
-        "path": "public/image/items/helmets/towermagehelm.png",
+        "representation": "Towermage Helm",
+        "path": "public/img/items/helmets/towermagehelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3193,8 +3193,8 @@
     },
     {
         "name": "ultimahelm",
-        "representation": "ultimahelm",
-        "path": "public/image/items/helmets/ultimahelm.png",
+        "representation": "Ultima Helm",
+        "path": "public/img/items/helmets/ultimahelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3207,8 +3207,8 @@
     },
     {
         "name": "ultromHelm",
-        "representation": "ultromHelm",
-        "path": "public/image/items/helmets/ultromHelm.png",
+        "representation": "Ultrom Helm",
+        "path": "public/img/items/helmets/ultromHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3221,8 +3221,8 @@
     },
     {
         "name": "urugorakshat",
-        "representation": "urugorakshat",
-        "path": "public/image/items/helmets/urugorakshat.png",
+        "representation": "Urugorakshat",
+        "path": "public/img/items/helmets/urugorakshat.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3235,8 +3235,8 @@
     },
     {
         "name": "vigilanteHelm",
-        "representation": "vigilanteHelm",
-        "path": "public/image/items/helmets/vigilanteHelm.png",
+        "representation": "Vigilante Helm",
+        "path": "public/img/items/helmets/vigilanteHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3249,8 +3249,8 @@
     },
     {
         "name": "vorpalHood",
-        "representation": "vorpalHood",
-        "path": "public/image/items/helmets/vorpalHood.png",
+        "representation": "Vorpalhood",
+        "path": "public/img/items/helmets/vorpalHood.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3263,8 +3263,8 @@
     },
     {
         "name": "voyagerhelm",
-        "representation": "voyagerhelm",
-        "path": "public/image/items/helmets/voyagerhelm.png",
+        "representation": "Voyager Helm",
+        "path": "public/img/items/helmets/voyagerhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3277,8 +3277,8 @@
     },
     {
         "name": "wallaceshelm",
-        "representation": "wallaceshelm",
-        "path": "public/image/items/helmets/wallaceshelm.png",
+        "representation": "Wallaces Helm",
+        "path": "public/img/items/helmets/wallaceshelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3291,8 +3291,8 @@
     },
     {
         "name": "whitewhorlhelm",
-        "representation": "whitewhorlhelm",
-        "path": "public/image/items/helmets/whitewhorlhelm.png",
+        "representation": "Whitewhorl Helm",
+        "path": "public/img/items/helmets/whitewhorlhelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3305,8 +3305,8 @@
     },
     {
         "name": "wraithHelm",
-        "representation": "wraithHelm",
-        "path": "public/image/items/helmets/wraithHelm.png",
+        "representation": "Wraith Helm",
+        "path": "public/img/items/helmets/wraithHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3319,8 +3319,8 @@
     },
     {
         "name": "yojimbohelm",
-        "representation": "yojimbohelm",
-        "path": "public/image/items/helmets/yojimbohelm.png",
+        "representation": "Yojimbo Helm",
+        "path": "public/img/items/helmets/yojimbohelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3333,8 +3333,8 @@
     },
     {
         "name": "yoshimitsuHelm",
-        "representation": "yoshimitsuHelm",
-        "path": "public/image/items/helmets/yoshimitsuHelm.png",
+        "representation": "Yoshimitsu Helm",
+        "path": "public/img/items/helmets/yoshimitsuHelm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3347,8 +3347,8 @@
     },
     {
         "name": "i44",
-        "representation": "i44",
-        "path": "public/image/items/misc/i44.png",
+        "representation": "I44",
+        "path": "public/img/items/misc/i44.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3361,8 +3361,8 @@
     },
     {
         "name": "i45",
-        "representation": "i45",
-        "path": "public/image/items/misc/i45.png",
+        "representation": "I45",
+        "path": "public/img/items/misc/i45.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3375,8 +3375,8 @@
     },
     {
         "name": "i46",
-        "representation": "i46",
-        "path": "public/image/items/misc/i46.png",
+        "representation": "I46",
+        "path": "public/img/items/misc/i46.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3389,8 +3389,8 @@
     },
     {
         "name": "i47",
-        "representation": "i47",
-        "path": "public/image/items/misc/i47.png",
+        "representation": "I47",
+        "path": "public/img/items/misc/i47.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3403,8 +3403,8 @@
     },
     {
         "name": "i48",
-        "representation": "i48",
-        "path": "public/image/items/misc/i48.png",
+        "representation": "I48",
+        "path": "public/img/items/misc/i48.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3417,8 +3417,8 @@
     },
     {
         "name": "i49",
-        "representation": "i49",
-        "path": "public/image/items/misc/i49.png",
+        "representation": "I49",
+        "path": "public/img/items/misc/i49.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3431,8 +3431,8 @@
     },
     {
         "name": "i50",
-        "representation": "i50",
-        "path": "public/image/items/misc/i50.png",
+        "representation": "I50",
+        "path": "public/img/items/misc/i50.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3445,8 +3445,8 @@
     },
     {
         "name": "i52",
-        "representation": "i52",
-        "path": "public/image/items/misc/i52.png",
+        "representation": "I52",
+        "path": "public/img/items/misc/i52.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3459,8 +3459,8 @@
     },
     {
         "name": "i53",
-        "representation": "i53",
-        "path": "public/image/items/misc/i53.png",
+        "representation": "I53",
+        "path": "public/img/items/misc/i53.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3473,8 +3473,8 @@
     },
     {
         "name": "i54",
-        "representation": "i54",
-        "path": "public/image/items/misc/i54.png",
+        "representation": "I54",
+        "path": "public/img/items/misc/i54.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3487,8 +3487,8 @@
     },
     {
         "name": "i55",
-        "representation": "i55",
-        "path": "public/image/items/misc/i55.png",
+        "representation": "I55",
+        "path": "public/img/items/misc/i55.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3501,8 +3501,8 @@
     },
     {
         "name": "i56",
-        "representation": "i56",
-        "path": "public/image/items/misc/i56.png",
+        "representation": "I56",
+        "path": "public/img/items/misc/i56.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3515,8 +3515,8 @@
     },
     {
         "name": "i57",
-        "representation": "i57",
-        "path": "public/image/items/misc/i57.png",
+        "representation": "I57",
+        "path": "public/img/items/misc/i57.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3529,8 +3529,8 @@
     },
     {
         "name": "i58",
-        "representation": "i58",
-        "path": "public/image/items/misc/i58.png",
+        "representation": "I58",
+        "path": "public/img/items/misc/i58.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3543,8 +3543,8 @@
     },
     {
         "name": "i59",
-        "representation": "i59",
-        "path": "public/image/items/misc/i59.png",
+        "representation": "I59",
+        "path": "public/img/items/misc/i59.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3557,8 +3557,8 @@
     },
     {
         "name": "aetherdew",
-        "representation": "aetherdew",
-        "path": "public/image/items/potions/aetherdew.png",
+        "representation": "Aetherdew",
+        "path": "public/img/items/potions/aetherdew.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3571,8 +3571,8 @@
     },
     {
         "name": "elixir",
-        "representation": "elixir",
-        "path": "public/image/items/potions/elixir.png",
+        "representation": "Elixir",
+        "path": "public/img/items/potions/elixir.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3585,8 +3585,8 @@
     },
     {
         "name": "frostpotion",
-        "representation": "frostpotion",
-        "path": "public/image/items/potions/frostpotion.png",
+        "representation": "Frost Potion",
+        "path": "public/img/items/potions/frostpotion.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3599,8 +3599,8 @@
     },
     {
         "name": "healthpotionlarge",
-        "representation": "healthpotionlarge",
-        "path": "public/image/items/potions/healthpotionlarge.png",
+        "representation": "Health PotionLarge",
+        "path": "public/img/items/potions/healthpotionlarge.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3613,8 +3613,8 @@
     },
     {
         "name": "healthpotionmedium",
-        "representation": "healthpotionmedium",
-        "path": "public/image/items/potions/healthpotionmedium.png",
+        "representation": "Health PotionMedium",
+        "path": "public/img/items/potions/healthpotionmedium.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3627,8 +3627,8 @@
     },
     {
         "name": "healthpotionsmall",
-        "representation": "healthpotionsmall",
-        "path": "public/image/items/potions/healthpotionsmall.png",
+        "representation": "Health PotionSmall",
+        "path": "public/img/items/potions/healthpotionsmall.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3641,8 +3641,8 @@
     },
     {
         "name": "heatpotion",
-        "representation": "heatpotion",
-        "path": "public/image/items/potions/heatpotion.png",
+        "representation": "Heat Potion",
+        "path": "public/img/items/potions/heatpotion.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3655,8 +3655,8 @@
     },
     {
         "name": "manapotionlarge",
-        "representation": "manapotionlarge",
-        "path": "public/image/items/potions/manapotionlarge.png",
+        "representation": "Mana PotionLarge",
+        "path": "public/img/items/potions/manapotionlarge.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3669,8 +3669,8 @@
     },
     {
         "name": "manapotionmedium",
-        "representation": "manapotionmedium",
-        "path": "public/image/items/potions/manapotionmedium.png",
+        "representation": "Mana PotionMedium",
+        "path": "public/img/items/potions/manapotionmedium.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3683,8 +3683,8 @@
     },
     {
         "name": "manapotionsmall",
-        "representation": "manapotionsmall",
-        "path": "public/image/items/potions/manapotionsmall.png",
+        "representation": "Mana PotionSmall",
+        "path": "public/img/items/potions/manapotionsmall.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3697,8 +3697,8 @@
     },
     {
         "name": "nulldmgpotion",
-        "representation": "nulldmgpotion",
-        "path": "public/image/items/potions/nulldmgpotion.png",
+        "representation": "Nulldmg Potion",
+        "path": "public/img/items/potions/nulldmgpotion.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3711,8 +3711,8 @@
     },
     {
         "name": "poisonpotion",
-        "representation": "poisonpotion",
-        "path": "public/image/items/potions/poisonpotion.png",
+        "representation": "Poison Potion",
+        "path": "public/img/items/potions/poisonpotion.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3725,8 +3725,8 @@
     },
     {
         "name": "staminapotionlarge",
-        "representation": "staminapotionlarge",
-        "path": "public/image/items/potions/staminapotionlarge.png",
+        "representation": "Stamina PotionLarge",
+        "path": "public/img/items/potions/staminapotionlarge.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3739,8 +3739,8 @@
     },
     {
         "name": "staminapotionmedium",
-        "representation": "staminapotionmedium",
-        "path": "public/image/items/potions/staminapotionmedium.png",
+        "representation": "Stamina PotionMedium",
+        "path": "public/img/items/potions/staminapotionmedium.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3753,8 +3753,8 @@
     },
     {
         "name": "staminapotionsmall",
-        "representation": "staminapotionsmall",
-        "path": "public/image/items/potions/staminapotionsmall.png",
+        "representation": "Stamina PotionSmall",
+        "path": "public/img/items/potions/staminapotionsmall.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3767,8 +3767,8 @@
     },
     {
         "name": "aetheliteprism",
-        "representation": "aetheliteprism",
-        "path": "public/image/items/prisms/aetheliteprism.png",
+        "representation": "Aetheliteprism",
+        "path": "public/img/items/prisms/aetheliteprism.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3781,8 +3781,22 @@
     },
     {
         "name": "aetheliteshard",
-        "representation": "aetheliteshard",
-        "path": "public/image/items/prisms/aetheliteshard.png",
+        "representation": "Aetheliteshard",
+        "path": "public/img/items/prisms/aetheliteshard.png",
+        "stats": {
+            "str": 0,
+            "dex": 0,
+            "vit": 0,
+            "tec": 0,
+            "fth": 0,
+            "mag": 0
+        },
+        "craftedWith": []
+    },
+    {
+        "name": "darkenedprism",
+        "representation": "Darkenedprism",
+        "path": "public/img/items/prisms/darkenedprism.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3795,8 +3809,8 @@
     },
     {
         "name": "darkenedshard",
-        "representation": "darkenedshard",
-        "path": "public/image/items/prisms/darkenedshard.png",
+        "representation": "Darkenedshard",
+        "path": "public/img/items/prisms/darkenedshard.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3808,23 +3822,9 @@
         "craftedWith": []
     },
     {
-        "name": "i90",
-        "representation": "i90",
-        "path": "public/image/items/prisms/i90.png",
-        "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
-        },
-        "craftedWith": []
-    },
-    {
-        "name": "i91",
-        "representation": "i91",
-        "path": "public/image/items/prisms/i91.png",
+        "name": "omegaprism",
+        "representation": "Omegaprism",
+        "path": "public/img/items/prisms/omegaprism.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3837,8 +3837,8 @@
     },
     {
         "name": "omegashard",
-        "representation": "omegashard",
-        "path": "public/image/items/prisms/omegashard.png",
+        "representation": "Omegashard",
+        "path": "public/img/items/prisms/omegashard.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3851,8 +3851,8 @@
     },
     {
         "name": "anelicering",
-        "representation": "anelicering",
-        "path": "public/image/items/rings/anelicering.png",
+        "representation": "Anelice Ring",
+        "path": "public/img/items/rings/anelicering.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3865,8 +3865,8 @@
     },
     {
         "name": "brymring",
-        "representation": "brymring",
-        "path": "public/image/items/rings/brymring.png",
+        "representation": "Brym Ring",
+        "path": "public/img/items/rings/brymring.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3879,8 +3879,8 @@
     },
     {
         "name": "ezeriusring",
-        "representation": "ezeriusring",
-        "path": "public/image/items/rings/ezeriusring.png",
+        "representation": "Ezerius Ring",
+        "path": "public/img/items/rings/ezeriusring.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3893,8 +3893,8 @@
     },
     {
         "name": "falstadtring",
-        "representation": "falstadtring",
-        "path": "public/image/items/rings/falstadtring.png",
+        "representation": "Falstadt Ring",
+        "path": "public/img/items/rings/falstadtring.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3907,8 +3907,8 @@
     },
     {
         "name": "gallahadring",
-        "representation": "gallahadring",
-        "path": "public/image/items/rings/gallahadring.png",
+        "representation": "Gallahad Ring",
+        "path": "public/img/items/rings/gallahadring.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3921,8 +3921,8 @@
     },
     {
         "name": "gromwellring",
-        "representation": "gromwellring",
-        "path": "public/image/items/rings/gromwellring.png",
+        "representation": "Gromwell Ring",
+        "path": "public/img/items/rings/gromwellring.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3935,8 +3935,8 @@
     },
     {
         "name": "percevalring",
-        "representation": "percevalring",
-        "path": "public/image/items/rings/percevalring.png",
+        "representation": "Perceval Ring",
+        "path": "public/img/items/rings/percevalring.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3949,8 +3949,8 @@
     },
     {
         "name": "roehnring",
-        "representation": "roehnring",
-        "path": "public/image/items/rings/roehnring.png",
+        "representation": "Roehn Ring",
+        "path": "public/img/items/rings/roehnring.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3963,8 +3963,8 @@
     },
     {
         "name": "4thageshield",
-        "representation": "4thageshield",
-        "path": "public/image/items/shields/4thageshield.png",
+        "representation": "4thage Shield",
+        "path": "public/img/items/shields/4thageshield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3977,8 +3977,8 @@
     },
     {
         "name": "aegis",
-        "representation": "aegis",
-        "path": "public/image/items/shields/aegis.png",
+        "representation": "Aegis",
+        "path": "public/img/items/shields/aegis.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -3991,8 +3991,8 @@
     },
     {
         "name": "aethershield",
-        "representation": "aethershield",
-        "path": "public/image/items/shields/aethershield.png",
+        "representation": "Aether Shield",
+        "path": "public/img/items/shields/aethershield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4005,8 +4005,8 @@
     },
     {
         "name": "aethershield_2",
-        "representation": "aethershield_2",
-        "path": "public/image/items/shields/aethershield_2.png",
+        "representation": "Aether Shield_2",
+        "path": "public/img/items/shields/aethershield_2.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4019,8 +4019,8 @@
     },
     {
         "name": "arcsbuckler",
-        "representation": "arcsbuckler",
-        "path": "public/image/items/shields/arcsbuckler.png",
+        "representation": "Arcsbuckler",
+        "path": "public/img/items/shields/arcsbuckler.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4033,8 +4033,8 @@
     },
     {
         "name": "bloodshield",
-        "representation": "bloodshield",
-        "path": "public/image/items/shields/bloodshield.png",
+        "representation": "Blood Shield",
+        "path": "public/img/items/shields/bloodshield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4047,8 +4047,8 @@
     },
     {
         "name": "bloodshield_2",
-        "representation": "bloodshield_2",
-        "path": "public/image/items/shields/bloodshield_2.png",
+        "representation": "Blood Shield_2",
+        "path": "public/img/items/shields/bloodshield_2.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4061,8 +4061,8 @@
     },
     {
         "name": "boldshield",
-        "representation": "boldshield",
-        "path": "public/image/items/shields/boldshield.png",
+        "representation": "Bold Shield",
+        "path": "public/img/items/shields/boldshield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4075,8 +4075,8 @@
     },
     {
         "name": "cadetbuckler",
-        "representation": "cadetbuckler",
-        "path": "public/image/items/shields/cadetbuckler.png",
+        "representation": "Cadetbuckler",
+        "path": "public/img/items/shields/cadetbuckler.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4089,8 +4089,8 @@
     },
     {
         "name": "championshield",
-        "representation": "championshield",
-        "path": "public/image/items/shields/championshield.png",
+        "representation": "Champion Shield",
+        "path": "public/img/items/shields/championshield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4103,8 +4103,8 @@
     },
     {
         "name": "eagleshield",
-        "representation": "eagleshield",
-        "path": "public/image/items/shields/eagleshield.png",
+        "representation": "Eagle Shield",
+        "path": "public/img/items/shields/eagleshield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4117,8 +4117,8 @@
     },
     {
         "name": "forceguard",
-        "representation": "forceguard",
-        "path": "public/image/items/shields/forceguard.png",
+        "representation": "Forceguard",
+        "path": "public/img/items/shields/forceguard.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4131,8 +4131,8 @@
     },
     {
         "name": "fungishield",
-        "representation": "fungishield",
-        "path": "public/image/items/shields/fungishield.png",
+        "representation": "Fungi Shield",
+        "path": "public/img/items/shields/fungishield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4145,8 +4145,8 @@
     },
     {
         "name": "gallatriasigil",
-        "representation": "gallatriasigil",
-        "path": "public/image/items/shields/gallatriasigil.png",
+        "representation": "Gallatriasigil",
+        "path": "public/img/items/shields/gallatriasigil.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4159,8 +4159,8 @@
     },
     {
         "name": "heatershield",
-        "representation": "heatershield",
-        "path": "public/image/items/shields/heatershield.png",
+        "representation": "Heater Shield",
+        "path": "public/img/items/shields/heatershield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4173,8 +4173,8 @@
     },
     {
         "name": "kingscrest",
-        "representation": "kingscrest",
-        "path": "public/image/items/shields/kingscrest.png",
+        "representation": "Kingscrest",
+        "path": "public/img/items/shields/kingscrest.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4187,8 +4187,8 @@
     },
     {
         "name": "leaderscrest",
-        "representation": "leaderscrest",
-        "path": "public/image/items/shields/leaderscrest.png",
+        "representation": "Leaderscrest",
+        "path": "public/img/items/shields/leaderscrest.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4201,8 +4201,8 @@
     },
     {
         "name": "oathkeeper",
-        "representation": "oathkeeper",
-        "path": "public/image/items/shields/oathkeeper.png",
+        "representation": "Oathkeeper",
+        "path": "public/img/items/shields/oathkeeper.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4215,8 +4215,8 @@
     },
     {
         "name": "peacekeeper",
-        "representation": "peacekeeper",
-        "path": "public/image/items/shields/peacekeeper.png",
+        "representation": "Peacekeeper",
+        "path": "public/img/items/shields/peacekeeper.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4229,8 +4229,8 @@
     },
     {
         "name": "purifier",
-        "representation": "purifier",
-        "path": "public/image/items/shields/purifier.png",
+        "representation": "Purifier",
+        "path": "public/img/items/shields/purifier.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4243,8 +4243,8 @@
     },
     {
         "name": "scarabshell",
-        "representation": "scarabshell",
-        "path": "public/image/items/shields/scarabshell.png",
+        "representation": "Scarabshell",
+        "path": "public/img/items/shields/scarabshell.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4257,8 +4257,8 @@
     },
     {
         "name": "soulinfusion",
-        "representation": "soulinfusion",
-        "path": "public/image/items/shields/soulinfusion.png",
+        "representation": "Soulinfusion",
+        "path": "public/img/items/shields/soulinfusion.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4271,8 +4271,8 @@
     },
     {
         "name": "spikedlightning",
-        "representation": "spikedlightning",
-        "path": "public/image/items/shields/spikedlightning.png",
+        "representation": "Spikedlightning",
+        "path": "public/img/items/shields/spikedlightning.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4285,8 +4285,8 @@
     },
     {
         "name": "sunlight",
-        "representation": "sunlight",
-        "path": "public/image/items/shields/sunlight.png",
+        "representation": "Sunlight",
+        "path": "public/img/items/shields/sunlight.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4299,8 +4299,8 @@
     },
     {
         "name": "supernova",
-        "representation": "supernova",
-        "path": "public/image/items/shields/supernova.png",
+        "representation": "Supernova",
+        "path": "public/img/items/shields/supernova.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4313,8 +4313,8 @@
     },
     {
         "name": "toweraegis",
-        "representation": "toweraegis",
-        "path": "public/image/items/shields/toweraegis.png",
+        "representation": "Toweraegis",
+        "path": "public/img/items/shields/toweraegis.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4327,8 +4327,8 @@
     },
     {
         "name": "twighlightshield",
-        "representation": "twighlightshield",
-        "path": "public/image/items/shields/twighlightshield.png",
+        "representation": "Twighlight Shield",
+        "path": "public/img/items/shields/twighlightshield.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4342,7 +4342,7 @@
     {
         "name": "4thagecannon",
         "representation": "4thagecannon",
-        "path": "public/image/items/weapons/4thagecannon.png",
+        "path": "public/img/items/weapons/4thagecannon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4356,7 +4356,7 @@
     {
         "name": "4thagegauntlet",
         "representation": "4thagegauntlet",
-        "path": "public/image/items/weapons/4thagegauntlet.png",
+        "path": "public/img/items/weapons/4thagegauntlet.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4370,7 +4370,7 @@
     {
         "name": "4thagegun",
         "representation": "4thagegun",
-        "path": "public/image/items/weapons/4thagegun.png",
+        "path": "public/img/items/weapons/4thagegun.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4384,7 +4384,7 @@
     {
         "name": "4thagelance",
         "representation": "4thagelance",
-        "path": "public/image/items/weapons/4thagelance.png",
+        "path": "public/img/items/weapons/4thagelance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4398,7 +4398,7 @@
     {
         "name": "4thagestaff",
         "representation": "4thagestaff",
-        "path": "public/image/items/weapons/4thagestaff.png",
+        "path": "public/img/items/weapons/4thagestaff.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4412,7 +4412,7 @@
     {
         "name": "4thagesword",
         "representation": "4thagesword",
-        "path": "public/image/items/weapons/4thagesword.png",
+        "path": "public/img/items/weapons/4thagesword.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4425,8 +4425,8 @@
     },
     {
         "name": "abraxas",
-        "representation": "abraxas",
-        "path": "public/image/items/weapons/abraxas.png",
+        "representation": "Abraxas",
+        "path": "public/img/items/weapons/abraxas.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4439,8 +4439,8 @@
     },
     {
         "name": "aetherblade",
-        "representation": "aetherblade",
-        "path": "public/image/items/weapons/aetherblade.png",
+        "representation": "Aetherblade",
+        "path": "public/img/items/weapons/aetherblade.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4453,8 +4453,8 @@
     },
     {
         "name": "aethercannon",
-        "representation": "aethercannon",
-        "path": "public/image/items/weapons/aethercannon.png",
+        "representation": "Aethercannon",
+        "path": "public/img/items/weapons/aethercannon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4467,8 +4467,8 @@
     },
     {
         "name": "aethergunmkIV",
-        "representation": "aethergunmkIV",
-        "path": "public/image/items/weapons/aethergunmkIV.png",
+        "representation": "Aethergunmkiv",
+        "path": "public/img/items/weapons/aethergunmkIV.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4481,8 +4481,8 @@
     },
     {
         "name": "aetherlance",
-        "representation": "aetherlance",
-        "path": "public/image/items/weapons/aetherlance.png",
+        "representation": "Aetherlance",
+        "path": "public/img/items/weapons/aetherlance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4495,8 +4495,8 @@
     },
     {
         "name": "aetherstaff",
-        "representation": "aetherstaff",
-        "path": "public/image/items/weapons/aetherstaff.png",
+        "representation": "Aetherstaff",
+        "path": "public/img/items/weapons/aetherstaff.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4509,8 +4509,8 @@
     },
     {
         "name": "airsplitter",
-        "representation": "airsplitter",
-        "path": "public/image/items/weapons/airsplitter.png",
+        "representation": "Airsplitter",
+        "path": "public/img/items/weapons/airsplitter.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4523,8 +4523,8 @@
     },
     {
         "name": "annihilation",
-        "representation": "annihilation",
-        "path": "public/image/items/weapons/annihilation.png",
+        "representation": "Annihilation",
+        "path": "public/img/items/weapons/annihilation.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4537,8 +4537,8 @@
     },
     {
         "name": "arcfire",
-        "representation": "arcfire",
-        "path": "public/image/items/weapons/arcfire.png",
+        "representation": "Arcfire",
+        "path": "public/img/items/weapons/arcfire.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4551,8 +4551,8 @@
     },
     {
         "name": "arcwind",
-        "representation": "arcwind",
-        "path": "public/image/items/weapons/arcwind.png",
+        "representation": "Arcwind",
+        "path": "public/img/items/weapons/arcwind.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4565,8 +4565,8 @@
     },
     {
         "name": "armageddon",
-        "representation": "armageddon",
-        "path": "public/image/items/weapons/armageddon.png",
+        "representation": "Armageddon",
+        "path": "public/img/items/weapons/armageddon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4579,8 +4579,8 @@
     },
     {
         "name": "astra",
-        "representation": "astra",
-        "path": "public/image/items/weapons/astra.png",
+        "representation": "Astra",
+        "path": "public/img/items/weapons/astra.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4593,8 +4593,8 @@
     },
     {
         "name": "atmaweapon",
-        "representation": "atmaweapon",
-        "path": "public/image/items/weapons/atmaweapon.png",
+        "representation": "Atmaweapon",
+        "path": "public/img/items/weapons/atmaweapon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4607,8 +4607,8 @@
     },
     {
         "name": "autorifle",
-        "representation": "autorifle",
-        "path": "public/image/items/weapons/autorifle.png",
+        "representation": "Autorifle",
+        "path": "public/img/items/weapons/autorifle.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4621,8 +4621,8 @@
     },
     {
         "name": "avalanche",
-        "representation": "avalanche",
-        "path": "public/image/items/weapons/avalanche.png",
+        "representation": "Avalanche",
+        "path": "public/img/items/weapons/avalanche.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4635,8 +4635,8 @@
     },
     {
         "name": "awakenedforce",
-        "representation": "awakenedforce",
-        "path": "public/image/items/weapons/awakenedforce.png",
+        "representation": "Awakenedforce",
+        "path": "public/img/items/weapons/awakenedforce.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4649,8 +4649,8 @@
     },
     {
         "name": "axelarksblaster",
-        "representation": "axelarksblaster",
-        "path": "public/image/items/weapons/axelarksblaster.png",
+        "representation": "Axelarksblaster",
+        "path": "public/img/items/weapons/axelarksblaster.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4663,8 +4663,8 @@
     },
     {
         "name": "azazelsblade",
-        "representation": "azazelsblade",
-        "path": "public/image/items/weapons/azazelsblade.png",
+        "representation": "Azazelsblade",
+        "path": "public/img/items/weapons/azazelsblade.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4677,8 +4677,8 @@
     },
     {
         "name": "baalfogsavalanche",
-        "representation": "baalfogsavalanche",
-        "path": "public/image/items/weapons/baalfogsavalanche.png",
+        "representation": "Baalfogsavalanche",
+        "path": "public/img/items/weapons/baalfogsavalanche.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4691,8 +4691,8 @@
     },
     {
         "name": "banana",
-        "representation": "banana",
-        "path": "public/image/items/weapons/banana.png",
+        "representation": "Banana",
+        "path": "public/img/items/weapons/banana.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4705,8 +4705,8 @@
     },
     {
         "name": "bazooka",
-        "representation": "bazooka",
-        "path": "public/image/items/weapons/bazooka.png",
+        "representation": "Bazooka",
+        "path": "public/img/items/weapons/bazooka.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4719,8 +4719,8 @@
     },
     {
         "name": "betrayer",
-        "representation": "betrayer",
-        "path": "public/image/items/weapons/betrayer.png",
+        "representation": "Betrayer",
+        "path": "public/img/items/weapons/betrayer.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4733,8 +4733,8 @@
     },
     {
         "name": "bolganone",
-        "representation": "bolganone",
-        "path": "public/image/items/weapons/bolganone.png",
+        "representation": "Bolganone",
+        "path": "public/img/items/weapons/bolganone.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4747,8 +4747,8 @@
     },
     {
         "name": "boltedge",
-        "representation": "boltedge",
-        "path": "public/image/items/weapons/boltedge.png",
+        "representation": "Boltedge",
+        "path": "public/img/items/weapons/boltedge.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4761,8 +4761,8 @@
     },
     {
         "name": "bubblegumstaff",
-        "representation": "bubblegumstaff",
-        "path": "public/image/items/weapons/bubblegumstaff.png",
+        "representation": "Bubblegumstaff",
+        "path": "public/img/items/weapons/bubblegumstaff.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4775,8 +4775,8 @@
     },
     {
         "name": "cainslance",
-        "representation": "cainslance",
-        "path": "public/image/items/weapons/cainslance.png",
+        "representation": "Cainslance",
+        "path": "public/img/items/weapons/cainslance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4789,8 +4789,8 @@
     },
     {
         "name": "calusdemonblade",
-        "representation": "calusdemonblade",
-        "path": "public/image/items/weapons/calusdemonblade.png",
+        "representation": "Calusdemonblade",
+        "path": "public/img/items/weapons/calusdemonblade.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4803,8 +4803,8 @@
     },
     {
         "name": "caluspyer",
-        "representation": "caluspyer",
-        "path": "public/image/items/weapons/caluspyer.png",
+        "representation": "Caluspyer",
+        "path": "public/img/items/weapons/caluspyer.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4817,8 +4817,8 @@
     },
     {
         "name": "carbine",
-        "representation": "carbine",
-        "path": "public/image/items/weapons/carbine.png",
+        "representation": "Carbine",
+        "path": "public/img/items/weapons/carbine.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4831,8 +4831,8 @@
     },
     {
         "name": "castersword",
-        "representation": "castersword",
-        "path": "public/image/items/weapons/castersword.png",
+        "representation": "Castersword",
+        "path": "public/img/items/weapons/castersword.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4845,8 +4845,8 @@
     },
     {
         "name": "cataclysm",
-        "representation": "cataclysm",
-        "path": "public/image/items/weapons/cataclysm.png",
+        "representation": "Cataclysm",
+        "path": "public/img/items/weapons/cataclysm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4859,8 +4859,8 @@
     },
     {
         "name": "cerberus",
-        "representation": "cerberus",
-        "path": "public/image/items/weapons/cerberus.png",
+        "representation": "Cerberus",
+        "path": "public/img/items/weapons/cerberus.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4873,8 +4873,8 @@
     },
     {
         "name": "chaingun",
-        "representation": "chaingun",
-        "path": "public/image/items/weapons/chaingun.png",
+        "representation": "Chaingun",
+        "path": "public/img/items/weapons/chaingun.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4887,8 +4887,8 @@
     },
     {
         "name": "cherryblossom",
-        "representation": "cherryblossom",
-        "path": "public/image/items/weapons/cherryblossom.png",
+        "representation": "Cherryblossom",
+        "path": "public/img/items/weapons/cherryblossom.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4901,8 +4901,8 @@
     },
     {
         "name": "claymore",
-        "representation": "claymore",
-        "path": "public/image/items/weapons/claymore.png",
+        "representation": "Claymore",
+        "path": "public/img/items/weapons/claymore.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4915,8 +4915,8 @@
     },
     {
         "name": "coldsnap",
-        "representation": "coldsnap",
-        "path": "public/image/items/weapons/coldsnap.png",
+        "representation": "Coldsnap",
+        "path": "public/img/items/weapons/coldsnap.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4929,8 +4929,8 @@
     },
     {
         "name": "colossus",
-        "representation": "colossus",
-        "path": "public/image/items/weapons/colossus.png",
+        "representation": "Colossus",
+        "path": "public/img/items/weapons/colossus.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4943,8 +4943,8 @@
     },
     {
         "name": "commando",
-        "representation": "commando",
-        "path": "public/image/items/weapons/commando.png",
+        "representation": "Commando",
+        "path": "public/img/items/weapons/commando.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4957,8 +4957,8 @@
     },
     {
         "name": "darkforce",
-        "representation": "darkforce",
-        "path": "public/image/items/weapons/darkforce.png",
+        "representation": "Darkforce",
+        "path": "public/img/items/weapons/darkforce.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4971,8 +4971,8 @@
     },
     {
         "name": "darkmessenger",
-        "representation": "darkmessenger",
-        "path": "public/image/items/weapons/darkmessenger.png",
+        "representation": "Darkmessenger",
+        "path": "public/img/items/weapons/darkmessenger.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4985,8 +4985,8 @@
     },
     {
         "name": "darkness",
-        "representation": "darkness",
-        "path": "public/image/items/weapons/darkness.png",
+        "representation": "Darkness",
+        "path": "public/img/items/weapons/darkness.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -4999,8 +4999,8 @@
     },
     {
         "name": "deathexalted",
-        "representation": "deathexalted",
-        "path": "public/image/items/weapons/deathexalted.png",
+        "representation": "Deathexalted",
+        "path": "public/img/items/weapons/deathexalted.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5013,8 +5013,8 @@
     },
     {
         "name": "deathpenalty",
-        "representation": "deathpenalty",
-        "path": "public/image/items/weapons/deathpenalty.png",
+        "representation": "Deathpenalty",
+        "path": "public/img/items/weapons/deathpenalty.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5027,8 +5027,8 @@
     },
     {
         "name": "decimator",
-        "representation": "decimator",
-        "path": "public/image/items/weapons/decimator.png",
+        "representation": "Decimator",
+        "path": "public/img/items/weapons/decimator.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5041,8 +5041,8 @@
     },
     {
         "name": "destructionwave",
-        "representation": "destructionwave",
-        "path": "public/image/items/weapons/destructionwave.png",
+        "representation": "Destructionwave",
+        "path": "public/img/items/weapons/destructionwave.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5055,8 +5055,8 @@
     },
     {
         "name": "devilsbane",
-        "representation": "devilsbane",
-        "path": "public/image/items/weapons/devilsbane.png",
+        "representation": "Devilsbane",
+        "path": "public/img/items/weapons/devilsbane.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5069,8 +5069,8 @@
     },
     {
         "name": "doombringer",
-        "representation": "doombringer",
-        "path": "public/image/items/weapons/doombringer.png",
+        "representation": "Doomb RingEr",
+        "path": "public/img/items/weapons/doombringer.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5083,8 +5083,8 @@
     },
     {
         "name": "doomguard",
-        "representation": "doomguard",
-        "path": "public/image/items/weapons/doomguard.png",
+        "representation": "Doomguard",
+        "path": "public/img/items/weapons/doomguard.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5097,8 +5097,8 @@
     },
     {
         "name": "doomsayer",
-        "representation": "doomsayer",
-        "path": "public/image/items/weapons/doomsayer.png",
+        "representation": "Doomsayer",
+        "path": "public/img/items/weapons/doomsayer.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5111,8 +5111,8 @@
     },
     {
         "name": "dragonboltsmast",
-        "representation": "dragonboltsmast",
-        "path": "public/image/items/weapons/dragonboltsmast.png",
+        "representation": "Dragonboltsmast",
+        "path": "public/img/items/weapons/dragonboltsmast.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5125,8 +5125,8 @@
     },
     {
         "name": "dragoncannon",
-        "representation": "dragoncannon",
-        "path": "public/image/items/weapons/dragoncannon.png",
+        "representation": "Dragoncannon",
+        "path": "public/img/items/weapons/dragoncannon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5139,8 +5139,8 @@
     },
     {
         "name": "dragonwhisker",
-        "representation": "dragonwhisker",
-        "path": "public/image/items/weapons/dragonwhisker.png",
+        "representation": "Dragonwhisker",
+        "path": "public/img/items/weapons/dragonwhisker.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5153,8 +5153,8 @@
     },
     {
         "name": "dragoonlance",
-        "representation": "dragoonlance",
-        "path": "public/image/items/weapons/dragoonlance.png",
+        "representation": "Dragoonlance",
+        "path": "public/img/items/weapons/dragoonlance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5167,8 +5167,8 @@
     },
     {
         "name": "elementalizer",
-        "representation": "elementalizer",
-        "path": "public/image/items/weapons/elementalizer.png",
+        "representation": "Elementalizer",
+        "path": "public/img/items/weapons/elementalizer.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5181,8 +5181,8 @@
     },
     {
         "name": "elfire",
-        "representation": "elfire",
-        "path": "public/image/items/weapons/elfire.png",
+        "representation": "Elfire",
+        "path": "public/img/items/weapons/elfire.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5195,8 +5195,8 @@
     },
     {
         "name": "emblemfates",
-        "representation": "emblemfates",
-        "path": "public/image/items/weapons/emblemfates.png",
+        "representation": "EmblemFates",
+        "path": "public/img/items/weapons/emblemfates.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5209,8 +5209,8 @@
     },
     {
         "name": "enigma",
-        "representation": "enigma",
-        "path": "public/image/items/weapons/enigma.png",
+        "representation": "Enigma",
+        "path": "public/img/items/weapons/enigma.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5223,8 +5223,8 @@
     },
     {
         "name": "excalibur",
-        "representation": "excalibur",
-        "path": "public/image/items/weapons/excalibur.png",
+        "representation": "Excalibur",
+        "path": "public/img/items/weapons/excalibur.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5237,8 +5237,8 @@
     },
     {
         "name": "firestorm",
-        "representation": "firestorm",
-        "path": "public/image/items/weapons/firestorm.png",
+        "representation": "Firestorm",
+        "path": "public/img/items/weapons/firestorm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5251,8 +5251,8 @@
     },
     {
         "name": "flakcannon",
-        "representation": "flakcannon",
-        "path": "public/image/items/weapons/flakcannon.png",
+        "representation": "Flakcannon",
+        "path": "public/img/items/weapons/flakcannon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5265,8 +5265,8 @@
     },
     {
         "name": "flamberge",
-        "representation": "flamberge",
-        "path": "public/image/items/weapons/flamberge.png",
+        "representation": "Flamberge",
+        "path": "public/img/items/weapons/flamberge.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5279,8 +5279,8 @@
     },
     {
         "name": "flamelash",
-        "representation": "flamelash",
-        "path": "public/image/items/weapons/flamelash.png",
+        "representation": "Flamelash",
+        "path": "public/img/items/weapons/flamelash.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5293,8 +5293,8 @@
     },
     {
         "name": "flameswathe",
-        "representation": "flameswathe",
-        "path": "public/image/items/weapons/flameswathe.png",
+        "representation": "Flameswathe",
+        "path": "public/img/items/weapons/flameswathe.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5307,8 +5307,8 @@
     },
     {
         "name": "flareblade",
-        "representation": "flareblade",
-        "path": "public/image/items/weapons/flareblade.png",
+        "representation": "Flareblade",
+        "path": "public/img/items/weapons/flareblade.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5321,8 +5321,8 @@
     },
     {
         "name": "forgeblade",
-        "representation": "forgeblade",
-        "path": "public/image/items/weapons/forgeblade.png",
+        "representation": "Forgeblade",
+        "path": "public/img/items/weapons/forgeblade.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5335,8 +5335,8 @@
     },
     {
         "name": "formalhaut",
-        "representation": "formalhaut",
-        "path": "public/image/items/weapons/formalhaut.png",
+        "representation": "Formalhaut",
+        "path": "public/img/items/weapons/formalhaut.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5349,8 +5349,8 @@
     },
     {
         "name": "fracturedsoul",
-        "representation": "fracturedsoul",
-        "path": "public/image/items/weapons/fracturedsoul.png",
+        "representation": "Fracturedsoul",
+        "path": "public/img/items/weapons/fracturedsoul.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5363,8 +5363,8 @@
     },
     {
         "name": "frost",
-        "representation": "frost",
-        "path": "public/image/items/weapons/frost.png",
+        "representation": "Frost",
+        "path": "public/img/items/weapons/frost.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5377,8 +5377,8 @@
     },
     {
         "name": "gadgetrpg",
-        "representation": "gadgetrpg",
-        "path": "public/image/items/weapons/gadgetrpg.png",
+        "representation": "Gadgetrpg",
+        "path": "public/img/items/weapons/gadgetrpg.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5391,8 +5391,8 @@
     },
     {
         "name": "gadgetsaber",
-        "representation": "gadgetsaber",
-        "path": "public/image/items/weapons/gadgetsaber.png",
+        "representation": "Gadgetsaber",
+        "path": "public/img/items/weapons/gadgetsaber.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5405,8 +5405,8 @@
     },
     {
         "name": "gafgardsmaelstrom",
-        "representation": "gafgardsmaelstrom",
-        "path": "public/image/items/weapons/gafgardsmaelstrom.png",
+        "representation": "Gafgardsmaelstrom",
+        "path": "public/img/items/weapons/gafgardsmaelstrom.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5419,8 +5419,8 @@
     },
     {
         "name": "gaiasgale",
-        "representation": "gaiasgale",
-        "path": "public/image/items/weapons/gaiasgale.png",
+        "representation": "Gaiasgale",
+        "path": "public/img/items/weapons/gaiasgale.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5433,8 +5433,8 @@
     },
     {
         "name": "galacticflameblaster",
-        "representation": "galacticflameblaster",
-        "path": "public/image/items/weapons/galacticflameblaster.png",
+        "representation": "Galacticflameblaster",
+        "path": "public/img/items/weapons/galacticflameblaster.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5447,8 +5447,8 @@
     },
     {
         "name": "galaxylance",
-        "representation": "galaxylance",
-        "path": "public/image/items/weapons/galaxylance.png",
+        "representation": "Galaxylance",
+        "path": "public/img/items/weapons/galaxylance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5461,8 +5461,8 @@
     },
     {
         "name": "gallatriasspire",
-        "representation": "gallatriasspire",
-        "path": "public/image/items/weapons/gallatriasspire.png",
+        "representation": "Gallatriasspire",
+        "path": "public/img/items/weapons/gallatriasspire.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5475,8 +5475,8 @@
     },
     {
         "name": "glitterblade",
-        "representation": "glitterblade",
-        "path": "public/image/items/weapons/glitterblade.png",
+        "representation": "Glitterblade",
+        "path": "public/img/items/weapons/glitterblade.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5489,8 +5489,8 @@
     },
     {
         "name": "goldeneye",
-        "representation": "goldeneye",
-        "path": "public/image/items/weapons/goldeneye.png",
+        "representation": "Goldeneye",
+        "path": "public/img/items/weapons/goldeneye.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5503,8 +5503,8 @@
     },
     {
         "name": "goldensuns",
-        "representation": "goldensuns",
-        "path": "public/image/items/weapons/goldensuns.png",
+        "representation": "Goldensuns",
+        "path": "public/img/items/weapons/goldensuns.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5517,8 +5517,8 @@
     },
     {
         "name": "gruustalisman",
-        "representation": "gruustalisman",
-        "path": "public/image/items/weapons/gruustalisman.png",
+        "representation": "Gruustalisman",
+        "path": "public/img/items/weapons/gruustalisman.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5531,8 +5531,8 @@
     },
     {
         "name": "gungir",
-        "representation": "gungir",
-        "path": "public/image/items/weapons/gungir.png",
+        "representation": "Gungir",
+        "path": "public/img/items/weapons/gungir.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5545,8 +5545,8 @@
     },
     {
         "name": "handcannon",
-        "representation": "handcannon",
-        "path": "public/image/items/weapons/handcannon.png",
+        "representation": "Handcannon",
+        "path": "public/img/items/weapons/handcannon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5559,8 +5559,8 @@
     },
     {
         "name": "heartseeker",
-        "representation": "heartseeker",
-        "path": "public/image/items/weapons/heartseeker.png",
+        "representation": "Heartseeker",
+        "path": "public/img/items/weapons/heartseeker.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5573,8 +5573,8 @@
     },
     {
         "name": "heavenscloud",
-        "representation": "heavenscloud",
-        "path": "public/image/items/weapons/heavenscloud.png",
+        "representation": "Heavenscloud",
+        "path": "public/img/items/weapons/heavenscloud.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5587,8 +5587,8 @@
     },
     {
         "name": "helswath",
-        "representation": "helswath",
-        "path": "public/image/items/weapons/helswath.png",
+        "representation": "Helswath",
+        "path": "public/img/items/weapons/helswath.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5601,8 +5601,8 @@
     },
     {
         "name": "hivemindrod",
-        "representation": "hivemindrod",
-        "path": "public/image/items/weapons/hivemindrod.png",
+        "representation": "Hivemindrod",
+        "path": "public/img/items/weapons/hivemindrod.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5615,8 +5615,8 @@
     },
     {
         "name": "hypercannon",
-        "representation": "hypercannon",
-        "path": "public/image/items/weapons/hypercannon.png",
+        "representation": "Hypercannon",
+        "path": "public/img/items/weapons/hypercannon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5629,8 +5629,8 @@
     },
     {
         "name": "icewall",
-        "representation": "icewall",
-        "path": "public/image/items/weapons/icewall.png",
+        "representation": "Icewall",
+        "path": "public/img/items/weapons/icewall.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5643,8 +5643,8 @@
     },
     {
         "name": "judgement",
-        "representation": "judgement",
-        "path": "public/image/items/weapons/judgement.png",
+        "representation": "Judgement",
+        "path": "public/img/items/weapons/judgement.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5657,8 +5657,8 @@
     },
     {
         "name": "jungleking",
-        "representation": "jungleking",
-        "path": "public/image/items/weapons/jungleking.png",
+        "representation": "Jungleking",
+        "path": "public/img/items/weapons/jungleking.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5671,8 +5671,8 @@
     },
     {
         "name": "keyofhearts",
-        "representation": "keyofhearts",
-        "path": "public/image/items/weapons/keyofhearts.png",
+        "representation": "Keyofhearts",
+        "path": "public/img/items/weapons/keyofhearts.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5685,8 +5685,8 @@
     },
     {
         "name": "kingslance",
-        "representation": "kingslance",
-        "path": "public/image/items/weapons/kingslance.png",
+        "representation": "Kingslance",
+        "path": "public/img/items/weapons/kingslance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5699,8 +5699,8 @@
     },
     {
         "name": "lightningrod",
-        "representation": "lightningrod",
-        "path": "public/image/items/weapons/lightningrod.png",
+        "representation": "Lightningrod",
+        "path": "public/img/items/weapons/lightningrod.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5713,8 +5713,8 @@
     },
     {
         "name": "longinus",
-        "representation": "longinus",
-        "path": "public/image/items/weapons/longinus.png",
+        "representation": "Longinus",
+        "path": "public/img/items/weapons/longinus.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5727,8 +5727,8 @@
     },
     {
         "name": "lostvoice",
-        "representation": "lostvoice",
-        "path": "public/image/items/weapons/lostvoice.png",
+        "representation": "Lostvoice",
+        "path": "public/img/items/weapons/lostvoice.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5741,8 +5741,8 @@
     },
     {
         "name": "maalurktotem",
-        "representation": "maalurktotem",
-        "path": "public/image/items/weapons/maalurktotem.png",
+        "representation": "Maalurktotem",
+        "path": "public/img/items/weapons/maalurktotem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5755,8 +5755,8 @@
     },
     {
         "name": "maestorm",
-        "representation": "maestorm",
-        "path": "public/image/items/weapons/maestorm.png",
+        "representation": "Maestorm",
+        "path": "public/img/items/weapons/maestorm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5769,8 +5769,8 @@
     },
     {
         "name": "magegauntlet",
-        "representation": "magegauntlet",
-        "path": "public/image/items/weapons/magegauntlet.png",
+        "representation": "Magegauntlet",
+        "path": "public/img/items/weapons/magegauntlet.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5783,8 +5783,8 @@
     },
     {
         "name": "magemasher",
-        "representation": "magemasher",
-        "path": "public/image/items/weapons/magemasher.png",
+        "representation": "Magemasher",
+        "path": "public/img/items/weapons/magemasher.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5797,8 +5797,8 @@
     },
     {
         "name": "magma",
-        "representation": "magma",
-        "path": "public/image/items/weapons/magma.png",
+        "representation": "Magma",
+        "path": "public/img/items/weapons/magma.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5811,8 +5811,8 @@
     },
     {
         "name": "megaweapon",
-        "representation": "megaweapon",
-        "path": "public/image/items/weapons/megaweapon.png",
+        "representation": "Megaweapon",
+        "path": "public/img/items/weapons/megaweapon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5825,8 +5825,8 @@
     },
     {
         "name": "mercilessgladiator",
-        "representation": "mercilessgladiator",
-        "path": "public/image/items/weapons/mercilessgladiator.png",
+        "representation": "Mercilessgladiator",
+        "path": "public/img/items/weapons/mercilessgladiator.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5839,8 +5839,8 @@
     },
     {
         "name": "missilerpg",
-        "representation": "missilerpg",
-        "path": "public/image/items/weapons/missilerpg.png",
+        "representation": "Missilerpg",
+        "path": "public/img/items/weapons/missilerpg.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5853,8 +5853,8 @@
     },
     {
         "name": "molochswrath",
-        "representation": "molochswrath",
-        "path": "public/image/items/weapons/molochswrath.png",
+        "representation": "Molochswrath",
+        "path": "public/img/items/weapons/molochswrath.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5867,8 +5867,8 @@
     },
     {
         "name": "monkgauntlet",
-        "representation": "monkgauntlet",
-        "path": "public/image/items/weapons/monkgauntlet.png",
+        "representation": "Monkgauntlet",
+        "path": "public/img/items/weapons/monkgauntlet.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5881,8 +5881,8 @@
     },
     {
         "name": "mysticarrow",
-        "representation": "mysticarrow",
-        "path": "public/image/items/weapons/mysticarrow.png",
+        "representation": "Mysticarrow",
+        "path": "public/img/items/weapons/mysticarrow.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5895,8 +5895,8 @@
     },
     {
         "name": "nethertorrent",
-        "representation": "nethertorrent",
-        "path": "public/image/items/weapons/nethertorrent.png",
+        "representation": "Nethertorrent",
+        "path": "public/img/items/weapons/nethertorrent.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5909,8 +5909,8 @@
     },
     {
         "name": "nirvana",
-        "representation": "nirvana",
-        "path": "public/image/items/weapons/nirvana.png",
+        "representation": "Nirvana",
+        "path": "public/img/items/weapons/nirvana.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5923,8 +5923,8 @@
     },
     {
         "name": "oblivion",
-        "representation": "oblivion",
-        "path": "public/image/items/weapons/oblivion.png",
+        "representation": "Oblivion",
+        "path": "public/img/items/weapons/oblivion.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5937,8 +5937,8 @@
     },
     {
         "name": "percevalswand",
-        "representation": "percevalswand",
-        "path": "public/image/items/weapons/percevalswand.png",
+        "representation": "Percevalswand",
+        "path": "public/img/items/weapons/percevalswand.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5951,8 +5951,8 @@
     },
     {
         "name": "piratemusket",
-        "representation": "piratemusket",
-        "path": "public/image/items/weapons/piratemusket.png",
+        "representation": "Piratemusket",
+        "path": "public/img/items/weapons/piratemusket.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5965,8 +5965,8 @@
     },
     {
         "name": "plaguesteel",
-        "representation": "plaguesteel",
-        "path": "public/image/items/weapons/plaguesteel.png",
+        "representation": "Plaguesteel",
+        "path": "public/img/items/weapons/plaguesteel.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5979,8 +5979,8 @@
     },
     {
         "name": "plainstick",
-        "representation": "plainstick",
-        "path": "public/image/items/weapons/plainstick.png",
+        "representation": "Plainstick",
+        "path": "public/img/items/weapons/plainstick.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -5993,8 +5993,8 @@
     },
     {
         "name": "poopmaker",
-        "representation": "poopmaker",
-        "path": "public/image/items/weapons/poopmaker.png",
+        "representation": "Poopmaker",
+        "path": "public/img/items/weapons/poopmaker.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6007,8 +6007,8 @@
     },
     {
         "name": "pyroclasm",
-        "representation": "pyroclasm",
-        "path": "public/image/items/weapons/pyroclasm.png",
+        "representation": "Pyroclasm",
+        "path": "public/img/items/weapons/pyroclasm.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6021,8 +6021,8 @@
     },
     {
         "name": "quicksilver",
-        "representation": "quicksilver",
-        "path": "public/image/items/weapons/quicksilver.png",
+        "representation": "Quicksilver",
+        "path": "public/img/items/weapons/quicksilver.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6035,8 +6035,8 @@
     },
     {
         "name": "ragnarok",
-        "representation": "ragnarok",
-        "path": "public/image/items/weapons/ragnarok.png",
+        "representation": "Ragnarok",
+        "path": "public/img/items/weapons/ragnarok.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6049,8 +6049,8 @@
     },
     {
         "name": "rampantgolem",
-        "representation": "rampantgolem",
-        "path": "public/image/items/weapons/rampantgolem.png",
+        "representation": "Rampantgolem",
+        "path": "public/img/items/weapons/rampantgolem.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6063,8 +6063,8 @@
     },
     {
         "name": "repeater",
-        "representation": "repeater",
-        "path": "public/image/items/weapons/repeater.png",
+        "representation": "Repeater",
+        "path": "public/img/items/weapons/repeater.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6077,8 +6077,8 @@
     },
     {
         "name": "ringaboltsaxe",
-        "representation": "ringaboltsaxe",
-        "path": "public/image/items/weapons/ringaboltsaxe.png",
+        "representation": "RingAboltsaxe",
+        "path": "public/img/items/weapons/ringaboltsaxe.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6091,8 +6091,8 @@
     },
     {
         "name": "ruin",
-        "representation": "ruin",
-        "path": "public/image/items/weapons/ruin.png",
+        "representation": "Ruin",
+        "path": "public/img/items/weapons/ruin.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6105,8 +6105,8 @@
     },
     {
         "name": "runelance",
-        "representation": "runelance",
-        "path": "public/image/items/weapons/runelance.png",
+        "representation": "Runelance",
+        "path": "public/img/items/weapons/runelance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6119,8 +6119,8 @@
     },
     {
         "name": "sagesstaff",
-        "representation": "sagesstaff",
-        "path": "public/image/items/weapons/sagesstaff.png",
+        "representation": "Sagesstaff",
+        "path": "public/img/items/weapons/sagesstaff.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6133,8 +6133,8 @@
     },
     {
         "name": "schegsbow",
-        "representation": "schegsbow",
-        "path": "public/image/items/weapons/schegsbow.png",
+        "representation": "Schegsbow",
+        "path": "public/img/items/weapons/schegsbow.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6147,8 +6147,8 @@
     },
     {
         "name": "seekerofstars",
-        "representation": "seekerofstars",
-        "path": "public/image/items/weapons/seekerofstars.png",
+        "representation": "Seekerofstars",
+        "path": "public/img/items/weapons/seekerofstars.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6161,8 +6161,8 @@
     },
     {
         "name": "seraphim",
-        "representation": "seraphim",
-        "path": "public/image/items/weapons/seraphim.png",
+        "representation": "Seraphim",
+        "path": "public/img/items/weapons/seraphim.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6175,8 +6175,8 @@
     },
     {
         "name": "sirius",
-        "representation": "sirius",
-        "path": "public/image/items/weapons/sirius.png",
+        "representation": "Sirius",
+        "path": "public/img/items/weapons/sirius.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6189,8 +6189,8 @@
     },
     {
         "name": "sonicsteel",
-        "representation": "sonicsteel",
-        "path": "public/image/items/weapons/sonicsteel.png",
+        "representation": "Sonicsteel",
+        "path": "public/img/items/weapons/sonicsteel.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6203,8 +6203,8 @@
     },
     {
         "name": "soulreaver",
-        "representation": "soulreaver",
-        "path": "public/image/items/weapons/soulreaver.png",
+        "representation": "Soulreaver",
+        "path": "public/img/items/weapons/soulreaver.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6217,8 +6217,8 @@
     },
     {
         "name": "spiritlance",
-        "representation": "spiritlance",
-        "path": "public/image/items/weapons/spiritlance.png",
+        "representation": "Spiritlance",
+        "path": "public/img/items/weapons/spiritlance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6231,8 +6231,8 @@
     },
     {
         "name": "stardestroyer",
-        "representation": "stardestroyer",
-        "path": "public/image/items/weapons/stardestroyer.png",
+        "representation": "Stardestroyer",
+        "path": "public/img/items/weapons/stardestroyer.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6245,8 +6245,8 @@
     },
     {
         "name": "stormbringer",
-        "representation": "stormbringer",
-        "path": "public/image/items/weapons/stormbringer.png",
+        "representation": "Stormb RingEr",
+        "path": "public/img/items/weapons/stormbringer.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6259,8 +6259,8 @@
     },
     {
         "name": "stormcannon",
-        "representation": "stormcannon",
-        "path": "public/image/items/weapons/stormcannon.png",
+        "representation": "Stormcannon",
+        "path": "public/img/items/weapons/stormcannon.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6273,8 +6273,8 @@
     },
     {
         "name": "summonersstaff",
-        "representation": "summonersstaff",
-        "path": "public/image/items/weapons/summonersstaff.png",
+        "representation": "Summonersstaff",
+        "path": "public/img/items/weapons/summonersstaff.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6287,8 +6287,8 @@
     },
     {
         "name": "theblackmage",
-        "representation": "theblackmage",
-        "path": "public/image/items/weapons/theblackmage.png",
+        "representation": "Theblackmage",
+        "path": "public/img/items/weapons/theblackmage.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6301,8 +6301,8 @@
     },
     {
         "name": "thedominator",
-        "representation": "thedominator",
-        "path": "public/image/items/weapons/thedominator.png",
+        "representation": "Thedominator",
+        "path": "public/img/items/weapons/thedominator.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6315,8 +6315,8 @@
     },
     {
         "name": "thehighwind",
-        "representation": "thehighwind",
-        "path": "public/image/items/weapons/thehighwind.png",
+        "representation": "Thehighwind",
+        "path": "public/img/items/weapons/thehighwind.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6329,8 +6329,8 @@
     },
     {
         "name": "themachine",
-        "representation": "themachine",
-        "path": "public/image/items/weapons/themachine.png",
+        "representation": "Themachine",
+        "path": "public/img/items/weapons/themachine.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6343,8 +6343,8 @@
     },
     {
         "name": "thewhitemage",
-        "representation": "thewhitemage",
-        "path": "public/image/items/weapons/thewhitemage.png",
+        "representation": "Thewhitemage",
+        "path": "public/img/items/weapons/thewhitemage.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6357,8 +6357,8 @@
     },
     {
         "name": "thewyvern",
-        "representation": "thewyvern",
-        "path": "public/image/items/weapons/thewyvern.png",
+        "representation": "Thewyvern",
+        "path": "public/img/items/weapons/thewyvern.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6371,8 +6371,8 @@
     },
     {
         "name": "thezapper",
-        "representation": "thezapper",
-        "path": "public/image/items/weapons/thezapper.png",
+        "representation": "Thezapper",
+        "path": "public/img/items/weapons/thezapper.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6385,8 +6385,8 @@
     },
     {
         "name": "thornwall",
-        "representation": "thornwall",
-        "path": "public/image/items/weapons/thornwall.png",
+        "representation": "Thornwall",
+        "path": "public/img/items/weapons/thornwall.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6399,8 +6399,8 @@
     },
     {
         "name": "tornado",
-        "representation": "tornado",
-        "path": "public/image/items/weapons/tornado.png",
+        "representation": "Tornado",
+        "path": "public/img/items/weapons/tornado.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6413,8 +6413,8 @@
     },
     {
         "name": "trigoddess",
-        "representation": "trigoddess",
-        "path": "public/image/items/weapons/trigoddess.png",
+        "representation": "Trigoddess",
+        "path": "public/img/items/weapons/trigoddess.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6427,8 +6427,8 @@
     },
     {
         "name": "tropicthunder",
-        "representation": "tropicthunder",
-        "path": "public/image/items/weapons/tropicthunder.png",
+        "representation": "Tropicthunder",
+        "path": "public/img/items/weapons/tropicthunder.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6441,8 +6441,8 @@
     },
     {
         "name": "twighlightstaff",
-        "representation": "twighlightstaff",
-        "path": "public/image/items/weapons/twighlightstaff.png",
+        "representation": "Twighlightstaff",
+        "path": "public/img/items/weapons/twighlightstaff.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6455,8 +6455,8 @@
     },
     {
         "name": "typhoonIX",
-        "representation": "typhoonIX",
-        "path": "public/image/items/weapons/typhoonIX.png",
+        "representation": "Typhoonix",
+        "path": "public/img/items/weapons/typhoonIX.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6469,8 +6469,8 @@
     },
     {
         "name": "urugorakstooth",
-        "representation": "urugorakstooth",
-        "path": "public/image/items/weapons/urugorakstooth.png",
+        "representation": "Urugorakstooth",
+        "path": "public/img/items/weapons/urugorakstooth.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6483,8 +6483,8 @@
     },
     {
         "name": "valflame",
-        "representation": "valflame",
-        "path": "public/image/items/weapons/valflame.png",
+        "representation": "Valflame",
+        "path": "public/img/items/weapons/valflame.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6497,8 +6497,8 @@
     },
     {
         "name": "vengeance",
-        "representation": "vengeance",
-        "path": "public/image/items/weapons/vengeance.png",
+        "representation": "Vengeance",
+        "path": "public/img/items/weapons/vengeance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6511,8 +6511,8 @@
     },
     {
         "name": "vengefulspirit",
-        "representation": "vengefulspirit",
-        "path": "public/image/items/weapons/vengefulspirit.png",
+        "representation": "Vengefulspirit",
+        "path": "public/img/items/weapons/vengefulspirit.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6525,8 +6525,8 @@
     },
     {
         "name": "vikinXXVII",
-        "representation": "vikinXXVII",
-        "path": "public/image/items/weapons/vikinXXVII.png",
+        "representation": "Vikinxxvii",
+        "path": "public/img/items/weapons/vikinXXVII.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6539,8 +6539,8 @@
     },
     {
         "name": "vinewhip",
-        "representation": "vinewhip",
-        "path": "public/image/items/weapons/vinewhip.png",
+        "representation": "Vinewhip",
+        "path": "public/img/items/weapons/vinewhip.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6553,8 +6553,8 @@
     },
     {
         "name": "voltsniper",
-        "representation": "voltsniper",
-        "path": "public/image/items/weapons/voltsniper.png",
+        "representation": "Voltsniper",
+        "path": "public/img/items/weapons/voltsniper.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6567,8 +6567,8 @@
     },
     {
         "name": "vorpalrpg",
-        "representation": "vorpalrpg",
-        "path": "public/image/items/weapons/vorpalrpg.png",
+        "representation": "Vorpalrpg",
+        "path": "public/img/items/weapons/vorpalrpg.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6581,8 +6581,8 @@
     },
     {
         "name": "wallaceslance",
-        "representation": "wallaceslance",
-        "path": "public/image/items/weapons/wallaceslance.png",
+        "representation": "Wallaceslance",
+        "path": "public/img/items/weapons/wallaceslance.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6595,8 +6595,8 @@
     },
     {
         "name": "warforgedgun",
-        "representation": "warforgedgun",
-        "path": "public/image/items/weapons/warforgedgun.png",
+        "representation": "Warforgedgun",
+        "path": "public/img/items/weapons/warforgedgun.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6609,8 +6609,8 @@
     },
     {
         "name": "woltsthunder",
-        "representation": "woltsthunder",
-        "path": "public/image/items/weapons/woltsthunder.png",
+        "representation": "Woltsthunder",
+        "path": "public/img/items/weapons/woltsthunder.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6623,8 +6623,8 @@
     },
     {
         "name": "worldreborn",
-        "representation": "worldreborn",
-        "path": "public/image/items/weapons/worldreborn.png",
+        "representation": "Worldreborn",
+        "path": "public/img/items/weapons/worldreborn.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6637,8 +6637,8 @@
     },
     {
         "name": "worldsend",
-        "representation": "worldsend",
-        "path": "public/image/items/weapons/worldsend.png",
+        "representation": "Worldsend",
+        "path": "public/img/items/weapons/worldsend.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6651,8 +6651,8 @@
     },
     {
         "name": "wrathaura",
-        "representation": "wrathaura",
-        "path": "public/image/items/weapons/wrathaura.png",
+        "representation": "Wrathaura",
+        "path": "public/img/items/weapons/wrathaura.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6665,8 +6665,8 @@
     },
     {
         "name": "wyvernbone",
-        "representation": "wyvernbone",
-        "path": "public/image/items/weapons/wyvernbone.png",
+        "representation": "Wyvernbone",
+        "path": "public/img/items/weapons/wyvernbone.png",
         "stats": {
             "str": 0,
             "dex": 0,
@@ -6679,8 +6679,8 @@
     },
     {
         "name": "zweihander",
-        "representation": "zweihander",
-        "path": "public/image/items/weapons/zweihander.png",
+        "representation": "Zweihander",
+        "path": "public/img/items/weapons/zweihander.png",
         "stats": {
             "str": 0,
             "dex": 0,

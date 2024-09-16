@@ -1,41 +1,69 @@
 import os
 import json
 
-# Define the directory path
-base_dir = "public/img/items"
-public_base_path = "public/image/items"
+# Base directory for images
+base_folder = 'public/img'
 
-# JSON structure template for each item, including the path
-def create_item_dict(file_name, relative_path):
-    return {
-        "name": file_name,
-        "representation": file_name,
-        "path": os.path.join(public_base_path, relative_path, f"{file_name}.png").replace("\\", "/"),  # Ensure forward slashes
-        "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
-        },
-        "craftedWith": []
-    }
+# Keywords for special formatting of the representation
+keywords = ['armor', 'helmet', 'helm', 'Helm', 'potion', 'emblem', 'ring', 'shield', 'Armor']
 
-# Traverse the directory and collect PNG file names
-items_data = []
-for root, dirs, files in os.walk(base_dir):
-    # Skip directories named 'unknown'
-    if "unknown" in root:
-        continue
-    # Calculate the relative path from base_dir
-    relative_path = os.path.relpath(root, base_dir)
-    for file in files:
-        if file.endswith(".png"):
-            file_name = os.path.splitext(file)[0]  # Remove file extension
-            items_data.append(create_item_dict(file_name, relative_path))
+# Function to generate the representation based on the name
+def generate_representation(name: str) -> str:
+    # Lowercase the name for uniform comparison
+    lower_name = name.lower()
 
-# Write the collected data into a JSON file
+    # Check for keywords and split/format accordingly
+    for keyword in keywords:
+        if keyword in lower_name:
+            # Split name at the keyword
+            parts = lower_name.split(keyword, 1)
+            # Capitalize the first part and the keyword, and return the formatted representation
+            return f"{parts[0].strip().capitalize()} {keyword.capitalize()}{parts[1].capitalize()}".strip()
+
+    # If no keywords are found, simply capitalize the entire name
+    return name.capitalize()
+
+# Function to create the JSON representation of the file structure
+def create_json_structure(root_folder: str) -> dict:
+    items_list = []
+
+    for foldername, subfolders, filenames in os.walk(root_folder):
+        # Exclude folders named "unknown"
+        if 'unknown' in foldername:
+            continue
+
+        for filename in filenames:
+            if filename.endswith('.png'):
+                # Strip the file extension for the name and representation
+                name = os.path.splitext(filename)[0]
+
+                # Generate the representation
+                representation = generate_representation(name)
+
+                # Create item entry
+                item_entry = {
+                    'name': name,
+                    'representation': representation,
+                    'path': os.path.join(foldername, filename).replace('\\', '/'),  # Convert to web-friendly paths
+                    'stats': {
+                        'str': 0,
+                        'dex': 0,
+                        'vit': 0,
+                        'tec': 0,
+                        'fth': 0,
+                        'mag': 0,
+                    },
+                    'craftedWith': []
+                }
+
+                items_list.append(item_entry)
+
+    return items_list
+
+# Generate the JSON structure from the image folder
+items_data = create_json_structure(os.path.join(base_folder, 'items'))
+
+# Write the JSON data to a file
 with open('items.json', 'w') as json_file:
     json.dump(items_data, json_file, indent=4)
 
