@@ -18,6 +18,7 @@ root.render(
           <Route path="crafting" element={<CraftingPage />} />
           <Route path="search" element={<SearchPage />} />
           <Route path="editor/:itemname" element={<ItemEditor />} />
+          <Route path="editor" element={<ItemEditor />} />
         </Route>
       </Routes>
     </BrowserRouter>

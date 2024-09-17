@@ -18,7 +18,6 @@ const ItemEditor: React.FC = () => {
       .then((response) => response.json())
       .then((data: Item[]) => {
         setItems(data);
-        console.log(itemname);
         
         const item = data.find((i) => i.name === itemname);
         if (item) {
