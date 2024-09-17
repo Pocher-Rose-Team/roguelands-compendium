@@ -11,5 +11,8 @@ export interface Item {
     fth: number;
     mag: number;
   };
-  craftedWith: string[];
+  craftedWith?: string[];
+  description: string[];
+  foundIn?: string[];
+  type: string
 }

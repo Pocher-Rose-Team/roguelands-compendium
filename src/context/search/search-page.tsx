@@ -2,6 +2,9 @@ import React, { useState, useEffect } from "react";
 import { TextField, Box, List, ListItem, ListItemText } from "@mui/material";
 import { Item } from "../../shared/model/item";
 import { ItemService } from "../../shared/service/item-service";
+import { get} from 'fast-levenshtein';
+
+
 
 const ItemSearch: React.FC = () => {
   const itemService = new ItemService();
@@ -20,8 +23,14 @@ const ItemSearch: React.FC = () => {
   // Filter the items based on the search term and limit the results to 5 items
   useEffect(() => {
     if (searchTerm) {
+      const sanitizedSearchTerm = searchTerm.toLowerCase().replace(/\s+/g, '');
       const results = items
-        .filter((item) => item.name.toLowerCase().includes(searchTerm.toLowerCase()))
+        .filter((item) => {
+          const sanitizedItemName = item.name.toLowerCase().replace(/\s+/g, '');
+          const distance = get(sanitizedItemName, sanitizedSearchTerm);
+          return distance <= 2 || sanitizedItemName.includes(sanitizedSearchTerm);
+        })
+        .sort((a, b) => a.name.localeCompare(b.name)) // Sort alphabetically
         .slice(0, 5); // Limit the number of results to 5
       setFilteredItems(results);
     } else {
