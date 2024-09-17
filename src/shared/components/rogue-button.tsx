@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 interface RogueButtonAttributes {
   text?: string;
   route?: string;
-  onClick?: () => {};
+  onClick?: () => void;
 }
 
 export default function RogueButton({ text, route, onClick }: RogueButtonAttributes) {
@@ -25,6 +25,10 @@ export default function RogueButton({ text, route, onClick }: RogueButtonAttribu
       style={{ fontWeight: "bold" }}
       color="secondary"
       onClick={buttonClick}
+      sx={{
+        color: "#fff",
+        textShadow: "4px 4px #000;",
+      }}
     >
       {text ?? "Rogue Button"}
     </Button>
