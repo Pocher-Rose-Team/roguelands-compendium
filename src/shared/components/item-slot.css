@@ -13,3 +13,19 @@
     top: 50%;
     transform: translate(-50%, -50%);
 }
+.item-amount {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.event-trigger {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    /*Zur visualisierung einkommentieren */
+    /*background: #f004;*/
+}
