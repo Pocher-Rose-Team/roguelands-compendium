@@ -44,7 +44,7 @@ def create_json_structure(root_folder: str) -> dict:
                 item_entry = {
                     'name': name,
                     'representation': representation,
-                    'path': os.path.join(foldername, filename).replace('\\', '/'),  # Convert to web-friendly paths
+                    'path': os.path.join(foldername, filename).replace('\\', '/')[6:-1],  # Convert to web-friendly paths
                     'stats': {
                         'str': 0,
                         'dex': 0,
