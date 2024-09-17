@@ -131,44 +131,94 @@ return (
       />
     </Box>
 
-    {/* CraftedWith */}
+{/* CraftedWith */}
 <Box sx={{ marginBottom: 2 }}>
   <Typography variant="h6">Crafted With</Typography>
-  {craftedWith.map((entry, index) => {
-    const craftedItem = items.find((item) => item.name === entry.item);
-    return (
-      <Box key={index} sx={{ display: 'flex', gap: 2, alignItems: 'center' }}>
-        {/* ItemSlot component to show the item with its image */}
-        <ItemSlot item={craftedItem} amount={entry.amount} />
 
-        <TextField
-          label="Amount"
-          type="number"
-          value={entry.amount}
-          onChange={(e) => handleCraftedWithAmountChange(index, Number(e.target.value))}
-          sx={{ width: '100px' }}
-        />
+  {showEmblemsOnly ? (
+    <Box
+      sx={{
+        display: 'grid',
+        gridTemplateColumns: 'repeat(4, 1fr)',
+        gap: 2,
+        marginTop: 1
+      }}
+    >
+      {[
+       "planetemblem",
+       "herbemblem",
+       "eyeballemblem",
+       "flutterflyemblem",
+       "orichalcumemblem",
+       "shroomemblem",
+       "clawemblem",
+       "beetleemblem",
+       "galacticiteemblem",
+       "seedemblem",
+       "fragmentemblem",
+       "ghastemblem",
+       "zephyremblem",
+       "staremblem",
+       "beastemblem",
+       "thunderwormemblem",
+       "flameemblem",
+       "aetheremblem",
+       "shinyemblem",
+       "glowflyemblem",
+       "existenceemblem",
+       "chaosemblem",
+       "ectoplasmemblem",
+       "plasmaemblem",
+      ].map((emblemName) => {
+        const emblemItem = items.find(item => item.name === emblemName);
+        return (
+          <ItemSlot
+            key={emblemName}
+            item={emblemItem || undefined}
+            amount={craftedWith.find(entry => entry.item === emblemName)?.amount}
+          />
+        );
+      })}
+    </Box>
+  ) : (
+    craftedWith.map((entry, index) => {
+      const craftedItem = items.find((item) => item.name === entry.item);
+      return (
+        <Box key={index} sx={{ display: 'flex', gap: 2, alignItems: 'center' }}>
+          <ItemSlot item={craftedItem} amount={entry.amount} />
 
-        <Autocomplete
-          options={items
-            .filter((item) => !showEmblemsOnly || item.type === ItemType.EMBLEMS)
-            .map((item) => item.name)
-          }
-          value={entry.item}
-          onChange={(e, newValue) => handleCraftedWithItemChange(index, newValue || '')}
-          renderInput={(params) => <TextField {...params} label="Item" />}
-          sx={{ flexGrow: 1 }}
-        />
+          <TextField
+            label="Amount"
+            type="number"
+            value={entry.amount}
+            onChange={(e) => handleCraftedWithAmountChange(index, Number(e.target.value))}
+            sx={{ width: '100px' }}
+          />
 
-        <IconButton onClick={() => removeCraftedWith(index)}>
-          <Remove />
-        </IconButton>
-      </Box>
-    );
-  })}
-  <Button onClick={addCraftedWith} variant="contained" startIcon={<Add />}>
-    Add Item
-  </Button>
+          <Autocomplete
+            options={items
+              .filter((item) => !showEmblemsOnly || item.type === ItemType.EMBLEMS)
+              .map((item) => item.name)
+            }
+            value={entry.item}
+            onChange={(e, newValue) => handleCraftedWithItemChange(index, newValue || '')}
+            renderInput={(params) => <TextField {...params} label="Item" />}
+            sx={{ flexGrow: 1 }}
+          />
+
+          <IconButton onClick={() => removeCraftedWith(index)}>
+            <Remove />
+          </IconButton>
+        </Box>
+      );
+    })
+  )}
+
+  {!showEmblemsOnly && (
+    <Button onClick={addCraftedWith} variant="contained" startIcon={<Add />}>
+      Add Item
+    </Button>
+  )}
 </Box>
 
     {/* FoundIn */}
