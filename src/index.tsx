@@ -6,6 +6,7 @@ import RootLayout from "./layout";
 import CraftingPage from "./context/crafting/crafting-page";
 import MainPage from "./context/main/main-page";
 import SearchPage from "./context/search/search-page";
+import ItemEditor from "./context/item-editor/item-editor";
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement);
 root.render(
@@ -16,6 +17,7 @@ root.render(
           <Route path="/" element={<MainPage />} />
           <Route path="crafting" element={<CraftingPage />} />
           <Route path="search" element={<SearchPage />} />
+          <Route path="editor" element={<ItemEditor />} />
         </Route>
       </Routes>
     </BrowserRouter>

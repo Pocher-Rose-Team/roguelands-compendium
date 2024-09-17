@@ -86,7 +86,7 @@ const ItemEditor: React.FC = () => {
       {/* List of items to edit */}
       <List>
         {items.map((item) => (
-          <ListItem key={item.name} button onClick={() => handleItemClick(item)}>
+          <ListItem key={item.name} onClick={() => handleItemClick(item)}>
             {item.name}
           </ListItem>
         ))}
