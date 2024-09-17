@@ -1,16 +1,16 @@
 import React, { useState, useEffect } from "react";
 import { TextField, Box, List, ListItem, ListItemText } from "@mui/material";
+import { useNavigate } from "react-router-dom";
 import { Item } from "../../shared/model/item";
 import { ItemService } from "../../shared/service/item-service";
-import { get} from 'fast-levenshtein';
-
-
+import { get } from 'fast-levenshtein';
 
 const ItemSearch: React.FC = () => {
   const itemService = new ItemService();
   const [items, setItems] = useState<Item[]>([]); // Array of Item objects
   const [searchTerm, setSearchTerm] = useState<string>(""); // Search term
   const [filteredItems, setFilteredItems] = useState<Item[]>([]); // Filtered list of items
+  const navigate = useNavigate(); // Hook to navigate programmatically
 
   // Fetch the JSON data from the public folder on component mount
   useEffect(() => {
@@ -43,6 +43,11 @@ const ItemSearch: React.FC = () => {
     setSearchTerm(e.target.value);
   };
 
+  // Handle clicking on an item
+  const handleItemClick = (itemName: string) => {
+    navigate(`/editor/${itemName}`);
+  };
+
   return (
     <Box sx={{ width: "100%", maxWidth: 500, mx: "auto", mt: 5 }}>
       <h2>Search Items</h2>
@@ -59,7 +64,10 @@ const ItemSearch: React.FC = () => {
       {searchTerm && filteredItems.length > 0 && (
         <List>
           {filteredItems.map((item) => (
-            <ListItem key={item.name}>
+            <ListItem
+              key={item.name}
+              onClick={() => handleItemClick(item.name)} // Navigate to the editor when an item is clicked
+            >
               <ListItemText primary={item.representation} secondary={item.path} />
             </ListItem>
           ))}

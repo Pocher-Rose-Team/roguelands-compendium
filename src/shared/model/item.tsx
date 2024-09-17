@@ -1,3 +1,5 @@
+import { ItemType } from "./item-type";
+
 // Define the Item interface based on the structure of the JSON data
 export interface Item {
   name: string;
@@ -11,8 +13,8 @@ export interface Item {
     fth: number;
     mag: number;
   };
-  craftedWith: string[];
-  description: string[];
+  craftedWith: {amount: number, item: string}[];
+  description: string;
   foundIn: string[];
-  type: string
+  type: ItemType
 }

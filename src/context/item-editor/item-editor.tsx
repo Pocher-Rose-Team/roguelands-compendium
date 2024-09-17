@@ -1,59 +1,53 @@
 import React, { useState, useEffect } from 'react';
-import { TextField, Box, Button, Typography, Autocomplete, List, ListItem } from '@mui/material';
-
-// Define the Item interface based on the structure of the JSON data
-export interface Item {
-  name: string;
-  representation: string;
-  path: string;
-  stats: {
-    str: number;
-    dex: number;
-    vit: number;
-    tec: number;
-    fth: number;
-    mag: number;
-  };
-  craftedWith?: string[];
-  description: string[];
-  foundIn?: string[];
-  type: string;
-}
+import { useParams } from 'react-router-dom';
+import { TextField, Box, Button, Typography, Autocomplete, FormControlLabel, Switch } from '@mui/material';
+import { ItemType } from '../../shared/model/item-type';
+import { Item } from '../../shared/model/item';
 
 const ItemEditor: React.FC = () => {
+  const { itemname } = useParams<{ itemname: string }>();
   const [items, setItems] = useState<Item[]>([]);
   const [selectedItem, setSelectedItem] = useState<Item | null>(null);
-  const [craftedWith, setCraftedWith] = useState<string[]>([]);
+  const [craftedWith, setCraftedWith] = useState<{item: string, amount: number}[]>([]);
   const [foundIn, setFoundIn] = useState<string[]>([]);
+  const [showEmblemsOnly, setShowEmblemsOnly] = useState<boolean>(true);
 
   // Load the JSON data on component mount
   useEffect(() => {
     fetch('/items.json')
       .then((response) => response.json())
-      .then((data: Item[]) => setItems(data))
+      .then((data: Item[]) => {
+        setItems(data);
+        console.log(itemname);
+        
+        const item = data.find((i) => i.name === itemname);
+        if (item) {
+          setSelectedItem(item);
+          setCraftedWith(item.craftedWith || []);
+          setFoundIn(item.foundIn || []);
+        }
+      })
       .catch((error) => console.error('Error loading items:', error));
-  }, []);
-
-  // Handle selecting an item for editing
-  const handleItemClick = (item: Item) => {
-    setSelectedItem(item);
-    setCraftedWith(item.craftedWith || []);
-    setFoundIn(item.foundIn || []);
-  };
+  }, [itemname]);
 
   // Handle saving the modified item back to the list
   const handleSaveItem = () => {
     if (!selectedItem) return;
 
-    setItems((prevItems) =>
-      prevItems.map((item) =>
-        item.name === selectedItem.name ? { ...selectedItem, craftedWith, foundIn } : item
-      )
+    const updatedItems = items.map((item) =>
+      item.name === selectedItem.name ? { ...selectedItem, craftedWith, foundIn } : item
     );
 
-    setSelectedItem(null);
-    setCraftedWith([]);
-    setFoundIn([]);
+    setItems(updatedItems);
+
+    // Trigger download of updated JSON file
+    const jsonBlob = new Blob([JSON.stringify(updatedItems, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(jsonBlob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'updated_items.json';
+    link.click();
+    URL.revokeObjectURL(url);
   };
 
   // Handle input changes for selected item's fields
@@ -81,20 +75,8 @@ const ItemEditor: React.FC = () => {
 
   return (
     <Box sx={{ padding: 4 }}>
-      <Typography variant="h4">Item Editor</Typography>
-
-      {/* List of items to edit */}
-      <List>
-        {items.map((item) => (
-          <ListItem key={item.name} onClick={() => handleItemClick(item)}>
-            {item.name}
-          </ListItem>
-        ))}
-      </List>
-
-      {/* Item Edit Form */}
-      {selectedItem && (
-        <Box sx={{ marginTop: 4 }}>
+      {selectedItem ? (
+        <Box>
           <Typography variant="h6">Editing: {selectedItem.name}</Typography>
 
           {/* Stats Block */}
@@ -111,14 +93,32 @@ const ItemEditor: React.FC = () => {
             ))}
           </Box>
 
-          {/* CraftedWith */}
-          <Autocomplete
-            multiple
-            options={items.map((item) => item.name)}
-            value={craftedWith}
-            onChange={(event, newValue) => setCraftedWith(newValue)}
-            renderInput={(params) => <TextField {...params} label="Crafted With" />}
-          />
+          {/* Toggle to show only emblems */}
+<Box sx={{ marginBottom: 2 }}>
+  <FormControlLabel
+    control={
+      <Switch
+        checked={showEmblemsOnly}
+        onChange={() => setShowEmblemsOnly(!showEmblemsOnly)}
+        color="primary"
+      />
+    }
+    label="Show only Emblems"
+  />
+</Box>
+
+{/* CraftedWith */}
+<Autocomplete
+  multiple
+  options={items
+    .filter((item) => !showEmblemsOnly || item.type === ItemType.EMBLEMS) // Filter based on toggle
+    .map((item) => item.name)
+  }
+  value={craftedWith.map(item => item.item)}
+  onChange={(event, newValue) => setCraftedWith(newValue.map(value => {return {item: value, amount: 1}}))}
+  renderInput={(params) => <TextField {...params} label="Crafted With" />}
+/>
+
 
           {/* FoundIn */}
           <Autocomplete
@@ -133,7 +133,7 @@ const ItemEditor: React.FC = () => {
           <TextField
             fullWidth
             label="Description"
-            value={selectedItem.description.join(', ')}
+            value={selectedItem.description}
             onChange={(e) => handleInputChange('description', e.target.value.split(', '))}
             margin="normal"
           />
@@ -149,9 +149,11 @@ const ItemEditor: React.FC = () => {
 
           {/* Save Button */}
           <Button variant="contained" color="primary" onClick={handleSaveItem} sx={{ marginTop: 2 }}>
-            Save Item
+            Save & Download JSON
           </Button>
         </Box>
+      ) : (
+        <Typography variant="h6">Item not found</Typography>
       )}
     </Box>
   );

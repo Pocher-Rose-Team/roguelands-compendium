@@ -26,7 +26,8 @@ export class RecipeService {
       map(([itemMap, emblems]) =>
         emblems.map((em) => {
           return {
-            material: itemMap.get(em.craftedWith.length > 0 ? em.craftedWith[0] : ""),
+            material: itemMap.get(em.craftedWith.length > 0 ? em.craftedWith[0].item : ""),
+            amount: em.craftedWith.length > 0 ? em.craftedWith[0].amount : "",
             result: em,
           } as EmblemRecipe;
         }),
