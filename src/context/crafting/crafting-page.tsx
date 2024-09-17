@@ -6,6 +6,7 @@ import { Item } from "../../shared/model/item";
 import { ItemType } from "../../shared/model/item-type";
 import { EmblemRecipe } from "../../shared/model/emblem-recipe";
 import { RecipeService } from "../../shared/service/recipe-service";
+import StandardButton from "../../shared/components/standard-button";
 
 export default function CraftingPage() {
   const recipeService = new RecipeService();
@@ -22,10 +23,13 @@ export default function CraftingPage() {
   return (
     <div>
       <div className="crafting-grid">
-        {items.map((recipe) => (
-          <EmblemRecipeDisplay recipe={recipe} />
+        {items.map((recipe, i) => (
+          <EmblemRecipeDisplay key={i} recipe={recipe} />
         ))}
       </div>
+      <br />
+      <br />
+      <StandardButton text="Cooler Button" onClick={() => console.log("Test")} />
     </div>
   );
 }
