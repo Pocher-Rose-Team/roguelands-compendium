@@ -1,0 +1,19 @@
+.item-tooltip {
+    pointer-events: none;
+    position: absolute;
+    z-index: 10;
+    top: 80%;
+    left: 80%;
+    background: #0F1C22;
+    padding: 5px 10px;
+    border-top: 2px solid #12282F;
+    border-left: 2px solid #12282F;
+    box-shadow: #050505 0px 0px 0px 3px;
+}
+.item-tooltip.flipped {
+    left: unset;
+    right: 80%;
+}
+.item-tooltip span {
+    white-space: nowrap;
+}

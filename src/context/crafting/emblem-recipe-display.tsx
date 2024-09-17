@@ -10,7 +10,7 @@ interface EmblemRecipeAttributes {
 export default function EmblemRecipeDisplay({ recipe }: EmblemRecipeAttributes) {
   return (
     <div className="emblem-recipe">
-      <ItemSlot item={recipe.material} />
+      <ItemSlot item={recipe.material} amount={10} />
       <CraftingArrow />
       <ItemSlot item={recipe.result} />
     </div>
