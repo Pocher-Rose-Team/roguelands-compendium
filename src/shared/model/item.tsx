@@ -18,3 +18,5 @@ export interface Item {
   foundIn: string[];
   type: ItemType
 }
+
+export { ItemType };
