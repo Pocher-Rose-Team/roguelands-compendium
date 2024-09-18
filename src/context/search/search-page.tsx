@@ -3,7 +3,8 @@ import { TextField, Box, List, ListItem, ListItemText } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 import { Item } from "../../shared/model/item";
 import { ItemService } from "../../shared/service/item-service";
-import { get } from 'fast-levenshtein';
+import { get } from "fast-levenshtein";
+import StandardTextField from "../../shared/components/standard-textfield/standard-textfield";
 
 const ItemSearch: React.FC = () => {
   const itemService = new ItemService();
@@ -23,10 +24,10 @@ const ItemSearch: React.FC = () => {
   // Filter the items based on the search term and limit the results to 5 items
   useEffect(() => {
     if (searchTerm) {
-      const sanitizedSearchTerm = searchTerm.toLowerCase().replace(/\s+/g, '');
+      const sanitizedSearchTerm = searchTerm.toLowerCase().replace(/\s+/g, "");
       const results = items
         .filter((item) => {
-          const sanitizedItemName = item.name.toLowerCase().replace(/\s+/g, '');
+          const sanitizedItemName = item.name.toLowerCase().replace(/\s+/g, "");
           const distance = get(sanitizedItemName, sanitizedSearchTerm);
           return distance <= 2 || sanitizedItemName.includes(sanitizedSearchTerm);
         })
@@ -51,13 +52,11 @@ const ItemSearch: React.FC = () => {
   return (
     <Box sx={{ width: "100%", maxWidth: 500, mx: "auto", mt: 5 }}>
       <h2>Search Items</h2>
-      <TextField
+      <StandardTextField
         fullWidth
         label="Search by item name"
-        variant="outlined"
         value={searchTerm}
         onChange={handleInputChange}
-        margin="normal"
       />
 
       {/* Only show the list when there is something in the input field */}

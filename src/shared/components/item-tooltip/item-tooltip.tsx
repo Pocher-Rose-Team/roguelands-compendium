@@ -1,7 +1,7 @@
-import { Item } from "../model/item";
-import useMousePosition from "../hooks/use-mouse-position";
+import { Item } from "../../model/item";
+import useMousePosition from "../../hooks/use-mouse-position";
 import "./item-tooltip.css";
-import useWindowSize from "../hooks/use-window-size";
+import useWindowSize from "../../hooks/use-window-size";
 
 interface ItemTooltipAttributes {
   item?: Item;

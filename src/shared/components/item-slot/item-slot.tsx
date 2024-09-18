@@ -1,7 +1,7 @@
 import "./item-slot.css";
-import { Item } from "../model/item";
+import { Item } from "../../model/item";
 import { useState } from "react";
-import ItemTooltip from "./item-tooltip";
+import ItemTooltip from "../item-tooltip/item-tooltip";
 
 interface ItemSlotAttributes {
   item?: Item;

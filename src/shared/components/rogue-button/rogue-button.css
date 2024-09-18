@@ -1,7 +1,7 @@
 .rogue-button {
     position: relative;
     width: 235px;
-    background-image: url("../../../public/img/ui/button.png");
+    background-image: url("../../../../public/img/ui/button.png");
     background-repeat: no-repeat;
     background-size: cover;
 }

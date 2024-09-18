@@ -1,4 +1,4 @@
-import ItemSlot from "../../shared/components/item-slot";
+import ItemSlot from "../../shared/components/item-slot/item-slot";
 import CraftingArrow from "./crafting-arrow";
 import { Item } from "../../shared/model/item";
 import { EmblemRecipe } from "../../shared/model/emblem-recipe";
