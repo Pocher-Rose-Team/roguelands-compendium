@@ -1,14 +1,22 @@
 import { useNavigate } from "react-router-dom";
-import { Button } from "@mui/material";
+import { Button, SxProps, Theme } from "@mui/material";
 import "./standard-button.css";
 
 interface StandardButtonAttributes {
   text?: string;
+  startIcon?: React.ReactNode;
   route?: string;
   onClick?: () => void;
+  sx?: SxProps<Theme>;
 }
 
-export default function StandardButton({ text, route, onClick }: StandardButtonAttributes) {
+export default function StandardButton({
+  text,
+  startIcon,
+  route,
+  onClick,
+  sx,
+}: StandardButtonAttributes) {
   const navigate = useNavigate();
   const buttonClick = () => {
     if (onClick) {
@@ -22,6 +30,7 @@ export default function StandardButton({ text, route, onClick }: StandardButtonA
   return (
     <Button
       className="standard-button"
+      startIcon={startIcon}
       onClick={buttonClick}
       sx={{
         color: "#fff",
@@ -33,6 +42,7 @@ export default function StandardButton({ text, route, onClick }: StandardButtonA
         padding: "0px 20px",
         textShadow: "4px 4px #000",
         textTransform: "capitalize",
+        ...sx,
       }}
     >
       <span>{text ?? "Standard Button"}</span>

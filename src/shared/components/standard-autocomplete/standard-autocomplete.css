@@ -1,0 +1,29 @@
+.standard-autocomplete {
+    color: #fff;
+    background-color: #0F0F0F;
+    border-radius: 0;
+}
+.standard-autocomplete .MuiInputBase-root {
+    color: #fff;
+    padding: 5px 15px !important;
+}
+.standard-autocomplete fieldset {
+    border-radius: 0;
+    border-width: 3px !important;
+    border-color: #606060 !important;
+}
+.standard-autocomplete label {
+    color: #ccc !important;
+    font-size: 1.2em;
+    transform: translate(14px, 10px) scale(1);
+}
+.standard-autocomplete label[data-shrink="true"] {
+    font-size: 1em;
+    transform: translate(14px, -9px) scale(0.75);
+}
+.standard-autocomplete span.MuiChip-label {
+    font-size: 1.2em;
+}
+.MuiAutocomplete-popper > * {
+    background-color: #0F0F0F !important;
+}

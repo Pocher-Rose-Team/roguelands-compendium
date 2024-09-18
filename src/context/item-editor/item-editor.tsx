@@ -1,18 +1,12 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import {
-  TextField,
-  Box,
-  Button,
-  Typography,
-  Autocomplete,
-  IconButton,
-  Switch,
-  FormControlLabel,
-} from "@mui/material";
+import { Box, Typography, IconButton, Switch, FormControlLabel } from "@mui/material";
 import { Add, Remove } from "@mui/icons-material";
 import { Item, ItemType } from "../../shared/model/item";
 import ItemSlot from "../../shared/components/item-slot/item-slot";
+import StandardTextField from "../../shared/components/standard-textfield/standard-textfield";
+import StandardAutocomplete from "../../shared/components/standard-autocomplete/standard-autocomplete";
+import StandardButton from "../../shared/components/standard-button/standard-button";
 
 // ItemEditor Component
 const ItemEditor: React.FC = () => {
@@ -113,7 +107,7 @@ const ItemEditor: React.FC = () => {
           {/* Stats Block */}
           <Box sx={{ display: "flex", gap: 2, marginBottom: 2 }}>
             {Object.keys(selectedItem.stats).map((stat) => (
-              <TextField
+              <StandardTextField
                 key={stat}
                 label={stat.toUpperCase()}
                 value={(selectedItem.stats as any)[stat]}
@@ -193,7 +187,7 @@ const ItemEditor: React.FC = () => {
                   <Box key={index} sx={{ display: "flex", gap: 2, alignItems: "center" }}>
                     <ItemSlot item={craftedItem} amount={entry.amount} />
 
-                    <TextField
+                    <StandardTextField
                       label="Amount"
                       type="number"
                       value={entry.amount}
@@ -201,13 +195,15 @@ const ItemEditor: React.FC = () => {
                       sx={{ width: "100px" }}
                     />
 
-                    <Autocomplete
+                    <StandardAutocomplete
                       options={items
                         .filter((item) => !showEmblemsOnly || item.type === ItemType.EMBLEMS)
                         .map((item) => item.name)}
                       value={entry.item}
-                      onChange={(e, newValue) => handleCraftedWithItemChange(index, newValue || "")}
-                      renderInput={(params) => <TextField {...params} label="Item" />}
+                      onChange={(e, newValue) =>
+                        handleCraftedWithItemChange(index, newValue?.toString() || "")
+                      }
+                      label="Item"
                       sx={{ flexGrow: 1 }}
                     />
 
@@ -220,23 +216,21 @@ const ItemEditor: React.FC = () => {
             )}
 
             {!showEmblemsOnly && (
-              <Button onClick={addCraftedWith} variant="contained" startIcon={<Add />}>
-                Add Item
-              </Button>
+              <StandardButton onClick={addCraftedWith} text="Add Item" startIcon={<Add />} />
             )}
           </Box>
 
           {/* FoundIn */}
-          <Autocomplete
+          <StandardAutocomplete
             multiple
             options={allItems}
             value={foundIn}
             onChange={handleFoundInChange}
-            renderInput={(params) => <TextField {...params} label="Found In" />}
+            label="Found In"
           />
 
           {/* Description */}
-          <TextField
+          <StandardTextField
             fullWidth
             label="Description"
             value={selectedItem.description}
@@ -245,7 +239,7 @@ const ItemEditor: React.FC = () => {
           />
 
           {/* Type */}
-          <TextField
+          <StandardTextField
             fullWidth
             label="Type"
             value={selectedItem.type}
@@ -254,9 +248,7 @@ const ItemEditor: React.FC = () => {
           />
 
           {/* Save Button */}
-          <Button variant="contained" color="primary" onClick={handleSave} sx={{ marginTop: 2 }}>
-            Save Item
-          </Button>
+          <StandardButton onClick={handleSave} sx={{ marginTop: 2 }} text="Save Item" />
         </Box>
       ) : (
         <Typography variant="h6">Item not found</Typography>
