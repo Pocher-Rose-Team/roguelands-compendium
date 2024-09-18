@@ -22,7 +22,6 @@ export default function RogueButton({ text, route, onClick }: RogueButtonAttribu
   return (
     <Button
       className="rogue-button"
-      style={{ fontWeight: "bold" }}
       color="secondary"
       onClick={buttonClick}
       sx={{
@@ -30,7 +29,8 @@ export default function RogueButton({ text, route, onClick }: RogueButtonAttribu
         textShadow: "4px 4px #000;",
       }}
     >
-      {text ?? "Rogue Button"}
+      <span className="button-text">{text ?? "Rogue Button"}</span>
+      <span>&nbsp;</span>
     </Button>
   );
 }

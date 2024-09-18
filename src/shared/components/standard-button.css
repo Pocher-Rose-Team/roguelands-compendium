@@ -1,0 +1,11 @@
+.standard-button {
+    color: #fff;
+    font-size: 1.2em;
+    background-color: #525252;
+    border-radius: 0;
+    border: 3px solid #373737;
+    outline: 3px solid #151515;
+    padding: 0px 20px;
+    text-shadow: 4px 4px #000;;
+    text-transform: capitalize;
+}

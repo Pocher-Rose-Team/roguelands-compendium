@@ -1,5 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { Button } from "@mui/material";
+import "./standard-button.css";
 
 interface StandardButtonAttributes {
   text?: string;
@@ -19,21 +20,7 @@ export default function StandardButton({ text, route, onClick }: StandardButtonA
   };
 
   return (
-    <Button
-      className="standard-button"
-      onClick={buttonClick}
-      sx={{
-        color: "#fff",
-        backgroundColor: "#525252",
-        borderRadius: 0,
-        border: "3px solid #373737",
-        outline: "3px solid #151515",
-        padding: "5px 20px",
-        textShadow: "4px 4px #000;",
-        fontWeight: "bold",
-        textTransform: "capitalize",
-      }}
-    >
+    <Button className="standard-button" onClick={buttonClick}>
       {text ?? "Standard Button"}
     </Button>
   );

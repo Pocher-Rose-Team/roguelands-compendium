@@ -15,5 +15,6 @@
     right: 80%;
 }
 .item-tooltip span {
+    font-size: 1.2em;
     white-space: nowrap;
 }
