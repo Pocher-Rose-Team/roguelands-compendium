@@ -9,3 +9,6 @@
     position: absolute;
     font-size: 1.4em;
 }
+.rogue-button:hover .button-text {
+    animation: text-pulse 0.2s;
+}

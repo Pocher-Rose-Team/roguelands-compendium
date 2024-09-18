@@ -20,8 +20,22 @@ export default function StandardButton({ text, route, onClick }: StandardButtonA
   };
 
   return (
-    <Button className="standard-button" onClick={buttonClick}>
-      {text ?? "Standard Button"}
+    <Button
+      className="standard-button"
+      onClick={buttonClick}
+      sx={{
+        color: "#fff",
+        fontSize: "1.2em",
+        backgroundColor: "#525252",
+        borderRadius: 0,
+        border: "3px solid #373737",
+        outline: "3px solid #151515",
+        padding: "0px 20px",
+        textShadow: "4px 4px #000",
+        textTransform: "capitalize",
+      }}
+    >
+      <span>{text ?? "Standard Button"}</span>
     </Button>
   );
 }
