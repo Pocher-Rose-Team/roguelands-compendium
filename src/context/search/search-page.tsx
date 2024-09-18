@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
-import { TextField, Box, List, ListItem, ListItemText } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 import { Item } from "../../shared/model/item";
 import { ItemService } from "../../shared/service/item-service";
 import { get } from "fast-levenshtein";
 import StandardTextField from "../../shared/components/standard-textfield/standard-textfield";
+import "./search-page.css";
 
 const ItemSearch: React.FC = () => {
   const itemService = new ItemService();
@@ -50,7 +50,7 @@ const ItemSearch: React.FC = () => {
   };
 
   return (
-    <Box sx={{ width: "100%", maxWidth: 500, mx: "auto", mt: 5 }}>
+    <div className="search-container">
       <h2>Search Items</h2>
       <StandardTextField
         fullWidth
@@ -61,18 +61,20 @@ const ItemSearch: React.FC = () => {
 
       {/* Only show the list when there is something in the input field */}
       {searchTerm && filteredItems.length > 0 && (
-        <List>
+        <div className="search-result-list">
           {filteredItems.map((item) => (
-            <ListItem
+            <div
+              className="search-result-item"
               key={item.name}
               onClick={() => handleItemClick(item.name)} // Navigate to the editor when an item is clicked
             >
-              <ListItemText primary={item.representation} secondary={item.path} />
-            </ListItem>
+              <p className="item-title">{item.representation}</p>
+              <p className="item-path">{item.path}</p>
+            </div>
           ))}
-        </List>
+        </div>
       )}
-    </Box>
+    </div>
   );
 };
 
