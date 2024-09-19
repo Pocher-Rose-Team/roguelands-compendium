@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { Box, Typography, Button, Switch, FormControlLabel } from "@mui/material";
 import { Item } from "../../shared/model/item";
 import { ItemType } from "../../shared/model/item-type";
@@ -14,6 +14,8 @@ import { ItemService } from "../../shared/service/item-service";
 const ItemEditor: React.FC = () => {
   const itemService = new ItemService();
   const statBlock = ["vit", "dex", "mag", "str", "tec", "fth"] // Needed for order
+
+  const navigate = useNavigate();
 
   const { itemname } = useParams<{ itemname: string }>();
   const [items, setItems] = useState<Item[]>([]);
@@ -101,12 +103,14 @@ const ItemEditor: React.FC = () => {
   // Handle Save 
   const handleSave = () => {
     if (selectedItem) {
+      
       const updatedItem = selectedItem;
       updatedItem.craftedWith = craftedWith;
-      updatedItem.foundIn = foundIn;
+      updatedItem.foundIn = foundIn; 
       // Save updatedItem to your data store
       setItems((prev) => [...prev.filter(item => item.name !== updatedItem.name), updatedItem])
       localStorage.setItem("items", JSON.stringify(items))
+      navigate("/search")
     }
   };
 

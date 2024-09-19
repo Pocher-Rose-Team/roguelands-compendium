@@ -54,7 +54,7 @@ def create_json_structure(root_folder: str) -> dict:
                         'mag': 0,
                     },
                     'craftedWith': [],  # Optional, default empty list
-                    'description': [],  
+                    'description': "",  
                     'foundIn': [],  # Optional, default empty array
                     'type': foldername.split("\\")[-1]
                 }
