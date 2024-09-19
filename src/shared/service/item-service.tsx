@@ -19,10 +19,10 @@ export class ItemService {
       mag: 0,
       str: 0,
       tec: 0,
-      vit: 0
+      vit: 0,
     },
-    type: ItemType.MISC
-  }
+    type: ItemType.MISC,
+  };
 
   constructor() {
     this.http = new HttpClient();
@@ -32,6 +32,17 @@ export class ItemService {
     return this.http.get<Item[]>("/items.json");
   }
 
+  getAllItemsAsMap(): Observable<Map<string, Item>> {
+    return this.getAllItems().pipe(
+      map((allItems) =>
+        allItems.reduce((map, obj) => {
+          map.set(obj.name, obj);
+          return map;
+        }, new Map<string, Item>()),
+      ),
+    );
+  }
+
   getItemByName(name: string): Observable<Item> {
     return this.getAllItems().pipe(
       map((allItems) =>
@@ -39,7 +50,9 @@ export class ItemService {
           map.set(obj.name, obj);
           return map;
         }, new Map<string, Item>()),
-      ), map(map => map.get(name) ?? this.defaultItem))
+      ),
+      map((map) => map.get(name) ?? this.defaultItem),
+    );
   }
 
   getAllItemsOfType(type: ItemType): Observable<Item[]> {

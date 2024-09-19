@@ -13,10 +13,8 @@ export interface Item {
     fth: number;
     mag: number;
   };
-  craftedWith: {amount: number, item: string}[];
+  craftedWith: { amount: number; item: string }[];
   description: string;
   foundIn: string[];
-  type: ItemType
+  type: ItemType;
 }
-
-export { ItemType };

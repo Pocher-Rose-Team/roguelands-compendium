@@ -1,32 +1,42 @@
 import EmblemRecipeDisplay from "./emblem-recipe-display";
 import "./crafting.css";
 import { useEffect, useState } from "react";
-import { EmblemRecipe } from "../../shared/model/emblem-recipe";
+import { EmblemRecipe, ItemRecipe } from "../../shared/model/recipe.model";
 import { RecipeService } from "../../shared/service/recipe-service";
-import StandardButton from "../../shared/components/standard-button/standard-button";
+import { ItemType } from "../../shared/model/item-type";
+import RecipeDisplay from "./recipe-display";
 
 export default function CraftingPage() {
   const recipeService = new RecipeService();
 
-  const [items, setItems] = useState<EmblemRecipe[]>([]);
+  const [emblemRecipes, setEmblemRecipes] = useState<EmblemRecipe[]>([]);
+  const [itemRecipes, setItemRecipes] = useState<ItemRecipe[]>([]);
 
   useEffect(() => {
     recipeService.getEmblemCraftingRecipes().subscribe({
-      next: (recipes) => setItems(recipes),
+      next: (recipes) => setEmblemRecipes(recipes),
+      error: (error) => console.error("Error loading items:", error),
+    });
+    recipeService.getItemCraftingRecipesOfType(ItemType.HELMETS).subscribe({
+      next: (recipes) => setItemRecipes(recipes),
       error: (error) => console.error("Error loading items:", error),
     });
   }, []);
 
   return (
     <div>
-      <div className="crafting-grid">
-        {items.map((recipe, i) => (
+      <div className="emblem-crafting-grid">
+        {emblemRecipes.map((recipe, i) => (
           <EmblemRecipeDisplay key={i} recipe={recipe} />
         ))}
       </div>
       <br />
       <br />
-      <StandardButton text="Cooler Button" onClick={() => console.log("Test")} />
+      <div className="item-crafting-grid">
+        {itemRecipes.map((recipe, i) => (
+          <RecipeDisplay recipe={recipe} />
+        ))}
+      </div>
     </div>
   );
 }

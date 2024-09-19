@@ -1,8 +1,7 @@
 import { forkJoin, map, Observable } from "rxjs";
 import { ItemType } from "../model/item-type";
-import { EmblemRecipe } from "../model/emblem-recipe";
+import { EmblemRecipe, ItemRecipe } from "../model/recipe.model";
 import { ItemService } from "./item-service";
-import { Item } from "../model/item";
 
 export class RecipeService {
   private itemService: ItemService;
@@ -13,23 +12,37 @@ export class RecipeService {
 
   getEmblemCraftingRecipes(): Observable<EmblemRecipe[]> {
     return forkJoin([
-      this.itemService.getAllItems().pipe(
-        map((allItems) =>
-          allItems.reduce((map, obj) => {
-            map.set(obj.name, obj);
-            return map;
-          }, new Map<string, Item>()),
-        ),
-      ),
+      this.itemService.getAllItemsAsMap(),
       this.itemService.getAllItemsOfType(ItemType.EMBLEMS),
     ]).pipe(
-      map(([itemMap, emblems]) =>
-        emblems.map((em) => {
+      map(([itemMap, emblemList]) =>
+        emblemList.map((emblem) => {
+          const emblemCraftedWith =
+            emblem.craftedWith.length > 0 ? emblem.craftedWith[0] : { item: "", amount: 0 };
           return {
-            material: itemMap.get(em.craftedWith.length > 0 ? em.craftedWith[0].item : ""),
-            amount: em.craftedWith.length > 0 ? em.craftedWith[0].amount : "",
-            result: em,
+            material: itemMap.get(emblemCraftedWith.item),
+            amount: emblemCraftedWith.amount,
+            result: emblem,
           } as EmblemRecipe;
+        }),
+      ),
+    );
+  }
+
+  getItemCraftingRecipesOfType(type: ItemType): Observable<ItemRecipe[]> {
+    if (type === ItemType.EMBLEMS) {
+      throw new Error("For emblem recipes use getEmblemCraftingRecipes() method");
+    }
+    return forkJoin([
+      this.itemService.getAllItemsAsMap(),
+      this.itemService.getAllItemsOfType(type),
+    ]).pipe(
+      map(([itemMap, toCraftList]) =>
+        toCraftList.map((itemToCraft) => {
+          return {
+            materials: itemToCraft.craftedWith.map((material) => itemMap.get(material.item)),
+            result: itemToCraft,
+          } as ItemRecipe;
         }),
       ),
     );

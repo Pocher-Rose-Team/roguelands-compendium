@@ -1,6 +1,9 @@
-.emblem-recipe {
+.emblem-recipe, .item-recipe {
     display: flex;
-    justify-content: center;
+}
+.item-recipe .slot-group {
+    display: flex;
+    gap: 8px;
 }
 .crafting-arrow {
     display: flex;
@@ -13,7 +16,7 @@
     width: 32px;
 }
 
-.crafting-grid {
+.emblem-crafting-grid, .item-crafting-grid {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-gap: 20px;

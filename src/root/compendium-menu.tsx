@@ -12,7 +12,6 @@ export default function CompendiumMenu() {
         <RogueButton text="Crafting" route={"/crafting"} />
         <RogueButton text="Search" route={"/search"} />
         <RogueButton text="Editor" route={"/editor"} />
-        <RogueButton text="Other" />
       </div>
     </div>
   );
