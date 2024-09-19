@@ -53,7 +53,7 @@ const ItemSearch: React.FC = () => {
     } else {
       setFilteredItems([]); // Show no items if the search term is empty
     }
-  }, [searchTerm, items]);
+  }, [searchTerm, items, onlyItemsWithoutCrafting, onlyItemsWithoutStats]);
 
   // Handle the search input change
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
