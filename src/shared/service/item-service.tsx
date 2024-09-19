@@ -1,5 +1,5 @@
 import { HttpClient } from "./http-client";
-import { map, Observable } from "rxjs";
+import { map, Observable, of } from "rxjs";
 import { Item } from "../model/item";
 import { ItemType } from "../model/item-type";
 
@@ -29,6 +29,10 @@ export class ItemService {
   }
 
   getAllItems(): Observable<Item[]> {
+    const localStorageItems = localStorage.getItem("items")
+    if(localStorageItems) {
+      return of(JSON.parse(localStorageItems))
+    }
     return this.http.get<Item[]>("/items.json");
   }
 

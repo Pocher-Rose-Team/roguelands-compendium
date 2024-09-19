@@ -6,12 +6,12 @@ export interface Item {
   representation: string;
   path: string;
   stats: {
-    str: number;
-    dex: number;
     vit: number;
+    dex: number;
+    mag: number;
+    str: number;
     tec: number;
     fth: number;
-    mag: number;
   };
   craftedWith: { amount: number; item: string }[];
   description: string;

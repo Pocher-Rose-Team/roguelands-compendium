@@ -1,42 +1,50 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { Box, Typography, IconButton, Switch, FormControlLabel } from "@mui/material";
-import { Add, Remove } from "@mui/icons-material";
+import { Box, Typography, Button, Switch, FormControlLabel } from "@mui/material";
 import { Item } from "../../shared/model/item";
 import { ItemType } from "../../shared/model/item-type";
 import ItemSlot from "../../shared/components/item-slot/item-slot";
 import StandardTextField from "../../shared/components/standard-textfield/standard-textfield";
 import StandardAutocomplete from "../../shared/components/standard-autocomplete/standard-autocomplete";
 import StandardButton from "../../shared/components/standard-button/standard-button";
+import { Add, Remove } from "@mui/icons-material";
+import { ItemService } from "../../shared/service/item-service";
 
 // ItemEditor Component
 const ItemEditor: React.FC = () => {
+  const itemService = new ItemService();
+  const statBlock = ["vit", "dex", "mag", "str", "tec", "fth"] // Needed for order
+
   const { itemname } = useParams<{ itemname: string }>();
   const [items, setItems] = useState<Item[]>([]);
   const [selectedItem, setSelectedItem] = useState<Item | null>(null);
   const [craftedWith, setCraftedWith] = useState<{ amount: number; item: string }[]>([]);
   const [foundIn, setFoundIn] = useState<string[]>([]);
   const [allItems, setAllItems] = useState<string[]>([]); // Names of all items for autocomplete
+  const worlds = ["AncientRuins", "Byfrost", "Cathedral", "DeepJungle", "DemonsRift", "DesolateCanyon", "ForbiddenArena", "HollowCaverns", "MechCity", "MoltenCrag", "OldEarth", "Plaguelands", "Shroomtown", "Whisperwood"];
+
   const [showEmblemsOnly, setShowEmblemsOnly] = useState<boolean>(true); // Toggle for showing only emblems
 
   // Load the JSON data on component mount
   useEffect(() => {
     // Fetch the item data here
     // Assuming you have a service to get items
-    fetch("/items.json")
-      .then((response) => response.json())
-      .then((data: Item[]) => {
-        setItems(data);
-        const item = data.find((i) => i.name === itemname);
-        if (item) {
-          setSelectedItem(item);
-          setCraftedWith(item.craftedWith);
-          setFoundIn(item.foundIn);
-          setAllItems(data.map((i) => i.name)); // Extracting all item names for the autocomplete
-        }
+    itemService.getAllItems().subscribe(
+      (data: Item[]) => {
+        setData(data);
       })
-      .catch((error) => console.error("Error loading items:", error));
   }, [itemname]);
+
+  const setData = (data: Item[]) => {
+    setItems(data);
+    const item = data.find((i) => i.name === itemname);
+    if (item) {
+      setSelectedItem(item);
+      setCraftedWith(item.craftedWith);
+      setFoundIn(item.foundIn);
+      setAllItems(data.map((i) => i.name)); // Extracting all item names for the autocomplete
+    }
+  }
 
   // Handle input change for item fields
   const handleInputChange = (field: string, value: any) => {
@@ -51,12 +59,11 @@ const ItemEditor: React.FC = () => {
   // Handle stats input changes
   const handleStatsChange = (stat: string, value: number) => {
     if (selectedItem) {
+      const stats = selectedItem.stats;
+      (stats as any)[stat] = value;
       setSelectedItem({
         ...selectedItem,
-        stats: {
-          ...selectedItem.stats,
-          [stat]: value,
-        },
+        stats: stats,
       });
     }
   };
@@ -77,7 +84,7 @@ const ItemEditor: React.FC = () => {
 
   // Add new craftedWith entry
   const addCraftedWith = () => {
-    setCraftedWith([...craftedWith, { amount: 1, item: "" }]);
+    setCraftedWith([...craftedWith, { amount: 1, item: "," }]);
   };
 
   // Remove craftedWith entry
@@ -91,23 +98,41 @@ const ItemEditor: React.FC = () => {
     setFoundIn(newValue);
   };
 
-  // Handle Save (Assume you have a save logic here)
+  // Handle Save 
   const handleSave = () => {
     if (selectedItem) {
-      const updatedItem = { ...selectedItem, craftedWith, foundIn };
+      const updatedItem = selectedItem;
+      updatedItem.craftedWith = craftedWith;
+      updatedItem.foundIn = foundIn;
       // Save updatedItem to your data store
+      setItems((prev) => [...prev.filter(item => item.name !== updatedItem.name), updatedItem])
+      localStorage.setItem("items", JSON.stringify(items))
     }
   };
+
+  const handleClick = (emblemName: string) => { // TODO This might still be buggy. If i log craftedWith at the end of this function it still displays the old value. Saving works without a hitch though
+    // Check if the emblem is already in the craftedWith array
+    const existingEntry = craftedWith.find((entry) => entry.item === emblemName);
+
+    if (existingEntry) {
+      // If the emblem already exists, remove it
+      const newCraftedWith = craftedWith.filter(x => x.item !== emblemName)
+      setCraftedWith(newCraftedWith)
+    } else {
+      // If the emblem doesn't exist, add it with an amount of 1
+      setCraftedWith((prev) => [...prev, { amount: 1, item: emblemName }]);
+    }
+  }
 
   return (
     <Box sx={{ padding: 4 }}>
       {selectedItem ? (
         <Box>
-          <Typography variant="h6">Editing: {selectedItem.name}</Typography>
+          <Typography variant="h6">Editing: {selectedItem.representation}</Typography>
 
           {/* Stats Block */}
           <Box sx={{ display: "flex", gap: 2, marginBottom: 2 }}>
-            {Object.keys(selectedItem.stats).map((stat) => (
+            {statBlock.map((stat) => (
               <StandardTextField
                 key={stat}
                 label={stat.toUpperCase()}
@@ -174,9 +199,11 @@ const ItemEditor: React.FC = () => {
                   const emblemItem = items.find((item) => item.name === emblemName);
                   return (
                     <ItemSlot
+                      onClick={() => handleClick(emblemName)}
                       key={emblemName}
                       item={emblemItem || undefined}
                       amount={craftedWith.find((entry) => entry.item === emblemName)?.amount}
+                      isSelected={craftedWith.find((entry) => entry.item === emblemName) !== undefined}
                     />
                   );
                 })}
@@ -202,15 +229,15 @@ const ItemEditor: React.FC = () => {
                         .map((item) => item.name)}
                       value={entry.item}
                       onChange={(e, newValue) =>
-                        handleCraftedWithItemChange(index, newValue?.toString() || "")
+                        handleCraftedWithItemChange(index, newValue?.toString() || ",")
                       }
                       label="Item"
                       sx={{ flexGrow: 1 }}
                     />
 
-                    <IconButton onClick={() => removeCraftedWith(index)}>
+                    <Button onClick={() => removeCraftedWith(index)}>
                       <Remove />
-                    </IconButton>
+                    </Button>
                   </Box>
                 );
               })
@@ -224,7 +251,7 @@ const ItemEditor: React.FC = () => {
           {/* FoundIn */}
           <StandardAutocomplete
             multiple
-            options={allItems}
+            options={worlds}
             value={foundIn}
             onChange={handleFoundInChange}
             label="Found In"

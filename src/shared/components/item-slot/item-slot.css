@@ -6,6 +6,12 @@
     width: 48px;
     height: 48px;
 }
+
+.item-slot.selected {
+    
+    background: #f004;
+  }
+
 .item-slot img {
     position: absolute;
     width: 96px;
@@ -27,5 +33,4 @@
     transform: translate(-50%, -50%);
     cursor: pointer;
     /*Zur visualisierung einkommentieren */
-    /*background: #f004;*/
 }
