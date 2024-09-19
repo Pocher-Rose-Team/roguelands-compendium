@@ -107,6 +107,7 @@ const ItemEditor: React.FC = () => {
       const updatedItem = selectedItem;
       updatedItem.craftedWith = craftedWith;
       updatedItem.foundIn = foundIn; 
+      // TODO Corvin description wird nicht gespeichert. auch nicht im localstorage
       // Save updatedItem to your data store
       setItems((prev) => [...prev.filter(item => item.name !== updatedItem.name), updatedItem])
       localStorage.setItem("items", JSON.stringify(items))
