@@ -7,6 +7,8 @@ import StandardTextField from "../../shared/components/standard-textfield/standa
 import "./search-page.css";
 
 const ItemSearch: React.FC = () => {
+  const MAX_RESULT_COUNT = 9;
+
   const itemService = new ItemService();
   const [items, setItems] = useState<Item[]>([]); // Array of Item objects
   const [searchTerm, setSearchTerm] = useState<string>(""); // Search term
@@ -32,7 +34,7 @@ const ItemSearch: React.FC = () => {
           return distance <= 2 || sanitizedItemName.includes(sanitizedSearchTerm);
         })
         .sort((a, b) => a.name.localeCompare(b.name)) // Sort alphabetically
-        .slice(0, 5); // Limit the number of results to 5
+        .slice(0, MAX_RESULT_COUNT); // Limit the number of results to 5
       setFilteredItems(results);
     } else {
       setFilteredItems([]); // Show no items if the search term is empty
@@ -68,8 +70,11 @@ const ItemSearch: React.FC = () => {
               key={item.name}
               onClick={() => handleItemClick(item.name)} // Navigate to the editor when an item is clicked
             >
-              <p className="item-title">{item.representation}</p>
-              <p className="item-path">{item.path}</p>
+              <img src={item.path} alt={item.name} />
+              <div>
+                <p className="item-title">{item.representation}</p>
+                <p className="item-path">{item.path}</p>
+              </div>
             </div>
           ))}
         </div>
