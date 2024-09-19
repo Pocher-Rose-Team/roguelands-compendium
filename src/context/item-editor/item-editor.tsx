@@ -120,7 +120,9 @@ const ItemEditor: React.FC = () => {
       setCraftedWith(newCraftedWith)
     } else {
       // If the emblem doesn't exist, add it with an amount of 1
-      setCraftedWith((prev) => [...prev, { amount: 1, item: emblemName }]);
+      const newCraftedWith = craftedWith;
+      newCraftedWith.push({amount: 1, item: emblemName})
+      setCraftedWith(newCraftedWith);
     }
   }
 
