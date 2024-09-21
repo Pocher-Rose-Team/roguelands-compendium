@@ -34,7 +34,7 @@ const ItemSearch: React.FC = () => {
       const results = items
         .filter((item) => {
           if(onlyItemsWithoutCrafting) {
-            if (item.craftedWith.length > 0) {
+            if (item.craftedWith.length > 0 || item.foundIn.length > 0) {
               return false;
             }
           }

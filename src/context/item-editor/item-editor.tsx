@@ -25,7 +25,7 @@ const ItemEditor: React.FC = () => {
   const [allItems, setAllItems] = useState<string[]>([]); // Names of all items for autocomplete
   const worlds = ["AncientRuins", "Byfrost", "Cathedral", "DeepJungle", "DemonsRift", "DesolateCanyon", "ForbiddenArena", "HollowCaverns", "MechCity", "MoltenCrag", "OldEarth", "Plaguelands", "Shroomtown", "Whisperwood"];
 
-  const [showEmblemsOnly, setShowEmblemsOnly] = useState<boolean>(true); // Toggle for showing only emblems
+  const [showEmblemsOnly, setShowEmblemsOnly] = useState<boolean>(false); // Toggle for showing only emblems
 
   // Load the JSON data on component mount
   useEffect(() => {
@@ -106,7 +106,7 @@ const ItemEditor: React.FC = () => {
       
       const updatedItem = selectedItem;
       updatedItem.craftedWith = craftedWith;
-      updatedItem.foundIn = foundIn; 
+      updatedItem.foundIn = foundIn;
       // TODO Corvin description wird nicht gespeichert. auch nicht im localstorage
       // Save updatedItem to your data store
       setItems((prev) => [...prev.filter(item => item.name !== updatedItem.name), updatedItem])

@@ -1752,7 +1752,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Whisperwood"
+        ],
         "type": "drops"
     },
     {
@@ -1769,7 +1771,11 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Shroomtown",
+            "Byfrost",
+            "Whisperwood"
+        ],
         "type": "drops"
     },
     {
@@ -1786,7 +1792,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Cathedral"
+        ],
         "type": "drops"
     },
     {
@@ -1803,7 +1811,10 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Plaguelands",
+            "AncientRuins"
+        ],
         "type": "drops"
     },
     {
@@ -1820,7 +1831,13 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "DesolateCanyon",
+            "DeepJungle",
+            "AncientRuins",
+            "HollowCaverns",
+            "Plaguelands"
+        ],
         "type": "drops"
     },
     {
@@ -1837,7 +1854,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Shroomtown"
+        ],
         "type": "drops"
     },
     {
@@ -1854,7 +1873,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Cathedral"
+        ],
         "type": "drops"
     },
     {
@@ -1871,7 +1892,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Cathedral"
+        ],
         "type": "drops"
     },
     {
@@ -1888,7 +1911,10 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "AncientRuins",
+            "MoltenCrag"
+        ],
         "type": "drops"
     },
     {
@@ -1905,7 +1931,10 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "DesolateCanyon",
+            "Plaguelands"
+        ],
         "type": "drops"
     },
     {
@@ -1922,7 +1951,10 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "AncientRuins",
+            "Plaguelands"
+        ],
         "type": "drops"
     },
     {
@@ -1939,7 +1971,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Byfrost"
+        ],
         "type": "drops"
     },
     {
@@ -1956,7 +1990,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Whisperwood"
+        ],
         "type": "drops"
     },
     {
@@ -1973,7 +2009,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Shroomtown"
+        ],
         "type": "drops"
     },
     {
@@ -1990,7 +2028,13 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "DesolateCanyon",
+            "DeepJungle",
+            "Shroomtown",
+            "Plaguelands",
+            "Byfrost"
+        ],
         "type": "drops"
     },
     {
@@ -2007,7 +2051,12 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "DesolateCanyon",
+            "HollowCaverns",
+            "Byfrost",
+            "Whisperwood"
+        ],
         "type": "drops"
     },
     {
@@ -2024,7 +2073,10 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "DesolateCanyon",
+            "HollowCaverns"
+        ],
         "type": "drops"
     },
     {
@@ -2041,7 +2093,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Cathedral"
+        ],
         "type": "drops"
     },
     {
@@ -2058,7 +2112,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "MoltenCrag"
+        ],
         "type": "drops"
     },
     {
@@ -2075,7 +2131,10 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "DeepJungle",
+            "AncientRuins"
+        ],
         "type": "drops"
     },
     {
@@ -2092,7 +2151,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Plaguelands"
+        ],
         "type": "drops"
     },
     {
@@ -2109,7 +2170,11 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "DesolateCanyon",
+            "DeepJungle",
+            "HollowCaverns"
+        ],
         "type": "drops"
     },
     {
@@ -2126,7 +2191,9 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "MoltenCrag"
+        ],
         "type": "drops"
     },
     {
@@ -2143,7 +2210,10 @@
         },
         "craftedWith": [],
         "description": "",
-        "foundIn": [],
+        "foundIn": [
+            "Byfrost",
+            "Plaguelands"
+        ],
         "type": "drops"
     },
     {
@@ -2158,7 +2228,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "aetherbulb"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2175,7 +2250,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "beastheart"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2192,7 +2272,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "dungbeetle"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2209,7 +2294,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "chaosleaf"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2226,7 +2316,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "monsterclaw"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2243,7 +2338,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "ectoplasm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2260,7 +2360,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "existencegem"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2277,7 +2382,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "creatureeyeball"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2294,7 +2404,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "flamethyst"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2311,7 +2426,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "flutterfly"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2328,7 +2448,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "chitinfragment"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2345,7 +2470,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "galacticite"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2362,7 +2492,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "ghastbug"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2379,7 +2514,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "glowfly"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2396,7 +2536,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "tastyherb"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2413,7 +2558,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "orichalcum"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2430,7 +2580,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "planetstone"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2447,7 +2602,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "plasmamoth"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2464,7 +2624,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "spicyseed"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2481,7 +2646,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "shinyscale"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2498,7 +2668,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "glowshroom"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2515,7 +2690,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "starfruit"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2532,7 +2712,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "thunderworm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -2549,7 +2734,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "zephyr"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "emblems"
@@ -4966,7 +5156,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "aetheliteshard"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "prisms"
@@ -4984,8 +5179,23 @@
             "mag": 0
         },
         "craftedWith": [],
-        "description": "",
-        "foundIn": [],
+        "description": "Only found in CL 1 or above, CL1: 2%; CL2: 4%; CL3: 6%",
+        "foundIn": [
+            "AncientRuins",
+            "Byfrost",
+            "Cathedral",
+            "DeepJungle",
+            "DemonsRift",
+            "DesolateCanyon",
+            "ForbiddenArena",
+            "HollowCaverns",
+            "MechCity",
+            "MoltenCrag",
+            "OldEarth",
+            "Plaguelands",
+            "Shroomtown",
+            "Whisperwood"
+        ],
         "type": "prisms"
     },
     {
@@ -5000,7 +5210,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "darkenedshard"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "prisms"
@@ -5018,8 +5233,23 @@
             "mag": 0
         },
         "craftedWith": [],
-        "description": "",
-        "foundIn": [],
+        "description": "Only found in CL 1 or above, CL1: 2%; CL2: 4%; CL3: 6%",
+        "foundIn": [
+            "AncientRuins",
+            "Byfrost",
+            "Cathedral",
+            "DeepJungle",
+            "DemonsRift",
+            "DesolateCanyon",
+            "ForbiddenArena",
+            "HollowCaverns",
+            "MechCity",
+            "MoltenCrag",
+            "OldEarth",
+            "Plaguelands",
+            "Shroomtown",
+            "Whisperwood"
+        ],
         "type": "prisms"
     },
     {
@@ -5034,7 +5264,12 @@
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 10,
+                "item": "omegashard"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "prisms"
@@ -5052,8 +5287,23 @@
             "mag": 0
         },
         "craftedWith": [],
-        "description": "",
-        "foundIn": [],
+        "description": "Only found in CL 1 or above, CL1: 2%; CL2: 4%; CL3: 6%",
+        "foundIn": [
+            "AncientRuins",
+            "Byfrost",
+            "Cathedral",
+            "DeepJungle",
+            "DemonsRift",
+            "DesolateCanyon",
+            "ForbiddenArena",
+            "HollowCaverns",
+            "MechCity",
+            "MoltenCrag",
+            "OldEarth",
+            "Plaguelands",
+            "Shroomtown",
+            "Whisperwood"
+        ],
         "type": "prisms"
     },
     {
