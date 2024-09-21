@@ -17,7 +17,7 @@ export default function CraftingPage() {
       next: (recipes) => setEmblemRecipes(recipes),
       error: (error) => console.error("Error loading items:", error),
     });
-    recipeService.getItemCraftingRecipesOfType(ItemType.HELMETS).subscribe({
+    recipeService.getItemCraftingRecipesOfType(ItemType.SHIELDS).subscribe({
       next: (recipes) => setItemRecipes(recipes),
       error: (error) => console.error("Error loading items:", error),
     });
