@@ -5541,14 +5541,23 @@
         "representation": "Arcsbuckler",
         "path": "/img/items/shields/arcsbuckler.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 2,
+            "dex": 1,
+            "vit": 3,
             "tec": 0,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "cadetbuckler"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5560,12 +5569,21 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "vit": 2,
+            "tec": 2,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "gallatriasigil"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5577,12 +5595,21 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 2,
+            "tec": 1,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "forceguard"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5654,12 +5681,21 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 2,
+            "tec": 2,
             "fth": 0,
-            "mag": 0
+            "mag": 2
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "boltedge"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5669,14 +5705,27 @@
         "representation": "Eagle Shield",
         "path": "/img/items/shields/eagleshield.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 1,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "aethershield"
+            },
+            {
+                "amount": 1,
+                "item": "aethershield"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5717,13 +5766,22 @@
         "path": "/img/items/shields/fungishield.png",
         "stats": {
             "str": 0,
-            "dex": 0,
+            "dex": 2,
             "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "tec": 2,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "gallatriasigil"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5763,14 +5821,23 @@
         "representation": "Heater Shield",
         "path": "/img/items/shields/heatershield.png",
         "stats": {
-            "str": 0,
+            "str": 2,
             "dex": 0,
             "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "tec": 2,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "gallatriasigil"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5782,12 +5849,21 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "vit": 2,
+            "tec": 2,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "boltedge"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5797,14 +5873,23 @@
         "representation": "Leaderscrest",
         "path": "/img/items/shields/leaderscrest.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 1,
+            "vit": 2,
             "tec": 0,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "aethershield"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5815,13 +5900,22 @@
         "path": "/img/items/shields/oathkeeper.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 2,
+            "vit": 3,
+            "tec": 1,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "aegis"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5831,14 +5925,23 @@
         "representation": "Peacekeeper",
         "path": "/img/items/shields/peacekeeper.png",
         "stats": {
-            "str": 0,
+            "str": 2,
             "dex": 0,
-            "vit": 0,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "forceguard"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5848,14 +5951,23 @@
         "representation": "Purifier",
         "path": "/img/items/shields/purifier.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 1,
+            "dex": 2,
+            "vit": 3,
             "tec": 0,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "aegis"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5882,14 +5994,23 @@
         "representation": "Soulinfusion",
         "path": "/img/items/shields/soulinfusion.png",
         "stats": {
-            "str": 0,
+            "str": 2,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 3,
+            "tec": 1,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "cadetbuckler"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5900,13 +6021,22 @@
         "path": "/img/items/shields/spikedlightning.png",
         "stats": {
             "str": 0,
-            "dex": 0,
+            "dex": 2,
             "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "tec": 2,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "boltedge"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5918,12 +6048,21 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 1,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "forceguard"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5933,14 +6072,23 @@
         "representation": "Supernova",
         "path": "/img/items/shields/supernova.png",
         "stats": {
-            "str": 0,
+            "str": 2,
             "dex": 0,
-            "vit": 0,
+            "vit": 3,
             "tec": 0,
             "fth": 0,
-            "mag": 0
+            "mag": 1
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "cadetbuckler"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5951,13 +6099,22 @@
         "path": "/img/items/shields/toweraegis.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "dex": 2,
+            "vit": 3,
             "tec": 0,
-            "fth": 0,
+            "fth": 1,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aegis"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
@@ -5967,14 +6124,23 @@
         "representation": "Twighlight Shield",
         "path": "/img/items/shields/twighlightshield.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 1,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aethershield"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "shields"
