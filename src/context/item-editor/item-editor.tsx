@@ -24,8 +24,9 @@ const ItemEditor: React.FC = () => {
   const [allItems, setAllItems] = useState<string[]>([]); // Names of all items for autocomplete
   const worlds = ["AncientRuins", "Byfrost", "Cathedral", "DeepJungle", "DemonsRift", "DesolateCanyon", "ForbiddenArena", "HollowCaverns", "MechCity", "MoltenCrag", "OldEarth", "Plaguelands", "Shroomtown", "Whisperwood"];
 
-  const [craftMode, setCraftMode] = useState<"emblem" | "free" | "prism">("free"); // New mode state
+  const [craftMode, setCraftMode] = useState<"emblem" | "free" | "prism">("prism"); // New mode state
   const [prismSlots, setPrismSlots] = useState<string[]>([]); // For prism selection
+  const [additionalItem, setAdditionalItem] = useState<string>(""); // Exactly one additional item for Prism mode
 
   // Load the JSON data on component mount
   useEffect(() => {
@@ -94,6 +95,9 @@ const ItemEditor: React.FC = () => {
     if (selectedItem) {
       const updatedItem = selectedItem;
       updatedItem.craftedWith = craftedWith;
+      if (craftMode === "prism") {
+        updatedItem.craftedWith.push( { amount: 1, item: additionalItem});
+      }
       updatedItem.foundIn = foundIn;
       localStorage.setItem("items", JSON.stringify(items));
       navigate("/search");
@@ -114,6 +118,9 @@ const ItemEditor: React.FC = () => {
       newCraftedWith.push({amount: 1, item: itemName})
       setCraftedWith(newCraftedWith);
     }
+  };
+  const handleAdditionalItemChange = (newItem: string) => {
+    setAdditionalItem(newItem); // Only one additional item allowed
   };
 
   return (
@@ -204,15 +211,29 @@ const ItemEditor: React.FC = () => {
             )}
 
             {craftMode === "prism" && (
-              <Box sx={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 2, marginTop: 1 }}>
-              {["aetheliteprism", "darkenedprism", "omegaprism"].map((prismName) => (
-                <ItemSlot
-                  key={prismName}
-                  item={items.find((item) => item.name === prismName)}
-                  isSelected={prismSlots.includes(prismName)}
-                  onClick={() => handleClick(prismName)}
-                />
-              ))}
+              <Box>
+              {/* Prism Selection */}
+              <Typography variant="subtitle1">Select Prism (One):</Typography>
+              <Box sx={{ display: "flex", gap: 2, marginTop: 1 }}>
+                {["aetheliteprism", "darkenedprism", "omegaprism"].map((prismName) => (
+                  <ItemSlot
+                    key={prismName}
+                    item={items.find((item) => item.name === prismName)}
+                    isSelected={prismSlots.includes(prismName)}
+                    onClick={() => handleClick(prismName)}
+                  />
+                ))}
+              </Box>
+
+              {/* Additional Item */}
+              <Typography variant="subtitle1" sx={{ marginTop: 2 }}>Select an Additional Item (One):</Typography>
+              <StandardAutocomplete
+                options={items.map((item) => item.name)}
+                value={additionalItem}
+                onChange={(e, newValue) => handleAdditionalItemChange(newValue)}
+                label="Additional Item"
+                sx={{ marginTop: 1 }}
+              />
             </Box>
           )}
 
