@@ -13,10 +13,9 @@ import { ItemService } from "../../shared/service/item-service";
 // ItemEditor Component
 const ItemEditor: React.FC = () => {
   const itemService = new ItemService();
-  const statBlock = ["vit", "dex", "mag", "str", "tec", "fth"] // Needed for order
+  const statBlock = ["vit", "dex", "mag", "str", "tec", "fth"]; // Needed for order
 
   const navigate = useNavigate();
-
   const { itemname } = useParams<{ itemname: string }>();
   const [items, setItems] = useState<Item[]>([]);
   const [selectedItem, setSelectedItem] = useState<Item | null>(null);
@@ -25,16 +24,12 @@ const ItemEditor: React.FC = () => {
   const [allItems, setAllItems] = useState<string[]>([]); // Names of all items for autocomplete
   const worlds = ["AncientRuins", "Byfrost", "Cathedral", "DeepJungle", "DemonsRift", "DesolateCanyon", "ForbiddenArena", "HollowCaverns", "MechCity", "MoltenCrag", "OldEarth", "Plaguelands", "Shroomtown", "Whisperwood"];
 
-  const [showEmblemsOnly, setShowEmblemsOnly] = useState<boolean>(false); // Toggle for showing only emblems
+  const [craftMode, setCraftMode] = useState<"emblem" | "free" | "prism">("free"); // New mode state
+  const [prismSlots, setPrismSlots] = useState<string[]>([]); // For prism selection
 
   // Load the JSON data on component mount
   useEffect(() => {
-    // Fetch the item data here
-    // Assuming you have a service to get items
-    itemService.getAllItems().subscribe(
-      (data: Item[]) => {
-        setData(data);
-      })
+    itemService.getAllItems().subscribe((data: Item[]) => setData(data));
   }, [itemname]);
 
   const setData = (data: Item[]) => {
@@ -46,15 +41,12 @@ const ItemEditor: React.FC = () => {
       setFoundIn(item.foundIn);
       setAllItems(data.map((i) => i.name)); // Extracting all item names for the autocomplete
     }
-  }
+  };
 
   // Handle input change for item fields
   const handleInputChange = (field: string, value: any) => {
     if (selectedItem) {
-      setSelectedItem({
-        ...selectedItem,
-        [field]: value,
-      });
+      setSelectedItem({ ...selectedItem, [field]: value });
     }
   };
 
@@ -63,10 +55,7 @@ const ItemEditor: React.FC = () => {
     if (selectedItem) {
       const stats = selectedItem.stats;
       (stats as any)[stat] = value;
-      setSelectedItem({
-        ...selectedItem,
-        stats: stats,
-      });
+      setSelectedItem({ ...selectedItem, stats });
     }
   };
 
@@ -103,33 +92,29 @@ const ItemEditor: React.FC = () => {
   // Handle Save 
   const handleSave = () => {
     if (selectedItem) {
-      
       const updatedItem = selectedItem;
       updatedItem.craftedWith = craftedWith;
       updatedItem.foundIn = foundIn;
-      // TODO Corvin description wird nicht gespeichert. auch nicht im localstorage
-      // Save updatedItem to your data store
-      setItems((prev) => [...prev.filter(item => item.name !== updatedItem.name), updatedItem])
-      localStorage.setItem("items", JSON.stringify(items))
-      navigate("/search")
+      localStorage.setItem("items", JSON.stringify(items));
+      navigate("/search");
     }
   };
 
-  const handleClick = (emblemName: string) => { // TODO This might still be buggy. If i log craftedWith at the end of this function it still displays the old value. Saving works without a hitch though
+  const handleClick = (itemName: string) => { // TODO This might still be buggy. If i log craftedWith at the end of this function it still displays the old value. Saving works without a hitch though
     // Check if the emblem is already in the craftedWith array
-    const existingEntry = craftedWith.find((entry) => entry.item === emblemName);
+    const existingEntry = craftedWith.find((entry) => entry.item === itemName);
 
     if (existingEntry) {
       // If the emblem already exists, remove it
-      const newCraftedWith = craftedWith.filter(x => x.item !== emblemName)
+      const newCraftedWith = craftedWith.filter(x => x.item !== itemName)
       setCraftedWith(newCraftedWith)
     } else {
       // If the emblem doesn't exist, add it with an amount of 1
       const newCraftedWith = craftedWith;
-      newCraftedWith.push({amount: 1, item: emblemName})
+      newCraftedWith.push({amount: 1, item: itemName})
       setCraftedWith(newCraftedWith);
     }
-  }
+  };
 
   return (
     <Box sx={{ padding: 4 }}>
@@ -150,33 +135,34 @@ const ItemEditor: React.FC = () => {
             ))}
           </Box>
 
-          {/* Toggle to filter craftedWith options */}
-          <Box sx={{ marginBottom: 2 }}>
-            <FormControlLabel
-              control={
-                <Switch
-                  checked={showEmblemsOnly}
-                  onChange={() => setShowEmblemsOnly(!showEmblemsOnly)}
-                  color="primary"
-                />
-              }
-              label="Show only Emblems"
-            />
+          {/* Crafting Mode Selection */}
+          <Box sx={{ marginBottom: 2, display: "flex", gap: 2 }}>
+            <Button
+              variant={craftMode === "emblem" ? "contained" : "outlined"}
+              onClick={() => setCraftMode("emblem")}
+            >
+              Emblem
+            </Button>
+            <Button
+              variant={craftMode === "free" ? "contained" : "outlined"}
+              onClick={() => setCraftMode("free")}
+            >
+              Free Crafting
+            </Button>
+            <Button
+              variant={craftMode === "prism" ? "contained" : "outlined"}
+              onClick={() => setCraftMode("prism")}
+            >
+              Prisms
+            </Button>
           </Box>
 
-          {/* CraftedWith */}
+          {/* Crafted With */}
           <Box sx={{ marginBottom: 2 }}>
             <Typography variant="h6">Crafted With</Typography>
 
-            {showEmblemsOnly ? (
-              <Box
-                sx={{
-                  display: "grid",
-                  gridTemplateColumns: "repeat(4, 1fr)",
-                  gap: 2,
-                  marginTop: 1,
-                }}
-              >
+            {craftMode === "emblem" && (
+              <Box sx={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 2, marginTop: 1 }}>
                 {[
                   "planetemblem",
                   "herbemblem",
@@ -206,90 +192,102 @@ const ItemEditor: React.FC = () => {
                   const emblemItem = items.find((item) => item.name === emblemName);
                   return (
                     <ItemSlot
-                      onClick={() => handleClick(emblemName)}
                       key={emblemName}
                       item={emblemItem || undefined}
                       amount={craftedWith.find((entry) => entry.item === emblemName)?.amount}
+                      onClick={() => handleClick(emblemName)}
                       isSelected={craftedWith.find((entry) => entry.item === emblemName) !== undefined}
                     />
                   );
                 })}
               </Box>
-            ) : (
-              craftedWith.map((entry, index) => {
-                const craftedItem = items.find((item) => item.name === entry.item);
-                return (
-                  <Box key={index} sx={{ display: "flex", gap: 2, alignItems: "center" }}>
-                    <ItemSlot item={craftedItem} amount={entry.amount} />
-
-                    <StandardTextField
-                      label="Amount"
-                      type="number"
-                      value={entry.amount}
-                      onChange={(e) => handleCraftedWithAmountChange(index, Number(e.target.value))}
-                      sx={{ width: "100px" }}
-                    />
-
-                    <StandardAutocomplete
-                      options={items
-                        .filter((item) => !showEmblemsOnly || item.type === ItemType.EMBLEMS)
-                        .map((item) => item.name)}
-                      value={entry.item}
-                      onChange={(e, newValue) =>
-                        handleCraftedWithItemChange(index, newValue?.toString() || ",")
-                      }
-                      label="Item"
-                      sx={{ flexGrow: 1 }}
-                    />
-
-                    <Button onClick={() => removeCraftedWith(index)}>
-                      <Remove />
-                    </Button>
-                  </Box>
-                );
-              })
             )}
 
-            {!showEmblemsOnly && (
-              <StandardButton onClick={addCraftedWith} text="Add Item" startIcon={<Add />} />
-            )}
-          </Box>
+            {craftMode === "prism" && (
+              <Box sx={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 2, marginTop: 1 }}>
+              {["aetheliteprism", "darkenedprism", "omegaprism"].map((prismName) => (
+                <ItemSlot
+                  key={prismName}
+                  item={items.find((item) => item.name === prismName)}
+                  isSelected={prismSlots.includes(prismName)}
+                  onClick={() => handleClick(prismName)}
+                />
+              ))}
+            </Box>
+          )}
 
-          {/* FoundIn */}
-          <StandardAutocomplete
-            multiple
-            options={worlds}
-            value={foundIn}
-            onChange={handleFoundInChange}
-            label="Found In"
-          />
+          {craftMode === "free" && (
+            craftedWith.map((entry, index) => {
+              const craftedItem = items.find((item) => item.name === entry.item);
+              return (
+                <Box key={index} sx={{ display: "flex", gap: 2, alignItems: "center" }}>
+                  <ItemSlot item={craftedItem} amount={entry.amount} />
 
-          {/* Description */}
-          <StandardTextField
-            fullWidth
-            label="Description"
-            value={selectedItem.description}
-            onChange={(e) => handleInputChange("description", e.target.value)}
-            margin="normal"
-          />
+                  <StandardTextField
+                    label="Amount"
+                    type="number"
+                    value={entry.amount}
+                    onChange={(e) => handleCraftedWithAmountChange(index, Number(e.target.value))}
+                    sx={{ width: "100px" }}
+                  />
 
-          {/* Type */}
-          <StandardTextField
-            fullWidth
-            label="Type"
-            value={selectedItem.type}
-            onChange={(e) => handleInputChange("type", e.target.value as ItemType)}
-            margin="normal"
-          />
+                  <StandardAutocomplete
+                    options={items.map((item) => item.name)}
+                    value={entry.item}
+                    onChange={(e, newValue) => handleCraftedWithItemChange(index, newValue?.toString() || ",")}
+                    label="Item"
+                    sx={{ flexGrow: 1 }}
+                  />
 
-          {/* Save Button */}
-          <StandardButton onClick={handleSave} sx={{ marginTop: 2 }} text="Save Item" />
+                  <Button onClick={() => removeCraftedWith(index)}>
+                    <Remove />
+                  </Button>
+                </Box>
+              );
+            })
+          )}
+
+          {craftMode === "free" && (
+            <StandardButton onClick={addCraftedWith} text="Add Item" startIcon={<Add />} />
+          )}
         </Box>
-      ) : (
-        <Typography variant="h6">Item not found</Typography>
-      )}
-    </Box>
-  );
+
+        {/* FoundIn */}
+        <StandardAutocomplete
+          multiple
+          options={worlds}
+          value={foundIn}
+          onChange={handleFoundInChange}
+          label="Found In"
+        />
+
+        {/* Description */}
+        <StandardTextField
+          fullWidth
+          label="Description"
+          value={selectedItem.description}
+          onChange={(e) => handleInputChange("description", e.target.value)}
+          margin="normal"
+        />
+
+        {/* Type */}
+        <StandardTextField
+          fullWidth
+          label="Type"
+          value={selectedItem.type}
+          onChange={(e) => handleInputChange("type", e.target.value as ItemType)}
+          margin="normal"
+        />
+
+        {/* Save Button */}
+        <StandardButton onClick={handleSave} sx={{ marginTop: 2 }} text="Save Item" />
+      </Box>
+    ) : (
+      <Typography variant="h6">Item not found</Typography>
+    )}
+  </Box>
+);
 };
 
 export default ItemEditor;
+
