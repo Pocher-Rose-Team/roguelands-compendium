@@ -12,7 +12,7 @@
     background: #f004;
   }
 
-.item-slot img {
+.item-slot > img {
     position: absolute;
     width: 96px;
     left: 50%;

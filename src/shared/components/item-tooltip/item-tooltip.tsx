@@ -10,7 +10,7 @@ enum StatColor {
   DEX = "#3B723A",
   TEC = "#6D6B33",
   MAG = "#2E5069",
-  FTH = "#582969"
+  FTH = "#582969",
 }
 
 interface ItemTooltipAttributes {
@@ -21,7 +21,7 @@ export default function ItemTooltip({ item }: ItemTooltipAttributes) {
   const mousePos = useMousePosition();
   const windowSize = useWindowSize();
   const flipped = mousePos.x > windowSize.width * 0.9 ? "flipped" : "";
-  const statOrNone = (stat: number) => stat > 0 ? stat : "";
+  const statOrNone = (stat: number) => (stat > 0 ? stat : "");
 
   return mousePos.x && mousePos.x !== 0 ? (
     <div className={`item-tooltip ${flipped}`}>
@@ -30,36 +30,35 @@ export default function ItemTooltip({ item }: ItemTooltipAttributes) {
       ) : (
         <span className="item-empty">{"<<empty>>"}</span>
       )}
-      {item?.stats && Object.keys(item.stats).length > 0 && Object.values(item.stats).reduce((a,b) => a+b) > 0 && (
-        <div className="stat-list">
-          <StatDisplay color={StatColor.VIT}>
-            {statOrNone(item?.stats.vit)}
-          </StatDisplay>
-          <StatDisplay color={StatColor.DEX}>
-            {statOrNone(item?.stats.dex)}
-          </StatDisplay>
-          <StatDisplay color={StatColor.MAG}>
-            {statOrNone(item?.stats.mag)}
-          </StatDisplay>
-          <StatDisplay color={StatColor.STR}>
-            {statOrNone(item?.stats.str)}
-          </StatDisplay>
-          <StatDisplay color={StatColor.TEC}>
-            {statOrNone(item?.stats.tec)}
-          </StatDisplay>
-          <StatDisplay color={StatColor.FTH}>
-            {statOrNone(item?.stats.fth)}
-          </StatDisplay>
+      {item?.foundIn && item?.foundIn.length > 0 && (
+        <div className="foundin-list">
+          {item?.foundIn.map((foundInEntry) => (
+            <img src={`/img/worldIcons/${foundInEntry}Icon.png`} alt={foundInEntry} />
+          ))}
         </div>
       )}
+      {item?.stats &&
+        Object.keys(item.stats).length > 0 &&
+        Object.values(item.stats).reduce((a, b) => a + b) > 0 && (
+          <div className="stat-list">
+            <StatDisplay color={StatColor.VIT}>{statOrNone(item?.stats.vit)}</StatDisplay>
+            <StatDisplay color={StatColor.DEX}>{statOrNone(item?.stats.dex)}</StatDisplay>
+            <StatDisplay color={StatColor.MAG}>{statOrNone(item?.stats.mag)}</StatDisplay>
+            <StatDisplay color={StatColor.STR}>{statOrNone(item?.stats.str)}</StatDisplay>
+            <StatDisplay color={StatColor.TEC}>{statOrNone(item?.stats.tec)}</StatDisplay>
+            <StatDisplay color={StatColor.FTH}>{statOrNone(item?.stats.fth)}</StatDisplay>
+          </div>
+        )}
     </div>
   ) : (
     <div></div>
   );
 }
 
-function StatDisplay({color, children}: {color: StatColor, children: ReactNode}) {
-  return <div className="stat-display" style={{backgroundColor: color}}>
-    {children && <span>{children}</span>}
-  </div>
+function StatDisplay({ color, children }: { color: StatColor; children: ReactNode }) {
+  return (
+    <div className="stat-display" style={{ backgroundColor: color }}>
+      {children && <span>{children}</span>}
+    </div>
+  );
 }

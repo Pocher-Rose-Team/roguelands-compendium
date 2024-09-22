@@ -20,10 +20,11 @@ export default function ItemSlot({ item, amount, onClick, isSelected }: ItemSlot
   };
 
   return (
-    <div className={`item-slot ${selected ? "selected" : ""}`} style={{cursor: "pointer"}}>
+    <div className={`item-slot ${selected ? "selected" : ""}`} style={{ cursor: "pointer" }}>
       {item && <img src={item.path} alt={item.name} />}
       <span className="item-amount disable-select">{amount && amount > 1 ? amount : ""}</span>
-      <div onClick={handleClick} 
+      <div
+        onClick={handleClick}
         className="event-trigger"
         onMouseEnter={() => setTooltipVisible(true)}
         onMouseLeave={() => setTooltipVisible(false)}
