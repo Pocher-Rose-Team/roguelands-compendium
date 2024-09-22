@@ -10,13 +10,13 @@ const theme = createTheme({
 
 export default function RootLayout() {
   return (
-    <div>
-      <ThemeProvider theme={theme}>
+    <ThemeProvider theme={theme}>
+      <div className="root-layout">
         <CompendiumMenu />
         <div className="content-wrapper">
           <Outlet />
         </div>
-      </ThemeProvider>
-    </div>
+      </div>
+    </ThemeProvider>
   );
 }

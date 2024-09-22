@@ -1,0 +1,17 @@
+.main-page-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.logo-container img:nth-child(1) {
+    transform: translateX(-25%);
+}
+.logo-container img:nth-child(2) {
+    transform: translateX(25%);
+}
