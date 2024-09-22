@@ -1,7 +1,7 @@
-import { forkJoin, map, Observable } from "rxjs";
-import { ItemType } from "../model/item-type";
+import { filter, forkJoin, map, Observable } from "rxjs";
 import { EmblemRecipe, ItemRecipe } from "../model/recipe.model";
 import { ItemService } from "./item-service";
+import { Item, ItemSource, ItemType } from "../model/item";
 
 export class RecipeService {
   private itemService: ItemService;
@@ -48,7 +48,52 @@ export class RecipeService {
     );
   }
 
-  getItemCraftingRecipesOfTypes(types: ItemType[]): Observable<ItemRecipe[][]> {
-    return forkJoin(types.map((type) => this.getItemCraftingRecipesOfType(type)));
+  getItemCraftingRecipesOfTypes(types: ItemType[]): Observable<Map<ItemType, ItemRecipe[]>> {
+    return this.groupListOfRecipeListByTypes(
+      forkJoin(types.map((type) => this.getItemCraftingRecipesOfType(type))),
+    );
+  }
+
+  getItemCraftingRecipesOfTypeFilteredBySource(
+    type: ItemType,
+    source: ItemSource,
+  ): Observable<ItemRecipe[]> {
+    return this.getItemCraftingRecipesOfType(type).pipe(
+      map((itemRecipes) =>
+        itemRecipes.filter(
+          (recipe) =>
+            recipe.materials &&
+            recipe.materials.filter((mat) => mat.name.toLowerCase().includes(source.toString()))
+              .length > 0,
+        ),
+      ),
+    );
+  }
+
+  getItemCraftingRecipesOfTypesFilteredBySource(
+    types: ItemType[],
+    source: ItemSource,
+  ): Observable<Map<ItemType, ItemRecipe[]>> {
+    return this.groupListOfRecipeListByTypes(
+      forkJoin(
+        types.map((type) => this.getItemCraftingRecipesOfTypeFilteredBySource(type, source)),
+      ),
+    );
+  }
+
+  private groupListOfRecipeListByTypes(
+    list: Observable<ItemRecipe[][]>,
+  ): Observable<Map<ItemType, ItemRecipe[]>> {
+    return list.pipe(
+      map((listOfRecipeList) =>
+        listOfRecipeList.reduce((map, recipeList) => {
+          const itemType = recipeList.length > 0 ? recipeList[0].result.type : null;
+          if (itemType) {
+            map.set(itemType, recipeList);
+          }
+          return map;
+        }, new Map<ItemType, ItemRecipe[]>()),
+      ),
+    );
   }
 }

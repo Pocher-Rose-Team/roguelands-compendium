@@ -1513,7 +1513,15 @@
         "craftedWith": [
             {
                 "amount": 1,
-                "item": "galacticiteemblem"
+                "item": "beetleemblem"
+            },
+            {
+                "amount": 1,
+                "item": "shroomemblem"
+            },
+            {
+                "amount": 1,
+                "item": "orichalcumemblem"
             }
         ],
         "description": "",
@@ -8334,11 +8342,15 @@
         "craftedWith": [
             {
                 "amount": 1,
-                "item": "seedemblem"
+                "item": "fragmentemblem"
             },
             {
                 "amount": 1,
-                "item": "fragmentemblem"
+                "item": "galacticiteemblem"
+            },
+            {
+                "amount": 1,
+                "item": "seedemblem"
             }
         ],
         "description": "",
@@ -8394,7 +8406,15 @@
         "craftedWith": [
             {
                 "amount": 1,
-                "item": "shroomemblem"
+                "item": "orichalcumemblem"
+            },
+            {
+                "amount": 1,
+                "item": "clawemblem"
+            },
+            {
+                "amount": 1,
+                "item": "beetleemblem"
             }
         ],
         "description": "",
@@ -8433,7 +8453,15 @@
         "craftedWith": [
             {
                 "amount": 1,
-                "item": "seedemblem"
+                "item": "fragmentemblem"
+            },
+            {
+                "amount": 1,
+                "item": "galacticiteemblem"
+            },
+            {
+                "amount": 1,
+                "item": "ghastemblem"
             }
         ],
         "description": "",

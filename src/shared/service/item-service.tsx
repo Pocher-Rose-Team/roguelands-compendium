@@ -1,7 +1,6 @@
 import { HttpClient } from "./http-client";
-import { map, Observable, of } from "rxjs";
-import { Item } from "../model/item";
-import { ItemType } from "../model/item-type";
+import { map, Observable, of, tap } from "rxjs";
+import { Item, ItemType } from "../model/item";
 
 export class ItemService {
   private http: HttpClient;
@@ -29,11 +28,13 @@ export class ItemService {
   }
 
   getAllItems(): Observable<Item[]> {
-    const localStorageItems = localStorage.getItem("items")
-    if(localStorageItems) {
-      return of(JSON.parse(localStorageItems))
+    const localStorageItems = localStorage.getItem("items");
+    if (localStorageItems) {
+      return of(JSON.parse(localStorageItems));
     }
-    return this.http.get<Item[]>("/items.json");
+    return this.http
+      .get<Item[]>("/items.json")
+      .pipe(tap((items) => localStorage.setItem("items", JSON.stringify(items))));
   }
 
   getAllItemsAsMap(): Observable<Map<string, Item>> {
@@ -61,7 +62,7 @@ export class ItemService {
 
   getAllItemsOfType(type: ItemType): Observable<Item[]> {
     return this.getAllItems().pipe(
-      map((allItems) => allItems.filter((item) => item.path.includes(type))),
+      map((allItems) => allItems.filter((item) => item.type === type)),
     );
   }
 }
