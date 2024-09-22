@@ -21,14 +21,19 @@
         "representation": "Aku Armor",
         "path": "/img/items/armor/akuarmor.png",
         "stats": {
-            "str": 0,
+            "str": 4,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 2,
+            "tec": 1,
             "fth": 0,
-            "mag": 0
+            "mag": 4
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "yoshimitsuarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -140,14 +145,19 @@
         "representation": "Bruiser Armor",
         "path": "/img/items/armor/bruiserarmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
+            "vit": 5,
             "tec": 0,
-            "fth": 0,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "brutearmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -204,14 +214,19 @@
         "representation": "Champion Armor",
         "path": "/img/items/armor/championarmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "vit": 3,
+            "tec": 2,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "titanarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -222,13 +237,18 @@
         "path": "/img/items/armor/chaosarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "nautilusarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -255,14 +275,19 @@
         "representation": "Deathgod Armor",
         "path": "/img/items/armor/deathgodarmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 30,
+            "tec": 2,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "titanarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -272,14 +297,27 @@
         "representation": "Destructive Armor",
         "path": "/img/items/armor/destructivearmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
+            "vit": 1,
             "tec": 0,
             "fth": 0,
-            "mag": 0
+            "mag": 4
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "vorpalarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -290,13 +328,18 @@
         "path": "/img/items/armor/deusarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
+            "fth": 3,
+            "mag": 2
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "isaacarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -324,13 +367,26 @@
         "path": "/img/items/armor/drifterarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "dex": 3,
+            "vit": 3,
+            "tec": 2,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "duneriderarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -341,13 +397,26 @@
         "path": "/img/items/armor/duneclotharmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "dex": 3,
+            "vit": 2,
+            "tec": 2,
+            "fth": 1,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "duneriderarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -447,14 +516,27 @@
         "representation": "Firegod Armor",
         "path": "/img/items/armor/firegodarmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "ultromarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -465,13 +547,18 @@
         "path": "/img/items/armor/forcearmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 4,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "ghostarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -529,13 +616,18 @@
         "path": "/img/items/armor/helloworldarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "dex": 3,
+            "vit": 3,
+            "tec": 3,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "ghostarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -545,14 +637,19 @@
         "representation": "Heroic Armor",
         "path": "/img/items/armor/heroicarmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "vit": 5,
+            "tec": 3,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "titanarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -562,14 +659,19 @@
         "representation": "Inferno Armor",
         "path": "/img/items/armor/infernoarmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 5,
             "tec": 0,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "brutearmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -596,14 +698,19 @@
         "representation": "Ironforge Armor",
         "path": "/img/items/armor/ironforgearmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 5,
+            "tec": 4,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "brutearmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -644,13 +751,26 @@
         "path": "/img/items/armor/ithacasarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "dex": 3,
+            "vit": 1,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 4,
+            "mag": 2
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "vorpalarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -661,13 +781,22 @@
         "path": "/img/items/armor/krabshellarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 2,
+            "tec": 4,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "duneriderarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -677,14 +806,19 @@
         "representation": "Kraken Armor",
         "path": "/img/items/armor/krakenarmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "nautilusarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -711,14 +845,19 @@
         "representation": "Maelstorm Armor",
         "path": "/img/items/armor/maelstormarmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
+            "vit": 3,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "wraitharmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -792,14 +931,19 @@
         "representation": "Oni Armor",
         "path": "/img/items/armor/oniarmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "yoshimitsuarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -810,13 +954,18 @@
         "path": "/img/items/armor/onslaughtarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 4,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "vigilantearmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -826,14 +975,27 @@
         "representation": "Plasma Armor",
         "path": "/img/items/armor/plasmaarmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "str": 2,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "ultromarmor"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "ultromarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -845,12 +1007,17 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "vit": 3,
+            "tec": 3,
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "wraitharmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -877,14 +1044,23 @@
         "representation": "Rapture Armor",
         "path": "/img/items/armor/rapturearmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 2,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "ultromarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -894,14 +1070,19 @@
         "representation": "Recon Armor",
         "path": "/img/items/armor/reconarmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "ghostarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -942,13 +1123,18 @@
         "path": "/img/items/armor/ruinarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "dex": 3,
+            "vit": 3,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "wraitharmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -960,12 +1146,17 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "vit": 2,
+            "tec": 3,
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "isaacarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -1031,14 +1222,19 @@
         "representation": "Towermage Armor",
         "path": "/img/items/armor/towermagearmor.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "vit": 2,
+            "tec": 3,
+            "fth": 3,
+            "mag": 2
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "isaacarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -1049,13 +1245,18 @@
         "path": "/img/items/armor/ultimaarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "dex": 3,
+            "vit": 1,
+            "tec": 4,
+            "fth": 2,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "vorpalarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -1182,13 +1383,18 @@
         "path": "/img/items/armor/whitewhorlarmor.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "dex": 3,
+            "vit": 3,
+            "tec": 3,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "vigilantearmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -1228,14 +1434,19 @@
         "representation": "Yojimbo Armor",
         "path": "/img/items/armor/yojimboarmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 1,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "yoshimitsuarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -3252,14 +3463,27 @@
         "representation": "Aku Helm",
         "path": "/img/items/helmets/akuhelm.png",
         "stats": {
-            "str": 0,
+            "str": 4,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 2,
+            "tec": 1,
             "fth": 0,
-            "mag": 0
+            "mag": 4
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "yoshimitsuHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3371,14 +3595,27 @@
         "representation": "Bruiser Helm",
         "path": "/img/items/helmets/bruiserhelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
+            "vit": 5,
             "tec": 0,
-            "fth": 0,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "brutearmor"
+            },
+            {
+                "amount": 1,
+                "item": "bruteHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3452,14 +3689,27 @@
         "representation": "Champion Helm",
         "path": "/img/items/helmets/championhelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "vit": 3,
+            "tec": 2,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "titanHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3470,13 +3720,26 @@
         "path": "/img/items/helmets/chaoshelmet.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "nautilusHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3503,14 +3766,27 @@
         "representation": "Deathgod Helm",
         "path": "/img/items/helmets/deathgodhelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 3,
+            "tec": 2,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "titanHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3538,13 +3814,26 @@
         "path": "/img/items/helmets/deushelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
+            "fth": 3,
+            "mag": 2
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "isaacHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3713,14 +4002,27 @@
         "representation": "Firegod Helm",
         "path": "/img/items/helmets/firegodhelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "ultromHelm"
+            },
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "ultromarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3731,13 +4033,26 @@
         "path": "/img/items/helmets/forcehelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 4,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "ghostHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3812,13 +4127,26 @@
         "path": "/img/items/helmets/helloworldhelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "dex": 3,
+            "vit": 3,
+            "tec": 3,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "ghostHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3828,14 +4156,27 @@
         "representation": "Heroic Helm",
         "path": "/img/items/helmets/heroichelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "vit": 5,
+            "tec": 3,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "titanHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3845,14 +4186,27 @@
         "representation": "Inferno Helm",
         "path": "/img/items/helmets/infernohelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 5,
             "tec": 0,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "bruteHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3879,14 +4233,27 @@
         "representation": "Ironforge Helm",
         "path": "/img/items/helmets/ironforgehelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "vit": 5,
+            "tec": 4,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "bruteHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3986,14 +4353,27 @@
         "representation": "Kraken Helm",
         "path": "/img/items/helmets/krakenhelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "nautilusHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4004,13 +4384,26 @@
         "path": "/img/items/helmets/leviathanhelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "nautilusHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4020,14 +4413,27 @@
         "representation": "Maelstorm Helm",
         "path": "/img/items/helmets/maelstormhelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
+            "vit": 3,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "wraithHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4135,14 +4541,27 @@
         "representation": "Oni Helm",
         "path": "/img/items/helmets/onihelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "yoshimitsuHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4153,13 +4572,26 @@
         "path": "/img/items/helmets/onslaughthelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 4,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "vigilanteHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4203,14 +4635,27 @@
         "representation": "Plasma Helm",
         "path": "/img/items/helmets/plasmahelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "str": 2,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "ultromHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4222,12 +4667,25 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "vit": 3,
+            "tec": 3,
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "wraithHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4254,14 +4712,19 @@
         "representation": "Rapture Helm",
         "path": "/img/items/helmets/rapturehelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 2,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "ultromHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4271,14 +4734,23 @@
         "representation": "Recon Helm",
         "path": "/img/items/helmets/reconhelm.png",
         "stats": {
-            "str": 2,
-            "dex": 1,
-            "vit": 1,
-            "tec": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
+            "tec": 3,
             "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "ghostHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4336,13 +4808,26 @@
         "path": "/img/items/helmets/ruinhelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "dex": 3,
+            "vit": 3,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "wraithHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4354,12 +4839,25 @@
         "stats": {
             "str": 0,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "vit": 20,
+            "tec": 3,
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "isaacHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4442,14 +4940,27 @@
         "representation": "Towermage Helm",
         "path": "/img/items/helmets/towermagehelm.png",
         "stats": {
-            "str": 0,
+            "str": 3,
             "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "vit": 2,
+            "tec": 3,
+            "fth": 3,
+            "mag": 2
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "isaacHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4460,13 +4971,26 @@
         "path": "/img/items/helmets/ultimahelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "dex": 3,
+            "vit": 1,
+            "tec": 4,
+            "fth": 2,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "vorpalHood"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4627,13 +5151,26 @@
         "path": "/img/items/helmets/whitewhorlhelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "dex": 3,
+            "vit": 3,
+            "tec": 3,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "vigilanteHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4673,14 +5210,27 @@
         "representation": "Yojimbo Helm",
         "path": "/img/items/helmets/yojimbohelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 1,
+            "tec": 3,
             "fth": 0,
-            "mag": 0
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "yoshimitsuHelm"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
