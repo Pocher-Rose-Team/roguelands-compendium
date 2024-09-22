@@ -9,6 +9,9 @@
     border-top: 2px solid #12282F;
     border-left: 2px solid #12282F;
     box-shadow: #050505 0px 0px 0px 3px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
 .item-tooltip.flipped {
     left: unset;
@@ -17,4 +20,35 @@
 .item-tooltip span {
     font-size: 1.2em;
     white-space: nowrap;
+}
+.item-tooltip .item-empty {
+    color: #999;
+}
+.item-tooltip .stat-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 4px;
+}
+.item-tooltip .stat-display {
+    --statdw: 50px;
+    --statdh: 25px;
+    --statdb: 3px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: var(--statdw);
+    height: var(--statdh);
+}
+.item-tooltip .stat-display::after {
+    content: '';
+    position: absolute;
+    outline: solid var(--statdb) #fff2;
+    width: calc(var(--statdw) - var(--statdb) * 2);
+    height: calc(var(--statdh) / 2 - var(--statdb));
+    border-bottom: solid calc(var(--statdh) / 2 - var(--statdb)) #0002;
+}
+.item-tooltip .stat-display span::before {
+    content: '+';
+    margin-right: 2px;
 }

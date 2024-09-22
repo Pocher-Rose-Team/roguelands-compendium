@@ -14,6 +14,7 @@ export default function RecipeDisplay({ recipe }: RecipeAttributes) {
           return <ItemSlot item={material} />
         })
         }
+        {!recipe.materials || recipe.materials.length < 1 && <ItemSlot /> }
       </div>
       <CraftingArrow />
       <ItemSlot item={recipe.result} />
