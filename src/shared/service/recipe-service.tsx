@@ -47,4 +47,8 @@ export class RecipeService {
       ),
     );
   }
+
+  getItemCraftingRecipesOfTypes(types: ItemType[]): Observable<ItemRecipe[][]> {
+    return forkJoin(types.map((type) => this.getItemCraftingRecipesOfType(type)));
+  }
 }

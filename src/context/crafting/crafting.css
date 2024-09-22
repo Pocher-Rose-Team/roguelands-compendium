@@ -16,7 +16,7 @@
     width: 32px;
 }
 
-.emblem-crafting-grid, .item-crafting-grid {
+.emblem-crafting-grid, .item-crafting-grid, .potion-crafting-grid {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-gap: 20px;
