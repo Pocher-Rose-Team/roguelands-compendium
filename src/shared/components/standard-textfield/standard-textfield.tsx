@@ -8,6 +8,7 @@ interface StandardTextFieldAttributes {
   value?: string | number;
   type?: React.HTMLInputTypeAttribute;
   onChange?: (event: React.ChangeEvent<HTMLInputElement>) => void;
+  onKeyUp?: (event: React.KeyboardEvent<HTMLInputElement>) => void;
   margin?: "dense" | "normal" | "none";
   sx?: SxProps<Theme>;
 }
@@ -18,6 +19,7 @@ export default function StandardTextField({
   value,
   type,
   onChange,
+  onKeyUp,
   margin,
   sx,
 }: StandardTextFieldAttributes) {
@@ -29,7 +31,9 @@ export default function StandardTextField({
       value={value}
       type={type}
       onChange={onChange}
+      onKeyUp={onKeyUp}
       margin={margin}
+      id={"stat-input-"+label?.toLowerCase()}
       sx={sx}
     />
   );

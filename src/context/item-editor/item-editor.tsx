@@ -28,6 +28,10 @@ const ItemEditor: React.FC = () => {
   const [prismSlots, setPrismSlots] = useState<string[]>([]); // For prism selection
   const [additionalItem, setAdditionalItem] = useState<string>(""); // Exactly one additional item for Prism mode
 
+
+  const currentQueue: string = 
+    "elitehelm,elitearmor,voyagerhelm,voyagerarmor,siegehelm,siegearmor,krabshellhelm,krabshellarmor,duneclothhelm,duneclotharmor,drifterhelmet,drifterarmor,leviathanhelm,leviathaarmor,krakenhelm,krakenarmor,chaoshelmet,chaosarmor,ultimahelm,ultimaarmor,destructionhelm,destructivearmor,ithacashelm,ithacasarmor,championhelm,championarmor,heroichelm,heroicarmor,deathgodhelm,deathgodarmor,shatterspellhelm,shatterspellarmor,towermagehelm,towermagearmor,deushelm,deusarmor,plasmahelm,plasmaarmor,rapturehelm,rupturearmor,firegodhelm,firegodarmor,bruiserhelm,bruiserarmor,infernohelm,infernoarmor,ironforgehelm,ironforgearmor,yojimbohelm,yojimboarmor,onihelm,oniarmor,akuhelm,akuarmor,reconhelm,reconarmor,forcehelm,forcearmor,helloworldhelm,helloworldarmor,darknighthelm,darknightarmor,onslaughthelm,onslaughtarmor,whitewhorlhelm,whitewhorlarmor,maelstormhelm,maelstormarmor,ruinhelm,ruinarmor,pyroclasmhelm,pyroclasmarmor"
+
   // Load the JSON data on component mount
   useEffect(() => {
     itemService.getAllItems().subscribe((data: Item[]) => setData(data));
@@ -41,6 +45,10 @@ const ItemEditor: React.FC = () => {
       setCraftedWith(item.craftedWith);
       setFoundIn(item.foundIn);
       setAllItems(data.map((i) => i.name)); // Extracting all item names for the autocomplete
+    }
+    const currentAdditionalItem = localStorage.getItem("currentAdditionalItem")
+    if(currentAdditionalItem) {
+      setAdditionalItem(currentAdditionalItem)
     }
   };
 
@@ -97,10 +105,23 @@ const ItemEditor: React.FC = () => {
       updatedItem.craftedWith = craftedWith;
       if (craftMode === "prism") {
         updatedItem.craftedWith.push( { amount: 1, item: additionalItem});
+        localStorage.setItem("currentAdditionalItem", additionalItem);
       }
       updatedItem.foundIn = foundIn;
       localStorage.setItem("items", JSON.stringify(items));
-      navigate("/search");
+      let foundItem: string = "";
+      currentQueue.split(",").forEach((queueItem) => {
+        items.filter(item => item.name === queueItem).forEach(x => {
+          if(foundItem === "" && x.craftedWith.length === 0) {
+            foundItem = x.name;
+          }
+        });
+      })
+      if(foundItem !== "") {
+        navigate("/editor/" + foundItem);
+      } else{
+        navigate("/search");
+      }
     }
   };
 
@@ -123,6 +144,17 @@ const ItemEditor: React.FC = () => {
     setAdditionalItem(newItem); // Only one additional item allowed
   };
 
+  function handleStatKeyUp(stat: string, e: React.KeyboardEvent<HTMLInputElement>): void {
+    const nextStat = statBlock.at(statBlock.indexOf(stat) + 1)
+    if(nextStat) {
+      const input = document.querySelector<HTMLInputElement>("#stat-input-" + nextStat)
+      if(input) {
+        input.focus();
+        input.select()
+      }
+    }
+  }
+
   return (
     <Box sx={{ padding: 4 }}>
       {selectedItem ? (
@@ -137,6 +169,7 @@ const ItemEditor: React.FC = () => {
                 label={stat.toUpperCase()}
                 value={(selectedItem.stats as any)[stat]}
                 onChange={(e) => handleStatsChange(stat, Number(e.target.value))}
+                onKeyUp={(e) => handleStatKeyUp(stat, e)}
                 type="number"
               />
             ))}

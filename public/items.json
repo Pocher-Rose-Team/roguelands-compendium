@@ -387,14 +387,23 @@
         "representation": "Elite Armor",
         "path": "/img/items/armor/elitearmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 2,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "recruitarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -966,14 +975,23 @@
         "representation": "Siege Armor",
         "path": "/img/items/armor/siegearmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 4,
+            "dex": 2,
+            "vit": 3,
             "tec": 0,
-            "fth": 0,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "recruitarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -1137,14 +1155,23 @@
         "representation": "Voyager Armor",
         "path": "/img/items/armor/voyagerarmor.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "recruitarmor"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "armor"
@@ -3545,13 +3572,22 @@
         "path": "/img/items/helmets/drifterhelmet.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
+            "dex": 3,
+            "vit": 3,
+            "tec": 2,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "duneriderHood"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3562,13 +3598,22 @@
         "path": "/img/items/helmets/duneclothhelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "dex": 3,
+            "vit": 2,
+            "tec": 2,
+            "fth": 1,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "duneriderHood"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3608,14 +3653,23 @@
         "representation": "Elite Helm",
         "path": "/img/items/helmets/elitehelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 2,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
-            "mag": 0
+            "fth": 3,
+            "mag": 3
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "recruitHelmet"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -3907,13 +3961,22 @@
         "path": "/img/items/helmets/krabshellhelm.png",
         "stats": {
             "str": 0,
-            "dex": 0,
-            "vit": 0,
-            "tec": 0,
+            "dex": 3,
+            "vit": 2,
+            "tec": 4,
             "fth": 0,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "aetheliteprism"
+            },
+            {
+                "amount": 1,
+                "item": "duneriderHood"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4306,14 +4369,23 @@
         "representation": "Siege Helm",
         "path": "/img/items/helmets/siegehelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 4,
+            "dex": 2,
+            "vit": 3,
             "tec": 0,
-            "fth": 0,
+            "fth": 2,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "omegaprism"
+            },
+            {
+                "amount": 1,
+                "item": "recruitHelmet"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
@@ -4511,14 +4583,23 @@
         "representation": "Voyager Helm",
         "path": "/img/items/helmets/voyagerhelm.png",
         "stats": {
-            "str": 0,
-            "dex": 0,
-            "vit": 0,
+            "str": 3,
+            "dex": 3,
+            "vit": 2,
             "tec": 0,
-            "fth": 0,
+            "fth": 3,
             "mag": 0
         },
-        "craftedWith": [],
+        "craftedWith": [
+            {
+                "amount": 1,
+                "item": "darkenedprism"
+            },
+            {
+                "amount": 1,
+                "item": "recruitHelmet"
+            }
+        ],
         "description": "",
         "foundIn": [],
         "type": "helmets"
