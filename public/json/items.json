@@ -1,0 +1,5808 @@
+[
+    {
+        "id": 0,
+        "name": "4thagearmor",
+        "representation": "4thage Armor",
+        "path": "/img/items/armor/4thagearmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 876,
+        "name": "akuarmor",
+        "representation": "Aku Armor",
+        "path": "/img/items/armor/akuarmor.png",
+        "stats": { "str": 4, "dex": 0, "vit": 2, "tec": 1, "fth": 0, "mag": 4 },
+        "craftedWith": [{ "amount": 1, "item": "yoshimitsuarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 895,
+        "name": "apocalypseArmor",
+        "representation": "Apocalypse Armor",
+        "path": "/img/items/armor/apocalypseArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 841,
+        "name": "axelarksarmor",
+        "representation": "Axelarks Armor",
+        "path": "/img/items/armor/axelarksarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 840,
+        "name": "azazelsarmor",
+        "representation": "Azazels Armor",
+        "path": "/img/items/armor/azazelsarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 839,
+        "name": "baalfogssuit",
+        "representation": "Baalfogssuit",
+        "path": "/img/items/armor/baalfogssuit.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 0,
+        "name": "bolgonarmor",
+        "representation": "Bolgon Armor",
+        "path": "/img/items/armor/bolgonarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 831,
+        "name": "broccoliArmor",
+        "representation": "Broccoli Armor",
+        "path": "/img/items/armor/broccoliArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 871,
+        "name": "bruiserarmor",
+        "representation": "Bruiser Armor",
+        "path": "/img/items/armor/bruiserarmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 5, "tec": 0, "fth": 3, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "brutearmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 807,
+        "name": "brutearmor",
+        "representation": "Brute Armor",
+        "path": "/img/items/armor/brutearmor.png",
+        "stats": { "str": 2, "dex": 0, "vit": 3, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 891,
+        "name": "catastrophiaArmor",
+        "representation": "Catastrophia Armor",
+        "path": "/img/items/armor/catastrophiaArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 862,
+        "name": "championarmor",
+        "representation": "Champion Armor",
+        "path": "/img/items/armor/championarmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 3, "tec": 2, "fth": 2, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "titanarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 858,
+        "name": "chaosarmor",
+        "representation": "Chaos Armor",
+        "path": "/img/items/armor/chaosarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "nautilusarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 0,
+        "name": "darkknightarmor",
+        "representation": "Darkknight Armor",
+        "path": "/img/items/armor/darkknightarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 864,
+        "name": "deathgodarmor",
+        "representation": "Deathgod Armor",
+        "path": "/img/items/armor/deathgodarmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 30, "tec": 2, "fth": 0, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "titanarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 0,
+        "name": "destructivearmor",
+        "representation": "Destructive Armor",
+        "path": "/img/items/armor/destructivearmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 1, "tec": 0, "fth": 0, "mag": 4 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "vorpalarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 867,
+        "name": "deusarmor",
+        "representation": "Deus Armor",
+        "path": "/img/items/armor/deusarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 3, "fth": 3, "mag": 2 },
+        "craftedWith": [{ "amount": 1, "item": "isaacarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 832,
+        "name": "dredgerArmor",
+        "representation": "Dredger Armor",
+        "path": "/img/items/armor/dredgerArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 855,
+        "name": "drifterarmor",
+        "representation": "Drifter Armor",
+        "path": "/img/items/armor/drifterarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 2, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "duneriderarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 854,
+        "name": "duneclotharmor",
+        "representation": "Dunecloth Armor",
+        "path": "/img/items/armor/duneclotharmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 2, "fth": 1, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "duneriderarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 801,
+        "name": "duneriderarmor",
+        "representation": "Dunerider Armor",
+        "path": "/img/items/armor/duneriderarmor.png",
+        "stats": { "str": 1, "dex": 2, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 850,
+        "name": "elitearmor",
+        "representation": "Elite Armor",
+        "path": "/img/items/armor/elitearmor.png",
+        "stats": { "str": 3, "dex": 2, "vit": 2, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "recruitarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 897,
+        "name": "exodusArmor",
+        "representation": "Exodus Armor",
+        "path": "/img/items/armor/exodusArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 892,
+        "name": "fellbugArmor",
+        "representation": "Fellbug Armor",
+        "path": "/img/items/armor/fellbugArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 870,
+        "name": "firegodarmor",
+        "representation": "Firegod Armor",
+        "path": "/img/items/armor/firegodarmor.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 0, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "ultromarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 878,
+        "name": "forcearmor",
+        "representation": "Force Armor",
+        "path": "/img/items/armor/forcearmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 4, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "ghostarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 809,
+        "name": "ghostarmor",
+        "representation": "Ghost Armor",
+        "path": "/img/items/armor/ghostarmor.png",
+        "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 2, "fth": 1, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "ghastemblem" },
+            { "amount": 1, "item": "seedemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 896,
+        "name": "glaedriaArmor",
+        "representation": "Glaedria Armor",
+        "path": "/img/items/armor/glaedriaArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 879,
+        "name": "helloworldarmor",
+        "representation": "Helloworld Armor",
+        "path": "/img/items/armor/helloworldarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 3, "fth": 3, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "ghostarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 863,
+        "name": "heroicarmor",
+        "representation": "Heroic Armor",
+        "path": "/img/items/armor/heroicarmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 5, "tec": 3, "fth": 2, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "titanarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 872,
+        "name": "infernoarmor",
+        "representation": "Inferno Armor",
+        "path": "/img/items/armor/infernoarmor.png",
+        "stats": { "str": 3, "dex": 3, "vit": 5, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "brutearmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 894,
+        "name": "ironcladArmor",
+        "representation": "Ironclad Armor",
+        "path": "/img/items/armor/ironcladArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 873,
+        "name": "ironforgearmor",
+        "representation": "Ironforge Armor",
+        "path": "/img/items/armor/ironforgearmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 5, "tec": 4, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "brutearmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 805,
+        "name": "isaacarmor",
+        "representation": "Isaac Armor",
+        "path": "/img/items/armor/isaacarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 2, "fth": 2, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 861,
+        "name": "ithacasarmor",
+        "representation": "Ithacas Armor",
+        "path": "/img/items/armor/ithacasarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 1, "tec": 0, "fth": 4, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "vorpalarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 853,
+        "name": "krabshellarmor",
+        "representation": "Krabshell Armor",
+        "path": "/img/items/armor/krabshellarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 4, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "duneriderarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 857,
+        "name": "krakenarmor",
+        "representation": "Kraken Armor",
+        "path": "/img/items/armor/krakenarmor.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 3, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "nautilusarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 856,
+        "name": "leviathanarmor",
+        "representation": "Leviathan Armor",
+        "path": "/img/items/armor/leviathanarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 0,
+        "name": "maelstormarmor",
+        "representation": "Maelstorm Armor",
+        "path": "/img/items/armor/maelstormarmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 3, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "wraitharmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 0,
+        "name": "mightShroomArmor",
+        "representation": "Mightshroom Armor",
+        "path": "/img/items/armor/mightShroomArmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 890,
+        "name": "mykonogrearmor",
+        "representation": "Mykonogre Armor",
+        "path": "/img/items/armor/mykonogrearmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 802,
+        "name": "nautilusarmor",
+        "representation": "Nautilus Armor",
+        "path": "/img/items/armor/nautilusarmor.png",
+        "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 2, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 875,
+        "name": "oniarmor",
+        "representation": "Oni Armor",
+        "path": "/img/items/armor/oniarmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 2, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "yoshimitsuarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 881,
+        "name": "onslaughtarmor",
+        "representation": "Onslaught Armor",
+        "path": "/img/items/armor/onslaughtarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 4, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "vigilantearmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 868,
+        "name": "plasmaarmor",
+        "representation": "Plasma Armor",
+        "path": "/img/items/armor/plasmaarmor.png",
+        "stats": { "str": 2, "dex": 3, "vit": 2, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "ultromarmor" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "ultromarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 885,
+        "name": "pyroclasmarmor",
+        "representation": "Pyroclasm Armor",
+        "path": "/img/items/armor/pyroclasmarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 3, "tec": 3, "fth": 3, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "wraitharmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 842,
+        "name": "queensarmor",
+        "representation": "Queens Armor",
+        "path": "/img/items/armor/queensarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 869,
+        "name": "rapturearmor",
+        "representation": "Rapture Armor",
+        "path": "/img/items/armor/rapturearmor.png",
+        "stats": { "str": 2, "dex": 3, "vit": 2, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "ultromarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 877,
+        "name": "reconarmor",
+        "representation": "Recon Armor",
+        "path": "/img/items/armor/reconarmor.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 3, "fth": 2, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "ghostarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 800,
+        "name": "recruitarmor",
+        "representation": "Recruit Armor",
+        "path": "/img/items/armor/recruitarmor.png",
+        "stats": { "str": 2, "dex": 1, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 884,
+        "name": "ruinarmor",
+        "representation": "Ruin Armor",
+        "path": "/img/items/armor/ruinarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "wraitharmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 865,
+        "name": "shatterspellarmor",
+        "representation": "Shatterspell Armor",
+        "path": "/img/items/armor/shatterspellarmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 3, "fth": 3, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "isaacarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 852,
+        "name": "siegearmor",
+        "representation": "Siege Armor",
+        "path": "/img/items/armor/siegearmor.png",
+        "stats": { "str": 4, "dex": 2, "vit": 3, "tec": 0, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "recruitarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 804,
+        "name": "titanarmor",
+        "representation": "Titan Armor",
+        "path": "/img/items/armor/titanarmor.png",
+        "stats": { "str": 2, "dex": 0, "vit": 2, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 866,
+        "name": "towermagearmor",
+        "representation": "Towermage Armor",
+        "path": "/img/items/armor/towermagearmor.png",
+        "stats": { "str": 3, "dex": 0, "vit": 2, "tec": 3, "fth": 3, "mag": 2 },
+        "craftedWith": [{ "amount": 1, "item": "isaacarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 859,
+        "name": "ultimaarmor",
+        "representation": "Ultima Armor",
+        "path": "/img/items/armor/ultimaarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 1, "tec": 4, "fth": 2, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "vorpalarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 806,
+        "name": "ultromarmor",
+        "representation": "Ultrom Armor",
+        "path": "/img/items/armor/ultromarmor.png",
+        "stats": { "str": 1, "dex": 2, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 810,
+        "name": "vigilantearmor",
+        "representation": "Vigilante Armor",
+        "path": "/img/items/armor/vigilantearmor.png",
+        "stats": { "str": 2, "dex": 2, "vit": 1, "tec": 2, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 803,
+        "name": "vorpalarmor",
+        "representation": "Vorpal Armor",
+        "path": "/img/items/armor/vorpalarmor.png",
+        "stats": { "str": 0, "dex": 1, "vit": 2, "tec": 0, "fth": 1, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 851,
+        "name": "voyagerarmor",
+        "representation": "Voyager Armor",
+        "path": "/img/items/armor/voyagerarmor.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 0, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "recruitarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 882,
+        "name": "whitewhorlarmor",
+        "representation": "Whitewhorl Armor",
+        "path": "/img/items/armor/whitewhorlarmor.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 3, "fth": 3, "mag": 0 },
+        "craftedWith": [{ "amount": 1, "item": "vigilantearmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 811,
+        "name": "wraitharmor",
+        "representation": "Wraith Armor",
+        "path": "/img/items/armor/wraitharmor.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 0, "fth": 2, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 874,
+        "name": "yojimboarmor",
+        "representation": "Yojimbo Armor",
+        "path": "/img/items/armor/yojimboarmor.png",
+        "stats": { "str": 3, "dex": 3, "vit": 1, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "yoshimitsuarmor" }],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 808,
+        "name": "yoshimitsuarmor",
+        "representation": "Yoshimitsu Armor",
+        "path": "/img/items/armor/yoshimitsuarmor.png",
+        "stats": { "str": 2, "dex": 0, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "armor"
+    },
+    {
+        "id": 1024,
+        "name": "aidbot56",
+        "representation": "Aidbot56",
+        "path": "/img/items/droids/aidbot56.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1002,
+        "name": "bat17",
+        "representation": "Bat17",
+        "path": "/img/items/droids/bat17.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 2, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "beetleemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "orichalcumemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1023,
+        "name": "bogbot67",
+        "representation": "Bogbot67",
+        "path": "/img/items/droids/bogbot67.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1017,
+        "name": "bttrfly8",
+        "representation": "Bttrfly8",
+        "path": "/img/items/droids/bttrfly8.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1016,
+        "name": "bulb88",
+        "representation": "Bulb88",
+        "path": "/img/items/droids/bulb88.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1022,
+        "name": "diamnd66",
+        "representation": "Diamnd66",
+        "path": "/img/items/droids/diamnd66.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1018,
+        "name": "dragon67",
+        "representation": "Dragon67",
+        "path": "/img/items/droids/dragon67.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1015,
+        "name": "farmhand78",
+        "representation": "Farmhand78",
+        "path": "/img/items/droids/farmhand78.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1001,
+        "name": "flwr08",
+        "representation": "Flwr08",
+        "path": "/img/items/droids/flwr08.png",
+        "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 2, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1030,
+        "name": "gold15",
+        "representation": "Gold15",
+        "path": "/img/items/droids/gold15.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "GOLD 15 can be obtained by using the code LLKKLLKKJJ while in the inventory menu. It shoots short projectiles in Combat Mode.",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1005,
+        "name": "guardian07",
+        "representation": "Guardian07",
+        "path": "/img/items/droids/guardian07.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 0, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1025,
+        "name": "hellbot57",
+        "representation": "Hellbot57",
+        "path": "/img/items/droids/hellbot57.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 0,
+        "name": "helper55",
+        "representation": "Helper55",
+        "path": "/img/items/droids/helper55.png",
+        "stats": { "str": 0, "dex": 2, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1026,
+        "name": "ibot58",
+        "representation": "Ibot58",
+        "path": "/img/items/droids/ibot58.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1020,
+        "name": "megazord36",
+        "representation": "Megazord36",
+        "path": "/img/items/droids/megazord36.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1014,
+        "name": "monolth25",
+        "representation": "Monolth25",
+        "path": "/img/items/droids/monolth25.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1029,
+        "name": "mrgrgrr05",
+        "representation": "Mrgrgrr05",
+        "path": "/img/items/droids/mrgrgrr05.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1003,
+        "name": "obsidian64",
+        "representation": "Obsidian64",
+        "path": "/img/items/droids/obsidian64.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 2, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "beetleemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1028,
+        "name": "overseer06",
+        "representation": "Overseer06",
+        "path": "/img/items/droids/overseer06.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1013,
+        "name": "prism88",
+        "representation": "Prism88",
+        "path": "/img/items/droids/prism88.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1000,
+        "name": "rck22",
+        "representation": "Rck22",
+        "path": "/img/items/droids/rck22.png",
+        "stats": { "str": 2, "dex": 0, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "flutterflyemblem" },
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1012,
+        "name": "solar05",
+        "representation": "Solar05",
+        "path": "/img/items/droids/solar05.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1021,
+        "name": "steel65",
+        "representation": "Steel65",
+        "path": "/img/items/droids/steel65.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1027,
+        "name": "whitemag09",
+        "representation": "Whitemag09",
+        "path": "/img/items/droids/whitemag09.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 1019,
+        "name": "wyvrn77",
+        "representation": "Wyvrn77",
+        "path": "/img/items/droids/wyvrn77.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "droids"
+    },
+    {
+        "id": 15,
+        "name": "aetherbulb",
+        "representation": "Aetherbulb",
+        "path": "/img/items/drops/aetherbulb.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Whisperwood"],
+        "type": "drops"
+    },
+    {
+        "id": 24,
+        "name": "beastheart",
+        "representation": "Beastheart",
+        "path": "/img/items/drops/beastheart.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Shroomtown", "Byfrost", "Whisperwood"],
+        "type": "drops"
+    },
+    {
+        "id": 16,
+        "name": "chaosleaf",
+        "representation": "Chaosleaf",
+        "path": "/img/items/drops/chaosleaf.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Cathedral"],
+        "type": "drops"
+    },
+    {
+        "id": 23,
+        "name": "chitinfragment",
+        "representation": "Chitinfragment",
+        "path": "/img/items/drops/chitinfragment.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Plaguelands", "AncientRuins"],
+        "type": "drops"
+    },
+    {
+        "id": 21,
+        "name": "creatureeyeball",
+        "representation": "Creatureeyeball",
+        "path": "/img/items/drops/creatureeyeball.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["DesolateCanyon", "DeepJungle", "AncientRuins", "HollowCaverns", "Plaguelands"],
+        "type": "drops"
+    },
+    {
+        "id": 32,
+        "name": "dungbeetle",
+        "representation": "Dungbeetle",
+        "path": "/img/items/drops/dungbeetle.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Shroomtown"],
+        "type": "drops"
+    },
+    {
+        "id": 26,
+        "name": "ectoplasm",
+        "representation": "Ectoplasm",
+        "path": "/img/items/drops/ectoplasm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Cathedral"],
+        "type": "drops"
+    },
+    {
+        "id": 6,
+        "name": "existencegem",
+        "representation": "Existencegem",
+        "path": "/img/items/drops/existencegem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Cathedral"],
+        "type": "drops"
+    },
+    {
+        "id": 5,
+        "name": "flamethyst",
+        "representation": "Flamethyst",
+        "path": "/img/items/drops/flamethyst.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["AncientRuins", "MoltenCrag"],
+        "type": "drops"
+    },
+    {
+        "id": 31,
+        "name": "flutterfly",
+        "representation": "Flutterfly",
+        "path": "/img/items/drops/flutterfly.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["DesolateCanyon", "Plaguelands"],
+        "type": "drops"
+    },
+    {
+        "id": 3,
+        "name": "galacticite",
+        "representation": "Galacticite",
+        "path": "/img/items/drops/galacticite.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["AncientRuins", "Plaguelands"],
+        "type": "drops"
+    },
+    {
+        "id": 33,
+        "name": "ghastbug",
+        "representation": "Ghastbug",
+        "path": "/img/items/drops/ghastbug.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Byfrost"],
+        "type": "drops"
+    },
+    {
+        "id": 35,
+        "name": "glowfly",
+        "representation": "Glowfly",
+        "path": "/img/items/drops/glowfly.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Whisperwood"],
+        "type": "drops"
+    },
+    {
+        "id": 12,
+        "name": "glowshroom",
+        "representation": "Glowshroom",
+        "path": "/img/items/drops/glowshroom.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Shroomtown"],
+        "type": "drops"
+    },
+    {
+        "id": 22,
+        "name": "monsterclaw",
+        "representation": "Monsterclaw",
+        "path": "/img/items/drops/monsterclaw.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["DesolateCanyon", "DeepJungle", "Shroomtown", "Plaguelands", "Byfrost"],
+        "type": "drops"
+    },
+    {
+        "id": 2,
+        "name": "orichalcum",
+        "representation": "Orichalcum",
+        "path": "/img/items/drops/orichalcum.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["DesolateCanyon", "HollowCaverns", "Byfrost", "Whisperwood"],
+        "type": "drops"
+    },
+    {
+        "id": 1,
+        "name": "planetstone",
+        "representation": "Planetstone",
+        "path": "/img/items/drops/planetstone.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["DesolateCanyon", "HollowCaverns"],
+        "type": "drops"
+    },
+    {
+        "id": 36,
+        "name": "plasmamoth",
+        "representation": "Plasmamoth",
+        "path": "/img/items/drops/plasmamoth.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Cathedral"],
+        "type": "drops"
+    },
+    {
+        "id": 25,
+        "name": "shinyscale",
+        "representation": "Shinyscale",
+        "path": "/img/items/drops/shinyscale.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["MoltenCrag"],
+        "type": "drops"
+    },
+    {
+        "id": 13,
+        "name": "spicyseed",
+        "representation": "Spicyseed",
+        "path": "/img/items/drops/spicyseed.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["DeepJungle", "AncientRuins"],
+        "type": "drops"
+    },
+    {
+        "id": 14,
+        "name": "starfruit",
+        "representation": "Starfruit",
+        "path": "/img/items/drops/starfruit.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Plaguelands"],
+        "type": "drops"
+    },
+    {
+        "id": 11,
+        "name": "tastyherb",
+        "representation": "Tastyherb",
+        "path": "/img/items/drops/tastyherb.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["DesolateCanyon", "DeepJungle", "HollowCaverns"],
+        "type": "drops"
+    },
+    {
+        "id": 34,
+        "name": "thunderworm",
+        "representation": "Thunderworm",
+        "path": "/img/items/drops/thunderworm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["MoltenCrag"],
+        "type": "drops"
+    },
+    {
+        "id": 4,
+        "name": "zephyr",
+        "representation": "Zephyr",
+        "path": "/img/items/drops/zephyr.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": ["Byfrost", "Plaguelands"],
+        "type": "drops"
+    },
+    {
+        "id": 115,
+        "name": "aetheremblem",
+        "representation": "Aether Emblem",
+        "path": "/img/items/emblems/aetheremblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "aetherbulb" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 124,
+        "name": "beastemblem",
+        "representation": "Beast Emblem",
+        "path": "/img/items/emblems/beastemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "beastheart" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 132,
+        "name": "beetleemblem",
+        "representation": "Beetle Emblem",
+        "path": "/img/items/emblems/beetleemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "dungbeetle" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 116,
+        "name": "chaosemblem",
+        "representation": "Chaos Emblem",
+        "path": "/img/items/emblems/chaosemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "chaosleaf" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 122,
+        "name": "clawemblem",
+        "representation": "Claw Emblem",
+        "path": "/img/items/emblems/clawemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "monsterclaw" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 126,
+        "name": "ectoplasmemblem",
+        "representation": "Ectoplasm Emblem",
+        "path": "/img/items/emblems/ectoplasmemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "ectoplasm" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 106,
+        "name": "existenceemblem",
+        "representation": "Existence Emblem",
+        "path": "/img/items/emblems/existenceemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "existencegem" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 121,
+        "name": "eyeballemblem",
+        "representation": "Eyeball Emblem",
+        "path": "/img/items/emblems/eyeballemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "creatureeyeball" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 105,
+        "name": "flameemblem",
+        "representation": "Flame Emblem",
+        "path": "/img/items/emblems/flameemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "flamethyst" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 131,
+        "name": "flutterflyemblem",
+        "representation": "Flutterfly Emblem",
+        "path": "/img/items/emblems/flutterflyemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "flutterfly" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 123,
+        "name": "fragmentemblem",
+        "representation": "Fragment Emblem",
+        "path": "/img/items/emblems/fragmentemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "chitinfragment" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 103,
+        "name": "galacticiteemblem",
+        "representation": "Galacticite Emblem",
+        "path": "/img/items/emblems/galacticiteemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "galacticite" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 133,
+        "name": "ghastemblem",
+        "representation": "Ghast Emblem",
+        "path": "/img/items/emblems/ghastemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "ghastbug" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 135,
+        "name": "glowflyemblem",
+        "representation": "Glowfly Emblem",
+        "path": "/img/items/emblems/glowflyemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "glowfly" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 111,
+        "name": "herbemblem",
+        "representation": "Herb Emblem",
+        "path": "/img/items/emblems/herbemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "tastyherb" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 102,
+        "name": "orichalcumemblem",
+        "representation": "Orichalcum Emblem",
+        "path": "/img/items/emblems/orichalcumemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "orichalcum" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 101,
+        "name": "planetemblem",
+        "representation": "Planet Emblem",
+        "path": "/img/items/emblems/planetemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "planetstone" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 136,
+        "name": "plasmaemblem",
+        "representation": "Plasma Emblem",
+        "path": "/img/items/emblems/plasmaemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "plasmamoth" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 113,
+        "name": "seedemblem",
+        "representation": "Seed Emblem",
+        "path": "/img/items/emblems/seedemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "spicyseed" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 125,
+        "name": "shinyemblem",
+        "representation": "Shiny Emblem",
+        "path": "/img/items/emblems/shinyemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "shinyscale" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 112,
+        "name": "shroomemblem",
+        "representation": "Shroom Emblem",
+        "path": "/img/items/emblems/shroomemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "glowshroom" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 114,
+        "name": "staremblem",
+        "representation": "Star Emblem",
+        "path": "/img/items/emblems/staremblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "starfruit" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 134,
+        "name": "thunderwormemblem",
+        "representation": "Thunderworm Emblem",
+        "path": "/img/items/emblems/thunderwormemblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "thunderworm" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 104,
+        "name": "zephyremblem",
+        "representation": "Zephyr Emblem",
+        "path": "/img/items/emblems/zephyremblem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "zephyr" }],
+        "description": "",
+        "foundIn": [],
+        "type": "emblems"
+    },
+    {
+        "id": 203,
+        "name": "bonusDEX",
+        "representation": "Bonusdex",
+        "path": "/img/items/gearmods/bonusDEX.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 206,
+        "name": "bonusFTH",
+        "representation": "Bonusfth",
+        "path": "/img/items/gearmods/bonusFTH.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 205,
+        "name": "bonusMAG",
+        "representation": "Bonusmag",
+        "path": "/img/items/gearmods/bonusMAG.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 202,
+        "name": "bonusSTR",
+        "representation": "Bonusstr",
+        "path": "/img/items/gearmods/bonusSTR.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 204,
+        "name": "bonusTEC",
+        "representation": "Bonustec",
+        "path": "/img/items/gearmods/bonusTEC.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 201,
+        "name": "bonusVIT",
+        "representation": "Bonusvit",
+        "path": "/img/items/gearmods/bonusVIT.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 222,
+        "name": "bugharvest",
+        "representation": "Bugharvest",
+        "path": "/img/items/gearmods/bugharvest.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 224,
+        "name": "creditboost",
+        "representation": "Creditboost",
+        "path": "/img/items/gearmods/creditboost.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 212,
+        "name": "critdmg",
+        "representation": "Critdmg",
+        "path": "/img/items/gearmods/critdmg.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 211,
+        "name": "critrate",
+        "representation": "Critrate",
+        "path": "/img/items/gearmods/critrate.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 217,
+        "name": "dashspeed",
+        "representation": "Dashspeed",
+        "path": "/img/items/gearmods/dashspeed.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 223,
+        "name": "expboost",
+        "representation": "Expboost",
+        "path": "/img/items/gearmods/expboost.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 213,
+        "name": "healthregen",
+        "representation": "Healthregen",
+        "path": "/img/items/gearmods/healthregen.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 218,
+        "name": "jumpheight",
+        "representation": "Jumpheight",
+        "path": "/img/items/gearmods/jumpheight.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 214,
+        "name": "manaregen",
+        "representation": "Manaregen",
+        "path": "/img/items/gearmods/manaregen.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 221,
+        "name": "monsterdrops",
+        "representation": "Monsterdrops",
+        "path": "/img/items/gearmods/monsterdrops.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 216,
+        "name": "movespeed",
+        "representation": "Movespeed",
+        "path": "/img/items/gearmods/movespeed.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 219,
+        "name": "oreharvest",
+        "representation": "Oreharvest",
+        "path": "/img/items/gearmods/oreharvest.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 220,
+        "name": "plantharvest",
+        "representation": "Plantharvest",
+        "path": "/img/items/gearmods/plantharvest.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 210,
+        "name": "projectilerange",
+        "representation": "Projectilerange",
+        "path": "/img/items/gearmods/projectilerange.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 208,
+        "name": "resistfrost",
+        "representation": "Resistfrost",
+        "path": "/img/items/gearmods/resistfrost.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 207,
+        "name": "resistheat",
+        "representation": "Resistheat",
+        "path": "/img/items/gearmods/resistheat.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 209,
+        "name": "resistpoison",
+        "representation": "Resistpoison",
+        "path": "/img/items/gearmods/resistpoison.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 215,
+        "name": "staminaregen",
+        "representation": "Staminaregen",
+        "path": "/img/items/gearmods/staminaregen.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "gearmods"
+    },
+    {
+        "id": 0,
+        "name": "4thageDEXHelm",
+        "representation": "4thagedex Helm",
+        "path": "/img/items/helmets/4thageDEXHelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "4thageMAGHelm",
+        "representation": "4thagemag Helm",
+        "path": "/img/items/helmets/4thageMAGHelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "4thageSTRHelm",
+        "representation": "4thagestr Helm",
+        "path": "/img/items/helmets/4thageSTRHelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 786,
+        "name": "aetherhelm",
+        "representation": "Aether Helm",
+        "path": "/img/items/helmets/aetherhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 776,
+        "name": "akuhelm",
+        "representation": "Aku Helm",
+        "path": "/img/items/helmets/akuhelm.png",
+        "stats": { "str": 4, "dex": 0, "vit": 2, "tec": 1, "fth": 0, "mag": 4 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "yoshimitsuHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "apocalypehelm",
+        "representation": "Apocalype Helm",
+        "path": "/img/items/helmets/apocalypehelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 741,
+        "name": "axelarkshelm",
+        "representation": "Axelarks Helm",
+        "path": "/img/items/helmets/axelarkshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 740,
+        "name": "azazelshelm",
+        "representation": "Azazels Helm",
+        "path": "/img/items/helmets/azazelshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 739,
+        "name": "baalfogseye",
+        "representation": "Baalfogseye",
+        "path": "/img/items/helmets/baalfogseye.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 730,
+        "name": "bolgonshelm",
+        "representation": "Bolgons Helm",
+        "path": "/img/items/helmets/bolgonshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 731,
+        "name": "broccolihelm",
+        "representation": "Broccoli Helm",
+        "path": "/img/items/helmets/broccolihelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 771,
+        "name": "bruiserhelm",
+        "representation": "Bruiser Helm",
+        "path": "/img/items/helmets/bruiserhelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 5, "tec": 0, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "brutearmor" },
+            { "amount": 1, "item": "bruteHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 707,
+        "name": "bruteHelm",
+        "representation": "Brute Helm",
+        "path": "/img/items/helmets/bruteHelm.png",
+        "stats": { "str": 2, "dex": 0, "vit": 3, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 725,
+        "name": "captainshat",
+        "representation": "Captainshat",
+        "path": "/img/items/helmets/captainshat.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "catastrophiahelm",
+        "representation": "Catastrophia Helm",
+        "path": "/img/items/helmets/catastrophiahelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 762,
+        "name": "championhelm",
+        "representation": "Champion Helm",
+        "path": "/img/items/helmets/championhelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 3, "tec": 2, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "titanHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "chaoshelmet",
+        "representation": "Chaos Helmet",
+        "path": "/img/items/helmets/chaoshelmet.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "nautilusHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "darkknighthelm",
+        "representation": "Darkknight Helm",
+        "path": "/img/items/helmets/darkknighthelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 764,
+        "name": "deathgodhelm",
+        "representation": "Deathgod Helm",
+        "path": "/img/items/helmets/deathgodhelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 3, "tec": 2, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "titanHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "desctructionhelm",
+        "representation": "Desctruction Helm",
+        "path": "/img/items/helmets/desctructionhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 767,
+        "name": "deushelm",
+        "representation": "Deus Helm",
+        "path": "/img/items/helmets/deushelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 3, "fth": 3, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "isaacHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 732,
+        "name": "dredgerhelm",
+        "representation": "Dredger Helm",
+        "path": "/img/items/helmets/dredgerhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "drifterhelmet",
+        "representation": "Drifter Helmet",
+        "path": "/img/items/helmets/drifterhelmet.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 2, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "duneriderHood" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 754,
+        "name": "duneclothhelm",
+        "representation": "Dunecloth Helm",
+        "path": "/img/items/helmets/duneclothhelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 2, "fth": 1, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "duneriderHood" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 701,
+        "name": "duneriderHood",
+        "representation": "Duneriderhood",
+        "path": "/img/items/helmets/duneriderHood.png",
+        "stats": { "str": 0, "dex": 2, "vit": 2, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 750,
+        "name": "elitehelm",
+        "representation": "Elite Helm",
+        "path": "/img/items/helmets/elitehelm.png",
+        "stats": { "str": 3, "dex": 2, "vit": 2, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "recruitHelmet" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "exodushelm",
+        "representation": "Exodus Helm",
+        "path": "/img/items/helmets/exodushelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "fellbughelm",
+        "representation": "Fellbug Helm",
+        "path": "/img/items/helmets/fellbughelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 770,
+        "name": "firegodhelm",
+        "representation": "Firegod Helm",
+        "path": "/img/items/helmets/firegodhelm.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 0, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "ultromHelm" },
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "ultromarmor" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 778,
+        "name": "forcehelm",
+        "representation": "Force Helm",
+        "path": "/img/items/helmets/forcehelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 4, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "ghostHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 709,
+        "name": "ghostHelm",
+        "representation": "Ghost Helm",
+        "path": "/img/items/helmets/ghostHelm.png",
+        "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 2, "fth": 1, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "gleadriahelm",
+        "representation": "Gleadria Helm",
+        "path": "/img/items/helmets/gleadriahelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 736,
+        "name": "gromwellshelm",
+        "representation": "Gromwells Helm",
+        "path": "/img/items/helmets/gromwellshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 779,
+        "name": "helloworldhelm",
+        "representation": "Helloworld Helm",
+        "path": "/img/items/helmets/helloworldhelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 3, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "ghostHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 763,
+        "name": "heroichelm",
+        "representation": "Heroic Helm",
+        "path": "/img/items/helmets/heroichelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 5, "tec": 3, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "titanHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 772,
+        "name": "infernohelm",
+        "representation": "Inferno Helm",
+        "path": "/img/items/helmets/infernohelm.png",
+        "stats": { "str": 3, "dex": 3, "vit": 5, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "bruteHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "ironcladhelm",
+        "representation": "Ironclad Helm",
+        "path": "/img/items/helmets/ironcladhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 773,
+        "name": "ironforgehelm",
+        "representation": "Ironforge Helm",
+        "path": "/img/items/helmets/ironforgehelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 5, "tec": 4, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "bruteHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 705,
+        "name": "isaacHelm",
+        "representation": "Isaac Helm",
+        "path": "/img/items/helmets/isaacHelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 2, "fth": 2, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "ithicashelm",
+        "representation": "Ithicas Helm",
+        "path": "/img/items/helmets/ithicashelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 798,
+        "name": "kawaiilemon",
+        "representation": "Kawaiilemon",
+        "path": "/img/items/helmets/kawaiilemon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 753,
+        "name": "krabshellhelm",
+        "representation": "Krabshell Helm",
+        "path": "/img/items/helmets/krabshellhelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 4, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "duneriderHood" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 757,
+        "name": "krakenhelm",
+        "representation": "Kraken Helm",
+        "path": "/img/items/helmets/krakenhelm.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 3, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "nautilusHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 756,
+        "name": "leviathanhelm",
+        "representation": "Leviathan Helm",
+        "path": "/img/items/helmets/leviathanhelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 3, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "nautilusHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "maelstormhelm",
+        "representation": "Maelstorm Helm",
+        "path": "/img/items/helmets/maelstormhelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 3, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "wraithHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "mightshroomhelm",
+        "representation": "Mightshroom Helm",
+        "path": "/img/items/helmets/mightshroomhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "mykonogorehelm",
+        "representation": "Mykonogore Helm",
+        "path": "/img/items/helmets/mykonogorehelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 702,
+        "name": "nautilusHelm",
+        "representation": "Nautilus Helm",
+        "path": "/img/items/helmets/nautilusHelm.png",
+        "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 2, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 743,
+        "name": "nolicbeats",
+        "representation": "Nolicbeats",
+        "path": "/img/items/helmets/nolicbeats.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "oldchapshat",
+        "representation": "Oldchapshat",
+        "path": "/img/items/helmets/oldchapshat.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 775,
+        "name": "onihelm",
+        "representation": "Oni Helm",
+        "path": "/img/items/helmets/onihelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 2, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "yoshimitsuHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 781,
+        "name": "onslaughthelm",
+        "representation": "Onslaught Helm",
+        "path": "/img/items/helmets/onslaughthelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 4, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "vigilanteHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 733,
+        "name": "overworldhelm",
+        "representation": "Overworld Helm",
+        "path": "/img/items/helmets/overworldhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 738,
+        "name": "percevalshelm",
+        "representation": "Percevals Helm",
+        "path": "/img/items/helmets/percevalshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 768,
+        "name": "plasmahelm",
+        "representation": "Plasma Helm",
+        "path": "/img/items/helmets/plasmahelm.png",
+        "stats": { "str": 2, "dex": 3, "vit": 2, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "ultromHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 785,
+        "name": "pyroclasmhelm",
+        "representation": "Pyroclasm Helm",
+        "path": "/img/items/helmets/pyroclasmhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 3, "tec": 3, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "wraithHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 742,
+        "name": "queenshelm",
+        "representation": "Queens Helm",
+        "path": "/img/items/helmets/queenshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 769,
+        "name": "rapturehelm",
+        "representation": "Rapture Helm",
+        "path": "/img/items/helmets/rapturehelm.png",
+        "stats": { "str": 2, "dex": 3, "vit": 2, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [{ "amount": 1, "item": "ultromHelm" }],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 777,
+        "name": "reconhelm",
+        "representation": "Recon Helm",
+        "path": "/img/items/helmets/reconhelm.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 3, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "ghostHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 0,
+        "name": "recruitHelmet",
+        "representation": "Recruit Helmet",
+        "path": "/img/items/helmets/recruitHelmet.png",
+        "stats": { "str": 2, "dex": 1, "vit": 1, "tec": 0, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 737,
+        "name": "ringaboltshelm",
+        "representation": "Ringabolts Helm",
+        "path": "/img/items/helmets/ringaboltshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 784,
+        "name": "ruinhelm",
+        "representation": "Ruin Helm",
+        "path": "/img/items/helmets/ruinhelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 0, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "wraithHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 765,
+        "name": "shatterspellhelm",
+        "representation": "Shatterspell Helm",
+        "path": "/img/items/helmets/shatterspellhelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 20, "tec": 3, "fth": 3, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "isaacHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 752,
+        "name": "siegehelm",
+        "representation": "Siege Helm",
+        "path": "/img/items/helmets/siegehelm.png",
+        "stats": { "str": 4, "dex": 2, "vit": 3, "tec": 0, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "recruitHelmet" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 787,
+        "name": "slimecrafthelm",
+        "representation": "Slimecraft Helm",
+        "path": "/img/items/helmets/slimecrafthelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 704,
+        "name": "titanHelm",
+        "representation": "Titan Helm",
+        "path": "/img/items/helmets/titanHelm.png",
+        "stats": { "str": 2, "dex": 0, "vit": 2, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 766,
+        "name": "towermagehelm",
+        "representation": "Towermage Helm",
+        "path": "/img/items/helmets/towermagehelm.png",
+        "stats": { "str": 3, "dex": 0, "vit": 2, "tec": 3, "fth": 3, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "isaacHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 759,
+        "name": "ultimahelm",
+        "representation": "Ultima Helm",
+        "path": "/img/items/helmets/ultimahelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 1, "tec": 4, "fth": 2, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "vorpalHood" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 706,
+        "name": "ultromHelm",
+        "representation": "Ultrom Helm",
+        "path": "/img/items/helmets/ultromHelm.png",
+        "stats": { "str": 1, "dex": 2, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 726,
+        "name": "urugorakshat",
+        "representation": "Urugorakshat",
+        "path": "/img/items/helmets/urugorakshat.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 710,
+        "name": "vigilanteHelm",
+        "representation": "Vigilante Helm",
+        "path": "/img/items/helmets/vigilanteHelm.png",
+        "stats": { "str": 2, "dex": 2, "vit": 1, "tec": 2, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 703,
+        "name": "vorpalHood",
+        "representation": "Vorpalhood",
+        "path": "/img/items/helmets/vorpalHood.png",
+        "stats": { "str": 0, "dex": 1, "vit": 2, "tec": 0, "fth": 1, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 751,
+        "name": "voyagerhelm",
+        "representation": "Voyager Helm",
+        "path": "/img/items/helmets/voyagerhelm.png",
+        "stats": { "str": 3, "dex": 3, "vit": 2, "tec": 0, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "recruitHelmet" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 735,
+        "name": "wallaceshelm",
+        "representation": "Wallaces Helm",
+        "path": "/img/items/helmets/wallaceshelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 782,
+        "name": "whitewhorlhelm",
+        "representation": "Whitewhorl Helm",
+        "path": "/img/items/helmets/whitewhorlhelm.png",
+        "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 3, "fth": 3, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "vigilanteHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 711,
+        "name": "wraithHelm",
+        "representation": "Wraith Helm",
+        "path": "/img/items/helmets/wraithHelm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 0, "fth": 2, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 774,
+        "name": "yojimbohelm",
+        "representation": "Yojimbo Helm",
+        "path": "/img/items/helmets/yojimbohelm.png",
+        "stats": { "str": 3, "dex": 3, "vit": 1, "tec": 3, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "yoshimitsuHelm" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 708,
+        "name": "yoshimitsuHelm",
+        "representation": "Yoshimitsu Helm",
+        "path": "/img/items/helmets/yoshimitsuHelm.png",
+        "stats": { "str": 2, "dex": 0, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "helmets"
+    },
+    {
+        "id": 44,
+        "name": "i44",
+        "representation": "I44",
+        "path": "/img/items/misc/i44.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 45,
+        "name": "i45",
+        "representation": "I45",
+        "path": "/img/items/misc/i45.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 46,
+        "name": "i46",
+        "representation": "I46",
+        "path": "/img/items/misc/i46.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 47,
+        "name": "i47",
+        "representation": "I47",
+        "path": "/img/items/misc/i47.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 48,
+        "name": "i48",
+        "representation": "I48",
+        "path": "/img/items/misc/i48.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 49,
+        "name": "i49",
+        "representation": "I49",
+        "path": "/img/items/misc/i49.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 50,
+        "name": "i50",
+        "representation": "I50",
+        "path": "/img/items/misc/i50.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 52,
+        "name": "i52",
+        "representation": "I52",
+        "path": "/img/items/misc/i52.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 53,
+        "name": "i53",
+        "representation": "I53",
+        "path": "/img/items/misc/i53.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 54,
+        "name": "i54",
+        "representation": "I54",
+        "path": "/img/items/misc/i54.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 55,
+        "name": "i55",
+        "representation": "I55",
+        "path": "/img/items/misc/i55.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 56,
+        "name": "i56",
+        "representation": "I56",
+        "path": "/img/items/misc/i56.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 57,
+        "name": "i57",
+        "representation": "I57",
+        "path": "/img/items/misc/i57.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 58,
+        "name": "i58",
+        "representation": "I58",
+        "path": "/img/items/misc/i58.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 59,
+        "name": "i59",
+        "representation": "I59",
+        "path": "/img/items/misc/i59.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
+        "id": 74,
+        "name": "aetherdew",
+        "representation": "Aetherdew",
+        "path": "/img/items/potions/aetherdew.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 73,
+        "name": "elixir",
+        "representation": "Elixir",
+        "path": "/img/items/potions/elixir.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "frostpotion",
+        "representation": "Frost Potion",
+        "path": "/img/items/potions/frostpotion.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "healthpotionlarge",
+        "representation": "Health PotionLarge",
+        "path": "/img/items/potions/healthpotionlarge.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "healthpotionmedium",
+        "representation": "Health PotionMedium",
+        "path": "/img/items/potions/healthpotionmedium.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "healthpotionsmall",
+        "representation": "Health PotionSmall",
+        "path": "/img/items/potions/healthpotionsmall.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "heatpotion",
+        "representation": "Heat Potion",
+        "path": "/img/items/potions/heatpotion.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "manapotionlarge",
+        "representation": "Mana PotionLarge",
+        "path": "/img/items/potions/manapotionlarge.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "manapotionmedium",
+        "representation": "Mana PotionMedium",
+        "path": "/img/items/potions/manapotionmedium.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "manapotionsmall",
+        "representation": "Mana PotionSmall",
+        "path": "/img/items/potions/manapotionsmall.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "nulldmgpotion",
+        "representation": "Nulldmg Potion",
+        "path": "/img/items/potions/nulldmgpotion.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "poisonpotion",
+        "representation": "Poison Potion",
+        "path": "/img/items/potions/poisonpotion.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "staminapotionlarge",
+        "representation": "Stamina PotionLarge",
+        "path": "/img/items/potions/staminapotionlarge.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "staminapotionmedium",
+        "representation": "Stamina PotionMedium",
+        "path": "/img/items/potions/staminapotionmedium.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "staminapotionsmall",
+        "representation": "Stamina PotionSmall",
+        "path": "/img/items/potions/staminapotionsmall.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "potions"
+    },
+    {
+        "id": 0,
+        "name": "aetheliteprism",
+        "representation": "Aetheliteprism",
+        "path": "/img/items/prisms/aetheliteprism.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "aetheliteshard" }],
+        "description": "",
+        "foundIn": [],
+        "type": "prisms"
+    },
+    {
+        "id": 0,
+        "name": "aetheliteshard",
+        "representation": "Aetheliteshard",
+        "path": "/img/items/prisms/aetheliteshard.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "Only found in CL 1 or above, CL1: 2%; CL2: 4%; CL3: 6%",
+        "foundIn": [
+            "AncientRuins",
+            "Byfrost",
+            "Cathedral",
+            "DeepJungle",
+            "DemonsRift",
+            "DesolateCanyon",
+            "ForbiddenArena",
+            "HollowCaverns",
+            "MechCity",
+            "MoltenCrag",
+            "OldEarth",
+            "Plaguelands",
+            "Shroomtown",
+            "Whisperwood"
+        ],
+        "type": "prisms"
+    },
+    {
+        "id": 90,
+        "name": "darkenedprism",
+        "representation": "Darkenedprism",
+        "path": "/img/items/prisms/darkenedprism.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "darkenedshard" }],
+        "description": "",
+        "foundIn": [],
+        "type": "prisms"
+    },
+    {
+        "id": 87,
+        "name": "darkenedshard",
+        "representation": "Darkenedshard",
+        "path": "/img/items/prisms/darkenedshard.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "Only found in CL 1 or above, CL1: 2%; CL2: 4%; CL3: 6%",
+        "foundIn": [
+            "AncientRuins",
+            "Byfrost",
+            "Cathedral",
+            "DeepJungle",
+            "DemonsRift",
+            "DesolateCanyon",
+            "ForbiddenArena",
+            "HollowCaverns",
+            "MechCity",
+            "MoltenCrag",
+            "OldEarth",
+            "Plaguelands",
+            "Shroomtown",
+            "Whisperwood"
+        ],
+        "type": "prisms"
+    },
+    {
+        "id": 91,
+        "name": "omegaprism",
+        "representation": "Omegaprism",
+        "path": "/img/items/prisms/omegaprism.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [{ "amount": 10, "item": "omegashard" }],
+        "description": "",
+        "foundIn": [],
+        "type": "prisms"
+    },
+    {
+        "id": 88,
+        "name": "omegashard",
+        "representation": "Omegashard",
+        "path": "/img/items/prisms/omegashard.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "Only found in CL 1 or above, CL1: 2%; CL2: 4%; CL3: 6%",
+        "foundIn": [
+            "AncientRuins",
+            "Byfrost",
+            "Cathedral",
+            "DeepJungle",
+            "DemonsRift",
+            "DesolateCanyon",
+            "ForbiddenArena",
+            "HollowCaverns",
+            "MechCity",
+            "MoltenCrag",
+            "OldEarth",
+            "Plaguelands",
+            "Shroomtown",
+            "Whisperwood"
+        ],
+        "type": "prisms"
+    },
+    {
+        "id": 902,
+        "name": "anelicering",
+        "representation": "Anelice Ring",
+        "path": "/img/items/rings/anelicering.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 904,
+        "name": "brymring",
+        "representation": "Brym Ring",
+        "path": "/img/items/rings/brymring.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 901,
+        "name": "ezeriusring",
+        "representation": "Ezerius Ring",
+        "path": "/img/items/rings/ezeriusring.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 905,
+        "name": "falstadtring",
+        "representation": "Falstadt Ring",
+        "path": "/img/items/rings/falstadtring.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 900,
+        "name": "gallahadring",
+        "representation": "Gallahad Ring",
+        "path": "/img/items/rings/gallahadring.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 903,
+        "name": "gromwellring",
+        "representation": "Gromwell Ring",
+        "path": "/img/items/rings/gromwellring.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 907,
+        "name": "percevalring",
+        "representation": "Perceval Ring",
+        "path": "/img/items/rings/percevalring.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 906,
+        "name": "roehnring",
+        "representation": "Roehn Ring",
+        "path": "/img/items/rings/roehnring.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "rings"
+    },
+    {
+        "id": 0,
+        "name": "4thageshield",
+        "representation": "4thage Shield",
+        "path": "/img/items/shields/4thageshield.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 602,
+        "name": "aegis",
+        "representation": "Aegis",
+        "path": "/img/items/shields/aegis.png",
+        "stats": { "str": 0, "dex": 1, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 646,
+        "name": "aethershield",
+        "representation": "Aether Shield",
+        "path": "/img/items/shields/aethershield.png",
+        "stats": { "str": 1, "dex": 1, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 0,
+        "name": "aethershield_2",
+        "representation": "Aether Shield_2",
+        "path": "/img/items/shields/aethershield_2.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 615,
+        "name": "arcsbuckler",
+        "representation": "Arcsbuckler",
+        "path": "/img/items/shields/arcsbuckler.png",
+        "stats": { "str": 2, "dex": 1, "vit": 3, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "cadetbuckler" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 628,
+        "name": "bloodshield",
+        "representation": "Blood Shield",
+        "path": "/img/items/shields/bloodshield.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 2, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "gallatriasigil" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 0,
+        "name": "bloodshield_2",
+        "representation": "Blood Shield_2",
+        "path": "/img/items/shields/bloodshield_2.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 1, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "forceguard" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 0,
+        "name": "boldshield",
+        "representation": "Bold Shield",
+        "path": "/img/items/shields/boldshield.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 1, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 601,
+        "name": "cadetbuckler",
+        "representation": "Cadetbuckler",
+        "path": "/img/items/shields/cadetbuckler.png",
+        "stats": { "str": 1, "dex": 0, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 622,
+        "name": "championshield",
+        "representation": "Champion Shield",
+        "path": "/img/items/shields/championshield.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 2, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "boltedge" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 612,
+        "name": "eagleshield",
+        "representation": "Eagle Shield",
+        "path": "/img/items/shields/eagleshield.png",
+        "stats": { "str": 1, "dex": 3, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "aethershield" },
+            { "amount": 1, "item": "aethershield" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 605,
+        "name": "forceguard",
+        "representation": "Forceguard",
+        "path": "/img/items/shields/forceguard.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 1, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 626,
+        "name": "fungishield",
+        "representation": "Fungi Shield",
+        "path": "/img/items/shields/fungishield.png",
+        "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 2, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "gallatriasigil" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 604,
+        "name": "gallatriasigil",
+        "representation": "Gallatriasigil",
+        "path": "/img/items/shields/gallatriasigil.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 625,
+        "name": "heatershield",
+        "representation": "Heater Shield",
+        "path": "/img/items/shields/heatershield.png",
+        "stats": { "str": 2, "dex": 0, "vit": 0, "tec": 2, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "gallatriasigil" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 621,
+        "name": "kingscrest",
+        "representation": "Kingscrest",
+        "path": "/img/items/shields/kingscrest.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 2, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "boltedge" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 613,
+        "name": "leaderscrest",
+        "representation": "Leaderscrest",
+        "path": "/img/items/shields/leaderscrest.png",
+        "stats": { "str": 3, "dex": 1, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "aethershield" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 619,
+        "name": "oathkeeper",
+        "representation": "Oathkeeper",
+        "path": "/img/items/shields/oathkeeper.png",
+        "stats": { "str": 0, "dex": 2, "vit": 3, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "aegis" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 629,
+        "name": "peacekeeper",
+        "representation": "Peacekeeper",
+        "path": "/img/items/shields/peacekeeper.png",
+        "stats": { "str": 2, "dex": 0, "vit": 2, "tec": 0, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "forceguard" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 618,
+        "name": "purifier",
+        "representation": "Purifier",
+        "path": "/img/items/shields/purifier.png",
+        "stats": { "str": 1, "dex": 2, "vit": 3, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "aegis" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 648,
+        "name": "scarabshell",
+        "representation": "Scarabshell",
+        "path": "/img/items/shields/scarabshell.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 616,
+        "name": "soulinfusion",
+        "representation": "Soulinfusion",
+        "path": "/img/items/shields/soulinfusion.png",
+        "stats": { "str": 2, "dex": 0, "vit": 3, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "darkenedprism" },
+            { "amount": 1, "item": "cadetbuckler" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 623,
+        "name": "spikedlightning",
+        "representation": "Spikedlightning",
+        "path": "/img/items/shields/spikedlightning.png",
+        "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 2, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "boltedge" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 627,
+        "name": "sunlight",
+        "representation": "Sunlight",
+        "path": "/img/items/shields/sunlight.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 0, "fth": 1, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "aetheliteprism" },
+            { "amount": 1, "item": "forceguard" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 617,
+        "name": "supernova",
+        "representation": "Supernova",
+        "path": "/img/items/shields/supernova.png",
+        "stats": { "str": 2, "dex": 0, "vit": 3, "tec": 0, "fth": 0, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "cadetbuckler" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 620,
+        "name": "toweraegis",
+        "representation": "Toweraegis",
+        "path": "/img/items/shields/toweraegis.png",
+        "stats": { "str": 0, "dex": 2, "vit": 3, "tec": 0, "fth": 1, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aegis" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 0,
+        "name": "twighlightshield",
+        "representation": "Twighlight Shield",
+        "path": "/img/items/shields/twighlightshield.png",
+        "stats": { "str": 1, "dex": 3, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "omegaprism" },
+            { "amount": 1, "item": "aethershield" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "shields"
+    },
+    {
+        "id": 0,
+        "name": "4thagecannon",
+        "representation": "4thagecannon",
+        "path": "/img/items/weapons/4thagecannon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "4thagegauntlet",
+        "representation": "4thagegauntlet",
+        "path": "/img/items/weapons/4thagegauntlet.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "4thagegun",
+        "representation": "4thagegun",
+        "path": "/img/items/weapons/4thagegun.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "4thagelance",
+        "representation": "4thagelance",
+        "path": "/img/items/weapons/4thagelance.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "4thagestaff",
+        "representation": "4thagestaff",
+        "path": "/img/items/weapons/4thagestaff.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 349,
+        "name": "4thagesword",
+        "representation": "4thagesword",
+        "path": "/img/items/weapons/4thagesword.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 354,
+        "name": "abraxas",
+        "representation": "Abraxas",
+        "path": "/img/items/weapons/abraxas.png",
+        "stats": { "str": 2, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 300,
+        "name": "aetherblade",
+        "representation": "Aetherblade",
+        "path": "/img/items/weapons/aetherblade.png",
+        "stats": { "str": 1, "dex": 1, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 450,
+        "name": "aethercannon",
+        "representation": "Aethercannon",
+        "path": "/img/items/weapons/aethercannon.png",
+        "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "planetemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "aethergunmkIV",
+        "representation": "Aethergunmkiv",
+        "path": "/img/items/weapons/aethergunmkIV.png",
+        "stats": { "str": 0, "dex": 1, "vit": 1, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "eyeballemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 350,
+        "name": "aetherlance",
+        "representation": "Aetherlance",
+        "path": "/img/items/weapons/aetherlance.png",
+        "stats": { "str": 2, "dex": 1, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 550,
+        "name": "aetherstaff",
+        "representation": "Aetherstaff",
+        "path": "/img/items/weapons/aetherstaff.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 0, "fth": 1, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 525,
+        "name": "airsplitter",
+        "representation": "Airsplitter",
+        "path": "/img/items/weapons/airsplitter.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 528,
+        "name": "annihilation",
+        "representation": "Annihilation",
+        "path": "/img/items/weapons/annihilation.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 401,
+        "name": "arcfire",
+        "representation": "Arcfire",
+        "path": "/img/items/weapons/arcfire.png",
+        "stats": { "str": 0, "dex": 1, "vit": 0, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 314,
+        "name": "arcwind",
+        "representation": "Arcwind",
+        "path": "/img/items/weapons/arcwind.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 565,
+        "name": "armageddon",
+        "representation": "Armageddon",
+        "path": "/img/items/weapons/armageddon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 552,
+        "name": "astra",
+        "representation": "Astra",
+        "path": "/img/items/weapons/astra.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 0, "fth": 1, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 419,
+        "name": "atmaweapon",
+        "representation": "Atmaweapon",
+        "path": "/img/items/weapons/atmaweapon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 452,
+        "name": "autorifle",
+        "representation": "Autorifle",
+        "path": "/img/items/weapons/autorifle.png",
+        "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 1, "fth": 1, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "shroomemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 418,
+        "name": "avalanche",
+        "representation": "Avalanche",
+        "path": "/img/items/weapons/avalanche.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 329,
+        "name": "awakenedforce",
+        "representation": "Awakenedforce",
+        "path": "/img/items/weapons/awakenedforce.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 447,
+        "name": "axelarksblaster",
+        "representation": "Axelarksblaster",
+        "path": "/img/items/weapons/axelarksblaster.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 345,
+        "name": "azazelsblade",
+        "representation": "Azazelsblade",
+        "path": "/img/items/weapons/azazelsblade.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 546,
+        "name": "baalfogsavalanche",
+        "representation": "Baalfogsavalanche",
+        "path": "/img/items/weapons/baalfogsavalanche.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 529,
+        "name": "banana",
+        "representation": "Banana",
+        "path": "/img/items/weapons/banana.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 454,
+        "name": "bazooka",
+        "representation": "Bazooka",
+        "path": "/img/items/weapons/bazooka.png",
+        "stats": { "str": 0, "dex": 2, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 426,
+        "name": "betrayer",
+        "representation": "Betrayer",
+        "path": "/img/items/weapons/betrayer.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 518,
+        "name": "bolganone",
+        "representation": "Bolganone",
+        "path": "/img/items/weapons/bolganone.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 301,
+        "name": "boltedge",
+        "representation": "Boltedge",
+        "path": "/img/items/weapons/boltedge.png",
+        "stats": { "str": 1, "dex": 1, "vit": 0, "tec": 0, "fth": 0, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "flutterflyemblem" },
+            { "amount": 1, "item": "eyeballemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 568,
+        "name": "bubblegumstaff",
+        "representation": "Bubblegumstaff",
+        "path": "/img/items/weapons/bubblegumstaff.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 355,
+        "name": "cainslance",
+        "representation": "Cainslance",
+        "path": "/img/items/weapons/cainslance.png",
+        "stats": { "str": 2, "dex": 1, "vit": 0, "tec": 0, "fth": 1, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "calusdemonblade",
+        "representation": "Calusdemonblade",
+        "path": "/img/items/weapons/calusdemonblade.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "caluspyer",
+        "representation": "Caluspyer",
+        "path": "/img/items/weapons/caluspyer.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 472,
+        "name": "carbine",
+        "representation": "Carbine",
+        "path": "/img/items/weapons/carbine.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 575,
+        "name": "castersword",
+        "representation": "Castersword",
+        "path": "/img/items/weapons/castersword.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 425,
+        "name": "cataclysm",
+        "representation": "Cataclysm",
+        "path": "/img/items/weapons/cataclysm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 428,
+        "name": "cerberus",
+        "representation": "Cerberus",
+        "path": "/img/items/weapons/cerberus.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 416,
+        "name": "chaingun",
+        "representation": "Chaingun",
+        "path": "/img/items/weapons/chaingun.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 569,
+        "name": "cherryblossom",
+        "representation": "Cherryblossom",
+        "path": "/img/items/weapons/cherryblossom.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 324,
+        "name": "claymore",
+        "representation": "Claymore",
+        "path": "/img/items/weapons/claymore.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 420,
+        "name": "coldsnap",
+        "representation": "Coldsnap",
+        "path": "/img/items/weapons/coldsnap.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 302,
+        "name": "colossus",
+        "representation": "Colossus",
+        "path": "/img/items/weapons/colossus.png",
+        "stats": { "str": 2, "dex": 0, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 462,
+        "name": "commando",
+        "representation": "Commando",
+        "path": "/img/items/weapons/commando.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 366,
+        "name": "darkforce",
+        "representation": "Darkforce",
+        "path": "/img/items/weapons/darkforce.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 322,
+        "name": "darkmessenger",
+        "representation": "Darkmessenger",
+        "path": "/img/items/weapons/darkmessenger.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 578,
+        "name": "darkness",
+        "representation": "Darkness",
+        "path": "/img/items/weapons/darkness.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 321,
+        "name": "deathexalted",
+        "representation": "Deathexalted",
+        "path": "/img/items/weapons/deathexalted.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 423,
+        "name": "deathpenalty",
+        "representation": "Deathpenalty",
+        "path": "/img/items/weapons/deathpenalty.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 505,
+        "name": "decimator",
+        "representation": "Decimator",
+        "path": "/img/items/weapons/decimator.png",
+        "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 0, "fth": 0, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 527,
+        "name": "destructionwave",
+        "representation": "Destructionwave",
+        "path": "/img/items/weapons/destructionwave.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 375,
+        "name": "devilsbane",
+        "representation": "Devilsbane",
+        "path": "/img/items/weapons/devilsbane.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 365,
+        "name": "doombringer",
+        "representation": "Doomb RingEr",
+        "path": "/img/items/weapons/doombringer.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 303,
+        "name": "doomguard",
+        "representation": "Doomguard",
+        "path": "/img/items/weapons/doomguard.png",
+        "stats": { "str": 1, "dex": 0, "vit": 1, "tec": 0, "fth": 1, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 566,
+        "name": "doomsayer",
+        "representation": "Doomsayer",
+        "path": "/img/items/weapons/doomsayer.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 595,
+        "name": "dragonboltsmast",
+        "representation": "Dragonboltsmast",
+        "path": "/img/items/weapons/dragonboltsmast.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 477,
+        "name": "dragoncannon",
+        "representation": "Dragoncannon",
+        "path": "/img/items/weapons/dragoncannon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 377,
+        "name": "dragonwhisker",
+        "representation": "Dragonwhisker",
+        "path": "/img/items/weapons/dragonwhisker.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 379,
+        "name": "dragoonlance",
+        "representation": "Dragoonlance",
+        "path": "/img/items/weapons/dragoonlance.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 513,
+        "name": "elementalizer",
+        "representation": "Elementalizer",
+        "path": "/img/items/weapons/elementalizer.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 520,
+        "name": "elfire",
+        "representation": "Elfire",
+        "path": "/img/items/weapons/elfire.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 364,
+        "name": "emblemfates",
+        "representation": "EmblemFates",
+        "path": "/img/items/weapons/emblemfates.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 563,
+        "name": "enigma",
+        "representation": "Enigma",
+        "path": "/img/items/weapons/enigma.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 318,
+        "name": "excalibur",
+        "representation": "Excalibur",
+        "path": "/img/items/weapons/excalibur.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 371,
+        "name": "firestorm",
+        "representation": "Firestorm",
+        "path": "/img/items/weapons/firestorm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 476,
+        "name": "flakcannon",
+        "representation": "Flakcannon",
+        "path": "/img/items/weapons/flakcannon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 316,
+        "name": "flamberge",
+        "representation": "Flamberge",
+        "path": "/img/items/weapons/flamberge.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 502,
+        "name": "flamelash",
+        "representation": "Flamelash",
+        "path": "/img/items/weapons/flamelash.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 2, "fth": 1, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 478,
+        "name": "flameswathe",
+        "representation": "Flameswathe",
+        "path": "/img/items/weapons/flameswathe.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 514,
+        "name": "flareblade",
+        "representation": "Flareblade",
+        "path": "/img/items/weapons/flareblade.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 325,
+        "name": "forgeblade",
+        "representation": "Forgeblade",
+        "path": "/img/items/weapons/forgeblade.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "formalhaut",
+        "representation": "Formalhaut",
+        "path": "/img/items/weapons/formalhaut.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 313,
+        "name": "fracturedsoul",
+        "representation": "Fracturedsoul",
+        "path": "/img/items/weapons/fracturedsoul.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 402,
+        "name": "frost",
+        "representation": "Frost",
+        "path": "/img/items/weapons/frost.png",
+        "stats": { "str": 0, "dex": 1, "vit": 0, "tec": 0, "fth": 2, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 473,
+        "name": "gadgetrpg",
+        "representation": "Gadgetrpg",
+        "path": "/img/items/weapons/gadgetrpg.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 304,
+        "name": "gadgetsaber",
+        "representation": "Gadgetsaber",
+        "path": "/img/items/weapons/gadgetsaber.png",
+        "stats": { "str": 1, "dex": 0, "vit": 0, "tec": 2, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 521,
+        "name": "gafgardsmaelstrom",
+        "representation": "Gafgardsmaelstrom",
+        "path": "/img/items/weapons/gafgardsmaelstrom.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 504,
+        "name": "gaiasgale",
+        "representation": "Gaiasgale",
+        "path": "/img/items/weapons/gaiasgale.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 0, "fth": 1, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 497,
+        "name": "galacticflameblaster",
+        "representation": "Galacticflameblaster",
+        "path": "/img/items/weapons/galacticflameblaster.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 362,
+        "name": "galaxylance",
+        "representation": "Galaxylance",
+        "path": "/img/items/weapons/galaxylance.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 353,
+        "name": "gallatriasspire",
+        "representation": "Gallatriasspire",
+        "path": "/img/items/weapons/gallatriasspire.png",
+        "stats": { "str": 2, "dex": 0, "vit": 0, "tec": 0, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 348,
+        "name": "glitterblade",
+        "representation": "Glitterblade",
+        "path": "/img/items/weapons/glitterblade.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 405,
+        "name": "goldeneye",
+        "representation": "Goldeneye",
+        "path": "/img/items/weapons/goldeneye.png",
+        "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 1, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 427,
+        "name": "goldensuns",
+        "representation": "Goldensuns",
+        "path": "/img/items/weapons/goldensuns.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 526,
+        "name": "gruustalisman",
+        "representation": "Gruustalisman",
+        "path": "/img/items/weapons/gruustalisman.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "gungir",
+        "representation": "Gungir",
+        "path": "/img/items/weapons/gungir.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 475,
+        "name": "handcannon",
+        "representation": "Handcannon",
+        "path": "/img/items/weapons/handcannon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 372,
+        "name": "heartseeker",
+        "representation": "Heartseeker",
+        "path": "/img/items/weapons/heartseeker.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 320,
+        "name": "heavenscloud",
+        "representation": "Heavenscloud",
+        "path": "/img/items/weapons/heavenscloud.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 328,
+        "name": "helswath",
+        "representation": "Helswath",
+        "path": "/img/items/weapons/helswath.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 598,
+        "name": "hivemindrod",
+        "representation": "Hivemindrod",
+        "path": "/img/items/weapons/hivemindrod.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 463,
+        "name": "hypercannon",
+        "representation": "Hypercannon",
+        "path": "/img/items/weapons/hypercannon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 515,
+        "name": "icewall",
+        "representation": "Icewall",
+        "path": "/img/items/weapons/icewall.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 404,
+        "name": "judgement",
+        "representation": "Judgement",
+        "path": "/img/items/weapons/judgement.png",
+        "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "fragmentemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 572,
+        "name": "jungleking",
+        "representation": "Jungleking",
+        "path": "/img/items/weapons/jungleking.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 317,
+        "name": "keyofhearts",
+        "representation": "Keyofhearts",
+        "path": "/img/items/weapons/keyofhearts.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 368,
+        "name": "kingslance",
+        "representation": "Kingslance",
+        "path": "/img/items/weapons/kingslance.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 574,
+        "name": "lightningrod",
+        "representation": "Lightningrod",
+        "path": "/img/items/weapons/lightningrod.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 373,
+        "name": "longinus",
+        "representation": "Longinus",
+        "path": "/img/items/weapons/longinus.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 326,
+        "name": "lostvoice",
+        "representation": "Lostvoice",
+        "path": "/img/items/weapons/lostvoice.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 522,
+        "name": "maalurktotem",
+        "representation": "Maalurktotem",
+        "path": "/img/items/weapons/maalurktotem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "maestorm",
+        "representation": "Maestorm",
+        "path": "/img/items/weapons/maestorm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 500,
+        "name": "magegauntlet",
+        "representation": "Magegauntlet",
+        "path": "/img/items/weapons/magegauntlet.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 0, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "herbemblem" },
+            { "amount": 1, "item": "eyeballemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 312,
+        "name": "magemasher",
+        "representation": "Magemasher",
+        "path": "/img/items/weapons/magemasher.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 415,
+        "name": "magma",
+        "representation": "Magma",
+        "path": "/img/items/weapons/magma.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 496,
+        "name": "megaweapon",
+        "representation": "Megaweapon",
+        "path": "/img/items/weapons/megaweapon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 567,
+        "name": "mercilessgladiator",
+        "representation": "Mercilessgladiator",
+        "path": "/img/items/weapons/mercilessgladiator.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 464,
+        "name": "missilerpg",
+        "representation": "Missilerpg",
+        "path": "/img/items/weapons/missilerpg.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 547,
+        "name": "molochswrath",
+        "representation": "Molochswrath",
+        "path": "/img/items/weapons/molochswrath.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 523,
+        "name": "monkgauntlet",
+        "representation": "Monkgauntlet",
+        "path": "/img/items/weapons/monkgauntlet.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 512,
+        "name": "mysticarrow",
+        "representation": "Mysticarrow",
+        "path": "/img/items/weapons/mysticarrow.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 517,
+        "name": "nethertorrent",
+        "representation": "Nethertorrent",
+        "path": "/img/items/weapons/nethertorrent.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 555,
+        "name": "nirvana",
+        "representation": "Nirvana",
+        "path": "/img/items/weapons/nirvana.png",
+        "stats": { "str": 0, "dex": 0, "vit": 3, "tec": 0, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" },
+            { "amount": 1, "item": "galacticiteemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 417,
+        "name": "oblivion",
+        "representation": "Oblivion",
+        "path": "/img/items/weapons/oblivion.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 597,
+        "name": "percevalswand",
+        "representation": "Percevalswand",
+        "path": "/img/items/weapons/percevalswand.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 498,
+        "name": "piratemusket",
+        "representation": "Piratemusket",
+        "path": "/img/items/weapons/piratemusket.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 448,
+        "name": "plaguesteel",
+        "representation": "Plaguesteel",
+        "path": "/img/items/weapons/plaguesteel.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 596,
+        "name": "plainstick",
+        "representation": "Plainstick",
+        "path": "/img/items/weapons/plainstick.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 429,
+        "name": "poopmaker",
+        "representation": "Poopmaker",
+        "path": "/img/items/weapons/poopmaker.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 551,
+        "name": "pyroclasm",
+        "representation": "Pyroclasm",
+        "path": "/img/items/weapons/pyroclasm.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 1, "fth": 2, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 413,
+        "name": "quicksilver",
+        "representation": "Quicksilver",
+        "path": "/img/items/weapons/quicksilver.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 305,
+        "name": "ragnarok",
+        "representation": "Ragnarok",
+        "path": "/img/items/weapons/ragnarok.png",
+        "stats": { "str": 1, "dex": 1, "vit": 0, "tec": 0, "fth": 1, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "ghastemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "rampantgolem",
+        "representation": "Rampantgolem",
+        "path": "/img/items/weapons/rampantgolem.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 414,
+        "name": "repeater",
+        "representation": "Repeater",
+        "path": "/img/items/weapons/repeater.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 346,
+        "name": "ringaboltsaxe",
+        "representation": "RingAboltsaxe",
+        "path": "/img/items/weapons/ringaboltsaxe.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 323,
+        "name": "ruin",
+        "representation": "Ruin",
+        "path": "/img/items/weapons/ruin.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 351,
+        "name": "runelance",
+        "representation": "Runelance",
+        "path": "/img/items/weapons/runelance.png",
+        "stats": { "str": 1, "dex": 1, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 573,
+        "name": "sagesstaff",
+        "representation": "Sagesstaff",
+        "path": "/img/items/weapons/sagesstaff.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 495,
+        "name": "schegsbow",
+        "representation": "Schegsbow",
+        "path": "/img/items/weapons/schegsbow.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "seekerofstars",
+        "representation": "Seekerofstars",
+        "path": "/img/items/weapons/seekerofstars.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 554,
+        "name": "seraphim",
+        "representation": "Seraphim",
+        "path": "/img/items/weapons/seraphim.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 2, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "fragmentemblem" },
+            { "amount": 1, "item": "seedemblem" },
+            { "amount": 1, "item": "galacticiteemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 421,
+        "name": "sirius",
+        "representation": "Sirius",
+        "path": "/img/items/weapons/sirius.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 422,
+        "name": "sonicsteel",
+        "representation": "Sonicsteel",
+        "path": "/img/items/weapons/sonicsteel.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 501,
+        "name": "soulreaver",
+        "representation": "Soulreaver",
+        "path": "/img/items/weapons/soulreaver.png",
+        "stats": { "str": 0, "dex": 1, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 370,
+        "name": "spiritlance",
+        "representation": "Spiritlance",
+        "path": "/img/items/weapons/spiritlance.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 412,
+        "name": "stardestroyer",
+        "representation": "Stardestroyer",
+        "path": "/img/items/weapons/stardestroyer.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 374,
+        "name": "stormbringer",
+        "representation": "Stormb RingEr",
+        "path": "/img/items/weapons/stormbringer.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 468,
+        "name": "stormcannon",
+        "representation": "Stormcannon",
+        "path": "/img/items/weapons/stormcannon.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 564,
+        "name": "summonersstaff",
+        "representation": "Summonersstaff",
+        "path": "/img/items/weapons/summonersstaff.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 579,
+        "name": "theblackmage",
+        "representation": "Theblackmage",
+        "path": "/img/items/weapons/theblackmage.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 466,
+        "name": "thedominator",
+        "representation": "Thedominator",
+        "path": "/img/items/weapons/thedominator.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 352,
+        "name": "thehighwind",
+        "representation": "Thehighwind",
+        "path": "/img/items/weapons/thehighwind.png",
+        "stats": { "str": 2, "dex": 0, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 469,
+        "name": "themachine",
+        "representation": "Themachine",
+        "path": "/img/items/weapons/themachine.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 570,
+        "name": "thewhitemage",
+        "representation": "Thewhitemage",
+        "path": "/img/items/weapons/thewhitemage.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 455,
+        "name": "thewyvern",
+        "representation": "Thewyvern",
+        "path": "/img/items/weapons/thewyvern.png",
+        "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 0, "fth": 0, "mag": 3 },
+        "craftedWith": [
+            { "amount": 1, "item": "galacticiteemblem" },
+            { "amount": 1, "item": "ghastemblem" },
+            { "amount": 1, "item": "fragmentemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 467,
+        "name": "thezapper",
+        "representation": "Thezapper",
+        "path": "/img/items/weapons/thezapper.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 553,
+        "name": "thornwall",
+        "representation": "Thornwall",
+        "path": "/img/items/weapons/thornwall.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 2, "fth": 2, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "beetleemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 524,
+        "name": "tornado",
+        "representation": "Tornado",
+        "path": "/img/items/weapons/tornado.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 315,
+        "name": "trigoddess",
+        "representation": "Trigoddess",
+        "path": "/img/items/weapons/trigoddess.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 474,
+        "name": "tropicthunder",
+        "representation": "Tropicthunder",
+        "path": "/img/items/weapons/tropicthunder.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "twighlightstaff",
+        "representation": "Twighlightstaff",
+        "path": "/img/items/weapons/twighlightstaff.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 451,
+        "name": "typhoonIX",
+        "representation": "Typhoonix",
+        "path": "/img/items/weapons/typhoonIX.png",
+        "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 0, "fth": 0, "mag": 1 },
+        "craftedWith": [
+            { "amount": 1, "item": "planetemblem" },
+            { "amount": 1, "item": "eyeballemblem" },
+            { "amount": 1, "item": "flutterflyemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 398,
+        "name": "urugorakstooth",
+        "representation": "Urugorakstooth",
+        "path": "/img/items/weapons/urugorakstooth.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 327,
+        "name": "valflame",
+        "representation": "Valflame",
+        "path": "/img/items/weapons/valflame.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 403,
+        "name": "vengeance",
+        "representation": "Vengeance",
+        "path": "/img/items/weapons/vengeance.png",
+        "stats": { "str": 0, "dex": 1, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 378,
+        "name": "vengefulspirit",
+        "representation": "Vengefulspirit",
+        "path": "/img/items/weapons/vengefulspirit.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "vikinXXVII",
+        "representation": "Vikinxxvii",
+        "path": "/img/items/weapons/vikinXXVII.png",
+        "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "shroomemblem" },
+            { "amount": 1, "item": "clawemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 571,
+        "name": "vinewhip",
+        "representation": "Vinewhip",
+        "path": "/img/items/weapons/vinewhip.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 470,
+        "name": "voltsniper",
+        "representation": "Voltsniper",
+        "path": "/img/items/weapons/voltsniper.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 465,
+        "name": "vorpalrpg",
+        "representation": "Vorpalrpg",
+        "path": "/img/items/weapons/vorpalrpg.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 397,
+        "name": "wallaceslance",
+        "representation": "Wallaceslance",
+        "path": "/img/items/weapons/wallaceslance.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 0,
+        "name": "warforgedgun",
+        "representation": "Warforgedgun",
+        "path": "/img/items/weapons/warforgedgun.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 503,
+        "name": "woltsthunder",
+        "representation": "Woltsthunder",
+        "path": "/img/items/weapons/woltsthunder.png",
+        "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
+        "craftedWith": [
+            { "amount": 1, "item": "orichalcumemblem" },
+            { "amount": 1, "item": "clawemblem" },
+            { "amount": 1, "item": "beetleemblem" }
+        ],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 367,
+        "name": "worldreborn",
+        "representation": "Worldreborn",
+        "path": "/img/items/weapons/worldreborn.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 363,
+        "name": "worldsend",
+        "representation": "Worldsend",
+        "path": "/img/items/weapons/worldsend.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 516,
+        "name": "wrathaura",
+        "representation": "Wrathaura",
+        "path": "/img/items/weapons/wrathaura.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 479,
+        "name": "wyvernbone",
+        "representation": "Wyvernbone",
+        "path": "/img/items/weapons/wyvernbone.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    },
+    {
+        "id": 319,
+        "name": "zweihander",
+        "representation": "Zweihander",
+        "path": "/img/items/weapons/zweihander.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "weapons"
+    }
+]

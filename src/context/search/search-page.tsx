@@ -33,13 +33,20 @@ const ItemSearch: React.FC = () => {
       const sanitizedSearchTerm = searchTerm.toLowerCase().replace(/\s+/g, "");
       const results = items
         .filter((item) => {
-          if(onlyItemsWithoutCrafting) {
+          if (onlyItemsWithoutCrafting) {
             if (item.craftedWith.length > 0 || item.foundIn.length > 0) {
               return false;
             }
           }
           if (onlyItemsWithoutStats) {
-            if (item.stats.dex > 0 || item.stats.fth > 0 || item.stats.mag > 0 || item.stats.str > 0 || item.stats.tec > 0 || item.stats.vit > 0) {
+            if (
+              item.stats.dex > 0 ||
+              item.stats.fth > 0 ||
+              item.stats.mag > 0 ||
+              item.stats.str > 0 ||
+              item.stats.tec > 0 ||
+              item.stats.vit > 0
+            ) {
               return false;
             }
           }
@@ -72,47 +79,48 @@ const ItemSearch: React.FC = () => {
       console.error("No items found in localStorage.");
       return;
     }
-  
+
     const blob = new Blob([itemsJson], { type: "application/json" });
     const url = URL.createObjectURL(blob);
-  
+
     const a = document.createElement("a");
     a.href = url;
-    a.download = "items.json"; // The downloaded file will be named "items.json"
+    a.download = "json/items.json"; // The downloaded file will be named "items.json"
     document.body.appendChild(a); // Required for Firefox
     a.click();
     document.body.removeChild(a); // Clean up after the click
     URL.revokeObjectURL(url); // Release the blob URL after download
-  }
+  };
 
   return (
     <div className="search-container">
       <h2>Search Items</h2>
       {/* Toggle to filter craftedWith options */}
       <Box sx={{ marginBottom: 2 }}>
-            <FormControlLabel
-              control={
-                <Switch
-                  checked={onlyItemsWithoutCrafting}
-                  onChange={() => setOnlyItemsWithoutCrafting(!onlyItemsWithoutCrafting)}
-                  color="primary"
-                />
-              }
-              label="Show only unfinished items"
+        <FormControlLabel
+          control={
+            <Switch
+              checked={onlyItemsWithoutCrafting}
+              onChange={() => setOnlyItemsWithoutCrafting(!onlyItemsWithoutCrafting)}
+              color="primary"
             />
-          </Box>{/* Toggle to filter craftedWith options */}
-          <Box sx={{ marginBottom: 2 }}>
-            <FormControlLabel
-              control={
-                <Switch
-                  checked={onlyItemsWithoutStats}
-                  onChange={() => setOnlyItemsWithoutStats(!onlyItemsWithoutStats)}
-                  color="primary"
-                />
-              }
-              label="Show only items without stats"
+          }
+          label="Show only unfinished items"
+        />
+      </Box>
+      {/* Toggle to filter craftedWith options */}
+      <Box sx={{ marginBottom: 2 }}>
+        <FormControlLabel
+          control={
+            <Switch
+              checked={onlyItemsWithoutStats}
+              onChange={() => setOnlyItemsWithoutStats(!onlyItemsWithoutStats)}
+              color="primary"
             />
-          </Box>
+          }
+          label="Show only items without stats"
+        />
+      </Box>
       <StandardTextField
         fullWidth
         label="Search by item name"
@@ -139,7 +147,11 @@ const ItemSearch: React.FC = () => {
         </div>
       )}
       <StandardButton onClick={downloadJson} sx={{ marginTop: 2 }} text="Download json" />
-      <StandardButton onClick={() =>localStorage.removeItem("items")} sx={{ marginTop: 2 }} text="Delete localStorage" />
+      <StandardButton
+        onClick={() => localStorage.removeItem("items")}
+        sx={{ marginTop: 2 }}
+        text="Delete localStorage"
+      />
     </div>
   );
 };

@@ -33,8 +33,19 @@ export class ItemService {
       return of(JSON.parse(localStorageItems));
     }
     return this.http
-      .get<Item[]>("/items.json")
+      .get<Item[]>("/json/items.json")
       .pipe(tap((items) => localStorage.setItem("items", JSON.stringify(items))));
+  }
+
+  getIdsMap(): Observable<Map<string, number>> {
+    return this.http.get<{ id: number; name: string }[]>("/json/ids.json").pipe(
+      map((allItems) =>
+        allItems.reduce((map, obj) => {
+          map.set(obj.name, obj.id);
+          return map;
+        }, new Map<string, number>()),
+      ),
+    );
   }
 
   getAllItemsAsMap(): Observable<Map<string, Item>> {

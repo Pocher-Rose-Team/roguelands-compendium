@@ -1,5 +1,6 @@
 // Define the Item interface based on the structure of the JSON data
 export interface Item {
+  id?: number;
   name: string;
   representation: string;
   path: string;

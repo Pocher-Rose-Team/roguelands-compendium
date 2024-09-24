@@ -14,7 +14,7 @@ export class LootTableService {
     if (localStorageItems) {
       return of(JSON.parse(localStorageItems));
     }
-    return this.http.get<LootTable[]>("/loot-tables.json").pipe(
+    return this.http.get<LootTable[]>("/json/loot-tables.json").pipe(
       map((lootTables) => {
         lootTables.forEach((table) => {
           table.loot = table.loot.filter((v) => typeof v === "object");
