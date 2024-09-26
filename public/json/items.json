@@ -1,6 +1,6 @@
 [
     {
-        "id": 0,
+        "id": 812,
         "name": "4thagearmor",
         "representation": "4thage Armor",
         "path": "/img/items/armor/4thagearmor.png",
@@ -66,7 +66,7 @@
         "type": "armor"
     },
     {
-        "id": 0,
+        "id": 830,
         "name": "bolgonarmor",
         "representation": "Bolgon Armor",
         "path": "/img/items/armor/bolgonarmor.png",
@@ -147,7 +147,7 @@
         "type": "armor"
     },
     {
-        "id": 0,
+        "id": 880,
         "name": "darkknightarmor",
         "representation": "Darkknight Armor",
         "path": "/img/items/armor/darkknightarmor.png",
@@ -169,7 +169,7 @@
         "type": "armor"
     },
     {
-        "id": 0,
+        "id": 860,
         "name": "destructivearmor",
         "representation": "Destructive Armor",
         "path": "/img/items/armor/destructivearmor.png",
@@ -460,7 +460,7 @@
         "type": "armor"
     },
     {
-        "id": 0,
+        "id": 883,
         "name": "maelstormarmor",
         "representation": "Maelstorm Armor",
         "path": "/img/items/armor/maelstormarmor.png",
@@ -471,7 +471,7 @@
         "type": "armor"
     },
     {
-        "id": 0,
+        "id": 893,
         "name": "mightShroomArmor",
         "representation": "Mightshroom Armor",
         "path": "/img/items/armor/mightShroomArmor.png",
@@ -935,7 +935,7 @@
         "type": "droids"
     },
     {
-        "id": 0,
+        "id": 1004,
         "name": "helper55",
         "representation": "Helper55",
         "path": "/img/items/droids/helper55.png",
@@ -1882,7 +1882,7 @@
         "type": "gearmods"
     },
     {
-        "id": 0,
+        "id": 713,
         "name": "4thageDEXHelm",
         "representation": "4thagedex Helm",
         "path": "/img/items/helmets/4thageDEXHelm.png",
@@ -1893,7 +1893,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 714,
         "name": "4thageMAGHelm",
         "representation": "4thagemag Helm",
         "path": "/img/items/helmets/4thageMAGHelm.png",
@@ -1904,7 +1904,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 712,
         "name": "4thageSTRHelm",
         "representation": "4thagestr Helm",
         "path": "/img/items/helmets/4thageSTRHelm.png",
@@ -1941,7 +1941,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 795,
         "name": "apocalypehelm",
         "representation": "Apocalype Helm",
         "path": "/img/items/helmets/apocalypehelm.png",
@@ -2048,7 +2048,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 791,
         "name": "catastrophiahelm",
         "representation": "Catastrophia Helm",
         "path": "/img/items/helmets/catastrophiahelm.png",
@@ -2074,7 +2074,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 758,
         "name": "chaoshelmet",
         "representation": "Chaos Helmet",
         "path": "/img/items/helmets/chaoshelmet.png",
@@ -2089,7 +2089,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 780,
         "name": "darkknighthelm",
         "representation": "Darkknight Helm",
         "path": "/img/items/helmets/darkknighthelm.png",
@@ -2115,7 +2115,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 760,
         "name": "desctructionhelm",
         "representation": "Desctruction Helm",
         "path": "/img/items/helmets/desctructionhelm.png",
@@ -2152,7 +2152,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 755,
         "name": "drifterhelmet",
         "representation": "Drifter Helmet",
         "path": "/img/items/helmets/drifterhelmet.png",
@@ -2209,7 +2209,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 797,
         "name": "exodushelm",
         "representation": "Exodus Helm",
         "path": "/img/items/helmets/exodushelm.png",
@@ -2220,7 +2220,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 792,
         "name": "fellbughelm",
         "representation": "Fellbug Helm",
         "path": "/img/items/helmets/fellbughelm.png",
@@ -2276,7 +2276,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 796,
         "name": "gleadriahelm",
         "representation": "Gleadria Helm",
         "path": "/img/items/helmets/gleadriahelm.png",
@@ -2343,7 +2343,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 794,
         "name": "ironcladhelm",
         "representation": "Ironclad Helm",
         "path": "/img/items/helmets/ironcladhelm.png",
@@ -2384,7 +2384,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 761,
         "name": "ithicashelm",
         "representation": "Ithicas Helm",
         "path": "/img/items/helmets/ithicashelm.png",
@@ -2450,7 +2450,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 783,
         "name": "maelstormhelm",
         "representation": "Maelstorm Helm",
         "path": "/img/items/helmets/maelstormhelm.png",
@@ -2465,7 +2465,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 793,
         "name": "mightshroomhelm",
         "representation": "Mightshroom Helm",
         "path": "/img/items/helmets/mightshroomhelm.png",
@@ -2476,7 +2476,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 790,
         "name": "mykonogorehelm",
         "representation": "Mykonogore Helm",
         "path": "/img/items/helmets/mykonogorehelm.png",
@@ -2513,7 +2513,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 799,
         "name": "oldchapshat",
         "representation": "Oldchapshat",
         "path": "/img/items/helmets/oldchapshat.png",
@@ -2642,7 +2642,7 @@
         "type": "helmets"
     },
     {
-        "id": 0,
+        "id": 700,
         "name": "recruitHelmet",
         "representation": "Recruit Helmet",
         "path": "/img/items/helmets/recruitHelmet.png",
@@ -3096,7 +3096,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 68,
         "name": "frostpotion",
         "representation": "Frost Potion",
         "path": "/img/items/potions/frostpotion.png",
@@ -3107,7 +3107,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 70,
         "name": "healthpotionlarge",
         "representation": "Health PotionLarge",
         "path": "/img/items/potions/healthpotionlarge.png",
@@ -3118,7 +3118,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 65,
         "name": "healthpotionmedium",
         "representation": "Health PotionMedium",
         "path": "/img/items/potions/healthpotionmedium.png",
@@ -3129,7 +3129,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 60,
         "name": "healthpotionsmall",
         "representation": "Health PotionSmall",
         "path": "/img/items/potions/healthpotionsmall.png",
@@ -3140,7 +3140,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 69,
         "name": "heatpotion",
         "representation": "Heat Potion",
         "path": "/img/items/potions/heatpotion.png",
@@ -3151,7 +3151,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 71,
         "name": "manapotionlarge",
         "representation": "Mana PotionLarge",
         "path": "/img/items/potions/manapotionlarge.png",
@@ -3162,7 +3162,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 66,
         "name": "manapotionmedium",
         "representation": "Mana PotionMedium",
         "path": "/img/items/potions/manapotionmedium.png",
@@ -3173,7 +3173,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 61,
         "name": "manapotionsmall",
         "representation": "Mana PotionSmall",
         "path": "/img/items/potions/manapotionsmall.png",
@@ -3184,7 +3184,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 63,
         "name": "nulldmgpotion",
         "representation": "Nulldmg Potion",
         "path": "/img/items/potions/nulldmgpotion.png",
@@ -3195,7 +3195,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 64,
         "name": "poisonpotion",
         "representation": "Poison Potion",
         "path": "/img/items/potions/poisonpotion.png",
@@ -3206,7 +3206,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 72,
         "name": "staminapotionlarge",
         "representation": "Stamina PotionLarge",
         "path": "/img/items/potions/staminapotionlarge.png",
@@ -3217,7 +3217,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 67,
         "name": "staminapotionmedium",
         "representation": "Stamina PotionMedium",
         "path": "/img/items/potions/staminapotionmedium.png",
@@ -3228,7 +3228,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 62,
         "name": "staminapotionsmall",
         "representation": "Stamina PotionSmall",
         "path": "/img/items/potions/staminapotionsmall.png",
@@ -3239,7 +3239,7 @@
         "type": "potions"
     },
     {
-        "id": 0,
+        "id": 89,
         "name": "aetheliteprism",
         "representation": "Aetheliteprism",
         "path": "/img/items/prisms/aetheliteprism.png",
@@ -3250,7 +3250,7 @@
         "type": "prisms"
     },
     {
-        "id": 0,
+        "id": 86,
         "name": "aetheliteshard",
         "representation": "Aetheliteshard",
         "path": "/img/items/prisms/aetheliteshard.png",
@@ -3438,7 +3438,7 @@
         "type": "rings"
     },
     {
-        "id": 0,
+        "id": 647,
         "name": "4thageshield",
         "representation": "4thage Shield",
         "path": "/img/items/shields/4thageshield.png",
@@ -3464,7 +3464,7 @@
         "type": "shields"
     },
     {
-        "id": 646,
+        "id": 600,
         "name": "aethershield",
         "representation": "Aether Shield",
         "path": "/img/items/shields/aethershield.png",
@@ -3479,7 +3479,7 @@
         "type": "shields"
     },
     {
-        "id": 0,
+        "id": 646,
         "name": "aethershield_2",
         "representation": "Aether Shield_2",
         "path": "/img/items/shields/aethershield_2.png",
@@ -3518,7 +3518,7 @@
         "type": "shields"
     },
     {
-        "id": 0,
+        "id": 628,
         "name": "bloodshield_2",
         "representation": "Blood Shield_2",
         "path": "/img/items/shields/bloodshield_2.png",
@@ -3532,7 +3532,7 @@
         "type": "shields"
     },
     {
-        "id": 0,
+        "id": 624,
         "name": "boldshield",
         "representation": "Bold Shield",
         "path": "/img/items/shields/boldshield.png",
@@ -3800,7 +3800,7 @@
         "type": "shields"
     },
     {
-        "id": 0,
+        "id": 614,
         "name": "twighlightshield",
         "representation": "Twighlight Shield",
         "path": "/img/items/shields/twighlightshield.png",
@@ -3814,7 +3814,7 @@
         "type": "shields"
     },
     {
-        "id": 0,
+        "id": 499,
         "name": "4thagecannon",
         "representation": "4thagecannon",
         "path": "/img/items/weapons/4thagecannon.png",
@@ -3825,7 +3825,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 549,
         "name": "4thagegauntlet",
         "representation": "4thagegauntlet",
         "path": "/img/items/weapons/4thagegauntlet.png",
@@ -3836,7 +3836,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 449,
         "name": "4thagegun",
         "representation": "4thagegun",
         "path": "/img/items/weapons/4thagegun.png",
@@ -3847,7 +3847,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 399,
         "name": "4thagelance",
         "representation": "4thagelance",
         "path": "/img/items/weapons/4thagelance.png",
@@ -3858,7 +3858,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 599,
         "name": "4thagestaff",
         "representation": "4thagestaff",
         "path": "/img/items/weapons/4thagestaff.png",
@@ -3925,7 +3925,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 400,
         "name": "aethergunmkIV",
         "representation": "Aethergunmkiv",
         "path": "/img/items/weapons/aethergunmkIV.png",
@@ -4214,7 +4214,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 347,
         "name": "calusdemonblade",
         "representation": "Calusdemonblade",
         "path": "/img/items/weapons/calusdemonblade.png",
@@ -4225,7 +4225,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 519,
         "name": "caluspyer",
         "representation": "Caluspyer",
         "path": "/img/items/weapons/caluspyer.png",
@@ -4659,7 +4659,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 424,
         "name": "formalhaut",
         "representation": "Formalhaut",
         "path": "/img/items/weapons/formalhaut.png",
@@ -4833,7 +4833,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 369,
         "name": "gungir",
         "representation": "Gungir",
         "path": "/img/items/weapons/gungir.png",
@@ -5013,7 +5013,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 577,
         "name": "maestorm",
         "representation": "Maestorm",
         "path": "/img/items/weapons/maestorm.png",
@@ -5260,7 +5260,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 376,
         "name": "rampantgolem",
         "representation": "Rampantgolem",
         "path": "/img/items/weapons/rampantgolem.png",
@@ -5341,7 +5341,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 576,
         "name": "seekerofstars",
         "representation": "Seekerofstars",
         "path": "/img/items/weapons/seekerofstars.png",
@@ -5592,7 +5592,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 562,
         "name": "twighlightstaff",
         "representation": "Twighlightstaff",
         "path": "/img/items/weapons/twighlightstaff.png",
@@ -5666,7 +5666,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 453,
         "name": "vikinXXVII",
         "representation": "Vikinxxvii",
         "path": "/img/items/weapons/vikinXXVII.png",
@@ -5725,7 +5725,7 @@
         "type": "weapons"
     },
     {
-        "id": 0,
+        "id": 471,
         "name": "warforgedgun",
         "representation": "Warforgedgun",
         "path": "/img/items/weapons/warforgedgun.png",
