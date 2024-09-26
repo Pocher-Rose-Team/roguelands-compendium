@@ -12,7 +12,7 @@ export class RecipeService {
 
   getEmblemCraftingRecipes(): Observable<EmblemRecipe[]> {
     return forkJoin([
-      this.itemService.getAllItemsAsMap(),
+      this.itemService.getAllItemsAsMapByName(),
       this.itemService.getAllItemsOfType(ItemType.EMBLEMS),
     ]).pipe(
       map(([itemMap, emblemList]) =>
@@ -34,7 +34,7 @@ export class RecipeService {
       throw new Error("For emblem recipes use getEmblemCraftingRecipes() method");
     }
     return forkJoin([
-      this.itemService.getAllItemsAsMap(),
+      this.itemService.getAllItemsAsMapByName(),
       this.itemService.getAllItemsOfType(type),
     ]).pipe(
       map(([itemMap, toCraftList]) =>

@@ -28,10 +28,10 @@ export class ItemService {
   }
 
   getAllItems(): Observable<Item[]> {
-    const localStorageItems = localStorage.getItem("items");
-    if (localStorageItems) {
-      return of(JSON.parse(localStorageItems));
-    }
+    // const localStorageItems = localStorage.getItem("items");
+    // if (localStorageItems) {
+    //   return of(JSON.parse(localStorageItems));
+    // }
     return this.http
       .get<Item[]>("/json/items.json")
       .pipe(tap((items) => localStorage.setItem("items", JSON.stringify(items))));
@@ -48,11 +48,19 @@ export class ItemService {
     );
   }
 
-  getAllItemsAsMap(): Observable<Map<string, Item>> {
+  getAllItemsAsMapByName(): Observable<Map<string, Item>> {
+    return this.getAllItemsAsMapByKey("name");
+  }
+
+  getAllItemsAsMapById(): Observable<Map<number, Item>> {
+    return this.getAllItemsAsMapByKey("id");
+  }
+
+  private getAllItemsAsMapByKey(key: string): Observable<Map<any, Item>> {
     return this.getAllItems().pipe(
       map((allItems) =>
         allItems.reduce((map, obj) => {
-          map.set(obj.name, obj);
+          map.set((obj as any)[key], obj);
           return map;
         }, new Map<string, Item>()),
       ),
@@ -69,6 +77,10 @@ export class ItemService {
       ),
       map((map) => map.get(name) ?? this.defaultItem),
     );
+  }
+
+  getDefaultItem(): Item {
+    return this.defaultItem;
   }
 
   getAllItemsOfType(type: ItemType): Observable<Item[]> {

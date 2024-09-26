@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import { Box, Typography, Button, Switch, FormControlLabel } from "@mui/material";
+import { Box, Typography, Button } from "@mui/material";
 import { Item, ItemType } from "../../shared/model/item";
-import ItemSlot from "../../shared/components/item-slot/item-slot";
+import ItemSlot, { ItemSlotType } from "../../shared/components/item-slot/item-slot";
 import StandardTextField from "../../shared/components/standard-textfield/standard-textfield";
 import StandardAutocomplete from "../../shared/components/standard-autocomplete/standard-autocomplete";
 import StandardButton from "../../shared/components/standard-button/standard-button";
@@ -259,6 +259,7 @@ const ItemEditor: React.FC = () => {
                   return (
                     <ItemSlot
                       key={emblemName}
+                      type={ItemSlotType.CRAFTING}
                       item={emblemItem || undefined}
                       amount={craftedWith.find((entry) => entry.item === emblemName)?.amount}
                       onClick={() => handleClick(emblemName)}
@@ -279,6 +280,7 @@ const ItemEditor: React.FC = () => {
                   {["aetheliteprism", "darkenedprism", "omegaprism"].map((prismName) => (
                     <ItemSlot
                       key={prismName}
+                      type={ItemSlotType.CRAFTING}
                       item={items.find((item) => item.name === prismName)}
                       isSelected={prismSlots.includes(prismName)}
                       onClick={() => handleClick(prismName)}
@@ -305,7 +307,11 @@ const ItemEditor: React.FC = () => {
                 const craftedItem = items.find((item) => item.name === entry.item);
                 return (
                   <Box key={index} sx={{ display: "flex", gap: 2, alignItems: "center" }}>
-                    <ItemSlot item={craftedItem} amount={entry.amount} />
+                    <ItemSlot
+                      type={ItemSlotType.CRAFTING}
+                      item={craftedItem}
+                      amount={entry.amount}
+                    />
 
                     <StandardTextField
                       label="Amount"

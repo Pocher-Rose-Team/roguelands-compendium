@@ -30,6 +30,7 @@ export default function ItemTooltip({ item }: ItemTooltipAttributes) {
       ) : (
         <span className="item-empty">{"<<empty>>"}</span>
       )}
+      {item?.description && <span className="description">{item?.description}</span>}
       {item?.foundIn && item?.foundIn.length > 0 && (
         <div className="foundin-list">
           {item?.foundIn.map((foundInEntry) => (

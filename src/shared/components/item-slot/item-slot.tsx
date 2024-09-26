@@ -5,22 +5,31 @@ import ItemTooltip from "../item-tooltip/item-tooltip";
 
 interface ItemSlotAttributes {
   item?: Item;
+  type: ItemSlotType;
   amount?: number;
   onClick?: () => void;
   isSelected?: boolean;
 }
 
-export default function ItemSlot({ item, amount, onClick, isSelected }: ItemSlotAttributes) {
+export enum ItemSlotType {
+  CRAFTING = "crafting",
+  INVENTORY = "inventory",
+}
+
+export default function ItemSlot({ item, type, amount, onClick, isSelected }: ItemSlotAttributes) {
   const [tooltipVisible, setTooltipVisible] = useState<boolean>(false);
   const [selected, setSelected] = useState<boolean>(!!isSelected);
 
   const handleClick = () => {
-    setSelected(!selected); // Toggle selected state
-    if (onClick) onClick();
+    if (onClick) {
+      // Only if onClick is set, then the slot is clickable
+      setSelected(!selected); // Toggle selected state
+      onClick();
+    }
   };
 
   return (
-    <div className={`item-slot ${selected ? "selected" : ""}`} style={{ cursor: "pointer" }}>
+    <div className={`item-slot ${selected ? "selected" : ""} ${type}`}>
       {item && <img src={item.path} alt={item.name} />}
       <span className="item-amount disable-select">{amount && amount > 1 ? amount : ""}</span>
       <div

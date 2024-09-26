@@ -1,0 +1,6 @@
+.loot-table-grid {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    width: min-content;
+    gap: 1px;
+}

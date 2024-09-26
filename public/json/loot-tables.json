@@ -1,6 +1,11 @@
 [
   {
-    "name": "normale_kiste",
+    "name": "Normal Chest",
+    "path": "/img/environment/chest.png",
+    "credits": {
+      "min": 1,
+      "max": 50
+    },
     "loot": [
       "Kein Loot > 1/11 = 0.09090909090909 = 9.09%",
       {"id": 0, "name": "No Loot", "probability": 9.09},
@@ -44,23 +49,23 @@
       {"id": 61, "name": "Mana Pack I", "probability": 12.12},
       {"id": 62, "name": "Energy Pack I", "probability": 12.12}
     ],
-    "specialLoot": [
-      {
-        "description": "20% chance to get any of these items",
-        "loot": [
-          {"id": 900, "name": "Gallahad Ring"},
-          {"id": 901, "name": "Ezerius Ring"},
-          {"id": 902, "name": "Anelice Ring"},
-          {"id": 903, "name": "Gromwell Ring"},
-          {"id": 904, "name": "Brym Ring"},
-          {"id": 905, "name": "Falstadt Ring"},
-          {"id": 906, "name": "Roehn Ring"}
-        ]
-      }
+    "extraLoot": [
+      {"id": 900, "name": "Gallahad Ring"},
+      {"id": 901, "name": "Ezerius Ring"},
+      {"id": 902, "name": "Anelice Ring"},
+      {"id": 903, "name": "Gromwell Ring"},
+      {"id": 904, "name": "Brym Ring"},
+      {"id": 905, "name": "Falstadt Ring"},
+      {"id": 906, "name": "Roehn Ring"}
     ]
   },
   {
-    "name": "gold_kiste",
+    "name": "Golden Chest",
+    "path": "/img/environment/chestgolden.png",
+    "credits": {
+      "min": 1,
+      "max": 200
+    },
     "loot": []
   }
 ]

@@ -1,4 +1,4 @@
-import ItemSlot from "../../shared/components/item-slot/item-slot";
+import ItemSlot, { ItemSlotType } from "../../shared/components/item-slot/item-slot";
 import CraftingArrow from "./crafting-arrow";
 import { EmblemRecipe } from "../../shared/model/recipe.model";
 
@@ -9,9 +9,9 @@ interface EmblemRecipeAttributes {
 export default function EmblemRecipeDisplay({ recipe }: EmblemRecipeAttributes) {
   return (
     <div className="emblem-recipe">
-      <ItemSlot item={recipe.material} amount={recipe.amount} />
+      <ItemSlot type={ItemSlotType.CRAFTING} item={recipe.material} amount={recipe.amount} />
       <CraftingArrow />
-      <ItemSlot item={recipe.result} />
+      <ItemSlot type={ItemSlotType.CRAFTING} item={recipe.result} />
     </div>
   );
 }

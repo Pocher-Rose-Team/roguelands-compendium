@@ -1,4 +1,4 @@
-import ItemSlot from "../../shared/components/item-slot/item-slot";
+import ItemSlot, { ItemSlotType } from "../../shared/components/item-slot/item-slot";
 import CraftingArrow from "./crafting-arrow";
 import { ItemRecipe } from "../../shared/model/recipe.model";
 
@@ -11,13 +11,13 @@ export default function RecipeDisplay({ recipe }: RecipeAttributes) {
     <div className="item-recipe">
       <div className="slot-group">
         {recipe.materials?.map((material) => {
-          return <ItemSlot item={material} />
-        })
-        }
-        {!recipe.materials || recipe.materials.length < 1 && <ItemSlot /> }
+          return <ItemSlot type={ItemSlotType.CRAFTING} item={material} />;
+        })}
+        {!recipe.materials ||
+          (recipe.materials.length < 1 && <ItemSlot type={ItemSlotType.CRAFTING} />)}
       </div>
       <CraftingArrow />
-      <ItemSlot item={recipe.result} />
+      <ItemSlot type={ItemSlotType.CRAFTING} item={recipe.result} />
     </div>
   );
 }
