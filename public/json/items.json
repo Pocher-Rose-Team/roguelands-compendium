@@ -2,7 +2,7 @@
     {
         "id": 812,
         "name": "4thagearmor",
-        "representation": "4thage Armor",
+        "representation": "4th Age Armor",
         "path": "/img/items/armor/4thagearmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -24,7 +24,7 @@
     {
         "id": 895,
         "name": "apocalypseArmor",
-        "representation": "Apocalypse Armor",
+        "representation": "Apocalypse A",
         "path": "/img/items/armor/apocalypseArmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -35,7 +35,7 @@
     {
         "id": 841,
         "name": "axelarksarmor",
-        "representation": "Axelarks Armor",
+        "representation": "Axelark's Armor",
         "path": "/img/items/armor/axelarksarmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -46,7 +46,7 @@
     {
         "id": 840,
         "name": "azazelsarmor",
-        "representation": "Azazels Armor",
+        "representation": "Azazel's Armor",
         "path": "/img/items/armor/azazelsarmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -57,7 +57,7 @@
     {
         "id": 839,
         "name": "baalfogssuit",
-        "representation": "Baalfogssuit",
+        "representation": "Baalfog's Suit",
         "path": "/img/items/armor/baalfogssuit.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -68,7 +68,7 @@
     {
         "id": 830,
         "name": "bolgonarmor",
-        "representation": "Bolgon Armor",
+        "representation": "Bolgon's Armor",
         "path": "/img/items/armor/bolgonarmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -116,7 +116,7 @@
     {
         "id": 891,
         "name": "catastrophiaArmor",
-        "representation": "Catastrophia Armor",
+        "representation": "Catastrophia A",
         "path": "/img/items/armor/catastrophiaArmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -149,7 +149,7 @@
     {
         "id": 880,
         "name": "darkknightarmor",
-        "representation": "Darkknight Armor",
+        "representation": "Darknight Armor",
         "path": "/img/items/armor/darkknightarmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -171,7 +171,7 @@
     {
         "id": 860,
         "name": "destructivearmor",
-        "representation": "Destructive Armor",
+        "representation": "Destruction Armor",
         "path": "/img/items/armor/destructivearmor.png",
         "stats": { "str": 3, "dex": 0, "vit": 1, "tec": 0, "fth": 0, "mag": 4 },
         "craftedWith": [
@@ -267,7 +267,7 @@
     {
         "id": 897,
         "name": "exodusArmor",
-        "representation": "Exodus Armor",
+        "representation": "Exodus A",
         "path": "/img/items/armor/exodusArmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -278,7 +278,7 @@
     {
         "id": 892,
         "name": "fellbugArmor",
-        "representation": "Fellbug Armor",
+        "representation": "Fellbug A",
         "path": "/img/items/armor/fellbugArmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -330,7 +330,7 @@
     {
         "id": 896,
         "name": "glaedriaArmor",
-        "representation": "Glaedria Armor",
+        "representation": "Glaedria A",
         "path": "/img/items/armor/glaedriaArmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -374,7 +374,7 @@
     {
         "id": 894,
         "name": "ironcladArmor",
-        "representation": "Ironclad Armor",
+        "representation": "Ironclad A",
         "path": "/img/items/armor/ironcladArmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -411,7 +411,7 @@
     {
         "id": 861,
         "name": "ithacasarmor",
-        "representation": "Ithacas Armor",
+        "representation": "Ithaca's Armor",
         "path": "/img/items/armor/ithacasarmor.png",
         "stats": { "str": 0, "dex": 3, "vit": 1, "tec": 0, "fth": 4, "mag": 2 },
         "craftedWith": [
@@ -462,7 +462,7 @@
     {
         "id": 883,
         "name": "maelstormarmor",
-        "representation": "Maelstorm Armor",
+        "representation": "Maelstrom Armor",
         "path": "/img/items/armor/maelstormarmor.png",
         "stats": { "str": 3, "dex": 0, "vit": 3, "tec": 0, "fth": 3, "mag": 3 },
         "craftedWith": [{ "amount": 1, "item": "wraitharmor" }],
@@ -473,7 +473,7 @@
     {
         "id": 893,
         "name": "mightShroomArmor",
-        "representation": "Mightshroom Armor",
+        "representation": "Might Shroom A",
         "path": "/img/items/armor/mightShroomArmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -484,7 +484,7 @@
     {
         "id": 890,
         "name": "mykonogrearmor",
-        "representation": "Mykonogre Armor",
+        "representation": "Mykonogre A",
         "path": "/img/items/armor/mykonogrearmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -558,7 +558,7 @@
     {
         "id": 842,
         "name": "queensarmor",
-        "representation": "Queens Armor",
+        "representation": "Queen's Armor",
         "path": "/img/items/armor/queensarmor.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -793,7 +793,7 @@
     {
         "id": 1024,
         "name": "aidbot56",
-        "representation": "Aidbot56",
+        "representation": "AIDBOT 56",
         "path": "/img/items/droids/aidbot56.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -804,7 +804,7 @@
     {
         "id": 1002,
         "name": "bat17",
-        "representation": "Bat17",
+        "representation": "BAT 17",
         "path": "/img/items/droids/bat17.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 2, "fth": 0, "mag": 2 },
         "craftedWith": [
@@ -819,7 +819,7 @@
     {
         "id": 1023,
         "name": "bogbot67",
-        "representation": "Bogbot67",
+        "representation": "BOGBOT 67",
         "path": "/img/items/droids/bogbot67.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -830,7 +830,7 @@
     {
         "id": 1017,
         "name": "bttrfly8",
-        "representation": "Bttrfly8",
+        "representation": "BTTRFLY 8",
         "path": "/img/items/droids/bttrfly8.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -841,7 +841,7 @@
     {
         "id": 1016,
         "name": "bulb88",
-        "representation": "Bulb88",
+        "representation": "BULB 88",
         "path": "/img/items/droids/bulb88.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -852,7 +852,7 @@
     {
         "id": 1022,
         "name": "diamnd66",
-        "representation": "Diamnd66",
+        "representation": "DIAMND 66",
         "path": "/img/items/droids/diamnd66.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -863,7 +863,7 @@
     {
         "id": 1018,
         "name": "dragon67",
-        "representation": "Dragon67",
+        "representation": "DRAGON 67",
         "path": "/img/items/droids/dragon67.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -874,7 +874,7 @@
     {
         "id": 1015,
         "name": "farmhand78",
-        "representation": "Farmhand78",
+        "representation": "FARMHAND 78",
         "path": "/img/items/droids/farmhand78.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -885,7 +885,7 @@
     {
         "id": 1001,
         "name": "flwr08",
-        "representation": "Flwr08",
+        "representation": "FLWR 08",
         "path": "/img/items/droids/flwr08.png",
         "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 2, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -900,7 +900,7 @@
     {
         "id": 1030,
         "name": "gold15",
-        "representation": "Gold15",
+        "representation": "GOLD 15",
         "path": "/img/items/droids/gold15.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -911,7 +911,7 @@
     {
         "id": 1005,
         "name": "guardian07",
-        "representation": "Guardian07",
+        "representation": "GUARDIAN 07",
         "path": "/img/items/droids/guardian07.png",
         "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 0, "fth": 2, "mag": 0 },
         "craftedWith": [
@@ -926,7 +926,7 @@
     {
         "id": 1025,
         "name": "hellbot57",
-        "representation": "Hellbot57",
+        "representation": "HELLBOT 57",
         "path": "/img/items/droids/hellbot57.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -937,7 +937,7 @@
     {
         "id": 1004,
         "name": "helper55",
-        "representation": "Helper55",
+        "representation": "HELPR 55",
         "path": "/img/items/droids/helper55.png",
         "stats": { "str": 0, "dex": 2, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -952,7 +952,7 @@
     {
         "id": 1026,
         "name": "ibot58",
-        "representation": "Ibot58",
+        "representation": "iBOT 58",
         "path": "/img/items/droids/ibot58.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -963,7 +963,7 @@
     {
         "id": 1020,
         "name": "megazord36",
-        "representation": "Megazord36",
+        "representation": "MEGAZORD 36",
         "path": "/img/items/droids/megazord36.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -974,7 +974,7 @@
     {
         "id": 1014,
         "name": "monolth25",
-        "representation": "Monolth25",
+        "representation": "MONOLTH 25",
         "path": "/img/items/droids/monolth25.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -985,7 +985,7 @@
     {
         "id": 1029,
         "name": "mrgrgrr05",
-        "representation": "Mrgrgrr05",
+        "representation": "MRGRGRR 05",
         "path": "/img/items/droids/mrgrgrr05.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -996,7 +996,7 @@
     {
         "id": 1003,
         "name": "obsidian64",
-        "representation": "Obsidian64",
+        "representation": "OBSIDIAN 64",
         "path": "/img/items/droids/obsidian64.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 2, "mag": 2 },
         "craftedWith": [
@@ -1011,7 +1011,7 @@
     {
         "id": 1028,
         "name": "overseer06",
-        "representation": "Overseer06",
+        "representation": "OVERSEER 06",
         "path": "/img/items/droids/overseer06.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1022,7 +1022,7 @@
     {
         "id": 1013,
         "name": "prism88",
-        "representation": "Prism88",
+        "representation": "PRISM 88",
         "path": "/img/items/droids/prism88.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1033,7 +1033,7 @@
     {
         "id": 1000,
         "name": "rck22",
-        "representation": "Rck22",
+        "representation": "RCK 22",
         "path": "/img/items/droids/rck22.png",
         "stats": { "str": 2, "dex": 0, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -1048,7 +1048,7 @@
     {
         "id": 1012,
         "name": "solar05",
-        "representation": "Solar05",
+        "representation": "SOLAR 05",
         "path": "/img/items/droids/solar05.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1059,7 +1059,7 @@
     {
         "id": 1021,
         "name": "steel65",
-        "representation": "Steel65",
+        "representation": "STEEL 65",
         "path": "/img/items/droids/steel65.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1070,7 +1070,7 @@
     {
         "id": 1027,
         "name": "whitemag09",
-        "representation": "Whitemag09",
+        "representation": "WHITEMAG 09",
         "path": "/img/items/droids/whitemag09.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1081,7 +1081,7 @@
     {
         "id": 1019,
         "name": "wyvrn77",
-        "representation": "Wyvrn77",
+        "representation": "WYVRN 77",
         "path": "/img/items/droids/wyvrn77.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1092,7 +1092,7 @@
     {
         "id": 15,
         "name": "aetherbulb",
-        "representation": "Aetherbulb",
+        "representation": "Aether Bulb",
         "path": "/img/items/drops/aetherbulb.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1103,7 +1103,7 @@
     {
         "id": 24,
         "name": "beastheart",
-        "representation": "Beastheart",
+        "representation": "Beast Heart",
         "path": "/img/items/drops/beastheart.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1114,7 +1114,7 @@
     {
         "id": 16,
         "name": "chaosleaf",
-        "representation": "Chaosleaf",
+        "representation": "Chaos Leaf",
         "path": "/img/items/drops/chaosleaf.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1125,7 +1125,7 @@
     {
         "id": 23,
         "name": "chitinfragment",
-        "representation": "Chitinfragment",
+        "representation": "Chitin Fragment",
         "path": "/img/items/drops/chitinfragment.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1136,7 +1136,7 @@
     {
         "id": 21,
         "name": "creatureeyeball",
-        "representation": "Creatureeyeball",
+        "representation": "Creature Eyeball",
         "path": "/img/items/drops/creatureeyeball.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1147,7 +1147,7 @@
     {
         "id": 32,
         "name": "dungbeetle",
-        "representation": "Dungbeetle",
+        "representation": "Dung Beetle",
         "path": "/img/items/drops/dungbeetle.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1169,7 +1169,7 @@
     {
         "id": 6,
         "name": "existencegem",
-        "representation": "Existencegem",
+        "representation": "Existence Gem",
         "path": "/img/items/drops/existencegem.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1213,7 +1213,7 @@
     {
         "id": 33,
         "name": "ghastbug",
-        "representation": "Ghastbug",
+        "representation": "Ghast Bug",
         "path": "/img/items/drops/ghastbug.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1246,7 +1246,7 @@
     {
         "id": 22,
         "name": "monsterclaw",
-        "representation": "Monsterclaw",
+        "representation": "Monster Claw",
         "path": "/img/items/drops/monsterclaw.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1268,7 +1268,7 @@
     {
         "id": 1,
         "name": "planetstone",
-        "representation": "Planetstone",
+        "representation": "Planet Stone",
         "path": "/img/items/drops/planetstone.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1279,7 +1279,7 @@
     {
         "id": 36,
         "name": "plasmamoth",
-        "representation": "Plasmamoth",
+        "representation": "Plasma Moth",
         "path": "/img/items/drops/plasmamoth.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1290,7 +1290,7 @@
     {
         "id": 25,
         "name": "shinyscale",
-        "representation": "Shinyscale",
+        "representation": "Shiny Scale",
         "path": "/img/items/drops/shinyscale.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1301,7 +1301,7 @@
     {
         "id": 13,
         "name": "spicyseed",
-        "representation": "Spicyseed",
+        "representation": "Spicy Seed",
         "path": "/img/items/drops/spicyseed.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1312,7 +1312,7 @@
     {
         "id": 14,
         "name": "starfruit",
-        "representation": "Starfruit",
+        "representation": "Star Fruit",
         "path": "/img/items/drops/starfruit.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1323,7 +1323,7 @@
     {
         "id": 11,
         "name": "tastyherb",
-        "representation": "Tastyherb",
+        "representation": "Tasty Herb",
         "path": "/img/items/drops/tastyherb.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1620,7 +1620,7 @@
     {
         "id": 203,
         "name": "bonusDEX",
-        "representation": "Bonusdex",
+        "representation": "BonusDEX+",
         "path": "/img/items/gearmods/bonusDEX.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1631,7 +1631,7 @@
     {
         "id": 206,
         "name": "bonusFTH",
-        "representation": "Bonusfth",
+        "representation": "BonusFTH+",
         "path": "/img/items/gearmods/bonusFTH.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1642,7 +1642,7 @@
     {
         "id": 205,
         "name": "bonusMAG",
-        "representation": "Bonusmag",
+        "representation": "BonusMAG+",
         "path": "/img/items/gearmods/bonusMAG.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1653,7 +1653,7 @@
     {
         "id": 202,
         "name": "bonusSTR",
-        "representation": "Bonusstr",
+        "representation": "BonusSTR+",
         "path": "/img/items/gearmods/bonusSTR.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1664,7 +1664,7 @@
     {
         "id": 204,
         "name": "bonusTEC",
-        "representation": "Bonustec",
+        "representation": "BonusTEC+",
         "path": "/img/items/gearmods/bonusTEC.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1675,7 +1675,7 @@
     {
         "id": 201,
         "name": "bonusVIT",
-        "representation": "Bonusvit",
+        "representation": "BonusVIT+",
         "path": "/img/items/gearmods/bonusVIT.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1686,7 +1686,7 @@
     {
         "id": 222,
         "name": "bugharvest",
-        "representation": "Bugharvest",
+        "representation": "BugHarvest+",
         "path": "/img/items/gearmods/bugharvest.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1697,7 +1697,7 @@
     {
         "id": 224,
         "name": "creditboost",
-        "representation": "Creditboost",
+        "representation": "CreditBoost+",
         "path": "/img/items/gearmods/creditboost.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1708,7 +1708,7 @@
     {
         "id": 212,
         "name": "critdmg",
-        "representation": "Critdmg",
+        "representation": "CritDmg+",
         "path": "/img/items/gearmods/critdmg.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1719,7 +1719,7 @@
     {
         "id": 211,
         "name": "critrate",
-        "representation": "Critrate",
+        "representation": "CritRate+",
         "path": "/img/items/gearmods/critrate.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1730,7 +1730,7 @@
     {
         "id": 217,
         "name": "dashspeed",
-        "representation": "Dashspeed",
+        "representation": "DashSpeed+",
         "path": "/img/items/gearmods/dashspeed.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1741,7 +1741,7 @@
     {
         "id": 223,
         "name": "expboost",
-        "representation": "Expboost",
+        "representation": "ExpBoost+",
         "path": "/img/items/gearmods/expboost.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1752,7 +1752,7 @@
     {
         "id": 213,
         "name": "healthregen",
-        "representation": "Healthregen",
+        "representation": "HealthRegen+",
         "path": "/img/items/gearmods/healthregen.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1763,7 +1763,7 @@
     {
         "id": 218,
         "name": "jumpheight",
-        "representation": "Jumpheight",
+        "representation": "JumpHeight+",
         "path": "/img/items/gearmods/jumpheight.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1774,7 +1774,7 @@
     {
         "id": 214,
         "name": "manaregen",
-        "representation": "Manaregen",
+        "representation": "ManaRegen+",
         "path": "/img/items/gearmods/manaregen.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1785,7 +1785,7 @@
     {
         "id": 221,
         "name": "monsterdrops",
-        "representation": "Monsterdrops",
+        "representation": "MonsterDrops+",
         "path": "/img/items/gearmods/monsterdrops.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1796,7 +1796,7 @@
     {
         "id": 216,
         "name": "movespeed",
-        "representation": "Movespeed",
+        "representation": "MoveSpeed+",
         "path": "/img/items/gearmods/movespeed.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1807,7 +1807,7 @@
     {
         "id": 219,
         "name": "oreharvest",
-        "representation": "Oreharvest",
+        "representation": "OreHarvest+",
         "path": "/img/items/gearmods/oreharvest.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1818,7 +1818,7 @@
     {
         "id": 220,
         "name": "plantharvest",
-        "representation": "Plantharvest",
+        "representation": "PlantHarvest+",
         "path": "/img/items/gearmods/plantharvest.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1829,7 +1829,7 @@
     {
         "id": 210,
         "name": "projectilerange",
-        "representation": "Projectilerange",
+        "representation": "ProjectileRange+",
         "path": "/img/items/gearmods/projectilerange.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1840,7 +1840,7 @@
     {
         "id": 208,
         "name": "resistfrost",
-        "representation": "Resistfrost",
+        "representation": "ResistFrost+",
         "path": "/img/items/gearmods/resistfrost.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1851,7 +1851,7 @@
     {
         "id": 207,
         "name": "resistheat",
-        "representation": "Resistheat",
+        "representation": "ResistHeat+",
         "path": "/img/items/gearmods/resistheat.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1862,7 +1862,7 @@
     {
         "id": 209,
         "name": "resistpoison",
-        "representation": "Resistpoison",
+        "representation": "ResistPoison+",
         "path": "/img/items/gearmods/resistpoison.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1873,7 +1873,7 @@
     {
         "id": 215,
         "name": "staminaregen",
-        "representation": "Staminaregen",
+        "representation": "StaminaRegen+",
         "path": "/img/items/gearmods/staminaregen.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1884,7 +1884,7 @@
     {
         "id": 713,
         "name": "4thageDEXHelm",
-        "representation": "4thagedex Helm",
+        "representation": "4th Age Helm [DEX]",
         "path": "/img/items/helmets/4thageDEXHelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1895,7 +1895,7 @@
     {
         "id": 714,
         "name": "4thageMAGHelm",
-        "representation": "4thagemag Helm",
+        "representation": "4th Age Helm [MAG]",
         "path": "/img/items/helmets/4thageMAGHelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1906,7 +1906,7 @@
     {
         "id": 712,
         "name": "4thageSTRHelm",
-        "representation": "4thagestr Helm",
+        "representation": "4th Age Helm [STR]",
         "path": "/img/items/helmets/4thageSTRHelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1943,7 +1943,7 @@
     {
         "id": 795,
         "name": "apocalypehelm",
-        "representation": "Apocalype Helm",
+        "representation": "Apocalypse H",
         "path": "/img/items/helmets/apocalypehelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1954,7 +1954,7 @@
     {
         "id": 741,
         "name": "axelarkshelm",
-        "representation": "Axelarks Helm",
+        "representation": "Axelark's Helm",
         "path": "/img/items/helmets/axelarkshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1965,7 +1965,7 @@
     {
         "id": 740,
         "name": "azazelshelm",
-        "representation": "Azazels Helm",
+        "representation": "Azazel's Helm",
         "path": "/img/items/helmets/azazelshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1976,7 +1976,7 @@
     {
         "id": 739,
         "name": "baalfogseye",
-        "representation": "Baalfogseye",
+        "representation": "Baalfog's Eye",
         "path": "/img/items/helmets/baalfogseye.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -1987,7 +1987,7 @@
     {
         "id": 730,
         "name": "bolgonshelm",
-        "representation": "Bolgons Helm",
+        "representation": "Bolgon's Helm",
         "path": "/img/items/helmets/bolgonshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2039,7 +2039,7 @@
     {
         "id": 725,
         "name": "captainshat",
-        "representation": "Captainshat",
+        "representation": "Captain's Hat",
         "path": "/img/items/helmets/captainshat.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2050,7 +2050,7 @@
     {
         "id": 791,
         "name": "catastrophiahelm",
-        "representation": "Catastrophia Helm",
+        "representation": "Catastrophia H",
         "path": "/img/items/helmets/catastrophiahelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2076,7 +2076,7 @@
     {
         "id": 758,
         "name": "chaoshelmet",
-        "representation": "Chaos Helmet",
+        "representation": "Chaos Helm",
         "path": "/img/items/helmets/chaoshelmet.png",
         "stats": { "str": 0, "dex": 3, "vit": 2, "tec": 3, "fth": 0, "mag": 3 },
         "craftedWith": [
@@ -2091,7 +2091,7 @@
     {
         "id": 780,
         "name": "darkknighthelm",
-        "representation": "Darkknight Helm",
+        "representation": "Darknight Helm",
         "path": "/img/items/helmets/darkknighthelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2117,7 +2117,7 @@
     {
         "id": 760,
         "name": "desctructionhelm",
-        "representation": "Desctruction Helm",
+        "representation": "Destruction Helm",
         "path": "/img/items/helmets/desctructionhelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2154,7 +2154,7 @@
     {
         "id": 755,
         "name": "drifterhelmet",
-        "representation": "Drifter Helmet",
+        "representation": "Drifter Helm",
         "path": "/img/items/helmets/drifterhelmet.png",
         "stats": { "str": 0, "dex": 3, "vit": 3, "tec": 2, "fth": 3, "mag": 0 },
         "craftedWith": [
@@ -2182,7 +2182,7 @@
     {
         "id": 701,
         "name": "duneriderHood",
-        "representation": "Duneriderhood",
+        "representation": "Dunerider Hood",
         "path": "/img/items/helmets/duneriderHood.png",
         "stats": { "str": 0, "dex": 2, "vit": 2, "tec": 1, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -2211,7 +2211,7 @@
     {
         "id": 797,
         "name": "exodushelm",
-        "representation": "Exodus Helm",
+        "representation": "Exodus H",
         "path": "/img/items/helmets/exodushelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2222,7 +2222,7 @@
     {
         "id": 792,
         "name": "fellbughelm",
-        "representation": "Fellbug Helm",
+        "representation": "Fellbug H",
         "path": "/img/items/helmets/fellbughelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2278,7 +2278,7 @@
     {
         "id": 796,
         "name": "gleadriahelm",
-        "representation": "Gleadria Helm",
+        "representation": "Glaedria H",
         "path": "/img/items/helmets/gleadriahelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2289,7 +2289,7 @@
     {
         "id": 736,
         "name": "gromwellshelm",
-        "representation": "Gromwells Helm",
+        "representation": "Gromwell'S Helm",
         "path": "/img/items/helmets/gromwellshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2345,7 +2345,7 @@
     {
         "id": 794,
         "name": "ironcladhelm",
-        "representation": "Ironclad Helm",
+        "representation": "Ironclad H",
         "path": "/img/items/helmets/ironcladhelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2386,7 +2386,7 @@
     {
         "id": 761,
         "name": "ithicashelm",
-        "representation": "Ithicas Helm",
+        "representation": "Ithaca's Helm",
         "path": "/img/items/helmets/ithicashelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2397,7 +2397,7 @@
     {
         "id": 798,
         "name": "kawaiilemon",
-        "representation": "Kawaiilemon",
+        "representation": "Kawaii Lemon",
         "path": "/img/items/helmets/kawaiilemon.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2452,7 +2452,7 @@
     {
         "id": 783,
         "name": "maelstormhelm",
-        "representation": "Maelstorm Helm",
+        "representation": "Maelstrom Helm",
         "path": "/img/items/helmets/maelstormhelm.png",
         "stats": { "str": 3, "dex": 0, "vit": 3, "tec": 0, "fth": 3, "mag": 3 },
         "craftedWith": [
@@ -2467,7 +2467,7 @@
     {
         "id": 793,
         "name": "mightshroomhelm",
-        "representation": "Mightshroom Helm",
+        "representation": "Might Shroom H",
         "path": "/img/items/helmets/mightshroomhelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2478,7 +2478,7 @@
     {
         "id": 790,
         "name": "mykonogorehelm",
-        "representation": "Mykonogore Helm",
+        "representation": "Mykonogre H",
         "path": "/img/items/helmets/mykonogorehelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2504,7 +2504,7 @@
     {
         "id": 743,
         "name": "nolicbeats",
-        "representation": "Nolicbeats",
+        "representation": "Nolic Beats",
         "path": "/img/items/helmets/nolicbeats.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2515,7 +2515,7 @@
     {
         "id": 799,
         "name": "oldchapshat",
-        "representation": "Oldchapshat",
+        "representation": "Old Chap's Hat",
         "path": "/img/items/helmets/oldchapshat.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2567,7 +2567,7 @@
     {
         "id": 738,
         "name": "percevalshelm",
-        "representation": "Percevals Helm",
+        "representation": "Perceval's Helm",
         "path": "/img/items/helmets/percevalshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2608,7 +2608,7 @@
     {
         "id": 742,
         "name": "queenshelm",
-        "representation": "Queens Helm",
+        "representation": "Queen's Helm",
         "path": "/img/items/helmets/queenshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2644,7 +2644,7 @@
     {
         "id": 700,
         "name": "recruitHelmet",
-        "representation": "Recruit Helmet",
+        "representation": "Recruit Helm",
         "path": "/img/items/helmets/recruitHelmet.png",
         "stats": { "str": 2, "dex": 1, "vit": 1, "tec": 0, "fth": 2, "mag": 0 },
         "craftedWith": [
@@ -2659,7 +2659,7 @@
     {
         "id": 737,
         "name": "ringaboltshelm",
-        "representation": "Ringabolts Helm",
+        "representation": "Ringabolt's Helm",
         "path": "/img/items/helmets/ringaboltshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2785,7 +2785,7 @@
     {
         "id": 726,
         "name": "urugorakshat",
-        "representation": "Urugorakshat",
+        "representation": "Urugorak's Hat",
         "path": "/img/items/helmets/urugorakshat.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2811,7 +2811,7 @@
     {
         "id": 703,
         "name": "vorpalHood",
-        "representation": "Vorpalhood",
+        "representation": "Vorpal Hood",
         "path": "/img/items/helmets/vorpalHood.png",
         "stats": { "str": 0, "dex": 1, "vit": 2, "tec": 0, "fth": 1, "mag": 2 },
         "craftedWith": [
@@ -2840,7 +2840,7 @@
     {
         "id": 735,
         "name": "wallaceshelm",
-        "representation": "Wallaces Helm",
+        "representation": "Wallace's Helm",
         "path": "/img/items/helmets/wallaceshelm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2911,7 +2911,7 @@
     {
         "id": 44,
         "name": "i44",
-        "representation": "I44",
+        "representation": "Arena Ticket",
         "path": "/img/items/misc/i44.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2922,7 +2922,7 @@
     {
         "id": 45,
         "name": "i45",
-        "representation": "I45",
+        "representation": "Magicite",
         "path": "/img/items/misc/i45.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2933,7 +2933,7 @@
     {
         "id": 46,
         "name": "i46",
-        "representation": "I46",
+        "representation": "Aethercrystal",
         "path": "/img/items/misc/i46.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2944,7 +2944,7 @@
     {
         "id": 47,
         "name": "i47",
-        "representation": "I47",
+        "representation": "Platinum Badge",
         "path": "/img/items/misc/i47.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2955,7 +2955,7 @@
     {
         "id": 48,
         "name": "i48",
-        "representation": "I48",
+        "representation": "Remembrance Ticket",
         "path": "/img/items/misc/i48.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2966,7 +2966,7 @@
     {
         "id": 49,
         "name": "i49",
-        "representation": "I49",
+        "representation": "Champion Badge",
         "path": "/img/items/misc/i49.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2977,7 +2977,7 @@
     {
         "id": 50,
         "name": "i50",
-        "representation": "I50",
+        "representation": "Glob of Aether",
         "path": "/img/items/misc/i50.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2988,7 +2988,7 @@
     {
         "id": 52,
         "name": "i52",
-        "representation": "I52",
+        "representation": "Credit",
         "path": "/img/items/misc/i52.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -2999,7 +2999,7 @@
     {
         "id": 53,
         "name": "i53",
-        "representation": "I53",
+        "representation": "Ashen Dust",
         "path": "/img/items/misc/i53.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3010,7 +3010,7 @@
     {
         "id": 54,
         "name": "i54",
-        "representation": "I54",
+        "representation": "Mystery Gift",
         "path": "/img/items/misc/i54.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3021,7 +3021,7 @@
     {
         "id": 55,
         "name": "i55",
-        "representation": "I55",
+        "representation": "Ion Ticket",
         "path": "/img/items/misc/i55.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3032,7 +3032,7 @@
     {
         "id": 56,
         "name": "i56",
-        "representation": "I56",
+        "representation": "Lightsworn Crystal",
         "path": "/img/items/misc/i56.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3043,7 +3043,7 @@
     {
         "id": 57,
         "name": "i57",
-        "representation": "I57",
+        "representation": "Scrap Metal",
         "path": "/img/items/misc/i57.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3054,7 +3054,7 @@
     {
         "id": 58,
         "name": "i58",
-        "representation": "I58",
+        "representation": "Quest Prize",
         "path": "/img/items/misc/i58.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3065,7 +3065,7 @@
     {
         "id": 59,
         "name": "i59",
-        "representation": "I59",
+        "representation": "Wealth Trophy",
         "path": "/img/items/misc/i59.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3098,7 +3098,7 @@
     {
         "id": 68,
         "name": "frostpotion",
-        "representation": "Frost Potion",
+        "representation": "Anti-Frost",
         "path": "/img/items/potions/frostpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3109,7 +3109,7 @@
     {
         "id": 70,
         "name": "healthpotionlarge",
-        "representation": "Health PotionLarge",
+        "representation": "Health Pack III",
         "path": "/img/items/potions/healthpotionlarge.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3120,7 +3120,7 @@
     {
         "id": 65,
         "name": "healthpotionmedium",
-        "representation": "Health PotionMedium",
+        "representation": "Health Pack II",
         "path": "/img/items/potions/healthpotionmedium.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3131,7 +3131,7 @@
     {
         "id": 60,
         "name": "healthpotionsmall",
-        "representation": "Health PotionSmall",
+        "representation": "Health Pack I",
         "path": "/img/items/potions/healthpotionsmall.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3142,7 +3142,7 @@
     {
         "id": 69,
         "name": "heatpotion",
-        "representation": "Heat Potion",
+        "representation": "Anti-Heat",
         "path": "/img/items/potions/heatpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3153,7 +3153,7 @@
     {
         "id": 71,
         "name": "manapotionlarge",
-        "representation": "Mana PotionLarge",
+        "representation": "Mana Pack III",
         "path": "/img/items/potions/manapotionlarge.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3164,7 +3164,7 @@
     {
         "id": 66,
         "name": "manapotionmedium",
-        "representation": "Mana PotionMedium",
+        "representation": "Mana Pack II",
         "path": "/img/items/potions/manapotionmedium.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3175,7 +3175,7 @@
     {
         "id": 61,
         "name": "manapotionsmall",
-        "representation": "Mana PotionSmall",
+        "representation": "Mana Pack I",
         "path": "/img/items/potions/manapotionsmall.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3186,7 +3186,7 @@
     {
         "id": 63,
         "name": "nulldmgpotion",
-        "representation": "Nulldmg Potion",
+        "representation": "Nuldmg Potion",
         "path": "/img/items/potions/nulldmgpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3197,7 +3197,7 @@
     {
         "id": 64,
         "name": "poisonpotion",
-        "representation": "Poison Potion",
+        "representation": "Anti-Poison",
         "path": "/img/items/potions/poisonpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3208,7 +3208,7 @@
     {
         "id": 72,
         "name": "staminapotionlarge",
-        "representation": "Stamina PotionLarge",
+        "representation": "Energy Pack III",
         "path": "/img/items/potions/staminapotionlarge.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3219,7 +3219,7 @@
     {
         "id": 67,
         "name": "staminapotionmedium",
-        "representation": "Stamina PotionMedium",
+        "representation": "Energy Pack II",
         "path": "/img/items/potions/staminapotionmedium.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3230,7 +3230,7 @@
     {
         "id": 62,
         "name": "staminapotionsmall",
-        "representation": "Stamina PotionSmall",
+        "representation": "Energy Pack I",
         "path": "/img/items/potions/staminapotionsmall.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3241,7 +3241,7 @@
     {
         "id": 89,
         "name": "aetheliteprism",
-        "representation": "Aetheliteprism",
+        "representation": "Aetherlite Prism",
         "path": "/img/items/prisms/aetheliteprism.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [{ "amount": 10, "item": "aetheliteshard" }],
@@ -3252,7 +3252,7 @@
     {
         "id": 86,
         "name": "aetheliteshard",
-        "representation": "Aetheliteshard",
+        "representation": "Aetherlite Shard",
         "path": "/img/items/prisms/aetheliteshard.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3278,7 +3278,7 @@
     {
         "id": 90,
         "name": "darkenedprism",
-        "representation": "Darkenedprism",
+        "representation": "Darkened Prism",
         "path": "/img/items/prisms/darkenedprism.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [{ "amount": 10, "item": "darkenedshard" }],
@@ -3289,7 +3289,7 @@
     {
         "id": 87,
         "name": "darkenedshard",
-        "representation": "Darkenedshard",
+        "representation": "Darkened Shard",
         "path": "/img/items/prisms/darkenedshard.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3315,7 +3315,7 @@
     {
         "id": 91,
         "name": "omegaprism",
-        "representation": "Omegaprism",
+        "representation": "Omega Prism",
         "path": "/img/items/prisms/omegaprism.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [{ "amount": 10, "item": "omegashard" }],
@@ -3326,7 +3326,7 @@
     {
         "id": 88,
         "name": "omegashard",
-        "representation": "Omegashard",
+        "representation": "Omega Shard",
         "path": "/img/items/prisms/omegashard.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3440,7 +3440,7 @@
     {
         "id": 647,
         "name": "4thageshield",
-        "representation": "4thage Shield",
+        "representation": "4th Age Shield",
         "path": "/img/items/shields/4thageshield.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3466,7 +3466,7 @@
     {
         "id": 600,
         "name": "aethershield",
-        "representation": "Aether Shield",
+        "representation": "Aethershield",
         "path": "/img/items/shields/aethershield.png",
         "stats": { "str": 1, "dex": 1, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -3481,7 +3481,7 @@
     {
         "id": 646,
         "name": "aethershield_2",
-        "representation": "Aether Shield_2",
+        "representation": "Aether Shield",
         "path": "/img/items/shields/aethershield_2.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3492,7 +3492,7 @@
     {
         "id": 615,
         "name": "arcsbuckler",
-        "representation": "Arcsbuckler",
+        "representation": "Arc's Buckler",
         "path": "/img/items/shields/arcsbuckler.png",
         "stats": { "str": 2, "dex": 1, "vit": 3, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -3520,7 +3520,7 @@
     {
         "id": 628,
         "name": "bloodshield_2",
-        "representation": "Blood Shield_2",
+        "representation": "Blood Shield",
         "path": "/img/items/shields/bloodshield_2.png",
         "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 1, "fth": 0, "mag": 3 },
         "craftedWith": [
@@ -3534,7 +3534,7 @@
     {
         "id": 624,
         "name": "boldshield",
-        "representation": "Bold Shield",
+        "representation": "Blood Shield",
         "path": "/img/items/shields/boldshield.png",
         "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 1, "mag": 1 },
         "craftedWith": [
@@ -3549,7 +3549,7 @@
     {
         "id": 601,
         "name": "cadetbuckler",
-        "representation": "Cadetbuckler",
+        "representation": "Cadet Buckler",
         "path": "/img/items/shields/cadetbuckler.png",
         "stats": { "str": 1, "dex": 0, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -3593,7 +3593,7 @@
     {
         "id": 605,
         "name": "forceguard",
-        "representation": "Forceguard",
+        "representation": "Force Guard",
         "path": "/img/items/shields/forceguard.png",
         "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 1, "mag": 2 },
         "craftedWith": [
@@ -3622,7 +3622,7 @@
     {
         "id": 604,
         "name": "gallatriasigil",
-        "representation": "Gallatriasigil",
+        "representation": "Gallatria Sigil",
         "path": "/img/items/shields/gallatriasigil.png",
         "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 2, "mag": 0 },
         "craftedWith": [
@@ -3651,7 +3651,7 @@
     {
         "id": 621,
         "name": "kingscrest",
-        "representation": "Kingscrest",
+        "representation": "King's Crest",
         "path": "/img/items/shields/kingscrest.png",
         "stats": { "str": 0, "dex": 0, "vit": 2, "tec": 2, "fth": 2, "mag": 0 },
         "craftedWith": [
@@ -3665,7 +3665,7 @@
     {
         "id": 613,
         "name": "leaderscrest",
-        "representation": "Leaderscrest",
+        "representation": "Leader's Crest",
         "path": "/img/items/shields/leaderscrest.png",
         "stats": { "str": 3, "dex": 1, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -3721,7 +3721,7 @@
     {
         "id": 648,
         "name": "scarabshell",
-        "representation": "Scarabshell",
+        "representation": "Scarab Shell",
         "path": "/img/items/shields/scarabshell.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3732,7 +3732,7 @@
     {
         "id": 616,
         "name": "soulinfusion",
-        "representation": "Soulinfusion",
+        "representation": "Soul Infusion",
         "path": "/img/items/shields/soulinfusion.png",
         "stats": { "str": 2, "dex": 0, "vit": 3, "tec": 1, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -3746,7 +3746,7 @@
     {
         "id": 623,
         "name": "spikedlightning",
-        "representation": "Spikedlightning",
+        "representation": "Spiked Lightning",
         "path": "/img/items/shields/spikedlightning.png",
         "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 2, "fth": 2, "mag": 0 },
         "craftedWith": [
@@ -3788,7 +3788,7 @@
     {
         "id": 620,
         "name": "toweraegis",
-        "representation": "Toweraegis",
+        "representation": "Tower Aegis",
         "path": "/img/items/shields/toweraegis.png",
         "stats": { "str": 0, "dex": 2, "vit": 3, "tec": 0, "fth": 1, "mag": 0 },
         "craftedWith": [
@@ -3802,7 +3802,7 @@
     {
         "id": 614,
         "name": "twighlightshield",
-        "representation": "Twighlight Shield",
+        "representation": "Twilight Shield",
         "path": "/img/items/shields/twighlightshield.png",
         "stats": { "str": 1, "dex": 3, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -3816,7 +3816,7 @@
     {
         "id": 499,
         "name": "4thagecannon",
-        "representation": "4thagecannon",
+        "representation": "4th Age Cannon",
         "path": "/img/items/weapons/4thagecannon.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3827,7 +3827,7 @@
     {
         "id": 549,
         "name": "4thagegauntlet",
-        "representation": "4thagegauntlet",
+        "representation": "4th Age Gauntlet",
         "path": "/img/items/weapons/4thagegauntlet.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3838,7 +3838,7 @@
     {
         "id": 449,
         "name": "4thagegun",
-        "representation": "4thagegun",
+        "representation": "4th Age Gun",
         "path": "/img/items/weapons/4thagegun.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3849,7 +3849,7 @@
     {
         "id": 399,
         "name": "4thagelance",
-        "representation": "4thagelance",
+        "representation": "4th Age Lance",
         "path": "/img/items/weapons/4thagelance.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3860,7 +3860,7 @@
     {
         "id": 599,
         "name": "4thagestaff",
-        "representation": "4thagestaff",
+        "representation": "4th Age Staff",
         "path": "/img/items/weapons/4thagestaff.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3871,7 +3871,7 @@
     {
         "id": 349,
         "name": "4thagesword",
-        "representation": "4thagesword",
+        "representation": "4th Age Sword",
         "path": "/img/items/weapons/4thagesword.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -3927,7 +3927,7 @@
     {
         "id": 400,
         "name": "aethergunmkIV",
-        "representation": "Aethergunmkiv",
+        "representation": "Aethergun Mk.IV",
         "path": "/img/items/weapons/aethergunmkIV.png",
         "stats": { "str": 0, "dex": 1, "vit": 1, "tec": 1, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -4046,7 +4046,7 @@
     {
         "id": 419,
         "name": "atmaweapon",
-        "representation": "Atmaweapon",
+        "representation": "Atma Weapon",
         "path": "/img/items/weapons/atmaweapon.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4057,7 +4057,7 @@
     {
         "id": 452,
         "name": "autorifle",
-        "representation": "Autorifle",
+        "representation": "Auto Rifle",
         "path": "/img/items/weapons/autorifle.png",
         "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 1, "fth": 1, "mag": 0 },
         "craftedWith": [
@@ -4083,7 +4083,7 @@
     {
         "id": 329,
         "name": "awakenedforce",
-        "representation": "Awakenedforce",
+        "representation": "Awakened Force",
         "path": "/img/items/weapons/awakenedforce.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4094,7 +4094,7 @@
     {
         "id": 447,
         "name": "axelarksblaster",
-        "representation": "Axelarksblaster",
+        "representation": "Axelark's Blaster",
         "path": "/img/items/weapons/axelarksblaster.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4105,7 +4105,7 @@
     {
         "id": 345,
         "name": "azazelsblade",
-        "representation": "Azazelsblade",
+        "representation": "Azazel's Blade",
         "path": "/img/items/weapons/azazelsblade.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4116,7 +4116,7 @@
     {
         "id": 546,
         "name": "baalfogsavalanche",
-        "representation": "Baalfogsavalanche",
+        "representation": "Baalfog's Avalanche",
         "path": "/img/items/weapons/baalfogsavalanche.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4175,7 +4175,7 @@
     {
         "id": 301,
         "name": "boltedge",
-        "representation": "Boltedge",
+        "representation": "Bolt Edge",
         "path": "/img/items/weapons/boltedge.png",
         "stats": { "str": 1, "dex": 1, "vit": 0, "tec": 0, "fth": 0, "mag": 1 },
         "craftedWith": [
@@ -4190,7 +4190,7 @@
     {
         "id": 568,
         "name": "bubblegumstaff",
-        "representation": "Bubblegumstaff",
+        "representation": "Bubblegum Staff",
         "path": "/img/items/weapons/bubblegumstaff.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4201,7 +4201,7 @@
     {
         "id": 355,
         "name": "cainslance",
-        "representation": "Cainslance",
+        "representation": "Cain's Lance",
         "path": "/img/items/weapons/cainslance.png",
         "stats": { "str": 2, "dex": 1, "vit": 0, "tec": 0, "fth": 1, "mag": 0 },
         "craftedWith": [
@@ -4216,7 +4216,7 @@
     {
         "id": 347,
         "name": "calusdemonblade",
-        "representation": "Calusdemonblade",
+        "representation": "Caius' Demonblade",
         "path": "/img/items/weapons/calusdemonblade.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4227,7 +4227,7 @@
     {
         "id": 519,
         "name": "caluspyer",
-        "representation": "Caluspyer",
+        "representation": "Caius' Pyre",
         "path": "/img/items/weapons/caluspyer.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4249,7 +4249,7 @@
     {
         "id": 575,
         "name": "castersword",
-        "representation": "Castersword",
+        "representation": "Caster Sword",
         "path": "/img/items/weapons/castersword.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4293,7 +4293,7 @@
     {
         "id": 569,
         "name": "cherryblossom",
-        "representation": "Cherryblossom",
+        "representation": "Cherry Blossom",
         "path": "/img/items/weapons/cherryblossom.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4363,7 +4363,7 @@
     {
         "id": 322,
         "name": "darkmessenger",
-        "representation": "Darkmessenger",
+        "representation": "Dark Messenger",
         "path": "/img/items/weapons/darkmessenger.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4385,7 +4385,7 @@
     {
         "id": 321,
         "name": "deathexalted",
-        "representation": "Deathexalted",
+        "representation": "Death Exalted",
         "path": "/img/items/weapons/deathexalted.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4396,7 +4396,7 @@
     {
         "id": 423,
         "name": "deathpenalty",
-        "representation": "Deathpenalty",
+        "representation": "Death Penalty",
         "path": "/img/items/weapons/deathpenalty.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4422,7 +4422,7 @@
     {
         "id": 527,
         "name": "destructionwave",
-        "representation": "Destructionwave",
+        "representation": "Destruction Wave",
         "path": "/img/items/weapons/destructionwave.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4444,7 +4444,7 @@
     {
         "id": 365,
         "name": "doombringer",
-        "representation": "Doomb RingEr",
+        "representation": "Doombringer",
         "path": "/img/items/weapons/doombringer.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4481,7 +4481,7 @@
     {
         "id": 595,
         "name": "dragonboltsmast",
-        "representation": "Dragonboltsmast",
+        "representation": "Dragonbolt's Mast",
         "path": "/img/items/weapons/dragonboltsmast.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4492,7 +4492,7 @@
     {
         "id": 477,
         "name": "dragoncannon",
-        "representation": "Dragoncannon",
+        "representation": "Dragon Cannon",
         "path": "/img/items/weapons/dragoncannon.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4503,7 +4503,7 @@
     {
         "id": 377,
         "name": "dragonwhisker",
-        "representation": "Dragonwhisker",
+        "representation": "Dragon Whisker",
         "path": "/img/items/weapons/dragonwhisker.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4514,7 +4514,7 @@
     {
         "id": 379,
         "name": "dragoonlance",
-        "representation": "Dragoonlance",
+        "representation": "Dragoon Lance",
         "path": "/img/items/weapons/dragoonlance.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4547,7 +4547,7 @@
     {
         "id": 364,
         "name": "emblemfates",
-        "representation": "EmblemFates",
+        "representation": "Emblem Fates",
         "path": "/img/items/weapons/emblemfates.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4591,7 +4591,7 @@
     {
         "id": 476,
         "name": "flakcannon",
-        "representation": "Flakcannon",
+        "representation": "Flak Cannon",
         "path": "/img/items/weapons/flakcannon.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4613,7 +4613,7 @@
     {
         "id": 502,
         "name": "flamelash",
-        "representation": "Flamelash",
+        "representation": "Flame Lash",
         "path": "/img/items/weapons/flamelash.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 2, "fth": 1, "mag": 2 },
         "craftedWith": [
@@ -4628,7 +4628,7 @@
     {
         "id": 478,
         "name": "flameswathe",
-        "representation": "Flameswathe",
+        "representation": "Flame Swathe",
         "path": "/img/items/weapons/flameswathe.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4661,7 +4661,7 @@
     {
         "id": 424,
         "name": "formalhaut",
-        "representation": "Formalhaut",
+        "representation": "Fomalhaut",
         "path": "/img/items/weapons/formalhaut.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4672,7 +4672,7 @@
     {
         "id": 313,
         "name": "fracturedsoul",
-        "representation": "Fracturedsoul",
+        "representation": "Fractured Soul",
         "path": "/img/items/weapons/fracturedsoul.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4698,7 +4698,7 @@
     {
         "id": 473,
         "name": "gadgetrpg",
-        "representation": "Gadgetrpg",
+        "representation": "Gadget RPG",
         "path": "/img/items/weapons/gadgetrpg.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4709,7 +4709,7 @@
     {
         "id": 304,
         "name": "gadgetsaber",
-        "representation": "Gadgetsaber",
+        "representation": "Gadget Saber",
         "path": "/img/items/weapons/gadgetsaber.png",
         "stats": { "str": 1, "dex": 0, "vit": 0, "tec": 2, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -4724,7 +4724,7 @@
     {
         "id": 521,
         "name": "gafgardsmaelstrom",
-        "representation": "Gafgardsmaelstrom",
+        "representation": "Gafgard's Maelstrom",
         "path": "/img/items/weapons/gafgardsmaelstrom.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4735,7 +4735,7 @@
     {
         "id": 504,
         "name": "gaiasgale",
-        "representation": "Gaiasgale",
+        "representation": "Gaia's Gale",
         "path": "/img/items/weapons/gaiasgale.png",
         "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 0, "fth": 1, "mag": 2 },
         "craftedWith": [
@@ -4750,7 +4750,7 @@
     {
         "id": 497,
         "name": "galacticflameblaster",
-        "representation": "Galacticflameblaster",
+        "representation": "GALACTIC FLAMEBLASTER",
         "path": "/img/items/weapons/galacticflameblaster.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4761,7 +4761,7 @@
     {
         "id": 362,
         "name": "galaxylance",
-        "representation": "Galaxylance",
+        "representation": "Galaxy Lance",
         "path": "/img/items/weapons/galaxylance.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4772,7 +4772,7 @@
     {
         "id": 353,
         "name": "gallatriasspire",
-        "representation": "Gallatriasspire",
+        "representation": "Gallatria's Spire",
         "path": "/img/items/weapons/gallatriasspire.png",
         "stats": { "str": 2, "dex": 0, "vit": 0, "tec": 0, "fth": 2, "mag": 0 },
         "craftedWith": [
@@ -4798,7 +4798,7 @@
     {
         "id": 405,
         "name": "goldeneye",
-        "representation": "Goldeneye",
+        "representation": "Golden Eye",
         "path": "/img/items/weapons/goldeneye.png",
         "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 1, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -4813,7 +4813,7 @@
     {
         "id": 427,
         "name": "goldensuns",
-        "representation": "Goldensuns",
+        "representation": "Golden Suns",
         "path": "/img/items/weapons/goldensuns.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4824,7 +4824,7 @@
     {
         "id": 526,
         "name": "gruustalisman",
-        "representation": "Gruustalisman",
+        "representation": "Gruu's Talisman",
         "path": "/img/items/weapons/gruustalisman.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4835,7 +4835,7 @@
     {
         "id": 369,
         "name": "gungir",
-        "representation": "Gungir",
+        "representation": "Gungnir",
         "path": "/img/items/weapons/gungir.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4846,7 +4846,7 @@
     {
         "id": 475,
         "name": "handcannon",
-        "representation": "Handcannon",
+        "representation": "Hand Cannon",
         "path": "/img/items/weapons/handcannon.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4868,7 +4868,7 @@
     {
         "id": 320,
         "name": "heavenscloud",
-        "representation": "Heavenscloud",
+        "representation": "Heaven's Cloud",
         "path": "/img/items/weapons/heavenscloud.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4890,7 +4890,7 @@
     {
         "id": 598,
         "name": "hivemindrod",
-        "representation": "Hivemindrod",
+        "representation": "Hivemind Rod",
         "path": "/img/items/weapons/hivemindrod.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4912,7 +4912,7 @@
     {
         "id": 515,
         "name": "icewall",
-        "representation": "Icewall",
+        "representation": "Ice Wall",
         "path": "/img/items/weapons/icewall.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4938,7 +4938,7 @@
     {
         "id": 572,
         "name": "jungleking",
-        "representation": "Jungleking",
+        "representation": "Jungle King",
         "path": "/img/items/weapons/jungleking.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4949,7 +4949,7 @@
     {
         "id": 317,
         "name": "keyofhearts",
-        "representation": "Keyofhearts",
+        "representation": "Key of Hearts",
         "path": "/img/items/weapons/keyofhearts.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4960,7 +4960,7 @@
     {
         "id": 368,
         "name": "kingslance",
-        "representation": "Kingslance",
+        "representation": "King's Lance",
         "path": "/img/items/weapons/kingslance.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4971,7 +4971,7 @@
     {
         "id": 574,
         "name": "lightningrod",
-        "representation": "Lightningrod",
+        "representation": "Lightning Rod",
         "path": "/img/items/weapons/lightningrod.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -4993,7 +4993,7 @@
     {
         "id": 326,
         "name": "lostvoice",
-        "representation": "Lostvoice",
+        "representation": "Lost Voice",
         "path": "/img/items/weapons/lostvoice.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5004,7 +5004,7 @@
     {
         "id": 522,
         "name": "maalurktotem",
-        "representation": "Maalurktotem",
+        "representation": "Maalurk Totem",
         "path": "/img/items/weapons/maalurktotem.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5015,7 +5015,7 @@
     {
         "id": 577,
         "name": "maestorm",
-        "representation": "Maestorm",
+        "representation": "Maelstrom",
         "path": "/img/items/weapons/maestorm.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5026,7 +5026,7 @@
     {
         "id": 500,
         "name": "magegauntlet",
-        "representation": "Magegauntlet",
+        "representation": "Mage Gauntlet",
         "path": "/img/items/weapons/magegauntlet.png",
         "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 1, "fth": 0, "mag": 1 },
         "craftedWith": [
@@ -5063,7 +5063,7 @@
     {
         "id": 496,
         "name": "megaweapon",
-        "representation": "Megaweapon",
+        "representation": "MEGA WEAPON",
         "path": "/img/items/weapons/megaweapon.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5074,7 +5074,7 @@
     {
         "id": 567,
         "name": "mercilessgladiator",
-        "representation": "Mercilessgladiator",
+        "representation": "Merciless Gladiator",
         "path": "/img/items/weapons/mercilessgladiator.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5085,7 +5085,7 @@
     {
         "id": 464,
         "name": "missilerpg",
-        "representation": "Missilerpg",
+        "representation": "Missile RPG",
         "path": "/img/items/weapons/missilerpg.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5096,7 +5096,7 @@
     {
         "id": 547,
         "name": "molochswrath",
-        "representation": "Molochswrath",
+        "representation": "Moloch's Wrath",
         "path": "/img/items/weapons/molochswrath.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5107,7 +5107,7 @@
     {
         "id": 523,
         "name": "monkgauntlet",
-        "representation": "Monkgauntlet",
+        "representation": "Monk Gauntlet",
         "path": "/img/items/weapons/monkgauntlet.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5118,7 +5118,7 @@
     {
         "id": 512,
         "name": "mysticarrow",
-        "representation": "Mysticarrow",
+        "representation": "Mystic Arrow",
         "path": "/img/items/weapons/mysticarrow.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5129,7 +5129,7 @@
     {
         "id": 517,
         "name": "nethertorrent",
-        "representation": "Nethertorrent",
+        "representation": "Nether Torrent",
         "path": "/img/items/weapons/nethertorrent.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5166,7 +5166,7 @@
     {
         "id": 597,
         "name": "percevalswand",
-        "representation": "Percevalswand",
+        "representation": "Perceval's Wand",
         "path": "/img/items/weapons/percevalswand.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5177,7 +5177,7 @@
     {
         "id": 498,
         "name": "piratemusket",
-        "representation": "Piratemusket",
+        "representation": "Pirate Musket",
         "path": "/img/items/weapons/piratemusket.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5199,7 +5199,7 @@
     {
         "id": 596,
         "name": "plainstick",
-        "representation": "Plainstick",
+        "representation": "Plain Stick",
         "path": "/img/items/weapons/plainstick.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5262,7 +5262,7 @@
     {
         "id": 376,
         "name": "rampantgolem",
-        "representation": "Rampantgolem",
+        "representation": "Rampart Golem",
         "path": "/img/items/weapons/rampantgolem.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5284,7 +5284,7 @@
     {
         "id": 346,
         "name": "ringaboltsaxe",
-        "representation": "RingAboltsaxe",
+        "representation": "Ringabolt's Axe",
         "path": "/img/items/weapons/ringaboltsaxe.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5321,7 +5321,7 @@
     {
         "id": 573,
         "name": "sagesstaff",
-        "representation": "Sagesstaff",
+        "representation": "Sage's Staff",
         "path": "/img/items/weapons/sagesstaff.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5332,7 +5332,7 @@
     {
         "id": 495,
         "name": "schegsbow",
-        "representation": "Schegsbow",
+        "representation": "Scheg's Bow",
         "path": "/img/items/weapons/schegsbow.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5343,7 +5343,7 @@
     {
         "id": 576,
         "name": "seekerofstars",
-        "representation": "Seekerofstars",
+        "representation": "Seeker of Stars",
         "path": "/img/items/weapons/seekerofstars.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5391,7 +5391,7 @@
     {
         "id": 501,
         "name": "soulreaver",
-        "representation": "Soulreaver",
+        "representation": "Soul Reaver",
         "path": "/img/items/weapons/soulreaver.png",
         "stats": { "str": 0, "dex": 1, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
         "craftedWith": [
@@ -5406,7 +5406,7 @@
     {
         "id": 370,
         "name": "spiritlance",
-        "representation": "Spiritlance",
+        "representation": "Spirit Lance",
         "path": "/img/items/weapons/spiritlance.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5417,7 +5417,7 @@
     {
         "id": 412,
         "name": "stardestroyer",
-        "representation": "Stardestroyer",
+        "representation": "Star Destroyer",
         "path": "/img/items/weapons/stardestroyer.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5428,7 +5428,7 @@
     {
         "id": 374,
         "name": "stormbringer",
-        "representation": "Stormb RingEr",
+        "representation": "Stormbringer",
         "path": "/img/items/weapons/stormbringer.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5450,7 +5450,7 @@
     {
         "id": 564,
         "name": "summonersstaff",
-        "representation": "Summonersstaff",
+        "representation": "Summoner's Staff",
         "path": "/img/items/weapons/summonersstaff.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5461,7 +5461,7 @@
     {
         "id": 579,
         "name": "theblackmage",
-        "representation": "Theblackmage",
+        "representation": "The Blackmage",
         "path": "/img/items/weapons/theblackmage.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5472,7 +5472,7 @@
     {
         "id": 466,
         "name": "thedominator",
-        "representation": "Thedominator",
+        "representation": "The Dominator",
         "path": "/img/items/weapons/thedominator.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5483,7 +5483,7 @@
     {
         "id": 352,
         "name": "thehighwind",
-        "representation": "Thehighwind",
+        "representation": "The Highwind",
         "path": "/img/items/weapons/thehighwind.png",
         "stats": { "str": 2, "dex": 0, "vit": 2, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -5498,7 +5498,7 @@
     {
         "id": 469,
         "name": "themachine",
-        "representation": "Themachine",
+        "representation": "The Machine",
         "path": "/img/items/weapons/themachine.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5509,7 +5509,7 @@
     {
         "id": 570,
         "name": "thewhitemage",
-        "representation": "Thewhitemage",
+        "representation": "The Whitemage",
         "path": "/img/items/weapons/thewhitemage.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5520,7 +5520,7 @@
     {
         "id": 455,
         "name": "thewyvern",
-        "representation": "Thewyvern",
+        "representation": "The Wyvern",
         "path": "/img/items/weapons/thewyvern.png",
         "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 0, "fth": 0, "mag": 3 },
         "craftedWith": [
@@ -5535,7 +5535,7 @@
     {
         "id": 467,
         "name": "thezapper",
-        "representation": "Thezapper",
+        "representation": "The Zapper",
         "path": "/img/items/weapons/thezapper.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5583,7 +5583,7 @@
     {
         "id": 474,
         "name": "tropicthunder",
-        "representation": "Tropicthunder",
+        "representation": "Tropic Thunder",
         "path": "/img/items/weapons/tropicthunder.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5594,7 +5594,7 @@
     {
         "id": 562,
         "name": "twighlightstaff",
-        "representation": "Twighlightstaff",
+        "representation": "Twilight Staff",
         "path": "/img/items/weapons/twighlightstaff.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5605,7 +5605,7 @@
     {
         "id": 451,
         "name": "typhoonIX",
-        "representation": "Typhoonix",
+        "representation": "Typhoon IX",
         "path": "/img/items/weapons/typhoonIX.png",
         "stats": { "str": 0, "dex": 2, "vit": 0, "tec": 0, "fth": 0, "mag": 1 },
         "craftedWith": [
@@ -5620,7 +5620,7 @@
     {
         "id": 398,
         "name": "urugorakstooth",
-        "representation": "Urugorakstooth",
+        "representation": "Urugorak's Tooth",
         "path": "/img/items/weapons/urugorakstooth.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5657,7 +5657,7 @@
     {
         "id": 378,
         "name": "vengefulspirit",
-        "representation": "Vengefulspirit",
+        "representation": "Vengeful Spirit",
         "path": "/img/items/weapons/vengefulspirit.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5668,7 +5668,7 @@
     {
         "id": 453,
         "name": "vikinXXVII",
-        "representation": "Vikinxxvii",
+        "representation": "Viking XXVII",
         "path": "/img/items/weapons/vikinXXVII.png",
         "stats": { "str": 0, "dex": 2, "vit": 1, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [
@@ -5694,7 +5694,7 @@
     {
         "id": 470,
         "name": "voltsniper",
-        "representation": "Voltsniper",
+        "representation": "Volt Sniper",
         "path": "/img/items/weapons/voltsniper.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5705,7 +5705,7 @@
     {
         "id": 465,
         "name": "vorpalrpg",
-        "representation": "Vorpalrpg",
+        "representation": "Vorpal RPG",
         "path": "/img/items/weapons/vorpalrpg.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5716,7 +5716,7 @@
     {
         "id": 397,
         "name": "wallaceslance",
-        "representation": "Wallaceslance",
+        "representation": "Wallace's Lance",
         "path": "/img/items/weapons/wallaceslance.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5727,7 +5727,7 @@
     {
         "id": 471,
         "name": "warforgedgun",
-        "representation": "Warforgedgun",
+        "representation": "War-Forged Gun",
         "path": "/img/items/weapons/warforgedgun.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5738,7 +5738,7 @@
     {
         "id": 503,
         "name": "woltsthunder",
-        "representation": "Woltsthunder",
+        "representation": "Wolt's Thunder",
         "path": "/img/items/weapons/woltsthunder.png",
         "stats": { "str": 0, "dex": 0, "vit": 1, "tec": 0, "fth": 0, "mag": 2 },
         "craftedWith": [
@@ -5753,7 +5753,7 @@
     {
         "id": 367,
         "name": "worldreborn",
-        "representation": "Worldreborn",
+        "representation": "World Reborn",
         "path": "/img/items/weapons/worldreborn.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5764,7 +5764,7 @@
     {
         "id": 363,
         "name": "worldsend",
-        "representation": "Worldsend",
+        "representation": "World's End",
         "path": "/img/items/weapons/worldsend.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5775,7 +5775,7 @@
     {
         "id": 516,
         "name": "wrathaura",
-        "representation": "Wrathaura",
+        "representation": "Wrath Aura",
         "path": "/img/items/weapons/wrathaura.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],
@@ -5786,7 +5786,7 @@
     {
         "id": 479,
         "name": "wyvernbone",
-        "representation": "Wyvernbone",
+        "representation": "Wyvern Bone",
         "path": "/img/items/weapons/wyvernbone.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
         "craftedWith": [],

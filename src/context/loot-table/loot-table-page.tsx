@@ -10,7 +10,7 @@ export default function LootTablePage() {
   const itemService = new ItemService();
 
   const [lootTables, setLootTables] = useState<LootTable[]>([]);
-  const [ids, setIds] = useState<Map<string, number>>(new Map());
+  const [ids, setIds] = useState<Map<number, string>>(new Map());
   const [items, setItems] = useState<Item[]>([]);
 
   useEffect(() => {
@@ -26,13 +26,10 @@ export default function LootTablePage() {
         itemService.getAllItems().subscribe({
           next: (items) => {
             items.forEach((item) => {
-              item.id =
-                idMap.get(item.name.toLowerCase()) ??
-                idMap.get(item.name.toLowerCase().replace("armor", "a")) ??
-                idMap.get(item.name.toLowerCase().replace("helmet", "h")) ??
-                idMap.get(item.name.toLowerCase() + "+") ??
-                (item.name.match(/^i\d+$/) ? +item.name.replace("i", "") : undefined) ??
-                0;
+              const x = idMap.get(item.id ?? 0);
+              if (x) {
+                item.representation = x;
+              }
             });
             setItems(items.map((item) => ({ id: item.id, ...item })));
           },
