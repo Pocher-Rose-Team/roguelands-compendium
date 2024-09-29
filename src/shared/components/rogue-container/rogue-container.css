@@ -1,0 +1,9 @@
+.rogue-container {
+    background: #262627;
+    padding: 8px 10px;
+    border-top: 2px solid #262627;
+    border-left: 2px solid #262627;
+    border-right: 2px solid #1B1B1C;
+    border-bottom: 2px solid #1B1B1C;
+    box-shadow: #050505 0px 0px 0px 3px;
+}

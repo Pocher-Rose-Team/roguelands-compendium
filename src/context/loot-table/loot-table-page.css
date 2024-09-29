@@ -1,6 +1,29 @@
+.loot-table-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+}
+.loot-table-container h2 {
+    margin: 0;
+}
+.loot-table-container .image-container {
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loot-table-container .image-container img {
+    width: 100%;
+}
+.loot-table-container .flex-gap-4 {
+    display: flex;
+    gap: 4px;
+}
 .loot-table-grid {
     display: grid;
-    grid-template-columns: repeat(9, 1fr);
+    grid-template-columns: repeat(7, 1fr);
     width: min-content;
     gap: 1px;
 }

@@ -50,13 +50,13 @@
       {"id": 62, "name": "Energy Pack I", "probability": 12.12}
     ],
     "extraLoot": [
-      {"id": 900, "name": "Gallahad Ring"},
-      {"id": 901, "name": "Ezerius Ring"},
-      {"id": 902, "name": "Anelice Ring"},
-      {"id": 903, "name": "Gromwell Ring"},
-      {"id": 904, "name": "Brym Ring"},
-      {"id": 905, "name": "Falstadt Ring"},
-      {"id": 906, "name": "Roehn Ring"}
+      {"id": 900, "name": "Gallahad Ring", "probability": 2.86},
+      {"id": 901, "name": "Ezerius Ring", "probability": 2.86},
+      {"id": 902, "name": "Anelice Ring", "probability": 2.86},
+      {"id": 903, "name": "Gromwell Ring", "probability": 2.86},
+      {"id": 904, "name": "Brym Ring", "probability": 2.86},
+      {"id": 905, "name": "Falstadt Ring", "probability": 2.86},
+      {"id": 906, "name": "Roehn Ring", "probability": 2.86}
     ]
   },
   {
@@ -66,6 +66,57 @@
       "min": 1,
       "max": 200
     },
-    "loot": []
+    "loot": [
+      "Kein Loot > 1/11 = 0.09090909090909 = 9.09%",
+      {"id": 0, "name": "No Loot", "probability": 9.09},
+
+      "Random Loot > 6/11 = 0.5454545454 = 54.54% -> *1/17 = 0.03208 = 3.208%",
+      {"id": 1, "name": "Planet Stone", "probability": 3.21},
+      {"id": 2, "name": "Orichalcum", "probability": 3.21},
+      {"id": 3, "name": "Galacticite", "probability": 3.21},
+      {"id": 4, "name": "Zephyr", "probability": 3.21},
+
+      {"id": 11, "name": "Tasty Herb", "probability": 3.21},
+      {"id": 12, "name": "Glowshroom", "probability": 3.21},
+      {"id": 13, "name": "Spicy Seed", "probability": 3.21},
+      {"id": 14, "name": "Star Fruit", "probability": 3.21},
+
+      {"id": 21, "name": "Creature Eyeball", "probability": 3.21},
+      {"id": 22, "name": "Monster Claw", "probability": 3.21},
+      {"id": 23, "name": "Chitin Fragment", "probability": 3.21},
+      {"id": 24, "name": "Beast Heart", "probability": 3.21},
+
+      {"id": 31, "name": "Flutterfly", "probability": 3.21},
+      {"id": 32, "name": "Dung Beetle", "probability": 3.21},
+      {"id": 33, "name": "Ghast Bug", "probability": 3.21},
+      {"id": 34, "name": "Thunderworm", "probability": 3.21},
+
+      {"id": 1001, "name": "FLWR 08", "probability": 0.267},
+      {"id": 1002, "name": "BAT 17", "probability": 0.267},
+      {"id": 1003, "name": "OBSIDIAN 64", "probability": 0.267},
+      {"id": 1004, "name": "HELPR 55", "probability": 0.267},
+      {"id": 1005, "name": "GUARDIAN 07", "probability": 0.267},
+      {"id": 1012, "name": "SOLAR 05", "probability": 0.267},
+      {"id": 1013, "name": "PRISM 88", "probability": 0.267},
+      {"id": 1014, "name": "MONOLTH 25", "probability": 0.267},
+      {"id": 1015, "name": "FARMHAND 78", "probability": 0.267},
+      {"id": 1016, "name": "BULB 88", "probability": 0.267},
+      {"id": 1017, "name": "BTTRFLY 8", "probability": 0.267},
+      {"id": 1018, "name": "DRAGON 67", "probability": 0.267},
+
+      "Random Potion > 4/11 = 0.363636363636 = 36.36%",
+      {"id": 60, "name": "Health Pack I", "probability": 12.12},
+      {"id": 61, "name": "Mana Pack I", "probability": 12.12},
+      {"id": 62, "name": "Energy Pack I", "probability": 12.12}
+    ],
+    "extraLoot": [
+      {"id": 900, "name": "Gallahad Ring", "probability": 2.86},
+      {"id": 901, "name": "Ezerius Ring", "probability": 2.86},
+      {"id": 902, "name": "Anelice Ring", "probability": 2.86},
+      {"id": 903, "name": "Gromwell Ring", "probability": 2.86},
+      {"id": 904, "name": "Brym Ring", "probability": 2.86},
+      {"id": 905, "name": "Falstadt Ring", "probability": 2.86},
+      {"id": 906, "name": "Roehn Ring", "probability": 2.86}
+    ]
   }
 ]
