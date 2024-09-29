@@ -46,7 +46,7 @@ export class LootTableService {
       if (item) {
         item.description = `${loot.probability}%`;
         item.foundIn = [];
-        loot.item = item;
+        loot.item = { ...item };
       }
     });
   }
