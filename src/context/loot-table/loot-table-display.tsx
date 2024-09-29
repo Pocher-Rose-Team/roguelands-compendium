@@ -12,9 +12,10 @@ export default function LootTableDisplay({ lootTable }: LootTableDisplayAttribut
       <h2>{lootTable.name}</h2>
       <img src={lootTable.path} alt={lootTable.name} style={{ transform: "scale(2.0)" }} />
       <p>
-        Credits: {lootTable.credits.min}-{lootTable.credits.max}
+        Credits: {lootTable.credits.min}-{lootTable.credits.max} Scrap Metal:{" "}
+        {lootTable.credits.min}-{lootTable.credits.max}
       </p>
-      <p>Loot</p>
+      <p>Rolled 3 times</p>
       <div className="loot-table-grid">
         {lootTable.loot.map((loot, i) => (
           <ItemSlot key={"itm" + i} type={ItemSlotType.INVENTORY} item={loot.item} />
