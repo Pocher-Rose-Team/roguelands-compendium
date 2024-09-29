@@ -21,7 +21,7 @@ export default function LootTablePage() {
     <div>
       <h1>Loot tables</h1>
 
-      <div style={{ display: "flex", gap: 60 }}>
+      <div style={{ display: "flex", gap: 40, flexWrap: "wrap" }}>
         {lootTables.map((table, i) => (
           <LootTableDisplay key={"ltd" + i} lootTable={table} />
         ))}

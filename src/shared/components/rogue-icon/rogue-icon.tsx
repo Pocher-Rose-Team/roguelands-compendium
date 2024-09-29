@@ -29,9 +29,11 @@ export default function RogueIcon({ itemId, size }: RogueItemAttributes) {
     <div style={{ position: "relative", width: _size }}>
       {item && (
         <img
+          className="disable-select"
           src={item.path}
           alt={item.name}
           style={{
+            pointerEvents: "none",
             width: _size * 2.5,
             position: "absolute",
             top: "50%",

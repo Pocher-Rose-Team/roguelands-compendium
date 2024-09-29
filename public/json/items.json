@@ -2986,6 +2986,17 @@
         "type": "misc"
     },
     {
+        "id": 51,
+        "name": "i51",
+        "representation": "World Fragment",
+        "path": "/img/items/misc/i51.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "",
+        "foundIn": [],
+        "type": "misc"
+    },
+    {
         "id": 52,
         "name": "i52",
         "representation": "Credit",

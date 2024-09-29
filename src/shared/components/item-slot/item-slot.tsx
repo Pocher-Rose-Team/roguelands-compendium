@@ -30,7 +30,14 @@ export default function ItemSlot({ item, type, amount, onClick, isSelected }: It
 
   return (
     <div className={`item-slot ${selected ? "selected" : ""} ${type}`}>
-      {item && <img src={item.path} alt={item.name} />}
+      {item && (
+        <img
+          className="disable-select"
+          style={{ pointerEvents: "none" }}
+          src={item.path}
+          alt={item.name}
+        />
+      )}
       <span className="item-amount disable-select">{amount && amount > 1 ? amount : ""}</span>
       <div
         onClick={handleClick}

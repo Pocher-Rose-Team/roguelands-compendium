@@ -16,6 +16,7 @@
 }
 .loot-table-container .image-container img {
     width: 100%;
+    max-width: 60px;
 }
 .loot-table-container .flex-gap-4 {
     display: flex;

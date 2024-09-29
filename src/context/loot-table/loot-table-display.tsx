@@ -26,24 +26,35 @@ export default function LootTableDisplay({ lootTable }: LootTableDisplayAttribut
             <h2>{lootTable.name}</h2>
           </RogueContainer>
           <RogueContainer className="flex-gap-4">
-            {lootTable.credits.min}-{lootTable.credits.max}
+            {lootTable.credits
+              ? `${lootTable.credits.min}${lootTable.credits.max ? "-" + lootTable.credits.max : ""}`
+              : "0"}
             <RogueIcon itemId={ItemId.CREDIT} />
             &nbsp;&nbsp;&nbsp;&nbsp;
-            {lootTable.credits.min}-{lootTable.credits.max}
+            {lootTable.scrapmetal
+              ? `${lootTable.scrapmetal.min}${lootTable.scrapmetal.max ? "-" + lootTable.scrapmetal.max : ""}`
+              : "0"}
             <RogueIcon itemId={ItemId.SCRAP_METAL} />
           </RogueContainer>
         </div>
         <RogueContainer className="image-container">
-          <img src={lootTable.path} alt={lootTable.name} style={{ transform: "scale(2.0)" }} />
+          <img src={lootTable.path} alt={lootTable.name} />
         </RogueContainer>
       </div>
-      <RogueContainer>Rolled 3 times:</RogueContainer>
+      <RogueContainer>{lootTable.description}</RogueContainer>
       <div className="loot-table-grid">
         {fillWithEmptySlots(lootTable.loot).map((loot, i) => (
-          <ItemSlot key={"itm" + i} type={ItemSlotType.INVENTORY} item={loot.item} />
+          <ItemSlot
+            key={"itm" + i}
+            type={ItemSlotType.INVENTORY}
+            item={loot.item}
+            amount={loot.count}
+          />
         ))}
       </div>
-      <RogueContainer>Special loot:</RogueContainer>
+      {lootTable.extraLoot && lootTable.extraLoot.length > 0 && (
+        <RogueContainer>Special loot:</RogueContainer>
+      )}
       <div className="loot-table-grid">
         {fillWithEmptySlots(lootTable.extraLoot).map((loot, i) => (
           <ItemSlot key={"itm" + i} type={ItemSlotType.INVENTORY} item={loot.item} />
