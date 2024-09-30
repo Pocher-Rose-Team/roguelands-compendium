@@ -8,6 +8,7 @@ import MainPage from "./context/main/main-page";
 import SearchPage from "./context/search/search-page";
 import ItemEditor from "./context/item-editor/item-editor";
 import LootTablePage from "./context/loot-table/loot-table-page";
+import BiomePage from "./context/biom/biome-page";
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement);
 root.render(
@@ -18,6 +19,7 @@ root.render(
           <Route path="/" element={<MainPage />} />
           <Route path="crafting" element={<CraftingPage />} />
           <Route path="loot-tables" element={<LootTablePage />} />
+          <Route path="bioms" element={<BiomePage />} />
           <Route path="search" element={<SearchPage />} />
           <Route path="editor/:itemname" element={<ItemEditor />} />
           <Route path="editor" element={<ItemEditor />} />

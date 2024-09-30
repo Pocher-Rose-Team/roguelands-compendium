@@ -18,7 +18,7 @@
 Single Platform:
 ```
 ++++++++++++++++++++
-+                  +  -> Top 7 Slots
++                  +  -> Top 6 Slots
 +   [==========]   +
 +                  +  -> Bottom 11 Slots
 ++++++++++++++++++++
