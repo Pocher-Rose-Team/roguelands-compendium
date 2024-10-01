@@ -39,4 +39,15 @@ export class BiomeService {
       ),
     );
   }
+
+  getAllBiomesAsMap(): Observable<Map<string, Biome>> {
+    return this.getAllBiomes().pipe(
+      map((allBiomes) =>
+        allBiomes.reduce((map, biome) => {
+          map.set(biome.name, biome);
+          return map;
+        }, new Map<string, Biome>()),
+      ),
+    );
+  }
 }

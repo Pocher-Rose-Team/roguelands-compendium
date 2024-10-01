@@ -42,5 +42,5 @@ export default function BiomeProbabilityChart({
     },
   };
 
-  return <Bar data={chartData} options={options} />;
+  return <Bar data={chartData} options={options} style={{ maxWidth: 300, maxHeight: 200 }} />;
 }

@@ -11,7 +11,7 @@ export default function CompendiumMenu() {
       <div className="menu-wrapper">
         <RogueButton text="Crafting" route={"/crafting"} />
         <RogueButton text="Loot tables" route={"/loot-tables"} />
-        <RogueButton text="Bioms" route={"/bioms"} />
+        <RogueButton text="Biomes" route={"/biomes"} />
         <RogueButton text="Search" route={"/search"} />
         <RogueButton text="Editor" route={"/editor"} />
       </div>
