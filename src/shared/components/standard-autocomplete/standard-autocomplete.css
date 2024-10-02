@@ -27,3 +27,7 @@
 .MuiAutocomplete-popper > * {
     background-color: #0F0F0F !important;
 }
+
+.standard-autocomplete .active {
+    background-color: #b3d4fc; /* Highlight color; Also does not work yet :( */
+  }

@@ -1,6 +1,7 @@
 import { Outlet } from "react-router-dom";
-import CompendiumMenu from "./root/compendium-menu";
 import { createTheme, ThemeProvider } from "@mui/material";
+import ShoppingCartButton from "./root/shopping-cart/shopping-card-button";
+import CompendiumMenu from "./root/menu/compendium-menu";
 
 const theme = createTheme({
   typography: {
@@ -13,6 +14,7 @@ export default function RootLayout() {
     <ThemeProvider theme={theme}>
       <div className="root-layout">
         <CompendiumMenu />
+        <ShoppingCartButton />
         <div className="content-wrapper">
           <Outlet />
         </div>

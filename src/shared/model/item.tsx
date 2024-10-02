@@ -18,6 +18,15 @@ export interface Item {
   type: ItemType;
 }
 
+export enum StatType {
+  VIT = "vit",
+  DEX = "dex",
+  MAG = "mag",
+  STR = "str",
+  TEC = "tec",
+  FTH = "fth"
+}
+
 export enum ItemType {
   ARMOR = "armor",
   DROIDS = "droids",

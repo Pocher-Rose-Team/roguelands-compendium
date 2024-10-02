@@ -1,8 +1,9 @@
 import { HttpClient } from "./http-client";
-import { map, Observable, of, tap } from "rxjs";
-import { Item, ItemType } from "../model/item";
+import { filter, map, Observable, of, skip, take, tap, toArray } from "rxjs";
+import { Item, ItemType, StatType } from "../model/item";
 
 export class ItemService {
+
   private http: HttpClient;
 
   private readonly defaultItem: Item = {
@@ -87,5 +88,32 @@ export class ItemService {
     return this.getAllItems().pipe(
       map((allItems) => allItems.filter((item) => item.type === type)),
     );
+  }
+  getLeastUsedItems(type?: ItemType): Observable<Item[]> {
+    return this.getAllItems().pipe(
+      map(items => items.filter(item => !type || item.type === type).slice(0, 7)) // Ensures only first 10 items
+    );
+  }
+  
+  getMostUsedItems(type?: ItemType): Observable<Item[]> {
+    return this.getAllItems().pipe(
+      map(items => items.filter(item => !type || item.type === type).slice(10, 17)) // Skips 10 and takes the next 10 items
+    );
+  }
+  getRecommendedItems(stat1: StatType, stat2: StatType): Observable<Item[]> {
+    return this.getAllItems().pipe(
+      map((items: Item[]) => 
+          items
+              .sort((a: Item, b: Item) => {
+                  // Calculate the total stat score for both stat1 and stat2
+                  const scoreA = (a.stats[stat1] || 0) + (a.stats[stat2] || 0);
+                  const scoreB = (b.stats[stat1] || 0) + (b.stats[stat2] || 0);
+                  
+                  // Sort by the combined value of stat1 and stat2 in descending order
+                  return scoreB - scoreA;
+              })
+              .slice(0, 10) // Return the top 10 items
+      )
+  );
   }
 }
