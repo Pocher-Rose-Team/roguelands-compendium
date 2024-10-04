@@ -39,10 +39,13 @@ export default function CraftingPage() {
           <EmblemRecipeDisplay key={i} recipe={recipe} />
         ))}
       </div>
-      <div className="potion-crafting-grid">
-        {potionRecipes.map((recipe, i) => (
-          <RecipeDisplay key={i} recipe={recipe} />
-        ))}
+      <div>
+        <h1>potions</h1>
+        <div className="potion-crafting-grid">
+          {potionRecipes.map((recipe, i) => (
+            <RecipeDisplay key={i} recipe={recipe} />
+          ))}
+        </div>
       </div>
       {Object.entries(Object.fromEntries(itemRecipes)).map(([itemType, recipes], i) => (
         <div>

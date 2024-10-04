@@ -3090,8 +3090,12 @@
         "representation": "Aetherdew",
         "path": "/img/items/potions/aetherdew.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "plasmamoth" },
+            { "amount": 1, "item": "chaosleaf" },
+            { "amount": 1, "item": "ectoplasm" }
+        ],
+        "description": "Grants 3 portal uses to The Cathedral.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3101,8 +3105,12 @@
         "representation": "Elixir",
         "path": "/img/items/potions/elixir.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "glowfly" },
+            { "amount": 1, "item": "shinyscale" },
+            { "amount": 1, "item": "aetherbulb" }
+        ],
+        "description": "Restores 12 HP, 30 Mana, & 100 Stamina",
         "foundIn": [],
         "type": "potions"
     },
@@ -3112,8 +3120,12 @@
         "representation": "Anti-Frost",
         "path": "/img/items/potions/frostpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "ghastbug" },
+            { "amount": 1, "item": "chitinfragment" },
+            { "amount": 1, "item": "spicyseed" }
+        ],
+        "description": "Reduces Frost 50%.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3123,8 +3135,12 @@
         "representation": "Health Pack III",
         "path": "/img/items/potions/healthpotionlarge.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "shinyscale" },
+            { "amount": 1, "item": "aetherbulb" },
+            { "amount": 1, "item": "glowfly" }
+        ],
+        "description": "Restores 12 HP.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3134,8 +3150,12 @@
         "representation": "Health Pack II",
         "path": "/img/items/potions/healthpotionmedium.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "spicyseed" },
+            { "amount": 1, "item": "chitinfragment" },
+            { "amount": 1, "item": "ghastbug" }
+        ],
+        "description": "Restores 5 HP.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3145,8 +3165,12 @@
         "representation": "Health Pack I",
         "path": "/img/items/potions/healthpotionsmall.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "tastyherb" },
+            { "amount": 1, "item": "creatureeyeball" },
+            { "amount": 1, "item": "flutterfly" }
+        ],
+        "description": "Restores 2 HP.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3156,8 +3180,12 @@
         "representation": "Anti-Heat",
         "path": "/img/items/potions/heatpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "thunderworm" },
+            { "amount": 1, "item": "beastheart" },
+            { "amount": 1, "item": "starfruit" }
+        ],
+        "description": "Reduces Burn value by 50%.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3167,8 +3195,12 @@
         "representation": "Mana Pack III",
         "path": "/img/items/potions/manapotionlarge.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "shinyscale" },
+            { "amount": 1, "item": "glowfly" },
+            { "amount": 1, "item": "aetherbulb" }
+        ],
+        "description": "Restores 30 Mana.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3178,8 +3210,12 @@
         "representation": "Mana Pack II",
         "path": "/img/items/potions/manapotionmedium.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "spicyseed" },
+            { "amount": 1, "item": "ghastbug" },
+            { "amount": 1, "item": "chitinfragment" }
+        ],
+        "description": "Restores 15 Mana.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3189,8 +3225,12 @@
         "representation": "Mana Pack I",
         "path": "/img/items/potions/manapotionsmall.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "tastyherb" },
+            { "amount": 1, "item": "flutterfly" },
+            { "amount": 1, "item": "creatureeyeball" }
+        ],
+        "description": "Restores 5 Mana.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3200,8 +3240,12 @@
         "representation": "Nuldmg Potion",
         "path": "/img/items/potions/nulldmgpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "creatureeyeball" },
+            { "amount": 1, "item": "flutterfly" },
+            { "amount": 1, "item": "tastyherb" }
+        ],
+        "description": "Reduces incoming damage by half for 5 mins.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3211,8 +3255,12 @@
         "representation": "Anti-Poison",
         "path": "/img/items/potions/poisonpotion.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "dungbeetle" },
+            { "amount": 1, "item": "monsterclaw" },
+            { "amount": 1, "item": "glowshroom" }
+        ],
+        "description": "Reduces poison value by 50%.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3222,8 +3270,12 @@
         "representation": "Energy Pack III",
         "path": "/img/items/potions/staminapotionlarge.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "glowfly" },
+            { "amount": 1, "item": "aetherbulb" },
+            { "amount": 1, "item": "shinyscale" }
+        ],
+        "description": "Restores 100 Stamina.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3233,8 +3285,12 @@
         "representation": "Energy Pack II",
         "path": "/img/items/potions/staminapotionmedium.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "ghastbug" },
+            { "amount": 1, "item": "spicyseed" },
+            { "amount": 1, "item": "chitinfragment" }
+        ],
+        "description": "Restores 30 Stamina.",
         "foundIn": [],
         "type": "potions"
     },
@@ -3244,8 +3300,12 @@
         "representation": "Energy Pack I",
         "path": "/img/items/potions/staminapotionsmall.png",
         "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
-        "craftedWith": [],
-        "description": "",
+        "craftedWith": [
+            { "amount": 1, "item": "creatureeyeball" },
+            { "amount": 1, "item": "tastyherb" },
+            { "amount": 1, "item": "flutterfly" }
+        ],
+        "description": "Restores 10 Stamina.",
         "foundIn": [],
         "type": "potions"
     },

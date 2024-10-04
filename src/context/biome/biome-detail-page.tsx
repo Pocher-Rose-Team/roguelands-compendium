@@ -43,8 +43,13 @@ export default function BiomeDetailPage() {
 
   return (
     <div>
+      <div
+        style={{
+          backgroundImage: `url("/img/environment/${biome?.name.toLowerCase()}/banner.png")`,
+        }}
+      ></div>
       <h1>Probability Distributions ({biome?.name})</h1>
-      <div style={{ display: "flex", flexWrap: "wrap", gap: 20 }}>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 60 }}>
         {biome &&
           Array.from(biome.frequencyMap.entries()).map(
             ([objectName, countFrequencyMap]: [string, Map<number, number>]) => (
