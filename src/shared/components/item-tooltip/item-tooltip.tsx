@@ -20,11 +20,12 @@ interface ItemTooltipAttributes {
 export default function ItemTooltip({ item }: ItemTooltipAttributes) {
   const mousePos = useMousePosition();
   const windowSize = useWindowSize();
-  const flipped = mousePos.x > windowSize.width * 0.9 ? "flipped" : "";
+  const flippedX = mousePos.x > windowSize.width * 0.9 ? "flipped-x" : "";
+  const flippedY = mousePos.y > windowSize.height * 0.9 ? "flipped-y" : "";
   const statOrNone = (stat: number) => (stat > 0 ? stat : "");
 
-  return mousePos.x && mousePos.x !== 0 ? (
-    <div className={`item-tooltip ${flipped}`}>
+  return mousePos.x && mousePos.x !== 0 && mousePos.y && mousePos.y !== 0 ? (
+    <div className={`item-tooltip ${flippedX} ${flippedY}`}>
       {item?.representation ? (
         <span>{item?.representation}</span>
       ) : (

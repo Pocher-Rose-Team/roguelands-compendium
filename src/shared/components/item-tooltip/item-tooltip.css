@@ -13,9 +13,13 @@
     flex-direction: column;
     gap: 8px;
 }
-.item-tooltip.flipped {
+.item-tooltip.flipped-x {
     left: unset;
     right: 80%;
+}
+.item-tooltip.flipped-y {
+    top: unset;
+    bottom: 80%;
 }
 .item-tooltip span {
     font-size: 1.2em;
