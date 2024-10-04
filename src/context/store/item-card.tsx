@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Typography, IconButton } from "@mui/material";
-import { Item } from "../../model/item";
-import ShoppingCartIcon from "../../../root/shopping-cart/shopping-cart-icon";
+import { Item } from "../../shared/model/item";
+import ShoppingCartIcon from "../../root/shopping-cart/shopping-cart-icon";
 
 interface ItemCardProps {
   item: Item;

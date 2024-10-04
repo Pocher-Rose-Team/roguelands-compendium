@@ -1,0 +1,25 @@
+.standard-tab-container, .standard-tab-container button {
+    min-height: 40px;
+}
+.standard-tab-container button {
+    color: #fff;
+    font-size: 1.2em;
+    background: #1C1C1C;
+    border-top: 2px solid #262627;
+    border-left: 2px solid #262627;
+    border-right: 2px solid #1B1B1C;
+    border-bottom: 2px solid #1B1B1C;
+    box-shadow: #050505 0px 0px 0px 3px;
+}
+.standard-tab-container button.Mui-selected {
+    color: #fff;
+    background: #252525;
+    border-top: 2px solid #3d3d3f;
+    border-left: 2px solid #3d3d3f;
+    border-right: 2px solid #2c2c2d;
+    border-bottom: 2px solid #2c2c2d;
+}
+.standard-tab-container .MuiTabs-indicator {
+    background-color: #fff;
+    width: calc(100% - 5px);
+}

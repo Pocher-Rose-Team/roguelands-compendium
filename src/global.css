@@ -40,6 +40,10 @@ svg * {
   fill: #fff;
 }
 
+img {
+  image-rendering: pixelated;
+}
+
 .root-layout {
   min-height: 100vh;
   display: flex;
