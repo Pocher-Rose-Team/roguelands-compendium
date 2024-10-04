@@ -21,7 +21,7 @@ export default function BiomeProbabilityChart({
     labels,
     datasets: [
       {
-        label: `Frequency of ${biomeKey}`,
+        label: `Times in biome occured`,
         data: counts,
         backgroundColor: "rgba(75, 192, 192, 0.2)",
         borderColor: "rgba(75, 192, 192, 1)",

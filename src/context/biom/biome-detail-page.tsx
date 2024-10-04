@@ -15,6 +15,17 @@ export default function BiomeDetailPage() {
         const biome = biomes.get(biomekey ?? "");
         if (biome) {
           setBiome(biome);
+
+          // Merge 2 enries:
+          // const arr1 = (Array.from(Object.entries(biome.objects))
+          //   .filter(([k, v]) => k === "glibglob")
+          //   .pop() ?? [])[1];
+          // const arr2 = (Array.from(Object.entries(biome.objects))
+          //   .filter(([k, v]) => k === "glibglob2")
+          //   .pop() ?? [])[1];
+          //
+          // const res = arr1.map((v: number, i: number) => v + arr2[i]);
+          // console.log(JSON.stringify(res), res.length);
         }
       },
       error: console.error,
