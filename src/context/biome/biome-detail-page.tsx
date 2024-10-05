@@ -54,7 +54,16 @@ export default function BiomeDetailPage() {
           Array.from(biome.frequencyMap.entries()).map(
             ([objectName, countFrequencyMap]: [string, Map<number, number>]) => (
               <div key={objectName} style={{ position: "relative" }}>
-                <h2 style={{ marginTop: 0 }}>{objectName}</h2>
+                <h2 style={{ marginTop: 0 }}>
+                  {objectName}
+                  &nbsp;&nbsp;-&nbsp;&nbsp;
+                  <strong style={{ fontSize: "0.8em" }}>&#8960;</strong>&nbsp;
+                  {Math.round(
+                    Array.from(countFrequencyMap.entries())
+                      .map(([count, freq]) => count * freq)
+                      .reduce((a, b) => a + b) / biome.runs,
+                  )}
+                </h2>
                 <img
                   src={getObjectImageSrc(biome.name, objectName)}
                   alt={objectName}
