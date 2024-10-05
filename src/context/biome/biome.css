@@ -1,0 +1,24 @@
+.biome-detail-page .biome-banner {
+    position: relative;
+    margin-bottom: 20px;
+    min-height: 100px;
+}
+.biome-detail-page .biome-banner img {
+    left: 0;
+    top: 0;
+    width: 100%;
+    filter: contrast(1.4) brightness(0.3);
+}
+.biome-detail-page .biome-banner h1 {
+    position: absolute;
+    margin: 0;
+    bottom: 30px;
+    left: 40px;
+    font-size: 3em;
+    text-shadow: 4px 4px #000;
+}
+.biome-detail-page .biome-chart-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}

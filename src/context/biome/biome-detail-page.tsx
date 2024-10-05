@@ -3,6 +3,8 @@ import { BiomeService } from "../../shared/service/biome-service";
 import { Biome } from "../../shared/model/biome.model";
 import BiomeProbabilityChart from "./biome-probability-chart";
 import { useParams } from "react-router-dom";
+import "./biome.css";
+import RogueContainer from "../../shared/components/rogue-container/rogue-container";
 
 export default function BiomeDetailPage() {
   const { biomekey } = useParams<{ biomekey: string }>();
@@ -42,38 +44,38 @@ export default function BiomeDetailPage() {
   };
 
   return (
-    <div>
-      <div
-        style={{
-          backgroundImage: `url("/img/environment/${biome?.name.toLowerCase()}/banner.png")`,
-        }}
-      ></div>
-      <h1>Probability Distributions ({biome?.name})</h1>
-      <div style={{ display: "flex", flexWrap: "wrap", gap: 60 }}>
+    <div className="biome-detail-page">
+      <div className="biome-banner">
+        <img src={`/img/environment/${biome?.name.toLowerCase()}/banner.jpg`} alt="" />
+        <h1>Probability Distributions - {biome?.name}</h1>
+      </div>
+      <div className="biome-chart-grid">
         {biome &&
           Array.from(biome.frequencyMap.entries()).map(
             ([objectName, countFrequencyMap]: [string, Map<number, number>]) => (
-              <div key={objectName} style={{ position: "relative" }}>
-                <h2 style={{ marginTop: 0 }}>
-                  {objectName}
-                  &nbsp;&nbsp;-&nbsp;&nbsp;
-                  <strong style={{ fontSize: "0.8em" }}>&#8960;</strong>&nbsp;
-                  {Math.round(
-                    Array.from(countFrequencyMap.entries())
-                      .map(([count, freq]) => count * freq)
-                      .reduce((a, b) => a + b) / biome.runs,
-                  )}
-                </h2>
-                <img
-                  src={getObjectImageSrc(biome.name, objectName)}
-                  alt={objectName}
-                  style={{ position: "absolute", right: 0, top: 0, width: 50 }}
-                />
-                <BiomeProbabilityChart
-                  countFrequencyMap={countFrequencyMap}
-                  biomeKey={objectName}
-                />
-              </div>
+              <RogueContainer>
+                <div key={objectName} style={{ position: "relative", margin: "10px 12px 5px" }}>
+                  <h2 style={{ marginTop: 0 }}>
+                    {objectName}
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+                    <strong style={{ fontSize: "0.8em" }}>&#8960;</strong>&nbsp;
+                    {Math.round(
+                      Array.from(countFrequencyMap.entries())
+                        .map(([count, freq]) => count * freq)
+                        .reduce((a, b) => a + b) / biome.runs,
+                    )}
+                  </h2>
+                  <img
+                    src={getObjectImageSrc(biome.name, objectName)}
+                    alt={objectName}
+                    style={{ position: "absolute", right: 0, top: 0, width: 50 }}
+                  />
+                  <BiomeProbabilityChart
+                    countFrequencyMap={countFrequencyMap}
+                    biomeKey={objectName}
+                  />
+                </div>
+              </RogueContainer>
             ),
           )}
       </div>
