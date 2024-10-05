@@ -1,6 +1,11 @@
 [
   {
     "name": "DesolateCanyon",
+    "portalTo": {
+      "DesolateCanyon": 0.5,
+      "DeepJungle": 0.25,
+      "HollowCavern": 0.25
+    },
     "runs": 1000,
     "objects": {
       "tree": [
@@ -449,6 +454,11 @@
   },
   {
     "name": "DeepJungle",
+    "portalTo": {
+      "DeepJungle": 0.5,
+      "DesolateCanyon": 0.25,
+      "HollowCavern": 0.25
+    },
     "runs": 1000,
     "objects": {
       "chest": [
@@ -811,6 +821,11 @@
   {
     "name": "HollowCaverns",
     "runs": 1000,
+    "portalTo": {
+      "HollowCavern": 0.5,
+      "Shroomtown": 0.25,
+      "AncientRuins": 0.25
+    },
     "objects": {
       "rockspider": [
         10, 11, 9, 10, 9, 8, 11, 7, 9, 7, 9, 16, 8, 7, 12, 12, 12, 7, 7, 7, 8, 13, 9, 17, 4, 10,
@@ -1175,6 +1190,12 @@
   {
     "name": "Shroomtown",
     "runs": 1000,
+    "portalTo": {
+      "AncientRuins": 0.4,
+      "Shroomtown": 0.3,
+      "HollowCavern": 0.2,
+      "DeepJungle": 0.1
+    },
     "objects": {
       "shroomy": [
         16, 15, 9, 9, 9, 10, 19, 10, 12, 17, 9, 13, 8, 10, 6, 8, 8, 12, 14, 14, 12, 12, 11, 9,
@@ -1464,6 +1485,11 @@
   {
     "name": "AncientRuins",
     "runs": 1000,
+    "portalTo": {
+      "AncientRuins": 0.5,
+      "Plaguelands": 0.25,
+      "Byfrost": 0.25
+    },
     "objects": {
       "ancientbuilding": [
         27, 26, 23, 15, 22, 20, 23, 30, 30, 27, 28, 23, 24, 28, 24, 19, 23, 26, 19, 29, 22, 21,
@@ -1842,6 +1868,11 @@
   },
   {
     "name": "Plaguelands",
+    "portalTo": {
+      "Plaguelands": 0.5,
+      "Byfrost": 0.25,
+      "MoltenCrag": 0.25
+    },
     "runs": 1000,
     "objects": {
       "sponge": [
@@ -2177,6 +2208,11 @@
   },
   {
     "name": "Byfrost",
+    "portalTo": {
+      "Byfrost": 0.5,
+      "Plaguelands": 0.25,
+      "MoltenCrag": 0.25
+    },
     "runs": 1000,
     "objects": {
       "bugspot": [
@@ -2578,6 +2614,11 @@
   },
   {
     "name": "MoltenCrag",
+    "portalTo": {
+      "Whisperwood": 0.45,
+      "Byfrost": 0.3,
+      "Demonsrift": 0.25
+    },
     "runs": 1000,
     "objects": {
       "fireslime": [
@@ -2945,6 +2986,11 @@
   },
   {
     "name": "DemonsRift",
+    "portalTo": {
+      "Demonsrift": 0.5,
+      "Whisperwood": 0.25,
+      "MoltenCrag": 0.25
+    },
     "runs": 1000,
     "objects": {
       "demon": [
@@ -3010,6 +3056,11 @@
   },
   {
     "name": "Whisperwood",
+    "portalTo": {
+      "Whisperwood": 0.5,
+      "Demonsrift": 0.25,
+      "MoltenCrag": 0.25
+    },
     "runs": 1000,
     "objects": {
       "tree": [
@@ -3334,6 +3385,9 @@
   },
   {
     "name": "Cathedral",
+    "portalTo": {
+      "Cathedral": 1.0
+    },
     "runs": 1000,
     "objects": {
       "tree": [
