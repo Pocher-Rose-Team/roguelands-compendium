@@ -8,19 +8,19 @@ export default function CompendiumMenu() {
 
   return (
     <>
-      {location.pathname !== "/" && (
+      {location.pathname !== "/roguelands-compendium" && (
         <div className="compendium-menu">
-          <Link to="/">
+          <Link to="/roguelands-compendium">
             <img className="logo" src="/logo192.png" alt="logo" />
           </Link>
 
           <div className="menu-wrapper">
-            <RogueButton text="Store" route={"/store"} />
-            <RogueButton text="Crafting" route={"/crafting"} />
-            <RogueButton text="Loot tables" route={"/loot-tables"} />
-            <RogueButton text="Biomes" route={"/biomes"} />
-            {/*<RogueButton text="Search" route={"/search"} />*/}
-            {/*<RogueButton text="Editor" route={"/editor"} />*/}
+            <RogueButton text="Store" route={"/roguelands-compendium/store"} />
+            <RogueButton text="Crafting" route={"/roguelands-compendium/crafting"} />
+            <RogueButton text="Loot tables" route={"/roguelands-compendium/loot-tables"} />
+            <RogueButton text="Biomes" route={"/roguelands-compendium/biomes"} />
+            {/*<RogueButton text="Search" route={"/roguelands-compendium/search"} />*/}
+            {/*<RogueButton text="Editor" route={"/roguelands-compendium/editor"} />*/}
           </div>
 
           <ShoppingCartButton />

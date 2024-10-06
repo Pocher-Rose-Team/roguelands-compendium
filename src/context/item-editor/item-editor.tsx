@@ -135,9 +135,9 @@ const ItemEditor: React.FC = () => {
           });
       });
       if (foundItem !== "") {
-        navigate("/editor/" + foundItem);
+        navigate("/roguelands-compendium/editor/" + foundItem);
       } else {
-        navigate("/search");
+        navigate("/roguelands-compendium/search");
       }
     }
   };

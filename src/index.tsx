@@ -17,8 +17,8 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<RootLayout />}>
-          <Route path="/" element={<MainPage />} />
+        <Route path="roguelands-compendium" element={<RootLayout />}>
+          <Route path="" element={<MainPage />} />
           <Route path="crafting" element={<CraftingPage />} />
           <Route path="loot-tables" element={<LootTablePage />} />
           <Route path="biomes" element={<BiomeOverviewPage />} />

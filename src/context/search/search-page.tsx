@@ -69,7 +69,7 @@ const ItemSearch: React.FC = () => {
 
   // Handle clicking on an item
   const handleItemClick = (itemName: string) => {
-    navigate(`/editor/${itemName}`);
+    navigate(`/roguelands-compendium/editor/${itemName}`);
   };
 
   const downloadJson = () => {

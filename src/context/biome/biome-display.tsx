@@ -12,7 +12,7 @@ export default function BiomeDisplay({ biome }: BiomeDisplayAttributes) {
   return (
     <div
       style={{ display: "flex", alignItems: "center", flexDirection: "column", cursor: "pointer" }}
-      onClick={() => navigate(`/biomes/${biome.name}`)}
+      onClick={() => navigate(`/roguelands-compendium/biomes/${biome.name}`)}
     >
       <img src={`/img/worldIcons/${biome.name}Icon.png`} alt={biome.name} style={{ width: 125 }} />
       <h2>{biome.name}</h2>
