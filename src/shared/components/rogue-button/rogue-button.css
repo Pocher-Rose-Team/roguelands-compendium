@@ -12,3 +12,13 @@
 .rogue-button:hover .button-text {
     animation: text-pulse 0.2s;
 }
+
+@media (max-width: 720px) {
+    .button-text {
+        font-size: 1em;
+    }
+    .rogue-button {
+        width: 194px;
+        height: 30px;
+    }
+}

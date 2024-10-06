@@ -1,3 +1,12 @@
+.biome-overview-container {
+    margin: 0 auto;
+}
+.biome-overview-container .biome-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
 .biome-detail-page .biome-banner {
     position: relative;
     margin-bottom: 20px;
@@ -21,4 +30,30 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+}
+
+@media (max-width: 720px) {
+    .biome-overview-container .biome-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .biome-detail-page .biome-banner {
+        min-height: 150px;
+    }
+    .biome-detail-page .biome-banner img {
+        width: 300%;
+        transform: translateX(-50%);
+    }
+    .biome-detail-page .biome-banner h1 {
+        bottom: 20px;
+        left: 0px;
+        font-size: 1.5em;
+    }
+    .biome-detail-page .biome-chart-grid {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .biome-detail-page .biome-chart-grid > div {
+        width: 100%;
+        padding: 0;
+    }
 }

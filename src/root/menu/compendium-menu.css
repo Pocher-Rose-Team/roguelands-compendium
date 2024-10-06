@@ -19,3 +19,27 @@
     top: 50%;
     transform: translateY(-50%);
 }
+
+@media (max-width: 720px) {
+    .compendium-menu {
+        justify-content: space-around;
+    }
+    .menu-wrapper {
+        flex-direction: column;
+        gap: 8px;
+        margin-top: 50px;
+    }
+    .compendium-menu a:nth-child(1), .compendium-menu div:nth-child(3) {
+        position: absolute;
+        top: 10px;
+    }
+    .compendium-menu a:nth-child(1) {
+        left: 0;
+    }
+    .compendium-menu div:nth-child(3) {
+        right: 10px;
+    }
+    .logo {
+        transform: unset;
+    }
+}

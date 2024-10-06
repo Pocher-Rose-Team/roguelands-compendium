@@ -25,6 +25,7 @@ body {
   background-image: url("../public/img/ui/backTile.png");
   background-size: 128px;
   image-rendering: crisp-edges;
+  overflow-x: hidden;
 }
 
 code {
