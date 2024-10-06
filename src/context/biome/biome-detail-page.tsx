@@ -5,6 +5,7 @@ import BiomeProbabilityChart from "./biome-probability-chart";
 import { useParams } from "react-router-dom";
 import "./biome.css";
 import RogueContainer from "../../shared/components/rogue-container/rogue-container";
+import StandardImage from "../../shared/components/standard-image/standard-image";
 
 export default function BiomeDetailPage() {
   const { biomekey } = useParams<{ biomekey: string }>();
@@ -46,7 +47,7 @@ export default function BiomeDetailPage() {
   return (
     <div className="biome-detail-page">
       <div className="biome-banner">
-        <img src={`/img/environment/${biome?.name.toLowerCase()}/banner.jpg`} alt="" />
+        <StandardImage src={`/img/environment/${biome?.name.toLowerCase()}/banner.jpg`} alt="" />
         <h1>Probability Distributions - {biome?.name}</h1>
       </div>
       <div className="biome-chart-grid">
@@ -65,7 +66,7 @@ export default function BiomeDetailPage() {
                         .reduce((a, b) => a + b) / biome.runs,
                     )}
                   </h2>
-                  <img
+                  <StandardImage
                     src={getObjectImageSrc(biome.name, objectName)}
                     alt={objectName}
                     style={{ position: "absolute", right: 0, top: 0, width: 50 }}

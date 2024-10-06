@@ -1,7 +1,7 @@
-import { filter, forkJoin, map, Observable } from "rxjs";
+import { forkJoin, map, Observable } from "rxjs";
 import { EmblemRecipe, ItemRecipe } from "../model/recipe.model";
 import { ItemService } from "./item-service";
-import { Item, ItemSource, ItemType } from "../model/item";
+import { ItemSource, ItemType } from "../model/item";
 
 export class RecipeService {
   private itemService: ItemService;

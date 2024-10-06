@@ -3,6 +3,7 @@ import ItemSlot, { ItemSlotType } from "../../shared/components/item-slot/item-s
 import "./loot-table-page.css";
 import RogueContainer from "../../shared/components/rogue-container/rogue-container";
 import RogueIcon, { ItemId } from "../../shared/components/rogue-icon/rogue-icon";
+import StandardImage from "../../shared/components/standard-image/standard-image";
 
 interface LootTableDisplayAttributes {
   lootTable: LootTable;
@@ -38,7 +39,7 @@ export default function LootTableDisplay({ lootTable }: LootTableDisplayAttribut
           </RogueContainer>
         </div>
         <RogueContainer className="image-container">
-          <img src={lootTable.path} alt={lootTable.name} />
+          <StandardImage src={lootTable.path} alt={lootTable.name} />
         </RogueContainer>
       </div>
       <RogueContainer>{lootTable.description}</RogueContainer>

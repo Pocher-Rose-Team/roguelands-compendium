@@ -1,5 +1,5 @@
 import { HttpClient } from "./http-client";
-import { filter, map, Observable, of, skip, take, tap, toArray } from "rxjs";
+import { map, Observable, tap } from "rxjs";
 import { Item, ItemType, StatType } from "../model/item";
 
 export class ItemService {
@@ -33,20 +33,22 @@ export class ItemService {
     //   return of(JSON.parse(localStorageItems));
     // }
     return this.http
-      .get<Item[]>("/json/items.json")
+      .get<Item[]>("/roguelands-compendium/json/items.json")
       .pipe(map((items) => items.sort((a, b) => (a.id ?? 0) - (b.id ?? 0))))
       .pipe(tap((items) => localStorage.setItem("items", JSON.stringify(items))));
   }
 
   getIdsMap(): Observable<Map<number, string>> {
-    return this.http.get<{ id: number; representation: string }[]>("/json/ids.json").pipe(
-      map((allItems) =>
-        allItems.reduce((map, obj) => {
-          map.set(obj.id, obj.representation);
-          return map;
-        }, new Map<number, string>()),
-      ),
-    );
+    return this.http
+      .get<{ id: number; representation: string }[]>("/roguelands-compendium/json/ids.json")
+      .pipe(
+        map((allItems) =>
+          allItems.reduce((map, obj) => {
+            map.set(obj.id, obj.representation);
+            return map;
+          }, new Map<number, string>()),
+        ),
+      );
   }
 
   getAllItemsAsMapByName(): Observable<Map<string, Item>> {

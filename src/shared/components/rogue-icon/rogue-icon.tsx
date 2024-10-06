@@ -2,6 +2,7 @@ import { Item } from "../../model/item";
 import { useEffect, useState } from "react";
 import { ItemService } from "../../service/item-service";
 import { map } from "rxjs";
+import StandardImage from "../standard-image/standard-image";
 
 interface RogueItemAttributes {
   itemId: ItemId;
@@ -28,7 +29,7 @@ export default function RogueIcon({ itemId, size }: RogueItemAttributes) {
   return (
     <div style={{ position: "relative", width: _size }}>
       {item && (
-        <img
+        <StandardImage
           className="disable-select"
           src={item.path}
           alt={item.name}

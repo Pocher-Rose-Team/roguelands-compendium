@@ -10,7 +10,7 @@ export class BiomeService {
   }
 
   getAllBiomes(): Observable<Biome[]> {
-    return this.http.get<Biome[]>("/json/biomes.json").pipe(
+    return this.http.get<Biome[]>("/roguelands-compendium/json/biomes.json").pipe(
       tap((biomes) =>
         biomes.forEach((biome) => {
           const frequencyMap: Map<string, Map<number, number>> = new Map();

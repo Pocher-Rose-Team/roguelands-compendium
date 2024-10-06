@@ -3,6 +3,7 @@ import useMousePosition from "../../hooks/use-mouse-position";
 import useWindowSize from "../../hooks/use-window-size";
 import "./item-tooltip.css";
 import { ReactNode } from "react";
+import StandardImage from "../standard-image/standard-image";
 
 enum StatColor {
   VIT = "#694444",
@@ -35,7 +36,7 @@ export default function ItemTooltip({ item }: ItemTooltipAttributes) {
       {item?.foundIn && item?.foundIn.length > 0 && (
         <div className="foundin-list">
           {item?.foundIn.map((foundInEntry) => (
-            <img src={`/img/worldIcons/${foundInEntry}Icon.png`} alt={foundInEntry} />
+            <StandardImage src={`/img/worldIcons/${foundInEntry}Icon.png`} alt={foundInEntry} />
           ))}
         </div>
       )}

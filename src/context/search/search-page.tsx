@@ -7,6 +7,7 @@ import StandardTextField from "../../shared/components/standard-textfield/standa
 import "./search-page.css";
 import { Box, FormControlLabel, Switch } from "@mui/material";
 import StandardButton from "../../shared/components/standard-button/standard-button";
+import StandardImage from "../../shared/components/standard-image/standard-image";
 
 const ItemSearch: React.FC = () => {
   const MAX_RESULT_COUNT = 9;
@@ -137,7 +138,7 @@ const ItemSearch: React.FC = () => {
               key={item.name}
               onClick={() => handleItemClick(item.name)} // Navigate to the editor when an item is clicked
             >
-              <img src={item.path} alt={item.name} />
+              <StandardImage src={item.path} alt={item.name} />
               <div>
                 <p className="item-title">{item.representation}</p>
                 <p className="item-path">{item.path}</p>

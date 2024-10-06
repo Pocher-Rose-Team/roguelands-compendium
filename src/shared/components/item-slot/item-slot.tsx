@@ -2,6 +2,7 @@ import "./item-slot.css";
 import { Item } from "../../model/item";
 import { useState } from "react";
 import ItemTooltip from "../item-tooltip/item-tooltip";
+import StandardImage from "../standard-image/standard-image";
 
 interface ItemSlotAttributes {
   item?: Item;
@@ -31,7 +32,7 @@ export default function ItemSlot({ item, type, amount, onClick, isSelected }: It
   return (
     <div className={`item-slot ${selected ? "selected" : ""} ${type}`}>
       {item && (
-        <img
+        <StandardImage
           className="disable-select"
           style={{ pointerEvents: "none" }}
           src={item.path}

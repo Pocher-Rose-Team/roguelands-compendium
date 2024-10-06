@@ -19,7 +19,7 @@ export class LootTableService {
     //   return of(JSON.parse(localStorageItems));
     // }
     return forkJoin([
-      this.http.get<LootTable[]>("/json/loot-tables.json"),
+      this.http.get<LootTable[]>("/roguelands-compendium/json/loot-tables.json"),
       this.itemService.getAllItemsAsMapById(),
     ]).pipe(
       map(([lootTables, itemMap]) => {

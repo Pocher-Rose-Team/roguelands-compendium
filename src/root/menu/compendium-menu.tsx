@@ -2,6 +2,7 @@ import RogueButton from "../../shared/components/rogue-button/rogue-button";
 import "./compendium-menu.css";
 import { Link, useLocation } from "react-router-dom";
 import ShoppingCartButton from "../shopping-cart/shopping-cart-button";
+import StandardImage from "../../shared/components/standard-image/standard-image";
 
 export default function CompendiumMenu() {
   const location = useLocation();
@@ -11,7 +12,7 @@ export default function CompendiumMenu() {
       {location.pathname !== "/roguelands-compendium" && (
         <div className="compendium-menu">
           <Link to="/roguelands-compendium">
-            <img className="logo" src="/logo192.png" alt="logo" />
+            <StandardImage className="logo" src="/logo192.png" alt="logo" />
           </Link>
 
           <div className="menu-wrapper">
