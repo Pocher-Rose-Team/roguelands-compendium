@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Roguelands Compendium
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Roguelands Compendium**—your ultimate resource for navigating the vast and complex world of *Roguelands*. Whether you're a beginner or a seasoned explorer, this app provides you with all the information you need to succeed in your adventures. From crafting the most powerful gear to farming rare resources, this app has got you covered.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+### 📜 Crafting Recipes
+Easily browse through all available crafting recipes in *Roguelands*. Whether you're looking to craft weapons, armor, or consumables, our app breaks down the required materials and guides you step-by-step through the crafting process.
 
-### `npm start`
+### 🌿 Resource Guide
+Discover and explore various resources available in the game. Our resource section details where you can find each resource, including specific **planets / biomes**, and the creatures, crops, or ores that provide them.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🎲 Drop Rates & Loot Tables
+Want to know your chances of getting that rare item? We've compiled a comprehensive list of drop rates for various items, whether from **chests**, **NPCs**, or other sources. You'll know exactly where to look and what to expect!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🌎 Biome Information
+Get an in-depth breakdown of each **biome** in *Roguelands*. Our app provides a detailed analysis of what resources can be found in each biome, how abundant they are, and what unique challenges or rewards await you in each one.
 
-### `npm test`
+### 🛒 E-Commerce Style "Checkout" System
+Planning a farming run? Our app allows you to add items to a virtual **shopping cart**, and at checkout, it will generate a list of **biomes** and **planets** you need to visit. You'll also get a guide on what **monsters** to defeat or what **resources** to farm in order to gather everything on your list.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Use
 
-### `npm run build`
+1. **Navigate** through the app using the top menu to access different sections (Store, Crafting, Loot tables, Biomes, etc.).
+2. **Search** for specific items or resources in the search bar.
+3. **Add items** to your cart as you plan your farming or crafting run.
+4. **Check out** to receive your personalized farming route.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy adventuring, and may the loot be ever in your favor!
