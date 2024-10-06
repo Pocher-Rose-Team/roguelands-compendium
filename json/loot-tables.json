@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Normal Chest",
+    "path": "/img/environment/chest.png",
+    "credits": {
+      "min": 1,
+      "max": 50
+    },
+    "scrapmetal": {
+      "min": 1,
+      "max": 50
+    },
+    "description": "Rolled 3 times:",
+    "loot": [
+      "Kein Loot > 1/10 = 0.1 = 10.0%",
+      {"id": 0, "name": "No Loot", "probability": 10.0},
+
+      "Random Loot > 6/10 = 0.6 = 60.0% -> *1/17 = 0.03529 = 3.53%",
+      {"id": 1, "name": "Planet Stone", "probability": 3.53},
+      {"id": 2, "name": "Orichalcum", "probability": 3.53},
+      {"id": 3, "name": "Galacticite", "probability": 3.53},
+      {"id": 4, "name": "Zephyr", "probability": 3.53},
+
+      {"id": 11, "name": "Tasty Herb", "probability": 3.53},
+      {"id": 12, "name": "Glowshroom", "probability": 3.53},
+      {"id": 13, "name": "Spicy Seed", "probability": 3.53},
+      {"id": 14, "name": "Star Fruit", "probability": 3.53},
+
+      {"id": 21, "name": "Creature Eyeball", "probability": 3.53},
+      {"id": 22, "name": "Monster Claw", "probability": 3.53},
+      {"id": 23, "name": "Chitin Fragment", "probability": 3.53},
+      {"id": 24, "name": "Beast Heart", "probability": 3.53},
+
+      {"id": 31, "name": "Flutterfly", "probability": 3.53},
+      {"id": 32, "name": "Dung Beetle", "probability": 3.53},
+      {"id": 33, "name": "Ghast Bug", "probability": 3.53},
+      {"id": 34, "name": "Thunderworm", "probability": 3.53},
+
+      {"id": 1001, "name": "FLWR 08", "probability": 0.294},
+      {"id": 1002, "name": "BAT 17", "probability": 0.294},
+      {"id": 1003, "name": "OBSIDIAN 64", "probability": 0.294},
+      {"id": 1004, "name": "HELPR 55", "probability": 0.294},
+      {"id": 1005, "name": "GUARDIAN 07", "probability": 0.294},
+      {"id": 1012, "name": "SOLAR 05", "probability": 0.294},
+      {"id": 1013, "name": "PRISM 88", "probability": 0.294},
+      {"id": 1014, "name": "MONOLTH 25", "probability": 0.294},
+      {"id": 1015, "name": "FARMHAND 78", "probability": 0.294},
+      {"id": 1016, "name": "BULB 88", "probability": 0.294},
+      {"id": 1017, "name": "BTTRFLY 8", "probability": 0.294},
+      {"id": 1018, "name": "DRAGON 67", "probability": 0.294},
+
+      "Random Potion > 3/10 = 0.3 = 30.0%",
+      {"id": 60, "name": "Health Pack I", "probability": 10.0},
+      {"id": 61, "name": "Mana Pack I", "probability": 10.0},
+      {"id": 62, "name": "Energy Pack I", "probability": 10.0}
+    ],
+    "extraLoot": [
+      {"id": 900, "name": "Gallahad Ring", "probability": 0.714},
+      {"id": 901, "name": "Ezerius Ring", "probability": 0.714},
+      {"id": 902, "name": "Anelice Ring", "probability": 0.714},
+      {"id": 903, "name": "Gromwell Ring", "probability": 0.714},
+      {"id": 904, "name": "Brym Ring", "probability": 0.714},
+      {"id": 905, "name": "Falstadt Ring", "probability": 0.714},
+      {"id": 906, "name": "Roehn Ring", "probability": 0.714}
+    ]
+  },
+  {
+    "name": "Golden Chest",
+    "path": "/img/environment/chestgolden.png",
+    "credits": {
+      "min": 1,
+      "max": 200
+    },
+    "scrapmetal": {
+      "min": 1,
+      "max": 200
+    },
+    "description": "Rolled 3 times:",
+    "loot": [
+      "Kein Loot > 1/10 = 0.1 = 10.0%",
+      {"id": 0, "name": "No Loot", "probability": 10.0},
+
+      "Random Loot > 6/10 = 0.6 = 60.0% -> *1/17 = 0.03529 = 3.53%",
+      {"id": 1, "name": "Planet Stone", "probability": 3.53},
+      {"id": 2, "name": "Orichalcum", "probability": 3.53},
+      {"id": 3, "name": "Galacticite", "probability": 3.53},
+      {"id": 4, "name": "Zephyr", "probability": 3.53},
+
+      {"id": 11, "name": "Tasty Herb", "probability": 3.53},
+      {"id": 12, "name": "Glowshroom", "probability": 3.53},
+      {"id": 13, "name": "Spicy Seed", "probability": 3.53},
+      {"id": 14, "name": "Star Fruit", "probability": 3.53},
+
+      {"id": 21, "name": "Creature Eyeball", "probability": 3.53},
+      {"id": 22, "name": "Monster Claw", "probability": 3.53},
+      {"id": 23, "name": "Chitin Fragment", "probability": 3.53},
+      {"id": 24, "name": "Beast Heart", "probability": 3.53},
+
+      {"id": 31, "name": "Flutterfly", "probability": 3.53},
+      {"id": 32, "name": "Dung Beetle", "probability": 3.53},
+      {"id": 33, "name": "Ghast Bug", "probability": 3.53},
+      {"id": 34, "name": "Thunderworm", "probability": 3.53},
+
+      {"id": 1001, "name": "FLWR 08", "probability": 0.294},
+      {"id": 1002, "name": "BAT 17", "probability": 0.294},
+      {"id": 1003, "name": "OBSIDIAN 64", "probability": 0.294},
+      {"id": 1004, "name": "HELPR 55", "probability": 0.294},
+      {"id": 1005, "name": "GUARDIAN 07", "probability": 0.294},
+      {"id": 1012, "name": "SOLAR 05", "probability": 0.294},
+      {"id": 1013, "name": "PRISM 88", "probability": 0.294},
+      {"id": 1014, "name": "MONOLTH 25", "probability": 0.294},
+      {"id": 1015, "name": "FARMHAND 78", "probability": 0.294},
+      {"id": 1016, "name": "BULB 88", "probability": 0.294},
+      {"id": 1017, "name": "BTTRFLY 8", "probability": 0.294},
+      {"id": 1018, "name": "DRAGON 67", "probability": 0.294},
+
+      "Random Potion > 3/10 = 0.3 = 30.0%",
+      {"id": 60, "name": "Health Pack I", "probability": 10.0},
+      {"id": 61, "name": "Mana Pack I", "probability": 10.0},
+      {"id": 62, "name": "Energy Pack I", "probability": 10.0}
+    ],
+    "extraLoot": [
+      {"id": 900, "name": "Gallahad Ring", "probability": 0.714},
+      {"id": 901, "name": "Ezerius Ring", "probability": 0.714},
+      {"id": 902, "name": "Anelice Ring", "probability": 0.714},
+      {"id": 903, "name": "Gromwell Ring", "probability": 0.714},
+      {"id": 904, "name": "Brym Ring", "probability": 0.714},
+      {"id": 905, "name": "Falstadt Ring", "probability": 0.714},
+      {"id": 906, "name": "Roehn Ring", "probability": 0.714}
+    ]
+  },
+  {
+    "name": "Ringabolt",
+    "path": "/img/npc/ringabolt.png",
+    "description": "Retrieved when talked to:",
+    "foundIn": ["DesolateCanyon"],
+    "loot": [
+      "Ringabolt's Axe (1/30)",
+      {"id": 346, "name": "Ringabolt's Axe", "probability": 3.33},
+      "3 Health Pack III (7/30)",
+      {"id": 70, "name": "Health Pack III", "probability": 23.33, "count": 3},
+      "3 Health Pack II (7/30)",
+      {"id": 65, "name": "Health Pack II", "probability": 23.33, "count": 3},
+      "3 Health Pack I (15/30)",
+      {"id": 60, "name": "Health Pack I", "probability": 50.0, "count": 3}
+    ]
+  },
+  {
+    "name": "Wallace",
+    "path": "/img/npc/wallace.png",
+    "description": "Retrieved when talked to:",
+    "foundIn": ["Shroomtown"],
+    "loot": [
+      "Wallace's Lance (1/30)",
+      {"id": 397, "name": "Wallace's Lance", "probability": 3.33},
+      "Random Gear Mod (29/30) ",
+      {"id": 213, "name": "HealthRegen+", "probability": 16.11},
+      {"id": 214, "name": "ManaRegen+", "probability": 16.11},
+      {"id": 215, "name": "StaminaRegen+", "probability": 16.11},
+      {"id": 216, "name": "MoveSpeed+", "probability": 16.11},
+      {"id": 217, "name": "DashSpeed+", "probability": 16.11},
+      {"id": 218, "name": "JumpHeight+", "probability": 16.11}
+    ]
+  },
+  {
+    "name": "Perceval",
+    "path": "/img/npc/perceval.png",
+    "description": "Retrieved when talked to:",
+    "foundIn": ["HollowCaverns"],
+    "loot": [
+      "Perceval Wand (1/30)",
+      {"id": 597, "name": "Perceval Wand", "probability": 3.33},
+      "Random Gear Mod (29/30) ",
+      {"id": 50, "name": "Glob of Aether", "probability": 16.11},
+      {"id": 51, "name": "World Fragment", "probability": 16.11},
+      {"id": 52, "name": "Credit", "probability": 16.11},
+      {"id": 53, "name": "Ashen Dust", "probability": 16.11},
+      {"id": 54, "name": "Mystery Gift", "probability": 16.11},
+      {"id": 55, "name": "Ion Ticket", "probability": 16.11}
+    ]
+  },
+  {
+    "name": "Jonathan",
+    "path": "/img/npc/jonathan.png",
+    "description": "Retrieved when talked to:",
+    "foundIn": ["MoltenCrag"],
+    "loot": [
+      {"id": 59, "name": "Wealth Trophy", "probability": 100}
+    ]
+  },
+  {
+    "name": "Gromwell",
+    "path": "/img/npc/gromwell.png",
+    "description": "Retrieved when talked to:",
+    "foundIn": ["DeepJungle"],
+    "loot": [
+      "GALACTIC FLAMEBLASTER (1/30)",
+      {"id": 497, "name": "GALACTIC FLAMEBLASTER", "probability": 3.33},
+      "1-5 Health Pack II (29/30)",
+      {"id": 65, "name": "Health Pack II", "probability": 19.33, "count": 1},
+      {"id": 65, "name": "Health Pack II", "probability": 19.33, "count": 2},
+      {"id": 65, "name": "Health Pack II", "probability": 19.33, "count": 3},
+      {"id": 65, "name": "Health Pack II", "probability": 19.33, "count": 4},
+      {"id": 65, "name": "Health Pack II", "probability": 19.33, "count": 5}
+    ]
+  },
+  {
+    "name": "Bolgon",
+    "path": "/img/npc/bolgon.png",
+    "credits": {
+      "min": 0,
+      "max": 1000
+    },
+    "description": "Retrieved when talked to:",
+    "foundIn": ["MoltenCrag"],
+    "loot": [
+      "Random Gear (1/30) > Bolgon's Armor (9/10) & Bolgon's Helm (1/10)",
+      {"id": 830, "name": "Bolgon's Armor", "probability": 3.0},
+      {"id": 730, "name": "Bolgon's Helm", "probability": 0.33},
+      "1000 Credits (29/30)",
+      {"id": 52, "name": "Credits", "probability": 96.67, "count": 1000}
+    ]
+  },
+  {
+    "name": "Winston",
+    "path": "/img/npc/winston.png",
+    "scrapmetal": {
+      "min": 0,
+      "max": 500
+    },
+    "description": "Retrieved when talked to:",
+    "foundIn": ["AncientRuins"],
+    "loot": [
+      "Random Gear (1/30) > Dredger Helm (9/10) & Dredger Armor (1/10)",
+      {"id": 732, "name": "Dredger Helm", "probability": 3.0},
+      {"id": 832, "name": "Dredger Armor", "probability": 0.33},
+      "500 Scrap Metal (29/30)",
+      {"id": 57, "name": "Scrap Metal", "probability": 96.67, "count": 500}
+    ]
+  },
+  {
+    "name": "Broccolius Seizer",
+    "path": "/img/npc/seizer.png",
+    "description": "Retrieved when talked to:",
+    "foundIn": ["Byfrost"],
+    "loot": [
+      "Random Gear (1/30) > Broccoli Armor (9/10) & Broccoli Helm (1/10)",
+      {"id": 831, "name": "Broccoli Armor", "probability": 3.0},
+      {"id": 731, "name": "Broccoli Helm", "probability": 0.33},
+      "5 Glob of Aether (29/30)",
+      {"id": 50, "name": "Glob of Aether", "probability": 96.67, "count": 5}
+    ]
+  }
+]
