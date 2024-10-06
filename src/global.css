@@ -26,6 +26,7 @@ body {
   background-size: 128px;
   image-rendering: crisp-edges;
   overflow-x: hidden;
+  width: 100vw;
 }
 
 code {
