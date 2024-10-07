@@ -60,30 +60,6 @@ const ShoppingCartButton: React.FC = () => {
           <ShoppingCartIcon />
         </Badge>
       </IconButton>
-
-      <Dialog open={open} onClose={handleClose}>
-        <DialogTitle>Shopping Cart</DialogTitle>
-        <DialogContent>
-          <List>
-            {cartItems.length === 0 ? (
-              <ListItem>
-                <ListItemText primary="Your cart is empty." />
-              </ListItem>
-            ) : (
-              cartItems.map((item) => (
-                <ListItem key={item.name}>
-                  <ListItemText primary={item.representation} secondary={`Path: ${item.path}`} />
-                </ListItem>
-              ))
-            )}
-          </List>
-        </DialogContent>
-        <DialogActions>
-          <Button onClick={handleClose} color="primary">
-            Close
-          </Button>
-        </DialogActions>
-      </Dialog>
     </div>
   );
 };

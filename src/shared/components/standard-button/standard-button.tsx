@@ -40,7 +40,7 @@ export default function StandardButton({
         border: "3px solid #373737",
         outline: "3px solid #151515",
         padding: "0px 20px",
-        textShadow: "4px 4px #000",
+        textShadow: "3px 3px #000",
         textTransform: "capitalize",
         ...sx,
       }}

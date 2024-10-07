@@ -1,5 +1,5 @@
 import { HttpClient } from "./http-client";
-import { map, Observable, tap } from "rxjs";
+import { map, Observable, of, tap } from "rxjs";
 import { Item, ItemType, StatType } from "../model/item";
 
 export class ItemService {
