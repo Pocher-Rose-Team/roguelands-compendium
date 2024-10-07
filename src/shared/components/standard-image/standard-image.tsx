@@ -25,6 +25,7 @@ export default function StandardImage({
       height={height}
       style={style}
       className={className}
+      loading="lazy"
     />
   );
 }

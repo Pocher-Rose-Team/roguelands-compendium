@@ -30,12 +30,12 @@ export default function LootTableDisplay({ lootTable }: LootTableDisplayAttribut
             {lootTable.credits
               ? `${lootTable.credits.min}${lootTable.credits.max ? " - " + lootTable.credits.max : ""}`
               : "0"}
-            <RogueIcon itemId={ItemId.CREDIT} />
+            <RogueIcon itemId={ItemId.CREDIT} style={{ height: "100%" }} />
             &nbsp;&nbsp;&nbsp;&nbsp;
             {lootTable.scrapmetal
               ? `${lootTable.scrapmetal.min}${lootTable.scrapmetal.max ? " - " + lootTable.scrapmetal.max : ""}`
               : "0"}
-            <RogueIcon itemId={ItemId.SCRAP_METAL} />
+            <RogueIcon itemId={ItemId.SCRAP_METAL} style={{ height: "100%" }} />
           </RogueContainer>
         </div>
         <RogueContainer className="image-container">

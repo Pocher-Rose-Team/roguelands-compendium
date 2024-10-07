@@ -1,0 +1,43 @@
+.store-page-container .store-nav-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.store-page-container .store-nav-bar > div {
+    margin: 0;
+}
+.store-page-container .store-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.store-page-container .item-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 8px;
+    width: 175px;
+}
+.store-page-container .item-card h2 {
+    margin: 0;
+}
+.store-page-container .item-card button {
+    /*margin-left: auto;*/
+}
+.store-page-container .item-card .crafted-with {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    justify-content: space-between;
+}
+.store-page-container .item-card .item-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+}
+.store-page-container .item-card .stat-container {
+    width: min-content;
+    margin-bottom: 8px;
+}

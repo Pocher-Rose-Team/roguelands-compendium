@@ -1,5 +1,5 @@
 import { Item } from "../../model/item";
-import { useEffect, useState } from "react";
+import { CSSProperties, useEffect, useState } from "react";
 import { ItemService } from "../../service/item-service";
 import { map } from "rxjs";
 import StandardImage from "../standard-image/standard-image";
@@ -7,6 +7,7 @@ import StandardImage from "../standard-image/standard-image";
 interface RogueItemAttributes {
   itemId: ItemId;
   size?: number;
+  style?: CSSProperties;
 }
 
 export enum ItemId {
@@ -14,7 +15,7 @@ export enum ItemId {
   SCRAP_METAL = 57,
 }
 
-export default function RogueIcon({ itemId, size }: RogueItemAttributes) {
+export default function RogueIcon({ itemId, size, style }: RogueItemAttributes) {
   const itemService = new ItemService();
   const [item, setItem] = useState<Item>();
   const _size = size ?? 24;
@@ -27,7 +28,7 @@ export default function RogueIcon({ itemId, size }: RogueItemAttributes) {
   }, []);
 
   return (
-    <div style={{ position: "relative", width: _size }}>
+    <div style={{ position: "relative", width: _size, height: _size, ...style }}>
       {item && (
         <StandardImage
           className="disable-select"

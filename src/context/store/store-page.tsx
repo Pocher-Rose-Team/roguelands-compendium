@@ -8,57 +8,40 @@ import {
   DialogContent,
   DialogActions,
   TextField,
-  Tabs,
   Tab,
 } from "@mui/material";
 import { Item, ItemType, StatType } from "../../shared/model/item";
-import { ItemService } from "../../shared/service/item-service"; // Assume this handles data fetching
 import ItemCard from "./item-card";
-import RogueButton from "../../shared/components/rogue-button/rogue-button";
 import StandardAutocomplete from "../../shared/components/standard-autocomplete/standard-autocomplete";
 import StandardTabContainer from "../../shared/components/standard-tab-container/standard-tab-container";
+import { StoreService } from "../../shared/service/store-service";
+import StandardTextField from "../../shared/components/standard-textfield/standard-textfield";
 
 const Store: React.FC = () => {
-  const itemService = new ItemService();
+  const storeService = new StoreService();
   const [items, setItems] = useState<Item[]>([]);
-  const [mostUsedItems, setMostUsedItems] = useState<Item[]>([]);
-  const [personalMostUsedItems, setPersonalMostUsedItems] = useState<Item[]>([]);
-  const [leastUsedItems, setLeastUsedItems] = useState<Item[]>([]);
-  const [personalLeastUsedItems, setPersonalLeastUsedItems] = useState<Item[]>([]);
   const [cart, setCart] = useState<Item[]>([]);
   const [openHelpDialog, setOpenHelpDialog] = useState(false);
   const [selectedStats, setSelectedStats] = useState<StatType[]>([]);
   const [cartItems, setCartItems] = useState<Item[]>([]); // To store added items in cart
   const [activeItemIndex, setActiveItemIndex] = useState<number>(0); // For navigating with arrow keys
   const [selectedType, setSelectedType] = useState<ItemType | undefined>(undefined); // To store the selected item type
-  const [filteredItems, setFilteredItems] = useState<Item[]>([]);
 
   useEffect(() => {
-    // Fetch data from the service
-    itemService.getMostUsedItems().subscribe((data: Item[]) => setMostUsedItems(data));
-    itemService.getLeastUsedItems().subscribe((data: Item[]) => setLeastUsedItems(data));
-
-    const personalItems = JSON.parse(localStorage.getItem("personalItems") || "[]");
-    setPersonalMostUsedItems(personalItems.mostUsed || []);
-    setPersonalLeastUsedItems(personalItems.leastUsed || []);
-
     const storedCart = JSON.parse(localStorage.getItem("cart") || "[]");
     setCart(storedCart);
 
-    itemService.getAllItems().subscribe((data: Item[]) => setItems(data));
+    storeService.getAllCraftableOrLootableItems().subscribe((data: Item[]) => setItems(data));
   }, []);
 
   useEffect(() => {
-    const filtered = items.filter((item) => {
-      if (selectedType === undefined) return true; // Show all items if "All" is selected
-      return item.type === selectedType;
-    });
-
-    setFilteredItems(filtered);
-    itemService.getMostUsedItems(selectedType).subscribe((data: Item[]) => setMostUsedItems(data));
-    itemService
-      .getLeastUsedItems(selectedType)
-      .subscribe((data: Item[]) => setLeastUsedItems(data));
+    if (selectedType !== undefined) {
+      storeService
+        .getAllCraftableOrLootableItemsByType(selectedType)
+        .subscribe((data) => setItems(data));
+    } else {
+      storeService.getAllCraftableOrLootableItems().subscribe((data) => setItems(data));
+    }
   }, [selectedType, items]);
 
   useEffect(() => {
@@ -95,7 +78,7 @@ const Store: React.FC = () => {
     // Logic for suggesting items based on selected stats
     // Assuming the itemService has a method to fetch based on stats
     const [stat1, stat2] = selectedStats;
-    itemService.getRecommendedItems(stat1, stat2).subscribe((suggestedItems) => {
+    storeService.getRecommendedItems(stat1, stat2).subscribe((suggestedItems) => {
       // Do something with the suggested items
     });
     setOpenHelpDialog(false);
@@ -108,76 +91,38 @@ const Store: React.FC = () => {
     window.dispatchEvent(new Event("storage"));
   };
 
-  // Arrow key navigation for autocomplete
-  const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === "ArrowDown") {
-      setActiveItemIndex((prevIndex) =>
-        prevIndex < filteredItems.length - 1 ? prevIndex + 1 : prevIndex,
-      );
-    } else if (e.key === "ArrowUp") {
-      setActiveItemIndex((prevIndex) => (prevIndex > 0 ? prevIndex - 1 : prevIndex));
-    } else if (e.key === "Enter" && filteredItems[activeItemIndex]) {
-      addToCart(filteredItems[activeItemIndex]);
-    }
-  };
-  const handleAutocompletePick = (newValue: any) => {
+  const handleItemSearchChange = (newValue: any) => {
     console.log(newValue);
   };
 
   return (
-    <Box>
-      <StandardTabContainer
-        value={activeItemIndex}
-        onChange={(_, index) => setActiveItemIndex(index)}
-      >
-        <Tab label="All" onClick={() => handleTypeChange(undefined)} />
-        <Tab label="Armor" onClick={() => handleTypeChange(ItemType.ARMOR)} />
-        <Tab label="Droids" onClick={() => handleTypeChange(ItemType.DROIDS)} />
-        <Tab label="Helmets" onClick={() => handleTypeChange(ItemType.HELMETS)} />
-        <Tab label="Shields" onClick={() => handleTypeChange(ItemType.SHIELDS)} />
-        <Tab label="Weapons" onClick={() => handleTypeChange(ItemType.WEAPONS)} />
-      </StandardTabContainer>
+    <div className="store-page-container">
+      <div className="store-nav-bar">
+        <StandardTabContainer
+          value={activeItemIndex}
+          onChange={(_, index) => setActiveItemIndex(index)}
+        >
+          <Tab label="All" onClick={() => handleTypeChange(undefined)} />
+          <Tab label="Armor" onClick={() => handleTypeChange(ItemType.ARMOR)} />
+          <Tab label="Droids" onClick={() => handleTypeChange(ItemType.DROIDS)} />
+          <Tab label="Helmets" onClick={() => handleTypeChange(ItemType.HELMETS)} />
+          <Tab label="Shields" onClick={() => handleTypeChange(ItemType.SHIELDS)} />
+          <Tab label="Weapons" onClick={() => handleTypeChange(ItemType.WEAPONS)} />
+        </StandardTabContainer>
 
-      {/* Search Bar */}
-      <StandardAutocomplete
-        options={items.map((item) => item.name)}
-        onChange={(e, newValue) => handleAutocompletePick(newValue)}
-        label="Search Item to add to cart"
-        sx={{ marginTop: 1 }}
-        multiple={false}
-      />
+        {/* Search Bar */}
+        <StandardTextField
+          onChange={(e) => handleItemSearchChange(e)}
+          label="Search Item"
+          sx={{ flexGrow: 1 }}
+        />
+      </div>
 
-      {/* Most Used Items Overall */}
-      <Typography variant="h6">Most Used Items</Typography>
-      <Box display="flex" flexDirection="row" flexWrap="wrap">
-        {mostUsedItems.map((item) => (
+      <div className="store-grid">
+        {items.map((item) => (
           <ItemCard key={item.name} item={item} onAddToCart={() => handleAddToCart(item)} />
         ))}
-      </Box>
-
-      {/* Most Used Items for User */}
-      <Typography variant="h6">Your Most Used Items</Typography>
-      <Box display="flex" flexDirection="row" flexWrap="wrap">
-        {personalMostUsedItems.map((item) => (
-          <ItemCard key={item.name} item={item} onAddToCart={() => handleAddToCart(item)} />
-        ))}
-      </Box>
-
-      {/* Least Used Items Overall */}
-      <Typography variant="h6">Least Used Items</Typography>
-      <Box display="flex" flexDirection="row" flexWrap="wrap">
-        {leastUsedItems.map((item) => (
-          <ItemCard key={item.name} item={item} onAddToCart={() => handleAddToCart(item)} />
-        ))}
-      </Box>
-
-      {/* Least Used Items for User */}
-      <Typography variant="h6">Your Least Used Items</Typography>
-      <Box display="flex" flexDirection="row" flexWrap="wrap">
-        {personalLeastUsedItems.map((item) => (
-          <ItemCard key={item.name} item={item} onAddToCart={() => handleAddToCart(item)} />
-        ))}
-      </Box>
+      </div>
 
       {/* Help Dialog */}
       <Dialog open={openHelpDialog} onClose={handleCloseHelpDialog}>
@@ -204,7 +149,7 @@ const Store: React.FC = () => {
           <Button onClick={handleHelpSelection}>Submit</Button>
         </DialogActions>
       </Dialog>
-    </Box>
+    </div>
   );
 };
 

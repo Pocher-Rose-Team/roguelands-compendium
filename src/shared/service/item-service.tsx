@@ -35,6 +35,13 @@ export class ItemService {
     return this.http
       .get<Item[]>("/roguelands-compendium/json/items.json")
       .pipe(map((items) => items.sort((a, b) => (a.id ?? 0) - (b.id ?? 0))))
+      .pipe(
+        tap((items) =>
+          items.forEach((item) =>
+            item.craftedWith.forEach((cw) => (cw.id = items.find((i) => i.name === cw.item)?.id)),
+          ),
+        ),
+      )
       .pipe(tap((items) => localStorage.setItem("items", JSON.stringify(items))));
   }
 
@@ -89,34 +96,6 @@ export class ItemService {
   getAllItemsOfType(type: ItemType): Observable<Item[]> {
     return this.getAllItems().pipe(
       map((allItems) => allItems.filter((item) => item.type === type)),
-    );
-  }
-  getLeastUsedItems(type?: ItemType): Observable<Item[]> {
-    return this.getAllItems().pipe(
-      map((items) => items.filter((item) => !type || item.type === type).slice(0, 7)), // Ensures only first 10 items
-    );
-  }
-
-  getMostUsedItems(type?: ItemType): Observable<Item[]> {
-    return this.getAllItems().pipe(
-      map((items) => items.filter((item) => !type || item.type === type).slice(10, 17)), // Skips 10 and takes the next 10 items
-    );
-  }
-  getRecommendedItems(stat1: StatType, stat2: StatType): Observable<Item[]> {
-    return this.getAllItems().pipe(
-      map(
-        (items: Item[]) =>
-          items
-            .sort((a: Item, b: Item) => {
-              // Calculate the total stat score for both stat1 and stat2
-              const scoreA = (a.stats[stat1] || 0) + (a.stats[stat2] || 0);
-              const scoreB = (b.stats[stat1] || 0) + (b.stats[stat2] || 0);
-
-              // Sort by the combined value of stat1 and stat2 in descending order
-              return scoreB - scoreA;
-            })
-            .slice(0, 10), // Return the top 10 items
-      ),
     );
   }
 }
