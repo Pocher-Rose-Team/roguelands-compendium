@@ -1,20 +1,20 @@
 import "./checkout-page.css";
-import { StoreService } from "../../shared/service/store-service";
 import { useEffect, useState } from "react";
 import { Item } from "../../shared/model/item";
 import CheckoutEntry from "./checkout-entry";
 import StandardButton from "../../shared/components/standard-button/standard-button";
+import { FarmingStrategyService } from "../../shared/service/farming-strategy-service";
+import RogueContainer from "../../shared/components/rogue-container/rogue-container";
+import RogueIcon from "../../shared/components/rogue-icon/rogue-icon";
 
 export default function CheckoutPage() {
-  const storeService = new StoreService();
-  const [items, setItems] = useState<Item[]>([]);
+  const farmingStrategyService = new FarmingStrategyService();
   const [cart, setCart] = useState<Map<string, { item: Item; amount: number }>>(new Map());
+  const [neededItems, setNeededItems] = useState<{ item: Item; amount: number }[]>([]);
 
   useEffect(() => {
     const storedCart = JSON.parse(localStorage.getItem("cartItems") || "{}");
     setCart(storedCart);
-
-    storeService.getAllCraftableOrLootableItems().subscribe((data: Item[]) => setItems(data));
   }, []);
 
   const handleCheckoutEntryValueChange = (amount: number, item: string) => {
@@ -34,6 +34,12 @@ export default function CheckoutPage() {
     localStorage.setItem("cartItems", JSON.stringify(Array.from(updatedCart)));
   };
 
+  const calculateFarmingStrategy = () => {
+    farmingStrategyService
+      .calculateNeededResources(Array.from(cart).map(([key, entry]) => entry))
+      .subscribe((v) => setNeededItems(v));
+  };
+
   return (
     <div className="checkout-page-container">
       <h1>Checkout</h1>
@@ -49,7 +55,19 @@ export default function CheckoutPage() {
         {Array.from(cart).length === 0 && "No entries in cart"}
       </div>
 
-      <StandardButton text="Calculate farming strategy" />
+      <StandardButton text="Calculate farming strategy" onClick={calculateFarmingStrategy} />
+
+      <div style={{ height: 150 }}></div>
+
+      <h1>List of needed items</h1>
+      {neededItems.map((item) => (
+        <RogueContainer className="checkout-entry">
+          <RogueIcon itemId={item?.item?.id ?? 0} />
+          <h2>
+            {item?.amount}x {item?.item?.name}
+          </h2>
+        </RogueContainer>
+      ))}
     </div>
   );
 }
