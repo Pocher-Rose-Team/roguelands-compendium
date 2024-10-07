@@ -1,0 +1,25 @@
+.checkout-page-container {
+}
+.checkout-page-container h1 {
+    margin: 0 0 30px;
+ }
+.checkout-page-container .checkout-entry-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.checkout-page-container .checkout-entry {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.checkout-page-container .checkout-entry .space {
+    flex-grow: 1;
+}
+.checkout-page-container .checkout-entry h2 {
+    margin: 0;
+ }
+.checkout-page-container button {
+    float: right;
+    margin-top: 30px;
+}

@@ -33,7 +33,7 @@ export default function StandardTextField({
       onChange={onChange}
       onKeyUp={onKeyUp}
       margin={margin}
-      id={"stat-input-"+label?.toLowerCase()}
+      id={"stat-input-" + label?.toLowerCase()}
       sx={sx}
     />
   );

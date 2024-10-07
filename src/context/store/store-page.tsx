@@ -31,6 +31,7 @@ const Store: React.FC = () => {
   }, [selectedType]);
 
   const handleAddToCart = (item: Item) => {
+    // TODO: Refactor local storage stuff into service
     const updatedCart = Array.from(cart).reduce((map, [itemName, entry]) => {
       map.set(itemName, entry);
       return map;

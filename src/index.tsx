@@ -11,6 +11,7 @@ import LootTablePage from "./context/loot-table/loot-table-page";
 import BiomeDetailPage from "./context/biome/biome-detail-page";
 import BiomeOverviewPage from "./context/biome/biome-overview-page";
 import Store from "./context/store/store-page";
+import CheckoutPage from "./context/checkout/checkout-page";
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement);
 root.render(
@@ -27,6 +28,7 @@ root.render(
           <Route path="editor/:itemname" element={<ItemEditor />} />
           <Route path="editor" element={<ItemEditor />} />
           <Route path="store" element={<Store />} />
+          <Route path="checkout" element={<CheckoutPage />} />
         </Route>
       </Routes>
     </BrowserRouter>
