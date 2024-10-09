@@ -1,0 +1,20 @@
+.masonry-container {
+    margin: 10px auto 0;
+}
+.masonry {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /*align-content: stretch;*/
+    gap: 20px;
+    width: 100%;
+    margin: auto;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    /*align-content: stretch;*/
+    /*flex-grow: 1;*/
+    gap: 20px;
+}
