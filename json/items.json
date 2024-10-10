@@ -4860,7 +4860,7 @@
         "name": "glitterblade",
         "representation": "Glitterblade",
         "path": "/img/items/weapons/glitterblade.png",
-        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "stats": { "str": 1, "dex": 1, "vit": 0, "tec": 0, "fth": 1, "mag": 1 },
         "craftedWith": [],
         "description": "",
         "foundIn": [],
