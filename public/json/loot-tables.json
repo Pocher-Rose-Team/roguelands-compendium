@@ -130,6 +130,43 @@
     ]
   },
   {
+    "name": "glitterbug",
+    "representation": "Glitterbug",
+    "path": "/img/environment/glitterbug.png",
+    "credits": {
+      "min": 500,
+      "max": 1000
+    },
+    "description": "Retrieved when killed:",
+    "loot": [
+      { "id": 21, "probability": 100.0, "count": 2 },
+      { "id": 31, "probability": 100.0, "count": 1 },
+      { "id": 53, "probability": 25, "count": 1 },
+      { "id": 53, "probability": 6.25, "count": 2 },
+      { "id": 53, "probability": 1.56, "count": 3 },
+      { "id": 53, "probability": 0.4, "count": 4 },
+      { "id": 53, "probability": 0.1, "count": 5 },
+      { "id": 53, "probability": 0.02, "count": 6 },
+      { "id": 53, "probability": 0.006, "count": 7 },
+      { "id": 53, "probability": 0.0015, "count": 8 },
+      { "id": 53, "probability": 0.00038, "count": 9 },
+      { "id": 53, "probability": 0.000095, "count": 10 },
+      { "id": 54, "probability": 25, "count": 1 },
+      { "id": 54, "probability": 6.25, "count": 2 },
+      { "id": 54, "probability": 1.56, "count": 3 },
+      { "id": 54, "probability": 0.4, "count": 4 },
+      { "id": 54, "probability": 0.1, "count": 5 },
+      { "id": 54, "probability": 0.02, "count": 6 },
+      { "id": 54, "probability": 0.006, "count": 7 },
+      { "id": 54, "probability": 0.0015, "count": 8 },
+      { "id": 54, "probability": 0.00038, "count": 9 },
+      { "id": 54, "probability": 0.000095, "count": 10 }
+    ],
+    "extraLoot": [
+      {"id": 348, "name": "Glitterblade", "probability": 10.0}
+    ]
+  },
+  {
     "name": "Ringabolt",
     "path": "/img/npc/ringabolt.png",
     "description": "Retrieved when talked to:",
@@ -252,165 +289,180 @@
     ]
   },
   {
-    "name": "glitterbug",
-    "representation": "Glitterbug",
-    "path": "/img/environment/glitterbug.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "pirate",
-    "representation": "Pirate",
-    "path": "/img/environment/pirate.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "relic",
-    "representation": "Relic",
-    "path": "/img/environment/relic.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
     "name": "ancient",
     "representation": "Ancient",
     "path": "/img/environment/ancientruins/ancient.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "credits": {
+      "min": 50
+    },
+    "exp": 75,
+    "description": "Retrieved when killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 23, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "ancientbuilding",
     "representation": "Ancientbuilding",
     "path": "/img/environment/ancientruins/ancientbuilding.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "scrapmetal": {
+      "min": 0,
+      "max": 12
+    },
+    "description": "Retrieved when touched:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 57, "probability": 75.0, "count": 12 }
+    ]
+  },
+  {
+    "name": "pirate",
+    "representation": "Pirate",
+    "path": "/img/environment/pirate.png",
+    "credits": {
+      "min": 100
+    },
+    "scrapmetal": {
+      "min": 3
+    },
+    "exp": 75,
+    "description": "Retrieved when killed:",
+    "loot": [
+      { "id": 57, "probability": 100.0, "count": 3 },
+      { "id": 725, "probability": 5.0, "count": 1 },
+      { "id": 498, "probability": 5.0, "count": 1 }
     ]
   },
   {
     "name": "drytree",
     "representation": "Drytree",
     "path": "/img/environment/ancientruins/drytree.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "description": "Retrieved when harvested:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 13, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "galacticiteore",
     "representation": "Galacticiteore",
     "path": "/img/environment/ancientruins/galacticiteore.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "description": "Retrieved when mined:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 3, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "golem",
     "representation": "Golem",
     "path": "/img/environment/ancientruins/golem.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "credits": {
+      "min": 1300
+    },
+    "scrapmetal": {
+      "min": 50,
+      "max": 149
+    },
+    "exp": 1300,
+    "description": "Retrieved when killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 21, "probability": 100.0, "count": 2 },
+      { "id": 31, "probability": 100.0, "count": 1 }
     ]
   },
   {
     "name": "relicfish",
     "representation": "Relicfish",
     "path": "/img/environment/ancientruins/relicfish.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "credits": {
+      "min": 150
+    },
+    "exp": 150,
+    "description": "Retrieved when killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 23, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "roach",
     "representation": "Roach",
     "path": "/img/environment/ancientruins/roach.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "credits": {
+      "min": 10
+    },
+    "exp": 12,
+    "description": "Retrieved when killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "winston",
-    "representation": "Winston",
-    "path": "/img/environment/ancientruins/winston.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 21, "probability": 100.0, "count": 2 }
     ]
   },
   {
     "name": "ghastbugspot",
     "representation": "Ghastbugspot",
     "path": "/img/environment/byfrost/ghastbugspot.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "description": "Retrieved when harvested:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 33, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "mammoth",
     "representation": "Mammoth",
     "path": "/img/environment/byfrost/mammoth.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "credits": {
+      "min": 25
+    },
+    "exp": 40,
+    "description": "Retrieved when killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 22, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "orichalcumore",
     "representation": "Orichalcumore",
     "path": "/img/environment/byfrost/orichalcumore.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "description": "Retrieved when mined:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "seizer",
-    "representation": "Seizer",
-    "path": "/img/environment/byfrost/seizer.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 2, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "wicked",
     "representation": "Wicked",
     "path": "/img/environment/byfrost/wicked.png",
+    "credits": {
+      "min": 110
+    },
+    "exp": 103,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 66, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "wisp",
     "representation": "Wisp",
     "path": "/img/environment/byfrost/wisp.png",
-    "description": "Retrieved when harvested/mined/killed:",
+    "credits": {
+      "min": 110
+    },
+    "exp": 103,
+    "description": "Retrieved when killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 24, "probability": 100.0, "count": 1 },
+      { "id": 53, "probability": 100.0, "count": 2 }
     ]
   },
   {
     "name": "yeti",
     "representation": "Yeti",
     "path": "/img/environment/byfrost/yeti.png",
+    "credits": {
+      "min": 150
+    },
+    "exp": 200,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 24, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -419,7 +471,7 @@
     "path": "/img/environment/byfrost/zephyrore.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 4, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -428,16 +480,20 @@
     "path": "/img/environment/cathedral/chaostree.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 16, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "cthu",
     "representation": "Cthu",
     "path": "/img/environment/cathedral/cthu.png",
+    "credits": {
+      "min": 500
+    },
+    "exp": 500,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 26, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -446,25 +502,33 @@
     "path": "/img/environment/cathedral/existenceore.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 6, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "experiment",
     "representation": "Experiment",
     "path": "/img/environment/cathedral/experiment.png",
+    "credits": {
+      "min": 500
+    },
+    "exp": 500,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 26, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "guardian",
     "representation": "Guardian",
     "path": "/img/environment/cathedral/guardian.png",
+    "credits": {
+      "min": 2000
+    },
+    "exp": 2000,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 66, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -473,7 +537,7 @@
     "path": "/img/environment/cathedral/plasmamothbugspot.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 36, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -481,36 +545,34 @@
     "representation": "Beelzeblob",
     "path": "/img/environment/deepjungle/beelzeblob.png",
     "description": "Retrieved when harvested/mined/killed:",
+    "credits": {
+      "min": 250
+    },
+    "exp": 250,
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 65, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "blastbug",
     "representation": "Blastbug",
     "path": "/img/environment/deepjungle/blastbug.png",
+    "credits": {
+      "min": 3
+    },
+    "exp": 6,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 22, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "chamcham",
     "representation": "Chamcham",
     "path": "/img/environment/deepjungle/chamcham.png",
+    "exp": 4,
     "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "gromwell",
-    "representation": "Gromwell",
-    "path": "/img/environment/deepjungle/gromwell.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
+    "loot": []
   },
   {
     "name": "planetstoneore",
@@ -527,7 +589,7 @@
     "path": "/img/environment/deepjungle/poisonplant.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 11, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -536,34 +598,48 @@
     "path": "/img/environment/deepjungle/poisontree.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 13, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "sluglord",
     "representation": "Sluglord",
     "path": "/img/environment/deepjungle/sluglord.png",
+    "credits": {
+      "min": 4
+    },
+    "exp": 7,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 21, "probability": 100.0, "count": 1 },
+      { "id": 22, "probability": 100.0, "count": 1 }
     ]
   },
   {
     "name": "slugmother",
     "representation": "Slugmother",
     "path": "/img/environment/deepjungle/slugmother.png",
+    "credits": {
+      "min": 5
+    },
+    "exp": 7,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 21, "probability": 100.0, "count": 1 },
+      { "id": 22, "probability": 100.0, "count": 1 }
     ]
   },
   {
     "name": "demon",
     "representation": "Demon",
     "path": "/img/environment/demonsrift/demon.png",
+    "credits": {
+      "min": 6000
+    },
+    "exp": 6000,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 347, "probability": 5.0, "count": 1 }
     ]
   },
   {
@@ -572,7 +648,7 @@
     "path": "/img/environment/desolatecanyon/flutterflybugspot.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 31, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -581,7 +657,7 @@
     "path": "/img/environment/desolatecanyon/herbplant.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 11, "probability": 100.0, "count": 3 }
     ]
   },
   {
@@ -590,43 +666,17 @@
     "path": "/img/environment/desolatecanyon/herbtree.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "orichalcumore",
-    "representation": "Orichalcumore",
-    "path": "/img/environment/desolatecanyon/orichalcumore.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "planetstoneore",
-    "representation": "Planetstoneore",
-    "path": "/img/environment/desolatecanyon/planetstoneore.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "ringabolt",
-    "representation": "Ringabolt",
-    "path": "/img/environment/desolatecanyon/ringabolt.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 11, "probability": 100.0, "count": 3 }
     ]
   },
   {
     "name": "shmoo",
     "representation": "Shmoo",
     "path": "/img/environment/desolatecanyon/shmoo.png",
+    "exp": 4,
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
+      { "id": 21, "probability": 100.0, "count": 2 }
     ]
   },
   {
@@ -666,15 +716,6 @@
     ]
   },
   {
-    "name": "flutterflybugspot",
-    "representation": "Flutterflybugspot",
-    "path": "/img/environment/hollowcaverns/flutterflybugspot.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
     "name": "glibglob",
     "representation": "Glibglob",
     "path": "/img/environment/hollowcaverns/glibglob.png",
@@ -696,24 +737,6 @@
     "name": "icetree",
     "representation": "Icetree",
     "path": "/img/environment/hollowcaverns/icetree.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "orichalcumore",
-    "representation": "Orichalcumore",
-    "path": "/img/environment/hollowcaverns/orichalcumore.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "perceval",
-    "representation": "Perceval",
-    "path": "/img/environment/hollowcaverns/perceval.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
       { "id": 1, "probability": 100.0, "count": 3 }
@@ -756,15 +779,6 @@
     ]
   },
   {
-    "name": "bolgon",
-    "representation": "Bolgon",
-    "path": "/img/environment/moltencrag/bolgon.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
     "name": "fireslime",
     "representation": "Fireslime",
     "path": "/img/environment/moltencrag/fireslime.png",
@@ -777,15 +791,6 @@
     "name": "flamethystore",
     "representation": "Flamethystore",
     "path": "/img/environment/moltencrag/flamethystore.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "jonathan",
-    "representation": "Jonathan",
-    "path": "/img/environment/moltencrag/jonathan.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
       { "id": 1, "probability": 100.0, "count": 3 }
@@ -828,15 +833,6 @@
     ]
   },
   {
-    "name": "galacticiteore",
-    "representation": "Galacticiteore",
-    "path": "/img/environment/plaguelands/galacticiteore.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
     "name": "plaguehive",
     "representation": "Plaguehive",
     "path": "/img/environment/plaguelands/plaguehive.png",
@@ -867,15 +863,6 @@
     "name": "starfruittree",
     "representation": "Starfruittree",
     "path": "/img/environment/plaguelands/starfruittree.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "zephyrore",
-    "representation": "Zephyrore",
-    "path": "/img/environment/plaguelands/zephyrore.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
       { "id": 1, "probability": 100.0, "count": 3 }
@@ -927,15 +914,6 @@
     ]
   },
   {
-    "name": "wallace",
-    "representation": "Wallace",
-    "path": "/img/environment/shroomtown/wallace.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
     "name": "aethertree",
     "representation": "Aethertree",
     "path": "/img/environment/whisperwood/aethertree.png",
@@ -957,15 +935,6 @@
     "name": "glowflybugspot",
     "representation": "Glowflybugspot",
     "path": "/img/environment/whisperwood/glowflybugspot.png",
-    "description": "Retrieved when harvested/mined/killed:",
-    "loot": [
-      { "id": 1, "probability": 100.0, "count": 3 }
-    ]
-  },
-  {
-    "name": "orichalcumore",
-    "representation": "Orichalcumore",
-    "path": "/img/environment/whisperwood/orichalcumore.png",
     "description": "Retrieved when harvested/mined/killed:",
     "loot": [
       { "id": 1, "probability": 100.0, "count": 3 }
