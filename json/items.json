@@ -5875,5 +5875,16 @@
         "description": "",
         "foundIn": [],
         "type": "weapons"
+    },
+    {
+        "id": 548,
+        "name": "shroomhazzard",
+        "representation": "Shroomhazzard",
+        "path": "/img/items/helmets/shroomhazzard.png",
+        "stats": { "str": 0, "dex": 0, "vit": 0, "tec": 0, "fth": 0, "mag": 0 },
+        "craftedWith": [],
+        "description": "TODO",
+        "foundIn": [],
+        "type": "helmets"
     }
 ]

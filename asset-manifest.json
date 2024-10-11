@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/roguelands-compendium/static/css/main.34642ae4.css",
-    "main.js": "/roguelands-compendium/static/js/main.f30e348c.js",
+    "main.css": "/roguelands-compendium/static/css/main.e9c85deb.css",
+    "main.js": "/roguelands-compendium/static/js/main.e0474cd8.js",
     "static/media/MotionControl-BoldItalic.otf": "/roguelands-compendium/static/media/MotionControl-BoldItalic.829a8ac5eab14c6f2340.otf",
     "static/media/MotionControl-Bold.otf": "/roguelands-compendium/static/media/MotionControl-Bold.5d13b90b98492d60b083.otf",
     "index.html": "/roguelands-compendium/index.html",
-    "main.34642ae4.css.map": "/roguelands-compendium/static/css/main.34642ae4.css.map",
-    "main.f30e348c.js.map": "/roguelands-compendium/static/js/main.f30e348c.js.map"
+    "main.e9c85deb.css.map": "/roguelands-compendium/static/css/main.e9c85deb.css.map",
+    "main.e0474cd8.js.map": "/roguelands-compendium/static/js/main.e0474cd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.34642ae4.css",
-    "static/js/main.f30e348c.js"
+    "static/css/main.e9c85deb.css",
+    "static/js/main.e0474cd8.js"
   ]
 }
