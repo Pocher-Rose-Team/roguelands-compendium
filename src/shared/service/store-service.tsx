@@ -24,7 +24,9 @@ export class StoreService {
         items.filter(
           (item) =>
             item.craftedWith.length > 0 ||
-            lootTables.flatMap((l) => l.loot.map((item) => item.id)).includes(item.id ?? 0),
+            lootTables.flatMap((l) => l.loot.map((item) => item.id)).includes(item.id ?? 0) ||
+            lootTables.flatMap((l) => l.extraLoot?.map((item) => item.id)).includes(item.id ?? 0)
+          ,
         ),
       ),
     );

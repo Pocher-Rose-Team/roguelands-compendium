@@ -9,7 +9,11 @@
     margin: 0;
 }
 .loot-table-container .image-container {
-    aspect-ratio: 1;
+    width: 71px;
+    height: 71px;
+    max-width: 71px;
+    max-height: 71px;
+    padding: 8px;
     display: flex;
     align-items: center;
     justify-content: center;

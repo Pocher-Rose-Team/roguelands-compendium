@@ -4,7 +4,7 @@ export interface LootItem {
   id: number;
   name: string;
   probability: number;
-  count?: number;
+  count: number;
   item?: Item;
 }
 

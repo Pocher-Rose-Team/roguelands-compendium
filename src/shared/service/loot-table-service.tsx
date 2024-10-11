@@ -48,6 +48,9 @@ export class LootTableService {
         item.foundIn = [];
         loot.item = { ...item };
       }
+      if (!loot.count) {
+        loot.count = 1;
+      }
     });
   }
 }

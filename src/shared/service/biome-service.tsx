@@ -35,6 +35,11 @@ export class BiomeService {
             }
           });
           biome.frequencyMap = frequencyMap;
+
+          biome.objects = Object.entries(biome.objects).reduce((map, [key, value]) => {
+            map.set(key, value);
+            return map;
+          }, new Map());
         }),
       ),
     );
