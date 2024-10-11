@@ -3,18 +3,27 @@ import { useEffect, useState } from "react";
 import { Item } from "../../shared/model/item";
 import CheckoutEntry from "./checkout-entry";
 import StandardButton from "../../shared/components/standard-button/standard-button";
-import { FarmingStrategyService } from "../../shared/service/farming-strategy-service";
+import {
+  BiomePathSetp,
+  FarmingStrategyService,
+  NeededItem,
+} from "../../shared/service/farming-strategy-service";
 import RogueContainer from "../../shared/components/rogue-container/rogue-container";
 import RogueIcon from "../../shared/components/rogue-icon/rogue-icon";
+import FarmingStrategyStep from "./farming-strategy-step";
 
 export default function CheckoutPage() {
   const farmingStrategyService = new FarmingStrategyService();
   const [cart, setCart] = useState<Map<string, { item: Item; amount: number }>>(new Map());
-  const [neededItems, setNeededItems] = useState<{ item: Item; amount: number }[]>([]);
+  const [neededItems, setNeededItems] = useState<NeededItem[]>([]);
+  const [biomePath, setBiomePath] = useState<BiomePathSetp[]>([]);
 
   useEffect(() => {
     const storedCart = JSON.parse(localStorage.getItem("cartItems") || "{}");
     setCart(storedCart);
+    setTimeout(() => {
+      calculateFarmingStrategy();
+    }, 1000);
   }, []);
 
   const handleCheckoutEntryValueChange = (amount: number, item: string) => {
@@ -35,9 +44,15 @@ export default function CheckoutPage() {
   };
 
   const calculateFarmingStrategy = () => {
-    farmingStrategyService
-      .calculateNeededResources(Array.from(cart).map(([key, entry]) => entry))
-      .subscribe((v) => setNeededItems(v));
+    const neededItems = Array.from(cart).map(([key, entry]) => entry);
+
+    farmingStrategyService.calculateNeededResources(neededItems).subscribe((v) => {
+      setNeededItems(v);
+    });
+
+    farmingStrategyService.calculateBiomePath(neededItems).subscribe((v) => {
+      setBiomePath(v);
+    });
   };
 
   return (
@@ -60,13 +75,20 @@ export default function CheckoutPage() {
       <div style={{ height: 150 }}></div>
 
       <h1>List of needed items</h1>
-      {neededItems.map((item) => (
-        <RogueContainer className="checkout-entry">
+      {neededItems.map((item, i) => (
+        <RogueContainer key={"nitm" + i} className="checkout-entry">
           <RogueIcon itemId={item?.item?.id ?? 0} />
           <h2>
             {item?.amount}x {item?.item?.name}
           </h2>
         </RogueContainer>
+      ))}
+
+      <div style={{ height: 50 }}></div>
+
+      <h1>Farming strategy</h1>
+      {biomePath.map((step, i) => (
+        <FarmingStrategyStep key={"stp" + i} step={step} />
       ))}
     </div>
   );
