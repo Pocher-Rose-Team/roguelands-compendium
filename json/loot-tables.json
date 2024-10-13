@@ -1,6 +1,7 @@
 [
   {
-    "name": "Normal Chest",
+    "name": "chest",
+    "representation": "Normal Chest",
     "path": "/img/environment/chest.png",
     "credits": {
       "min": 1,
@@ -65,7 +66,8 @@
     ]
   },
   {
-    "name": "Golden Chest",
+    "name": "chestgolden",
+    "representation": "Golden Chest",
     "path": "/img/environment/chestgolden.png",
     "credits": {
       "min": 1,
@@ -167,7 +169,8 @@
     ]
   },
   {
-    "name": "Ringabolt",
+    "name": "ringabolt",
+    "representation": "Ringabolt",
     "path": "/img/npc/ringabolt.png",
     "description": "Retrieved when talked to:",
     "foundIn": ["DesolateCanyon"],
@@ -183,7 +186,8 @@
     ]
   },
   {
-    "name": "Wallace",
+    "name": "wallace",
+    "representation": "Wallace",
     "path": "/img/npc/wallace.png",
     "description": "Retrieved when talked to:",
     "foundIn": ["Shroomtown"],
@@ -200,7 +204,8 @@
     ]
   },
   {
-    "name": "Perceval",
+    "name": "perceval",
+    "representation": "Perceval",
     "path": "/img/npc/perceval.png",
     "description": "Retrieved when talked to:",
     "foundIn": ["HollowCaverns"],
@@ -217,7 +222,8 @@
     ]
   },
   {
-    "name": "Jonathan",
+    "name": "jonathan",
+    "representation": "Jonathan",
     "path": "/img/npc/jonathan.png",
     "description": "Retrieved when talked to:",
     "foundIn": ["MoltenCrag"],
@@ -226,7 +232,8 @@
     ]
   },
   {
-    "name": "Gromwell",
+    "name": "gromwell",
+    "representation": "Gromwell",
     "path": "/img/npc/gromwell.png",
     "description": "Retrieved when talked to:",
     "foundIn": ["DeepJungle"],
@@ -242,7 +249,8 @@
     ]
   },
   {
-    "name": "Bolgon",
+    "name": "bolgon",
+    "representation": "Bolgon",
     "path": "/img/npc/bolgon.png",
     "credits": {
       "min": 0,
@@ -259,7 +267,8 @@
     ]
   },
   {
-    "name": "Winston",
+    "name": "winston",
+    "representation": "Winston",
     "path": "/img/npc/winston.png",
     "scrapmetal": {
       "min": 0,
@@ -276,7 +285,8 @@
     ]
   },
   {
-    "name": "Broccolius Seizer",
+    "name": "seizer",
+    "representation": "Broccolius Seizer",
     "path": "/img/npc/seizer.png",
     "description": "Retrieved when talked to:",
     "foundIn": ["Byfrost"],

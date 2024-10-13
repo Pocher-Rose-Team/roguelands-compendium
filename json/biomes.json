@@ -4,7 +4,7 @@
     "portalTo": {
       "DesolateCanyon": 0.5,
       "DeepJungle": 0.25,
-      "HollowCavern": 0.25
+      "HollowCaverns": 0.25
     },
     "runs": 1000,
     "objects": {
@@ -457,7 +457,7 @@
     "portalTo": {
       "DeepJungle": 0.5,
       "DesolateCanyon": 0.25,
-      "HollowCavern": 0.25
+      "HollowCaverns": 0.25
     },
     "runs": 1000,
     "objects": {
@@ -822,7 +822,7 @@
     "name": "HollowCaverns",
     "runs": 1000,
     "portalTo": {
-      "HollowCavern": 0.5,
+      "HollowCaverns": 0.5,
       "Shroomtown": 0.25,
       "AncientRuins": 0.25
     },
@@ -1193,7 +1193,7 @@
     "portalTo": {
       "AncientRuins": 0.4,
       "Shroomtown": 0.3,
-      "HollowCavern": 0.2,
+      "HollowCaverns": 0.2,
       "DeepJungle": 0.1
     },
     "objects": {
