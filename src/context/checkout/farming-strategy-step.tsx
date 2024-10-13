@@ -20,22 +20,26 @@ export default function FarmingStrategyStep({ step }: FarmingStrategyStepAttribu
         {step.gatheredItems
           .filter((v) => v.amount > 0)
           .map((v, i) => (
-            <div key={i} style={{ display: "flex", alignItems: "center", gap: 4 }}>
-              <RogueIcon itemId={v.item.id ?? 0} /> {Math.round(v.amount)}x {v.item.name}
+            <div
+              key={`i-${i}${v.item.id}`}
+              style={{ display: "flex", alignItems: "center", gap: 4 }}
+            >
+              <RogueIcon itemId={v.item.id ?? 0} />{" "}
+              {v.amount > 1 ? Math.round(v.amount) : v.amount.toFixed(5)}x {v.item.name}
             </div>
           ))}
       </div>
-      <hr />
-      <h3 style={{ margin: "0 0 8px" }}>Needed</h3>
-      <div>
-        {step.neededItems
-          .filter((v) => v.amount > 0)
-          .map((v, i) => (
-            <div key={i} style={{ display: "flex", alignItems: "center", gap: 4 }}>
-              <RogueIcon itemId={v.item.id ?? 0} /> {Math.round(v.amount)}x {v.item.name}
-            </div>
-          ))}
-      </div>
+      {/*<hr />*/}
+      {/*<h3 style={{ margin: "0 0 8px" }}>Needed</h3>*/}
+      {/*<div>*/}
+      {/*  {step.neededItems*/}
+      {/*    .filter((v) => v.amount > 0)*/}
+      {/*    .map((v, i) => (*/}
+      {/*      <div key={i} style={{ display: "flex", alignItems: "center", gap: 4 }}>*/}
+      {/*        <RogueIcon itemId={v.item.id ?? 0} /> {Math.round(v.amount)}x {v.item.name}*/}
+      {/*      </div>*/}
+      {/*    ))}*/}
+      {/*</div>*/}
     </RogueContainer>
   );
 }

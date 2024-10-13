@@ -67,6 +67,7 @@ export class FarmingStrategyService {
                 biomes,
                 lootTables,
               );
+              // console.log(neededItem.item.name, neededItem.strategy);
             });
             return neededItems;
           }),
@@ -198,12 +199,18 @@ export class FarmingStrategyService {
 
     let nextBiome;
 
-    console.log(biomesWithScores.map((v) => `B: ${v.biome.name} S: ${v.score}`));
-
     if (biomesWithScores.filter((v) => v.score > 0).length > 0) {
       nextBiome = biomesWithScores.sort((a, b) => a.score - b.score).pop();
     } else {
-      nextBiome = undefined;
+      const allBiomesScored = Array.from(biomeMap.values()).map((biome) => ({
+        biome: biome,
+        score: this.getBiomeScoreForNeededItems(newNeededItems, biome),
+      }));
+      if (allBiomesScored.filter((v) => v.score > 0).length > 0) {
+        nextBiome = allBiomesScored.sort((a, b) => a.score - b.score).pop();
+      } else {
+        nextBiome = undefined;
+      }
     }
 
     return {

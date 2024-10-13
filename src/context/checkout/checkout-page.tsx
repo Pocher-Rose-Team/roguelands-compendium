@@ -78,6 +78,15 @@ export default function CheckoutPage() {
           <h2>
             {item?.amount}x {item?.item?.name}
           </h2>
+          <div>
+            {item.strategy &&
+              item.strategy.length > 0 &&
+              item.strategy.slice(0, 1).map((strategy) => (
+                <div>
+                  {strategy.foundIn.name} {"->"} {strategy.obtainedFrom.name}
+                </div>
+              ))}
+          </div>
         </RogueContainer>
       ))}
 
