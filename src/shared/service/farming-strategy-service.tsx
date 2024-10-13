@@ -171,8 +171,12 @@ export class FarmingStrategyService {
     currentBiome: Biome,
     biomeMap: Map<string, Biome>,
   ): BiomePathSetp {
-    neededItems.forEach((neededItem) => {
-      gatheredItems.forEach((gatheredItem) => {
+    const newNeededItems = this.deepCopy(neededItems);
+    const newGatheredItems = this.deepCopy(gatheredItems);
+    newGatheredItems.forEach((v) => (v.amount = 0));
+
+    newNeededItems.forEach((neededItem) => {
+      newGatheredItems.forEach((gatheredItem) => {
         Array.from(neededItem.strategy ?? [])
           .filter((v) => v.foundIn.name === currentBiome.name)
           .forEach((strategy) => {
@@ -189,12 +193,14 @@ export class FarmingStrategyService {
       .map(([biomeKey, _]) => biomeMap.get(biomeKey) as Biome)
       .map((biome) => ({
         biome: biome,
-        score: this.getBiomeScoreForNeededItems(neededItems, biome),
+        score: this.getBiomeScoreForNeededItems(newNeededItems, biome),
       }));
 
     let nextBiome;
 
-    if (biomesWithScores.filter((v) => v.score !== 0).length > 0) {
+    console.log(biomesWithScores.map((v) => `B: ${v.biome.name} S: ${v.score}`));
+
+    if (biomesWithScores.filter((v) => v.score > 0).length > 0) {
       nextBiome = biomesWithScores.sort((a, b) => a.score - b.score).pop();
     } else {
       nextBiome = undefined;
@@ -203,23 +209,23 @@ export class FarmingStrategyService {
     return {
       biome: currentBiome,
       nextBiome: nextBiome?.biome,
-      gatheredItems: this.deepCopy(gatheredItems),
-      neededItems: this.deepCopy(neededItems),
+      gatheredItems: newGatheredItems,
+      neededItems: newNeededItems,
     };
   }
 
   private getBiomeScoreForNeededItems(neededItems: NeededItem[], biome: Biome): number {
     let score = 0;
     neededItems.forEach((neededItem) => {
-      [...(neededItem.strategy ?? []).filter((v) => v.foundIn.name === biome?.name)].forEach(
-        (strategy) => {
+      this.deepCopy(neededItem.strategy ?? [])
+        .filter((v) => v.foundIn.name === biome?.name)
+        .forEach((strategy) => {
           if (strategy.avgItemCount > neededItem.amount) {
-            score += neededItem.amount;
+            score += neededItem.amount > 0 ? neededItem.amount : 0;
           } else {
             score += strategy.avgItemCount;
           }
-        },
-      );
+        });
     });
     return score;
   }

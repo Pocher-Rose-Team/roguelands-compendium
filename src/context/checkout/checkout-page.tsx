@@ -21,9 +21,6 @@ export default function CheckoutPage() {
   useEffect(() => {
     const storedCart = JSON.parse(localStorage.getItem("cartItems") || "{}");
     setCart(storedCart);
-    setTimeout(() => {
-      calculateFarmingStrategy();
-    }, 1000);
   }, []);
 
   const handleCheckoutEntryValueChange = (amount: number, item: string) => {
